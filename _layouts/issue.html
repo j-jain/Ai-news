@@ -1,0 +1,29 @@
+---
+layout: default
+---
+{% assign words = page.content | number_of_words %}
+{% assign mins = words | divided_by: 220 | plus: 1 %}
+{% if page.edition == "india" %}{% assign edition_name = "India + Opportunities" %}{% else %}{% assign edition_name = "World" %}{% endif %}
+<article class="issue">
+  <header class="issue-head">
+    <p class="kicker"><span class="badge badge-{{ page.edition }}">{{ edition_name }}</span> <span class="meta">Week {{ page.week }} · {{ page.date | date: "%-d %b %Y" }} · {{ mins }} min read</span></p>
+    <h1>{{ page.title }}</h1>
+    {% if page.summary %}<p class="summary">{{ page.summary }}</p>{% endif %}
+    <p class="meta small">Covers {{ page.window }} · {{ page.sources_fetched }} pages fetched · {{ page.items_dropped }} items dropped for lack of proof · every link opens the page the sentence came from</p>
+  </header>
+  <div class="issue-body">
+{{ content }}
+  </div>
+  <footer class="issue-foot">
+    {% assign same = site.issues | where: "edition", page.edition | sort: "date" %}
+    {% assign idx = -1 %}
+    {% for it in same %}{% if it.url == page.url %}{% assign idx = forloop.index0 %}{% endif %}{% endfor %}
+    {% assign prev_i = idx | minus: 1 %}
+    {% assign next_i = idx | plus: 1 %}
+    <nav class="pager">
+      {% if idx > 0 %}{% assign prev = same[prev_i] %}<a class="prev" href="{{ prev.url | relative_url }}">← {{ edition_name }}, week {{ prev.week }}</a>{% endif %}
+      {% if next_i < same.size %}{% assign next = same[next_i] %}<a class="next" href="{{ next.url | relative_url }}">{{ edition_name }}, week {{ next.week }} →</a>{% endif %}
+    </nav>
+    <p class="small meta">Verification log for this week: <a href="{{ site.github_repo }}/blob/main/work/{{ page.week }}/verified.json">verified.json</a> · <a href="{{ site.github_repo }}/blob/main/work/{{ page.week }}/factcheck-{{ page.edition }}.json">fact-check verdicts</a> · <a href="{{ site.github_repo }}/blob/main/work/{{ page.week }}/dropped.json">what was dropped and why</a></p>
+  </footer>
+</article>

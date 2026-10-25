@@ -1,0 +1,12 @@
+{% assign dated = site.data.opportunities | where_exp: "o", "o.deadline != 'rolling'" | where_exp: "o", "o.status == 'open'" | sort: "deadline" %}
+<div class="opps-top5">
+<table>
+<thead><tr><th>Deadline</th><th>What</th><th>For</th></tr></thead>
+<tbody>
+{% for o in dated limit: 5 %}
+<tr><td class="nowrap">{{ o.deadline | date: "%-d %b %Y" }}</td><td><a href="{{ o.url }}">{{ o.title }}</a> · {{ o.org }}</td><td>{{ o.audience }}</td></tr>
+{% endfor %}
+</tbody>
+</table>
+<p class="small"><a href="{{ '/opportunities/' | relative_url }}">All open opportunities, with the date each was last checked →</a></p>
+</div>

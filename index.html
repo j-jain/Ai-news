@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<section class="intro">
+  <h1>{{ site.tagline }}</h1>
+  <p class="lede">{{ site.description }} One edition on <strong>India and opportunities</strong>, one on <strong>the world</strong>, every Monday.</p>
+</section>
+{% assign sorted = site.issues | sort: "date" | reverse %}
+{% assign groups = sorted | group_by: "week" %}
+{% if groups.size == 0 %}
+<p class="empty meta">The first issues land soon.</p>
+{% endif %}
+{% for g in groups %}
+{% assign first = g.items | first %}
+<section class="week">
+  <h2 class="week-title">Week {{ g.name }} <span class="meta">· {{ first.date | date: "%-d %b %Y" }}</span></h2>
+  <div class="cards">
+  {% assign cards = g.items | sort: "edition" %}
+  {% for issue in cards %}{% include issue-card.html issue=issue %}{% endfor %}
+  </div>
+</section>
+{% endfor %}

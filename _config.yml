@@ -1,0 +1,51 @@
+# Ai-news — two verified reads a week on AI. Built by GitHub Pages (Jekyll), written by the /ai-news skill.
+title: "Ai-news"
+tagline: "Two verified reads a week on AI"
+description: "Two short, verified reads on AI every week: India + opportunities, and the world. Every claim links to the page that says it."
+url: "https://j-jain.github.io"
+baseurl: "/Ai-news"
+timezone: Asia/Kolkata
+lang: en
+author:
+  name: "Jai (j-jain)"
+github_repo: "https://github.com/j-jain/Ai-news"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+permalink: pretty
+
+collections:
+  issues:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope: { path: "", type: "issues" }
+    values: { layout: "issue" }
+  - scope: { path: "" }
+    values: { layout: "default" }
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+feed:
+  collections:
+    - issues
+
+# Pages auto-enables jekyll-optional-front-matter, so anything not meant to be a page must be excluded.
+exclude:
+  - work
+  - scripts
+  - state
+  - .claude
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules

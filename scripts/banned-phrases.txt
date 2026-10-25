@@ -1,0 +1,56 @@
+# One banned phrase per line (case-insensitive, whole words). Lines starting with # are comments.
+game-changer
+game changer
+game-changing
+revolutionary
+revolutionize
+revolutionise
+groundbreaking
+cutting-edge
+cutting edge
+state-of-the-art
+state of the art
+paradigm shift
+unlock
+unlocks
+unlocking
+supercharge
+supercharged
+seamlessly
+seamless
+leverage
+leverages
+leveraging
+robust
+delve
+delves
+delving
+landscape
+massive
+exciting
+excitingly
+stunning
+the future of
+in a significant development
+in a major development
+it remains to be seen
+only time will tell
+needless to say
+at the end of the day
+reportedly
+sources say
+it is believed
+it is understood
+industry insiders
+game on
+buckle up
+hold onto your hats
+disrupt
+disruptive
+disruption
+ever-evolving
+rapidly evolving
+in today's fast-paced
+dive in
+let's dive
+deep dive

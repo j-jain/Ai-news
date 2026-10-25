@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Bash(python -I \"C:/Users/Jaidityaa Jain/OneDrive/Desktop/Ai-news/scripts/ainews.py\":*)",
+      "Bash(git -C:*)",
+      "Bash(gh api:*)"
+    ]
+  }
+}

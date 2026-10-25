@@ -1,0 +1,10 @@
+# per-run page captures and previews stay local; the JSON logs are committed as the audit trail
+work/*/pages/
+work/*/preview/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

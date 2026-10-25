@@ -1,0 +1,10 @@
+{% assign it = include.issue %}
+{% assign w = it.content | number_of_words %}
+{% assign m = w | divided_by: 220 | plus: 1 %}
+{% if it.edition == "india" %}{% assign en = "India + Opportunities" %}{% else %}{% assign en = "World" %}{% endif %}
+<a class="card card-{{ it.edition }}" href="{{ it.url | relative_url }}">
+  <span class="badge badge-{{ it.edition }}">{{ en }}</span>
+  <h3>{{ it.title }}</h3>
+  <p>{{ it.summary }}</p>
+  <span class="meta small">{{ m }} min read · {{ it.sources_fetched }} pages fetched</span>
+</a>
