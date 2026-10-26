@@ -2,7 +2,7 @@
 
 **What this beat covers.** Open-weight and local AI: new open models (Qwen, Llama, Gemma, Mistral/Devstral, DeepSeek, Kimi, GLM, Phi, SmolLM, Sarvam, Nemotron, OLMo, speech and vision models), their licences, sizes and what the card says they need; the local-inference stack (llama.cpp, Ollama, LM Studio, vLLM, MLX, Unsloth) releases and features; quantisation results; benchmarks with method; what runs on an 8 / 16 / 24 / 32 GB laptop according to the model card or the runtime's docs; notable fine-tunes and datasets.
 
-**What counts.** A model card, a GitHub release, a Hugging Face blog post, a runtime's changelog or docs, a benchmark page with its method. Reddit threads are unfetchable from here; do not cite them.
+**What counts.** A model card, a GitHub release, a Hugging Face blog post, a runtime's changelog or docs, a benchmark page with its method. Reddit pages load but carry a JavaScript shell, not the thread; do not cite them.
 
 **What does not count.** Leaderboard screenshots on X, "runs great on my M2" anecdotes without a page, models without a licence.
 
@@ -11,10 +11,10 @@
 - https://huggingface.co/blog (ok 25 Oct 2026)
 - https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=20 (ok; JSON of trending models - then fetch each model's card page https://huggingface.co/<org>/<model> and cite the card)
 - https://huggingface.co/papers (ok)
-- https://ollama.com/search?o=newest (verify) - newest library models; cite the model's own page
-- https://github.com/ggml-org/llama.cpp/releases (verify)
-- https://lmstudio.ai/blog (verify)
-- https://unsloth.ai/blog (verify)
+- https://ollama.com/search?o=newest (ok 25 Oct 2026) - newest library models; cite the model's own page
+- https://github.com/ggml-org/llama.cpp/releases (ok 25 Oct 2026)
+- https://lmstudio.ai/blog (ok 25 Oct 2026)
+- https://unsloth.ai/blog (unreachable from here on 25 Oct 2026; retry)
 - https://simonwillison.net/ (ok) - careful, dated write-ups of what new models actually do locally
 - https://www.sarvam.ai/blogs (ok) - Indian open models go here too, as `edition: both`
 

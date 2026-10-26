@@ -9,13 +9,13 @@
 ## Seeds
 
 - https://github.com/karpathy (ok 25 Oct 2026) - new repos and commits; fetch the repo README you cite
-- https://karpathy.bearblog.dev/ (verify) - his blog
+- https://karpathy.bearblog.dev/ (ok 25 Oct 2026) - his blog
 - https://www.ycombinator.com/rfs (ok) - Requests for Startups; cite the specific request
-- https://www.ycombinator.com/blog (verify) and https://www.ycombinator.com/launches (verify)
-- https://a16z.com/news-content/ (verify) - essays, "big ideas", AI investments
-- https://www.sequoiacap.com/our-perspectives/ or https://www.sequoiacap.com/stories/ (verify which exists)
-- https://news.crunchbase.com/ (verify) - weekly funding roundups with amounts
-- https://techcrunch.com/category/venture/ (verify) and https://www.cnbc.com/technology/ (verify)
+- https://www.ycombinator.com/blog (ok 25 Oct 2026) and https://www.ycombinator.com/launches (ok 25 Oct 2026)
+- https://a16z.com/news-content/ (unreachable from here on 25 Oct 2026; search 'a16z' and fetch the essay page) - essays, "big ideas", AI investments
+- https://www.sequoiacap.com/stories/ (ok 25 Oct 2026; /our-perspectives/ is gone)
+- https://news.crunchbase.com/ (unreachable from here on 25 Oct 2026; retry, else TechCrunch venture) - weekly funding roundups with amounts
+- https://techcrunch.com/category/venture/ (ok 25 Oct 2026) and https://www.cnbc.com/technology/ (ok 25 Oct 2026)
 
 ## Search queries
 

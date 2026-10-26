@@ -1,1 +1,28 @@
-{}
+{
+  "week": "2026-W43",
+  "run_date": "2026-10-26",
+  "window_start": "2026-10-19",
+  "window_end": "2026-10-25",
+  "editions": [
+    "india",
+    "world"
+  ],
+  "counts": {
+    "candidates": 58,
+    "verified": 52,
+    "dropped": 4,
+    "pages_fetched": 154,
+    "india": 26,
+    "world": 26,
+    "tier_b": 0,
+    "followups": 0
+  },
+  "published_files": [
+    "_issues/2026-W43-india.md",
+    "_issues/2026-W43-world.md"
+  ],
+  "urls": [
+    "https://j-jain.github.io/Ai-news/issues/2026-W43-india/",
+    "https://j-jain.github.io/Ai-news/issues/2026-W43-world/"
+  ]
+}

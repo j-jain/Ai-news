@@ -6,7 +6,7 @@ Three threads in one researcher; aim for 3-5 items from each.
 
 Papers and results a CS undergraduate could read or reproduce: reasoning, agents, retrieval, efficient training and inference, vision, speech, Indic languages, evaluation, interpretability, safety. Prefer papers with code, and results with the actual finding in the abstract or the blog post.
 
-Seeds: https://huggingface.co/papers (ok 25 Oct 2026; daily top papers), https://arxiv.org/list/cs.LG/new and https://arxiv.org/list/cs.CL/new (verify; cite the paper's abs page, whose `citation_date` the fetcher reads), https://www.interconnects.ai/ (verify), https://importai.substack.com/ (verify), https://epoch.ai/ (verify; compute and trends data), https://metr.org/ (verify; capability evaluations).
+Seeds: https://huggingface.co/papers (ok 25 Oct 2026; daily top papers), https://arxiv.org/list/cs.LG/new and https://arxiv.org/list/cs.CL/new (verify; cite the paper's abs page, whose `citation_date` the fetcher reads), https://www.interconnects.ai/ (ok 25 Oct 2026), https://importai.substack.com/ (ok 25 Oct 2026), https://epoch.ai/ (verify; compute and trends data), https://metr.org/ (verify; capability evaluations).
 
 Queries: LLM reasoning paper <month year>; new paper agents benchmark <month year>; interpretability paper <month year>; Indic language model paper <month year>; efficient inference paper <month year>.
 
@@ -14,7 +14,7 @@ Queries: LLM reasoning paper <month year>; new paper agents benchmark <month yea
 
 EU AI Act milestones and guidance, the UK AI Security Institute, US federal and state actions, China's rules and national programmes, India's rules (MeitY advisories, DPDP, the IndiaAI Safety Institute - cross-post to the India beat when it is India), national AI programmes with money attached (UAE, Saudi, Japan, Korea, France, the EU gigafactories), lab safety reports and system-card findings, incidents with a primary record (court filings, regulator notices, the lab's own post-mortem).
 
-Seeds: https://www.aisi.gov.uk/ (verify), https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai (verify), https://www.nist.gov/artificial-intelligence (verify), https://www.meity.gov.in/ (ok), lab safety pages via their newsrooms (Anthropic, OpenAI, Google DeepMind), https://www.theverge.com/ai-artificial-intelligence (verify) for coverage.
+Seeds: https://www.aisi.gov.uk/ (ok 25 Oct 2026), https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai (ok 25 Oct 2026), https://www.nist.gov/artificial-intelligence (ok 25 Oct 2026), https://www.meity.gov.in/ (ok), lab safety pages via their newsrooms (Anthropic, OpenAI, Google DeepMind), https://www.theverge.com/ai-artificial-intelligence (unreachable from here on 25 Oct 2026; retry, else use TechCrunch) for coverage.
 
 Queries: EU AI Act <month year>; AI safety report <month year>; AI regulation <country> <month year>; "AI Security Institute" <month year>; national AI strategy announced <month year>.
 
@@ -22,7 +22,7 @@ Queries: EU AI Act <month year>; AI safety report <month year>; AI regulation <c
 
 Changelog entries and documented features of the tools Jai uses or could use (Claude, Claude Code, ChatGPT, Gemini, Cursor, Copilot, NotebookLM, Ollama, LM Studio), workflows someone showed with a repo or a post that includes the steps, free tiers and education offers, MCP servers and skills worth installing, datasets or APIs that opened up. Each item must have a page that states the feature exists and, ideally, how to use it.
 
-Seeds: https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md (verify) and https://code.claude.com/docs/en/changelog (verify), https://help.openai.com/en/articles/6825453-chatgpt-release-notes (verify), https://gemini.google/release-notes/ (verify), https://cursor.com/changelog (verify), https://simonwillison.net/ (ok; hands-on and dated), https://news.ycombinator.com/ (ok; find the primary page behind a thread, cite the page not the thread).
+Seeds: https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md (ok 25 Oct 2026) and https://code.claude.com/docs/en/changelog (ok 25 Oct 2026), https://help.openai.com/en/articles/6825453-chatgpt-release-notes (ok 25 Oct 2026), https://gemini.google/release-notes/ (ok 25 Oct 2026), https://cursor.com/changelog (ok 25 Oct 2026), https://simonwillison.net/ (ok; hands-on and dated), https://news.ycombinator.com/ (ok; find the primary page behind a thread, cite the page not the thread).
 
 Queries: Claude Code new feature <month year>; ChatGPT new feature <month year>; Gemini update <month year>; Cursor changelog <month year>; "MCP server" new <month year>; AI workflow tutorial <month year> github.
 

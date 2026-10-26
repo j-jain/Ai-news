@@ -1,0 +1,179 @@
+{
+ "verdicts": [
+  {
+   "n": 1,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 2,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 3,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 4,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 5,
+   "verdict": "pass",
+   "reason": "AIM: Chariot's own tests on 79 public test sets (~153,000 recordings); 26% vs Gemini 3.5 Transcribe and 9% vs Saaras v4 (whole-recording), 17% vs Saaras v4 and 57% vs ElevenLabs Scribe v2 Realtime (streaming), where Chariot was not told the language and rivals got their best language settings."
+  },
+  {
+   "n": 6,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 7,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 8,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 9,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 10,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 11,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 12,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 13,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 14,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 15,
+   "verdict": "pass",
+   "reason": "Inc42 table: Different, AI, 22 Oct, $48 Mn Seed, General Catalyst (lead) with Lightspeed Venture Partners; text says 'Ajeet Sing-led', 'emerged from stealth', 'biggest cheque for an AI startup this week'; largest of the six AI rows, and Blacksmith is not in the table."
+  },
+  {
+   "n": 16,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 17,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 18,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 19,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 20,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 21,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 22,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 23,
+   "verdict": "pass",
+   "reason": "Scuttlebutt: 'WTF is with Nikhil Kamath · Oct 23, 2026' with Kamath hosting; about $700 billion committed to AI this year vs roughly $100 billion AI enterprise revenue 'by the count of Vijay Krishnan, founder and CTO of Turing'."
+  },
+  {
+   "n": 24,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 25,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 26,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 27,
+   "verdict": "pass",
+   "reason": "AIM: Razorpay partnered with ElevenLabs, Gnani.ai and Sarvam AI; CPO Khilan Haria is quoted saying Razorpay deployed voice AI at scale in use cases incl. marketing, sales and risk, and adds that 20–30% of all searches in India is voice."
+  },
+  {
+   "n": 28,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 29,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 30,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 31,
+   "verdict": "pass",
+   "reason": "ETH page: 1 Nov-16 Dec 2026 at 13:00 CET, programme 2 Jul-27 Aug 2027, CHF 4,000 plus travel and visa costs, CS/related bachelor or master, two years done, graduation in the year after the fellowship (2028) or later; Purdue page: paid, 10-week, international institutions, international deadline 15 Dec 2026."
+  },
+  {
+   "n": 32,
+   "verdict": "pass",
+   "reason": "Together: Bachelor's/Master's/PhD; Scale ML: Fall 2027/Spring 2028 grad plus prior research or publications; xAI: Palo Alto, bachelor's or graduate enrolment, 3+ months, Junior/Senior $34/hr; no visa text on these three; Doha page: Scale will support the visa process; no deadline on any of the four."
+  },
+  {
+   "n": 33,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 34,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  },
+  {
+   "n": 35,
+   "verdict": "pass",
+   "reason": "unchanged since round 1"
+  }
+ ]
+}

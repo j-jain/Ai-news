@@ -1,0 +1,184 @@
+{
+  "week": "2026-W43",
+  "edition": "world",
+  "checked": 29,
+  "dead": 0,
+  "warn": 0,
+  "removed_sentences": 0,
+  "results": [
+    {
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11870",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://unsloth.ai/docs/models/deepseek-v4.1-flash",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://huggingface.co/ibm-granite/granite-speech-5.0-2b",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://unsloth.ai/docs/models/nemotron-3.5-bolt",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.notebookcheck.net/SSD-prices-explode-by-303-in-a-year-as-AI-fuels-NAND-flash-shortage.1433261.0.html",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.30882",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.30678",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.30860",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://code.claude.com/docs/en/changelog",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W43/verified.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W43/factcheck-world.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W43/dropped.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    }
+  ]
+}

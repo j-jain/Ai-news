@@ -1,0 +1,30 @@
+[
+  {
+    "id": "e9fc4036438c",
+    "beat": "frontier-labs",
+    "headline": "Meta says its Muse AI app has passed 10 million users",
+    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "reason": "below the cut (edition cap reached)"
+  },
+  {
+    "id": "ac32701bc048",
+    "beat": "hardware-prices",
+    "headline": "RTX 5090 nearly gone from US retail, custom cards from $8,500",
+    "url": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block",
+    "reason": "below the cut (edition cap reached)"
+  },
+  {
+    "id": "8a61882c5d2f",
+    "beat": "people-money",
+    "headline": "AI assistant startup Town raises $108M Series B at unicorn valuation",
+    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "reason": "below the cut (edition cap reached)"
+  },
+  {
+    "id": "547d2c3d9979",
+    "beat": "research-policy-trythis",
+    "headline": "US Treasury proposes wider limits on investing in Chinese AI firms",
+    "url": "https://tribuneindia.com/news/biotech-restrictions/us-treasury-proposes-expanding-investment-curbs-on-chinese-ai-biotech-firms",
+    "reason": "below the cut (edition cap reached)"
+  }
+]

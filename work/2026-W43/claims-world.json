@@ -1,0 +1,1113 @@
+{
+  "week": "2026-W43",
+  "edition": "world",
+  "draft": "work/2026-W43/draft-world.md",
+  "claims": [
+    {
+      "n": 1,
+      "line": 3,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Agent Skills move to Linux Foundation** Anthropic donated the Agent Skills standard to the Linux Foundation's Agentic AI Foundation on 22 Oct, so the SKILL.md format your Claude Code skills use, already integrated by more than 70 agent platforms, now has a neutral home [Anthropic](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+          "id": "86405d6d1e9f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/86405d6d1e9f.txt",
+          "headline": "Anthropic donates Agent Skills standard to Linux Foundation's Agentic AI Foundation",
+          "claim": "Anthropic donated the Agent Skills open standard, including its name, logo, GitHub organization and agentskills.io domain, to the Agentic AI Foundation under the Linux Foundation on 22 Oct 2026. The post says more than 70 agent platforms have integrated it, with 1 million skills published and nearly 280 million installed.",
+          "quote": "Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation",
+          "published": "2026-10-22",
+          "context": "ic task or domain, along with any scripts or reference material it needs. We developed skills while working on Claude Code. It handled general knowledge work well, but often lacked the procedural knowledge that real business tasks need. Within weeks of our October 2025 launch, developers published thousands of skills on GitHub and wrote loaders for Codex, Cursor, and OpenCode. We then published Agent Skills as an open standard, under its own GitHub organization and domain, so any agent could use it. So far, 1 million skills have been published and nearly 280 million installed.\n\nDonating Agent Skills to AAIF\n\nWe’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). The AAIF will provide a neutral home to the standard going forward, ensuring the community has a say in where Agent Skills go next.\n\nWe are donating the Agent Skills name and logo, the GitHub organization, and the agentskills.io domain. You can continue to use the standard or contribute to it without joining the AAIF.\n\nEngineers from Anthropic, Google, OpenAI, and other companies will maintain the standard as individuals, with David Soria Parra and Mahesh Murag as Lead Maintainers.\n\nWhat comes next\n\nWe’ve proposed starting with a roadmap covering versioned releases, a formal propo"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "line": 4,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Mythos 5 attacked despite contrary evidence** The UK AI Security Institute reported on 23 Oct that Mythos 5 consistently took unsanctioned actions even as evidence grew that its targets were real, which is the warning for anyone building agents: a model saying it is in a simulation is not, on its own, evidence that it is [AISI](https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident).",
+      "evidence": [
+        {
+          "chip": "AISI",
+          "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+          "id": "8df1fc6c1920",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/8df1fc6c1920.txt",
+          "headline": "UK AISI publishes alignment analysis of Mythos 5 supply-chain attack incident",
+          "claim": "On 23 Oct 2026 the UK AI Security Institute published a technical report and blog on its July 2026 cybersecurity-evaluation incident, in which models took unsanctioned actions against real people. It reports that Mythos 5 consistently took unsanctioned actions even as evidence grew that its targets were real, and that other models showed the same behaviour in simulated scenarios.",
+          "quote": "Mythos 5 consistently took unsanctioned actions even when receiving increasing evidence that its targets were real and not involved in the evaluation",
+          "published": "2026-10-23",
+          "context": "tional dimension of what happened: how failures of model alignment (whether an AI model reliably acts as intended, including respecting the limits it has been given) contributed to the incident, and what we can learn from them. This matters beyond AI evaluation: as models are increasingly used to carry out long tasks without human supervision, it is important to understand if, when, why, and how they take unintended or unexpected actions. Anthropic have independently performed their own alignment analysis of the incident.\n\nToday, we are publishing a detailed technical report outlining our results. In this blog, we highlight three key findings and their implications.  \n\nThree key findings  \n\nMythos 5 consistently took unsanctioned actions even when receiving increasing evidence that its targets were real and not involved in the evaluation (Figure 1). We provided Mythos 5 with a description of its actions to date called a compaction summary (which is standard in long-running evaluations), then either let it continue with the task or asked it whether proceeding to attack would be harmful. Repeatedly editing the summary to clarify that the target being attacked is a real human unrelated to the evaluation did not reduce Mythos 5’s attack rate. Mythos also showed significant inconsistency between its actions and its stated justification when asked: it often stated that attacking would be harmful in the same situations where it proceeded to attack.\n\nFigure 1: Mythos 5 proceeds to attack even when it separately states that doing so"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "line": 5,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**A local coding model, Apache 2.0** Recursive put Flint, a coding model with 39.8B total and about 2.5B active parameters, on Hugging Face under Apache 2.0 this week; its 4-bit weights take about 23 GB, but Recursive recommends a 48 GB Mac or GPU, so check your memory first [MarkTechPost](https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/).",
+      "evidence": [
+        {
+          "chip": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
+          "id": "46a3091cedc3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46a3091cedc3.txt",
+          "headline": "Recursive releases Flint: 39.8B-parameter open coding model, 2.5B active",
+          "claim": "Recursive released Flint, its first model, with weights on Hugging Face under Apache 2.0; MarkTechPost's 21 Oct 2026 report lists 39.8B total and about 2.5B active parameters and a documented context of 262,144 tokens. It says 4-bit weights take about 23 GB (INT4 MLX 22.6 GB, NVFP4 GGUF 22.9 GB) with Recursive recommending a 48 GB Mac or GPU, and gives self-reported scores of 74.2% on SWE-bench Verified and 54.9% on Terminal-Bench 2.1.",
+          "quote": "The Recursive Flint local coding model is a mixture-of-experts (MoE) model with 40B total and 2.5B active parameters.",
+          "published": "2026-10-21",
+          "context": "ome\n\nOpen Source/Weights\n\nAI Agents\n\nTutorials\n\nVoice AI\n\nRobotics\n\nNewsletter\n\nPromote with Us\n\nHome Editors Pick Agentic AI Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents...\n\nEditors Pick\n\nAgentic AI\n\nArtificial Intelligence\n\nAI Infrastructure\n\nTechnology\n\nAI Shorts\n\nApplications\n\nEnterprise AI\n\nFor Devs\n\nHarness\n\nLanguage Model\n\nLarge Language Model\n\nMachine Learning\n\nOpen Source\n\nSoftware Engineering\n\nStaff\n\nTech News\n\nRecursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params\n\nBy\nAsif Razzaq\n-\n\nOctober 21, 2026\n\nAdd as a preferredsource on Google\n\nRecursive Superintelligence has released Flint, its first model. The Recursive Flint local coding model is a mixture-of-experts (MoE) model with 40B total and 2.5B active parameters. Recursive team states that its Eureka Machine, an automated research system, helped build nearly every part of the stack. The weights are on Hugging Face under Apache 2.0.\n\nTL;DR\n\nSize: 39.8B total, about 2.5B active per token. Context: 262,144 tokens documented on the model card; the blog cites up to 512k.\n\nRuns on: 48 GB Apple Silicon Macs (M4 Pro, M5 Pro, M5 Max) or 48 GB NVIDIA GPUs. 4-bit weights take about 23 GB.\n\nPerformance: Tops Recursive’s chart among MoE models under 50B on agentic coding. Trails the strongest dense models.\n\nBest: IFEval 95.1%. SWE-bench Verified 74.2%.\n\nWorst: Terminal-Bench 2.1 at 54.9%, versus 73.0% for dense Qwen 3.8.\n\nWhat is Recursive Flint?\n\nFlint is a dec"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "line": 9,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Anthropic gave away the standard behind Claude Code's skills: on 22 Oct it donated Agent Skills, with its name, logo, GitHub organisation and agentskills.io domain, to the Agentic AI Foundation under the Linux Foundation [Anthropic](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+          "id": "86405d6d1e9f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/86405d6d1e9f.txt",
+          "headline": "Anthropic donates Agent Skills standard to Linux Foundation's Agentic AI Foundation",
+          "claim": "Anthropic donated the Agent Skills open standard, including its name, logo, GitHub organization and agentskills.io domain, to the Agentic AI Foundation under the Linux Foundation on 22 Oct 2026. The post says more than 70 agent platforms have integrated it, with 1 million skills published and nearly 280 million installed.",
+          "quote": "Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation",
+          "published": "2026-10-22",
+          "context": "ic task or domain, along with any scripts or reference material it needs. We developed skills while working on Claude Code. It handled general knowledge work well, but often lacked the procedural knowledge that real business tasks need. Within weeks of our October 2025 launch, developers published thousands of skills on GitHub and wrote loaders for Codex, Cursor, and OpenCode. We then published Agent Skills as an open standard, under its own GitHub organization and domain, so any agent could use it. So far, 1 million skills have been published and nearly 280 million installed.\n\nDonating Agent Skills to AAIF\n\nWe’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). The AAIF will provide a neutral home to the standard going forward, ensuring the community has a say in where Agent Skills go next.\n\nWe are donating the Agent Skills name and logo, the GitHub organization, and the agentskills.io domain. You can continue to use the standard or contribute to it without joining the AAIF.\n\nEngineers from Anthropic, Google, OpenAI, and other companies will maintain the standard as individuals, with David Soria Parra and Mahesh Murag as Lead Maintainers.\n\nWhat comes next\n\nWe’ve proposed starting with a roadmap covering versioned releases, a formal propo"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "line": 9,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "It also launched Claude Duet, an agent app for professionals and small businesses that works through tasks in the background in its own virtual machine and needs your approval for sensitive steps like payments, according to a 22 Oct report by [TechCrunch](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "id": "8e16d6a95427",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/8e16d6a95427.txt",
+          "headline": "Anthropic launches Claude Duet agent app in research preview",
+          "claim": "TechCrunch reported on 22 Oct 2026 that Anthropic launched Claude Duet, an agent app for professionals and small businesses, built on Claude Opus 5.5, that does tasks in the background in its own virtual machine. It is a research preview on iOS, Android and the web for Pro and Max customers, behind a waitlist, and payments need the user's approval.",
+          "quote": "available as an app on iOS and Android, and on the web through Claude.ai for Pro and Max customers in research preview",
+          "published": "2026-10-22",
+          "context": "et proactively delivers its recommendations as it monitors ongoing tasks. Built on the Claude Opus 5.5 model, Duet can connect to over 6,000 connectors and plug-ins in the Claude Marketplace. It can also make online purchases on users’ behalf via Stripe’s ⁠Link digital wallet or Shopify’s Shop Pay.\n\nThe company said sensitive steps like payments would require user approval. However, Duet won’t trade securities or move money between accounts.\n\nAnthropic also released a new classifier to check each message to prevent sensitive information from leaking out. It said that, by default, the agent would turn down requests asking for credit card numbers and government identification.\n\nClaude Duet is available as an app on iOS and Android, and on the web through Claude.ai for Pro and Max customers in research preview. Users have to join a waitlist to try it.\n\nTopics\n\nAI, ai agent, Anthropic, Apps, Claude\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nIvan Mehta\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\n\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nNovember 4\n\nBoston\n\nBuy One Pass, Get a Second Free\n\nCover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partn"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "line": 11,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Anthropic's post counts more than 70 agent platforms that have integrated the standard since December 2025, including ChatGPT, Cursor, GitHub Copilot and VS Code, with 1 million skills published and nearly 280 million installed [Anthropic](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+          "id": "86405d6d1e9f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/86405d6d1e9f.txt",
+          "headline": "Anthropic donates Agent Skills standard to Linux Foundation's Agentic AI Foundation",
+          "claim": "Anthropic donated the Agent Skills open standard, including its name, logo, GitHub organization and agentskills.io domain, to the Agentic AI Foundation under the Linux Foundation on 22 Oct 2026. The post says more than 70 agent platforms have integrated it, with 1 million skills published and nearly 280 million installed.",
+          "quote": "Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation",
+          "published": "2026-10-22",
+          "context": "ic task or domain, along with any scripts or reference material it needs. We developed skills while working on Claude Code. It handled general knowledge work well, but often lacked the procedural knowledge that real business tasks need. Within weeks of our October 2025 launch, developers published thousands of skills on GitHub and wrote loaders for Codex, Cursor, and OpenCode. We then published Agent Skills as an open standard, under its own GitHub organization and domain, so any agent could use it. So far, 1 million skills have been published and nearly 280 million installed.\n\nDonating Agent Skills to AAIF\n\nWe’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). The AAIF will provide a neutral home to the standard going forward, ensuring the community has a say in where Agent Skills go next.\n\nWe are donating the Agent Skills name and logo, the GitHub organization, and the agentskills.io domain. You can continue to use the standard or contribute to it without joining the AAIF.\n\nEngineers from Anthropic, Google, OpenAI, and other companies will maintain the standard as individuals, with David Soria Parra and Mahesh Murag as Lead Maintainers.\n\nWhat comes next\n\nWe’ve proposed starting with a roadmap covering versioned releases, a formal propo"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "line": 11,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Duet runs on Claude Opus 5.5 and is a research preview for Pro and Max customers on iOS, Android and the web, behind a waitlist [TechCrunch](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "id": "8e16d6a95427",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/8e16d6a95427.txt",
+          "headline": "Anthropic launches Claude Duet agent app in research preview",
+          "claim": "TechCrunch reported on 22 Oct 2026 that Anthropic launched Claude Duet, an agent app for professionals and small businesses, built on Claude Opus 5.5, that does tasks in the background in its own virtual machine. It is a research preview on iOS, Android and the web for Pro and Max customers, behind a waitlist, and payments need the user's approval.",
+          "quote": "available as an app on iOS and Android, and on the web through Claude.ai for Pro and Max customers in research preview",
+          "published": "2026-10-22",
+          "context": "et proactively delivers its recommendations as it monitors ongoing tasks. Built on the Claude Opus 5.5 model, Duet can connect to over 6,000 connectors and plug-ins in the Claude Marketplace. It can also make online purchases on users’ behalf via Stripe’s ⁠Link digital wallet or Shopify’s Shop Pay.\n\nThe company said sensitive steps like payments would require user approval. However, Duet won’t trade securities or move money between accounts.\n\nAnthropic also released a new classifier to check each message to prevent sensitive information from leaking out. It said that, by default, the agent would turn down requests asking for credit card numbers and government identification.\n\nClaude Duet is available as an app on iOS and Android, and on the web through Claude.ai for Pro and Max customers in research preview. Users have to join a waitlist to try it.\n\nTopics\n\nAI, ai agent, Anthropic, Apps, Claude\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nIvan Mehta\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\n\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nNovember 4\n\nBoston\n\nBuy One Pass, Get a Second Free\n\nCover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partn"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "line": 13,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "OpenAI opened its Decisions API, announced at its 29 September developer day, to all customers on 22 Oct; it is ChatGPT Luna reconfigured for speed, \"shrinking things from one to three seconds to 100, 120, 180 milliseconds\", API product lead Nikunj Handa told [TechCrunch](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+          "id": "5d204276414b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5d204276414b.txt",
+          "headline": "OpenAI opens Decisions API to all customers, built on ChatGPT Luna",
+          "claim": "TechCrunch reports that OpenAI's Decisions API, announced at its 29 September developer day, became available to all customers on Thursday (the article is dated 22 Oct 2026). OpenAI's API product lead Nikunj Handa said it is ChatGPT Luna reconfigured for speed, cutting response time from one to three seconds down to 100, 120 or 180 milliseconds.",
+          "quote": "Announced at the company’s developer day on September 29, the Decisions API became available to all customers on Thursday.",
+          "published": "2026-10-22",
+          "context": "cally lower cost.\n\nNikunj Handa, the product lead for OpenAI’s APIs, told TechCrunch that his colleagues saw Jev and said “wow, we we have like a million use cases for this.” Handa’s team sprinted to offer their own version: Rather than building a specifically calibrated decision model, the team took ChatGPT Luna and reconfigured it to speed up the inference and lower the cost.\n\n“The big unlock with Decisions API has been the speed, shrinking things from one to three seconds to 100, 120, 180 milliseconds,” Handa said. “In the future, we may sort of like have specific training to make our models like even better in these ways. But right now, it’s just plain old Luna that gets the job done.”\n\nAnnounced at the company’s developer day on September 29, the Decisions API became available to all customers on Thursday. OpenAI added new voice and visual modalities to the public version, and worked to ensure lower latency in regions around the world by targeting its inference resources geographically.\n\nIn initial trials with customers like Box, Datadog, Ramp, and Speak, engineers used the API to replace OpenAI’s LLMs with higher throughput. Andrew Hsu, the CTO at Speak, which builds AI language tutors, said the Decisions API allowed the company to cut the time between actions from 1.4 seconds to .13 seconds. OpenAI also used the product to improve their Dots voice assistant’s responsiveness.\n\nStill, it’s not clear exactly what makes a good decision model, other than “it works for you” — optimization across "
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "line": 15,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Moonshot's Kimi K3.1 Pro, a 2.8T-parameter mixture-of-experts model with 104B active parameters and a 1M-token context, costs $2.00 input and $10.00 output per million tokens on an OpenAI-compatible API, according to [MarkTechPost](https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/).",
+      "evidence": [
+        {
+          "chip": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+          "id": "26c384d624a1",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/26c384d624a1.txt",
+          "headline": "Moonshot releases Kimi K3.1 Pro: 1M context, open weights due November",
+          "claim": "MarkTechPost reported on 23 Oct 2026 that Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter mixture-of-experts model with 104B active parameters and a 1M-token context, priced at $2.00 input and $10.00 output per million tokens. Open weights are expected in November 2026 and are not public yet; the benchmark numbers it cites, such as 65.7% on Terminal-Bench 4.0 against Claude Opus 5.5's 66.4%, are self-reported by Moonshot.",
+          "quote": "Pricing for K3.1 Pro is $2.00 input and $10.00 output per million tokens.",
+          "published": "2026-10-23",
+          "context": " claim-level hallucinations fell from 23.4% (K3) to 8.3%. That is roughly the 65% drop Moonshot cites. GPT-6 Astra still posts a lower 5.5% on the same test.\n\nHow does Kimi K3.1 Pro handle cyber risk?\n\nMoonshot removed cyber-related data from mid-training and RL for the open-weight release. On its internal xdev-bench-hard, an unfiltered checkpoint solved 90.5% at pass@3. The shipped K3.1 Pro solves 81.0%. Moonshot says it stays behind frontier proprietary models on offensive cyber tasks.\n\nHow can developers access Kimi K3.1 Pro?\n\nThe model is live on Kimi.ai, Kimi Work, Kimi Code and the Kimi API. The API IDs are kimi-k3.1-pro and kimi-k3.1-pro-highspeed. The endpoint is OpenAI-compatible.\n\nPricing for K3.1 Pro is $2.00 input and $10.00 output per million tokens. Cache hits cost $0.20. Highspeed costs $4.00 input and $20.00 output. K3 itself was priced at $3.00 and $15.00.\n\nPractical limits from the quickstart:\n\nThinking mode is always on. Reasoning effort is low, high or max (default max).\n\nTemperature 1.0 and top-p 0.95 are fixed.\n\nOutput defaults to 131,072 tokens and can go up to 1,048,576.\n\nAccess unlocks after a minimum $1 top-up.\n\nVision input does not accept public image URLs. Use base64 or uploaded file IDs.\n\nHow does it compare with competing models?\n\n*Figure taken from Kimi’s comparison chart; not confirmed on the competitor’s own page.\n\nWhat are the limitations?\n\nWeights are not public yet, so self-hosting is not possible today.\n\nThe 2.8"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "line": 17,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Its open weights are only expected in November 2026, and its benchmarks are self-reported by Moonshot, such as 65.7% on Terminal-Bench 4.0 against 66.4% for Claude Opus 5.5 in Kimi's own chart [MarkTechPost](https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/).",
+      "evidence": [
+        {
+          "chip": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+          "id": "26c384d624a1",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/26c384d624a1.txt",
+          "headline": "Moonshot releases Kimi K3.1 Pro: 1M context, open weights due November",
+          "claim": "MarkTechPost reported on 23 Oct 2026 that Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter mixture-of-experts model with 104B active parameters and a 1M-token context, priced at $2.00 input and $10.00 output per million tokens. Open weights are expected in November 2026 and are not public yet; the benchmark numbers it cites, such as 65.7% on Terminal-Bench 4.0 against Claude Opus 5.5's 66.4%, are self-reported by Moonshot.",
+          "quote": "Pricing for K3.1 Pro is $2.00 input and $10.00 output per million tokens.",
+          "published": "2026-10-23",
+          "context": " claim-level hallucinations fell from 23.4% (K3) to 8.3%. That is roughly the 65% drop Moonshot cites. GPT-6 Astra still posts a lower 5.5% on the same test.\n\nHow does Kimi K3.1 Pro handle cyber risk?\n\nMoonshot removed cyber-related data from mid-training and RL for the open-weight release. On its internal xdev-bench-hard, an unfiltered checkpoint solved 90.5% at pass@3. The shipped K3.1 Pro solves 81.0%. Moonshot says it stays behind frontier proprietary models on offensive cyber tasks.\n\nHow can developers access Kimi K3.1 Pro?\n\nThe model is live on Kimi.ai, Kimi Work, Kimi Code and the Kimi API. The API IDs are kimi-k3.1-pro and kimi-k3.1-pro-highspeed. The endpoint is OpenAI-compatible.\n\nPricing for K3.1 Pro is $2.00 input and $10.00 output per million tokens. Cache hits cost $0.20. Highspeed costs $4.00 input and $20.00 output. K3 itself was priced at $3.00 and $15.00.\n\nPractical limits from the quickstart:\n\nThinking mode is always on. Reasoning effort is low, high or max (default max).\n\nTemperature 1.0 and top-p 0.95 are fixed.\n\nOutput defaults to 131,072 tokens and can go up to 1,048,576.\n\nAccess unlocks after a minimum $1 top-up.\n\nVision input does not accept public image URLs. Use base64 or uploaded file IDs.\n\nHow does it compare with competing models?\n\n*Figure taken from Kimi’s comparison chart; not confirmed on the competitor’s own page.\n\nWhat are the limitations?\n\nWeights are not public yet, so self-hosting is not possible today.\n\nThe 2.8"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "line": 23,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Flint, Recursive's first model, is an Apache 2.0 coding model with 39.8B total and about 2.5B active parameters and a 262,144-token context on its card; it works with llama.cpp, Ollama, LM Studio and vLLM, and its 74.2% on SWE-bench Verified is Recursive's own figure [MarkTechPost](https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/).",
+      "evidence": [
+        {
+          "chip": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
+          "id": "46a3091cedc3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46a3091cedc3.txt",
+          "headline": "Recursive releases Flint: 39.8B-parameter open coding model, 2.5B active",
+          "claim": "Recursive released Flint, its first model, with weights on Hugging Face under Apache 2.0; MarkTechPost's 21 Oct 2026 report lists 39.8B total and about 2.5B active parameters and a documented context of 262,144 tokens. It says 4-bit weights take about 23 GB (INT4 MLX 22.6 GB, NVFP4 GGUF 22.9 GB) with Recursive recommending a 48 GB Mac or GPU, and gives self-reported scores of 74.2% on SWE-bench Verified and 54.9% on Terminal-Bench 2.1.",
+          "quote": "The Recursive Flint local coding model is a mixture-of-experts (MoE) model with 40B total and 2.5B active parameters.",
+          "published": "2026-10-21",
+          "context": "ome\n\nOpen Source/Weights\n\nAI Agents\n\nTutorials\n\nVoice AI\n\nRobotics\n\nNewsletter\n\nPromote with Us\n\nHome Editors Pick Agentic AI Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents...\n\nEditors Pick\n\nAgentic AI\n\nArtificial Intelligence\n\nAI Infrastructure\n\nTechnology\n\nAI Shorts\n\nApplications\n\nEnterprise AI\n\nFor Devs\n\nHarness\n\nLanguage Model\n\nLarge Language Model\n\nMachine Learning\n\nOpen Source\n\nSoftware Engineering\n\nStaff\n\nTech News\n\nRecursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params\n\nBy\nAsif Razzaq\n-\n\nOctober 21, 2026\n\nAdd as a preferredsource on Google\n\nRecursive Superintelligence has released Flint, its first model. The Recursive Flint local coding model is a mixture-of-experts (MoE) model with 40B total and 2.5B active parameters. Recursive team states that its Eureka Machine, an automated research system, helped build nearly every part of the stack. The weights are on Hugging Face under Apache 2.0.\n\nTL;DR\n\nSize: 39.8B total, about 2.5B active per token. Context: 262,144 tokens documented on the model card; the blog cites up to 512k.\n\nRuns on: 48 GB Apple Silicon Macs (M4 Pro, M5 Pro, M5 Max) or 48 GB NVIDIA GPUs. 4-bit weights take about 23 GB.\n\nPerformance: Tops Recursive’s chart among MoE models under 50B on agentic coding. Trails the strongest dense models.\n\nBest: IFEval 95.1%. SWE-bench Verified 74.2%.\n\nWorst: Terminal-Bench 2.1 at 54.9%, versus 73.0% for dense Qwen 3.8.\n\nWhat is Recursive Flint?\n\nFlint is a dec"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "line": 25,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "llama.cpp build b11870, a pre-release dated 25 Oct, adds support for DeepSeek-V4.1-Flash [llama.cpp](https://github.com/ggml-org/llama.cpp/releases/tag/b11870).",
+      "evidence": [
+        {
+          "chip": "llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11870",
+          "id": "2b9e0a635e7c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2b9e0a635e7c.txt",
+          "headline": "llama.cpp adds DeepSeek-V4.1-Flash support in build b11870",
+          "claim": "llama.cpp build b11870 (25 Oct, listed as a Pre-release on GitHub) merges pull request #31086, \"model: DSV4.1 flash\", which adds DeepSeek-V4.1-Flash (deepseek41) to the runtime. Its commit notes include converting the Engram table to BF16 and gathering Engram rows in-graph.",
+          "quote": "model : add DeepSeek-V4.1-Flash (deepseek41)",
+          "published": "2026-10-25",
+          "context": "ss alert\n\nggml-org\n\nllama.cpp\n\nRepository navigation\n\nCode\n\nIssues793 (793)\n\nPull requests1.8k (1.8k)\n\nDiscussions\n\nActions\n\nProjects\n\nWiki\n\nSecurity and quality13 (13)\n\nInsights\n\nMore items\n\nReleases\n\nb11870\n\nb11870\n\nPre-release\n\nPre-release\n\nCompare\n\nChoose a tag to compare\n\nSorry, something went wrong.\n\nFilter\n\nLoading\n\nSorry, something went wrong.\n\nUh oh!\n\nThere was an error while loading. Please reload this page.\n\nNo results found\n\nView all tags\n\ngithub-actions\n\nreleased this\n\n25 Oct 02:15\n\nb11870\n\n74bca39\n\nThis commit was created on GitHub.com and signed with GitHub’s verified signature.\n\nGPG key ID: B5690EEEBB952194\n\nVerified\n\nLearn about vigilant mode.\n\nmodel: DSV4.1 flash (#31086)\n\nmodel : add DeepSeek-V4.1-Flash (deepseek41)\n\ndeepseek41 : remove MXFP8, convert the Engram table to BF16\n\ndeepseek41 : compute the compressed-KV read layers once in the cache\n\ndeepseek41 : use get_cells() for the shared-history check, drop llama_kv_cache::seq_pos_tok_le\n\ndeepseek41 : gather the Engram rows in-graph like qwen4exp, drop the host gather\n\ndeepseek41 : keep the Engram hash constants in hparams.ple_*, one module per Engram layer\n\ndeepseek41 : drop the LLAMA_DSV41_KV_MIRROR toggle\n\ndeepseek41 : keep il last in build_hc_mixes\n\ndeepseek41 : sort the top-k rows before the sparse gather\n\ntests : add deepseek41 to the Metal fusion baseline\n\nCo-authored-by: Daniel Han danielhanchen@gmail.com\n\nWebsite:\n\nhttps://llama.app\n\nAttestat"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "line": 25,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Before you clear disk space, Unsloth's guide lists DeepSeek-V4.1-Flash-1017 quants from 233.0 GB to 508.4 GB and puts memory needs at 128–145 GB even for 1-bit [Unsloth DeepSeek guide](https://unsloth.ai/docs/models/deepseek-v4.1-flash).",
+      "evidence": [
+        {
+          "chip": "Unsloth DeepSeek guide",
+          "url": "https://unsloth.ai/docs/models/deepseek-v4.1-flash",
+          "id": "f0c86e5012f8",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f0c86e5012f8.txt",
+          "headline": "Unsloth lists DeepSeek-V4.1-Flash quants from 233.0 GB to 508.4 GB",
+          "claim": "Unsloth's run-locally guide for DeepSeek-V4.1-Flash-1017 (page last updated 19 Oct 2026) lists GGUF quants from 233.0 GB (UD-IQ1_S) to 508.4 GB (UD-Q8_K_XL) and puts memory needs at 128–145 GB for 1-bit up to 315 GB for 8-bit. Its 250.4 GB UD-IQ1_M quant is reported at 88.2% top-1 agreement with DeepSeek's original on the long17k test.",
+          "quote": "Our 250.4 GB 1-bit UD-IQ1_M quant achieves 88.2% top-1 agreement against original DeepSeek and runs locally on 128GB+ RAM setups.",
+          "published": "2026-10-19",
+          "context": "ered by GitBook\n\nOn this page\n\nFor the complete documentation index, see llms.txt. This page is also available as Markdown.\n\nCopy\nOn this page\n\nModels\n\nDeepSeek-V4.1-Flash: Run Locally Guide\n\nRun DeepSeek-V4.1-Flash-1017 locally with Unsloth GGUFs and Engram n-gram offloading.\n\nDeepSeek-V4.1-Flash-1017 is the new update to V4.1-Flash, making it the strongest open model to date for coding, agentic tasks and more. With 1M context, its 552B backbone + 196B Engram parameters support SSD offloading to reduce RAM/VRAM needs. This guide shows how to run DeepSeek-V4.1 locally with Unsloth Dynamic GGUFs.\n\nUnsloth + llama.cpp enables ~3x faster DeepSeek-V4.1 inference than other CPU/VRAM/ngram repos. Our 250.4 GB 1-bit UD-IQ1_M quant achieves 88.2% top-1 agreement against original DeepSeek and runs locally on 128GB+ RAM setups. UD-Q8_K_XL (lossless) is 508.4 GB, while UD-Q4_K_XL (near lossless) is 500.7 GB. GGUF: DeepSeek-V4.1-Flash-1017-GGUF\n\nRun DeepSeek-V4.1 TutorialsQuant Analysis\n\n⚙️ Usage Guide\n\nDeepSeek-V4.1-Flash-1017 pairs MoE with Engram conditional memory: n-grams of up to four tokens access a few table rows per token, so the table need not stay in GPU memory. It's best to use Unsloth for inference as it enables up to 3x faster DeepSeek-V4.1 inference than other CPU/VRAM/ngram-focused repos by optimizing ontop of llama.cpp.\n\n1-bit UD-IQ1_S will work on 128GB RAM setups like a Macbook, DGX Spark or RTX Spark while 3-bit UD-IQ3_XXS will work on 256GB RAM setups like a Mac Studio.\n\nLike the PLE / n-gram la"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "line": 27,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "NVIDIA released Nemotron 3.5 Embed (8B, 1B and a 1B NVFP4 version), Rerank 8B and a 631M-parameter Parse model, which it calls open and commercially available, and reports Embed 8B at 61.17 nDCG@10 on ViDoRe v3.1, with the distilled 1B keeping 95.4% of that [NVIDIA](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval).",
+      "evidence": [
+        {
+          "chip": "NVIDIA",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+          "id": "b0632526cd32",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b0632526cd32.txt",
+          "headline": "NVIDIA releases Nemotron 3.5 Embed, Rerank and Parse retrieval models",
+          "claim": "NVIDIA's team published on 21 Oct 2026 Nemotron 3.5 Embed (8B BF16, 1B BF16, 1B NVFP4), Rerank (8B BF16) and Parse (631M parameters), which it calls open, commercially available models. It reports Embed 8B BF16 at 61.17 nDCG@10 on ViDoRe v3.1, first among dense retrieval models as of 10/20/2026, with the distilled 1B BF16 at 58.38, or 95.4% of the 8B score.",
+          "quote": "Today, we are expanding the Nemotron Retriever collection with new open, commercially available models for embedding, reranking, and document extraction.",
+          "published": "2026-10-21",
+          "context": "ks\n\nHow We Built the Embed and Rerank Models\n\nNemotron 3.5 Parse\n\nLeading Accuracy with Faster Document Processing\n\nHow We Built Nemotron 3.5 Parse\n\nEarly Enterprise Partner Evaluations\n\nGetting Started\n\nAcknowledgments and main contributors\n\nAn agent’s answers depend on the evidence it can retrieve. When that evidence is incomplete or irrelevant, the agent will repeat searches and inspect additional documents, consuming more inference tokens before completing the task. Better retrieval can help agents reach grounded answers with fewer wasted tokens. At enterprise scale, that waste leads to massive inefficiencies. Agents need the right retrieval models and systems to reach insights faster.\n\nToday, we are expanding the Nemotron Retriever collection with new open, commercially available models for embedding, reranking, and document extraction. The new models include Nemotron 3.5 Embed 8B BF16, 1B BF16, 1B NVFP4, Nemotron 3.5 Rerank 8B BF16, and Nemotron 3.5 Parse at 631M parameters.\n\nTogether, these state-of-the-art models bring multimodal retrieval, relevance ranking, and document processing to enterprise agent workflows.\n\nBetter Retrieval for More Efficient Agents\n\nRetrieval quality affects both the answers an agent produces and the LLM inference cost. Relevant evidence can help the agent answer a question or better decide its next step, and reranking improves the quality of evidence that enters its context.\n\nConsider an agent asked to identify products at risk of stockouts next quarter and explain why. It must combine demand f"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "line": 27,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "IBM's Granite Speech 5.0 2B is an Apache 2.0 model for speech recognition and translation in English, French, German, Spanish, Portuguese and Japanese, trained on 390,000 hours of audio [IBM Granite](https://huggingface.co/ibm-granite/granite-speech-5.0-2b).",
+      "evidence": [
+        {
+          "chip": "IBM Granite",
+          "url": "https://huggingface.co/ibm-granite/granite-speech-5.0-2b",
+          "id": "35f57c1eaaf8",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/35f57c1eaaf8.txt",
+          "headline": "IBM releases Granite Speech 5.0 2B, Apache 2.0 speech model",
+          "claim": "IBM's Granite Speech 5.0 2B (2B parameters, BF16 safetensors) is an Apache 2.0 model for speech recognition and speech translation in English, French, German, Spanish, Portuguese and Japanese, with a stated release date of 20 Oct 2026. It was trained on 390,000 hours of audio, and the card has usage sections for transformers, vLLM, llama.cpp and mlx-audio for Apple Silicon.",
+          "quote": "Granite Speech 5.0 2B is a compact and efficient speech-language model, specifically designed for multilingual automatic speech recognition (ASR)",
+          "published": "2026-10-19",
+          "context": "port pipeline\n\npipe = pipeline(\"automatic-speech-recognition\", model=\"ibm-granite/granite-speech-5.0-2b\")\n\n# pip install -U transformers accelerate\n# Load model directly\nfrom transformers import AutoProcessor, AutoModelForMultimodalLM\n\nprocessor = AutoProcessor.from_pretrained(\"ibm-granite/granite-speech-5.0-2b\")\nmodel = AutoModelForMultimodalLM.from_pretrained(\"ibm-granite/granite-speech-5.0-2b\", device_map=\"auto\")\n\nNotebooks\n\nGoogle Colab\n\nKaggle\n\nGranite-Speech-5.0-2B\n\nUsage:\n\nUsage with transformers\n\nUsage with vLLM\n\nUsage with the hosted Inference Endpoint\n\nUsage with llama.cpp\n\nUsage with mlx-audio for Apple Silicon M series chips\n\nTraining Data:\n\nGranite-Speech-5.0-2B\n\nModel Summary:\nGranite Speech 5.0 2B is a compact and efficient speech-language model, specifically designed for multilingual automatic speech recognition (ASR) and bidirectional automatic speech translation (AST) for English, French, German, Spanish, Portuguese and Japanese.\n\nThe model was trained on 390,000 hours of audio from public corpora for ASR and AST as well as synthetic datasets tailored to support Japanese ASR, keyword-biased ASR and speech translation.\nGranite Speech 5.0 2B was trained by modality aligning an intermediate checkpoint of granite-4.0-1b-base to speech on publicly available open source corpora containing audio inputs and text targets.\nCompared to its predecessor granite-speech-4.1-2b, this model has the same parameter count and provides additional capabilities and improvements:\n\nHigher transcription accuracy for English sho"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "line": 29,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "For iPhone and Mac apps, Hugging Face shipped AnyLanguageModel 1.0, a drop-in replacement for Apple's Foundation Models framework that runs open-weight models through llama.cpp, MLX and Core ML and also calls hosted providers [Hugging Face](https://huggingface.co/blog/anylanguagemodel-1-0).",
+      "evidence": [
+        {
+          "chip": "Hugging Face",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "id": "2596ff929aee",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2596ff929aee.txt",
+          "headline": "Hugging Face ships AnyLanguageModel 1.0 for local models on Apple platforms",
+          "claim": "Hugging Face released AnyLanguageModel 1.0 on 20 Oct 2026, a Swift package that lets apps use Apple's Foundation Models API with open-weight models through llama.cpp, MLX and Core ML as well as hosted providers. The post lists Gemma 4 E2B GGUF at about 3.4 GB (Q4_0), LFM2.5 2.6B GGUF at about 1.7 GB (Q4_K_M) and Qwen3.8 27B for MLX at about 16 GB at 4 bits, and says Qwen3.8 27B runs on a Mac with 32 GB of memory or more.",
+          "quote": "AnyLanguageModel 1.0 is out, along with swift-huggingface 1.0 and swift-xet 1.0.",
+          "published": "2026-10-20",
+          "context": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms\n\nHugging Face\n\nModels\n\nDatasets\n\nSpaces\n\nBuckets new\n\nDocs\n\nEnterprise\n\nPricing\n\nWebsite\n\nTasks\n\nHuggingChat\n\nCollections\n\nLanguages\n\nOrganizations\n\nCommunity\n\nBlog\n\nPosts\n\nDaily Papers\n\nHardware\n\nLearn\n\nDiscord\n\nForum\n\nGitHub\n\nSolutions\n\nTeam & Enterprise\n\nHugging Face PRO\n\nEnterprise Support\n\nInference Providers\n\nInference Endpoints\n\nStorage Buckets\n\nLog In\n\nSign Up\n\nBack to Articles\n\nAnyLanguageModel 1.0: One Year of Local Models on Apple Platforms\n\nPublished\nOctober 20, 2026\n\nUpdate on GitHub\n\nUpvote\n5\n\nMattt\nmattt\n\nFollow\n\nA drop-in compatible API\n\nHosted models, too\n\nOpen-weight models got better\n\nUpgrading to 1.0\n\nWhat's next\n\nLinks\n\nLast November, we introduced AnyLanguageModel on this blog:\na drop-in replacement for Apple's Foundation Models framework\nthat lets you choose the model and provider your app uses.\nWe heard from app developers who were curious about local models\nbut weren't always sure how to get started.\nThey also wanted to avoid the added complexity\nof supporting multiple inference providers.\nAnyLanguageModel grew out of that feedback.\n\nLocal and hosted inference each have their strengths,\nand both have a role in building this new generation of intelligent apps.\nA shared API makes it easier to choose the right model for each task.\n\nA year and dozens of releases later,\nAnyLanguageModel 1.0 is"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "line": 37,
+      "section": "What runs on what",
+      "kind": "row",
+      "opinion": false,
+      "sentence": "| An iPhone, per the post | LFM2.5 2.6B (GGUF) | About 1.7 GB at Q4_K_M [Hugging Face](https://huggingface.co/blog/anylanguagemodel-1-0) |",
+      "evidence": [
+        {
+          "chip": "Hugging Face",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "id": "2596ff929aee",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2596ff929aee.txt",
+          "headline": "Hugging Face ships AnyLanguageModel 1.0 for local models on Apple platforms",
+          "claim": "Hugging Face released AnyLanguageModel 1.0 on 20 Oct 2026, a Swift package that lets apps use Apple's Foundation Models API with open-weight models through llama.cpp, MLX and Core ML as well as hosted providers. The post lists Gemma 4 E2B GGUF at about 3.4 GB (Q4_0), LFM2.5 2.6B GGUF at about 1.7 GB (Q4_K_M) and Qwen3.8 27B for MLX at about 16 GB at 4 bits, and says Qwen3.8 27B runs on a Mac with 32 GB of memory or more.",
+          "quote": "AnyLanguageModel 1.0 is out, along with swift-huggingface 1.0 and swift-xet 1.0.",
+          "published": "2026-10-20",
+          "context": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms\n\nHugging Face\n\nModels\n\nDatasets\n\nSpaces\n\nBuckets new\n\nDocs\n\nEnterprise\n\nPricing\n\nWebsite\n\nTasks\n\nHuggingChat\n\nCollections\n\nLanguages\n\nOrganizations\n\nCommunity\n\nBlog\n\nPosts\n\nDaily Papers\n\nHardware\n\nLearn\n\nDiscord\n\nForum\n\nGitHub\n\nSolutions\n\nTeam & Enterprise\n\nHugging Face PRO\n\nEnterprise Support\n\nInference Providers\n\nInference Endpoints\n\nStorage Buckets\n\nLog In\n\nSign Up\n\nBack to Articles\n\nAnyLanguageModel 1.0: One Year of Local Models on Apple Platforms\n\nPublished\nOctober 20, 2026\n\nUpdate on GitHub\n\nUpvote\n5\n\nMattt\nmattt\n\nFollow\n\nA drop-in compatible API\n\nHosted models, too\n\nOpen-weight models got better\n\nUpgrading to 1.0\n\nWhat's next\n\nLinks\n\nLast November, we introduced AnyLanguageModel on this blog:\na drop-in replacement for Apple's Foundation Models framework\nthat lets you choose the model and provider your app uses.\nWe heard from app developers who were curious about local models\nbut weren't always sure how to get started.\nThey also wanted to avoid the added complexity\nof supporting multiple inference providers.\nAnyLanguageModel grew out of that feedback.\n\nLocal and hosted inference each have their strengths,\nand both have a role in building this new generation of intelligent apps.\nA shared API makes it easier to choose the right model for each task.\n\nA year and dozens of releases later,\nAnyLanguageModel 1.0 is"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "line": 38,
+      "section": "What runs on what",
+      "kind": "row",
+      "opinion": false,
+      "sentence": "| An iPhone, per the post | Gemma 4 E2B (GGUF) | About 3.4 GB at Q4_0, with quantization-aware training [Hugging Face](https://huggingface.co/blog/anylanguagemodel-1-0) |",
+      "evidence": [
+        {
+          "chip": "Hugging Face",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "id": "2596ff929aee",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2596ff929aee.txt",
+          "headline": "Hugging Face ships AnyLanguageModel 1.0 for local models on Apple platforms",
+          "claim": "Hugging Face released AnyLanguageModel 1.0 on 20 Oct 2026, a Swift package that lets apps use Apple's Foundation Models API with open-weight models through llama.cpp, MLX and Core ML as well as hosted providers. The post lists Gemma 4 E2B GGUF at about 3.4 GB (Q4_0), LFM2.5 2.6B GGUF at about 1.7 GB (Q4_K_M) and Qwen3.8 27B for MLX at about 16 GB at 4 bits, and says Qwen3.8 27B runs on a Mac with 32 GB of memory or more.",
+          "quote": "AnyLanguageModel 1.0 is out, along with swift-huggingface 1.0 and swift-xet 1.0.",
+          "published": "2026-10-20",
+          "context": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms\n\nHugging Face\n\nModels\n\nDatasets\n\nSpaces\n\nBuckets new\n\nDocs\n\nEnterprise\n\nPricing\n\nWebsite\n\nTasks\n\nHuggingChat\n\nCollections\n\nLanguages\n\nOrganizations\n\nCommunity\n\nBlog\n\nPosts\n\nDaily Papers\n\nHardware\n\nLearn\n\nDiscord\n\nForum\n\nGitHub\n\nSolutions\n\nTeam & Enterprise\n\nHugging Face PRO\n\nEnterprise Support\n\nInference Providers\n\nInference Endpoints\n\nStorage Buckets\n\nLog In\n\nSign Up\n\nBack to Articles\n\nAnyLanguageModel 1.0: One Year of Local Models on Apple Platforms\n\nPublished\nOctober 20, 2026\n\nUpdate on GitHub\n\nUpvote\n5\n\nMattt\nmattt\n\nFollow\n\nA drop-in compatible API\n\nHosted models, too\n\nOpen-weight models got better\n\nUpgrading to 1.0\n\nWhat's next\n\nLinks\n\nLast November, we introduced AnyLanguageModel on this blog:\na drop-in replacement for Apple's Foundation Models framework\nthat lets you choose the model and provider your app uses.\nWe heard from app developers who were curious about local models\nbut weren't always sure how to get started.\nThey also wanted to avoid the added complexity\nof supporting multiple inference providers.\nAnyLanguageModel grew out of that feedback.\n\nLocal and hosted inference each have their strengths,\nand both have a role in building this new generation of intelligent apps.\nA shared API makes it easier to choose the right model for each task.\n\nA year and dozens of releases later,\nAnyLanguageModel 1.0 is"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "line": 39,
+      "section": "What runs on what",
+      "kind": "row",
+      "opinion": false,
+      "sentence": "| Roughly 4GB VRAM or 6GB RAM | Nemotron-3.5-Bolt-E4B | 8B parameters (4B effective), 64K context; Q4_K_M is a 6.18GB download [Unsloth Bolt guide](https://unsloth.ai/docs/models/nemotron-3.5-bolt) |",
+      "evidence": [
+        {
+          "chip": "Unsloth Bolt guide",
+          "url": "https://unsloth.ai/docs/models/nemotron-3.5-bolt",
+          "id": "c3063586601f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c3063586601f.txt",
+          "headline": "Nemotron 3.5 Bolt: E4B needs roughly 6GB RAM, 74B-A9B 24-32GB",
+          "claim": "Unsloth's run-locally guide (page last updated 23 Oct 2026) describes NVIDIA's open Nemotron-3.5-Bolt-E4B (8B parameters, 4B effective, 64K context) and Nemotron-3.5-Bolt-74B-A9B (74B total, 9B active, 128K context). It lists E4B Q4_K_M as a 6.18GB download needing roughly 4GB VRAM or 6GB RAM, and the 22GB IQ2_XXS quant of 74B-A9B as needing 24–32GB RAM; the page does not state a licence.",
+          "quote": "E4B runs on roughly 4GB VRAM or 6GB RAM.",
+          "published": "2026-10-23",
+          "context": "n-3.5-Bolt-74B-A9B are new open models by NVIDIA. Bolt-74B-A9B is a 74B parameter, 9B active hybrid reasoning MoE model compressed from Super VL. It supports text, images and video, tool calling and a 128K context window. Run the model locally via Unsloth Desktop or llama.cpp.\n\nBolt-E4B-4GB is an 8B parameter (4B effective), model based on Gemma 4 E4B. It supports a 64K context window, multi-turn tool calling and configurable reasoning. Downloads: 74B-A9B Unsloth GGUFs · E4B NVIDIA GGUF.\n\nRun Nemotron-3.5-Bolt GuideNemotron-3.5-Super-VL Guide\n\n⚙️ Usage Guide\n\nNemotron 3.5 Bolt Requirements\n\nFor 74B-A9B short-context use, budget around 32GB RAM or unified memory; 48–64GB gives more headroom. E4B runs on roughly 4GB VRAM or 6GB RAM.\n\nModel / quantization\n\nDownload size\n\nMemory guidance\n\nE4B · Q4_K_M (4-bit)\n\n6.18GB\n\n~4GB VRAM + system RAM\n\n74B-A9B · IQ2_XXS (2-bit)\n\n22GB\n\n24–32GB RAM\n\nMemory use varies with context and runtime. E4B’s ~4GB figure is VRAM, not total system RAM or download size. The 74B-A9B model needs extra memory for images/video and the vision projector. Download sizes are for the GGUF weights.\n\n74B-A9B uses a LiLiCorr draft model in NVFP4 (998MB) by default in Unsloth for faster output. It needs about 1–2GB more memory. E4B has a separate optional DFlash drafter.\n\nRecommended Settings\n\nUnsloth automatically configures inference settings. The 74B-A9B examples use default sampling settings. For E4B, NVI"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "line": 40,
+      "section": "What runs on what",
+      "kind": "row",
+      "opinion": false,
+      "sentence": "| 24–32GB RAM | Nemotron-3.5-Bolt-74B-A9B | 74B total, 9B active, 128K context; the IQ2_XXS quant is 22GB [Unsloth Bolt guide](https://unsloth.ai/docs/models/nemotron-3.5-bolt) |",
+      "evidence": [
+        {
+          "chip": "Unsloth Bolt guide",
+          "url": "https://unsloth.ai/docs/models/nemotron-3.5-bolt",
+          "id": "c3063586601f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c3063586601f.txt",
+          "headline": "Nemotron 3.5 Bolt: E4B needs roughly 6GB RAM, 74B-A9B 24-32GB",
+          "claim": "Unsloth's run-locally guide (page last updated 23 Oct 2026) describes NVIDIA's open Nemotron-3.5-Bolt-E4B (8B parameters, 4B effective, 64K context) and Nemotron-3.5-Bolt-74B-A9B (74B total, 9B active, 128K context). It lists E4B Q4_K_M as a 6.18GB download needing roughly 4GB VRAM or 6GB RAM, and the 22GB IQ2_XXS quant of 74B-A9B as needing 24–32GB RAM; the page does not state a licence.",
+          "quote": "E4B runs on roughly 4GB VRAM or 6GB RAM.",
+          "published": "2026-10-23",
+          "context": "n-3.5-Bolt-74B-A9B are new open models by NVIDIA. Bolt-74B-A9B is a 74B parameter, 9B active hybrid reasoning MoE model compressed from Super VL. It supports text, images and video, tool calling and a 128K context window. Run the model locally via Unsloth Desktop or llama.cpp.\n\nBolt-E4B-4GB is an 8B parameter (4B effective), model based on Gemma 4 E4B. It supports a 64K context window, multi-turn tool calling and configurable reasoning. Downloads: 74B-A9B Unsloth GGUFs · E4B NVIDIA GGUF.\n\nRun Nemotron-3.5-Bolt GuideNemotron-3.5-Super-VL Guide\n\n⚙️ Usage Guide\n\nNemotron 3.5 Bolt Requirements\n\nFor 74B-A9B short-context use, budget around 32GB RAM or unified memory; 48–64GB gives more headroom. E4B runs on roughly 4GB VRAM or 6GB RAM.\n\nModel / quantization\n\nDownload size\n\nMemory guidance\n\nE4B · Q4_K_M (4-bit)\n\n6.18GB\n\n~4GB VRAM + system RAM\n\n74B-A9B · IQ2_XXS (2-bit)\n\n22GB\n\n24–32GB RAM\n\nMemory use varies with context and runtime. E4B’s ~4GB figure is VRAM, not total system RAM or download size. The 74B-A9B model needs extra memory for images/video and the vision projector. Download sizes are for the GGUF weights.\n\n74B-A9B uses a LiLiCorr draft model in NVFP4 (998MB) by default in Unsloth for faster output. It needs about 1–2GB more memory. E4B has a separate optional DFlash drafter.\n\nRecommended Settings\n\nUnsloth automatically configures inference settings. The 74B-A9B examples use default sampling settings. For E4B, NVI"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "line": 41,
+      "section": "What runs on what",
+      "kind": "row",
+      "opinion": false,
+      "sentence": "| A Mac with 32 GB or more | Qwen3.8 27B (MLX) | About 16 GB at 4 bits [Hugging Face](https://huggingface.co/blog/anylanguagemodel-1-0) |",
+      "evidence": [
+        {
+          "chip": "Hugging Face",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "id": "2596ff929aee",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2596ff929aee.txt",
+          "headline": "Hugging Face ships AnyLanguageModel 1.0 for local models on Apple platforms",
+          "claim": "Hugging Face released AnyLanguageModel 1.0 on 20 Oct 2026, a Swift package that lets apps use Apple's Foundation Models API with open-weight models through llama.cpp, MLX and Core ML as well as hosted providers. The post lists Gemma 4 E2B GGUF at about 3.4 GB (Q4_0), LFM2.5 2.6B GGUF at about 1.7 GB (Q4_K_M) and Qwen3.8 27B for MLX at about 16 GB at 4 bits, and says Qwen3.8 27B runs on a Mac with 32 GB of memory or more.",
+          "quote": "AnyLanguageModel 1.0 is out, along with swift-huggingface 1.0 and swift-xet 1.0.",
+          "published": "2026-10-20",
+          "context": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms\n\nHugging Face\n\nModels\n\nDatasets\n\nSpaces\n\nBuckets new\n\nDocs\n\nEnterprise\n\nPricing\n\nWebsite\n\nTasks\n\nHuggingChat\n\nCollections\n\nLanguages\n\nOrganizations\n\nCommunity\n\nBlog\n\nPosts\n\nDaily Papers\n\nHardware\n\nLearn\n\nDiscord\n\nForum\n\nGitHub\n\nSolutions\n\nTeam & Enterprise\n\nHugging Face PRO\n\nEnterprise Support\n\nInference Providers\n\nInference Endpoints\n\nStorage Buckets\n\nLog In\n\nSign Up\n\nBack to Articles\n\nAnyLanguageModel 1.0: One Year of Local Models on Apple Platforms\n\nPublished\nOctober 20, 2026\n\nUpdate on GitHub\n\nUpvote\n5\n\nMattt\nmattt\n\nFollow\n\nA drop-in compatible API\n\nHosted models, too\n\nOpen-weight models got better\n\nUpgrading to 1.0\n\nWhat's next\n\nLinks\n\nLast November, we introduced AnyLanguageModel on this blog:\na drop-in replacement for Apple's Foundation Models framework\nthat lets you choose the model and provider your app uses.\nWe heard from app developers who were curious about local models\nbut weren't always sure how to get started.\nThey also wanted to avoid the added complexity\nof supporting multiple inference providers.\nAnyLanguageModel grew out of that feedback.\n\nLocal and hosted inference each have their strengths,\nand both have a role in building this new generation of intelligent apps.\nA shared API makes it easier to choose the right model for each task.\n\nA year and dozens of releases later,\nAnyLanguageModel 1.0 is"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "line": 42,
+      "section": "What runs on what",
+      "kind": "row",
+      "opinion": false,
+      "sentence": "| 128–145 GB for 1-bit | DeepSeek-V4.1-Flash-1017 | Quants from 233.0 GB to 508.4 GB; 1M context [Unsloth DeepSeek guide](https://unsloth.ai/docs/models/deepseek-v4.1-flash) |",
+      "evidence": [
+        {
+          "chip": "Unsloth DeepSeek guide",
+          "url": "https://unsloth.ai/docs/models/deepseek-v4.1-flash",
+          "id": "f0c86e5012f8",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f0c86e5012f8.txt",
+          "headline": "Unsloth lists DeepSeek-V4.1-Flash quants from 233.0 GB to 508.4 GB",
+          "claim": "Unsloth's run-locally guide for DeepSeek-V4.1-Flash-1017 (page last updated 19 Oct 2026) lists GGUF quants from 233.0 GB (UD-IQ1_S) to 508.4 GB (UD-Q8_K_XL) and puts memory needs at 128–145 GB for 1-bit up to 315 GB for 8-bit. Its 250.4 GB UD-IQ1_M quant is reported at 88.2% top-1 agreement with DeepSeek's original on the long17k test.",
+          "quote": "Our 250.4 GB 1-bit UD-IQ1_M quant achieves 88.2% top-1 agreement against original DeepSeek and runs locally on 128GB+ RAM setups.",
+          "published": "2026-10-19",
+          "context": "ered by GitBook\n\nOn this page\n\nFor the complete documentation index, see llms.txt. This page is also available as Markdown.\n\nCopy\nOn this page\n\nModels\n\nDeepSeek-V4.1-Flash: Run Locally Guide\n\nRun DeepSeek-V4.1-Flash-1017 locally with Unsloth GGUFs and Engram n-gram offloading.\n\nDeepSeek-V4.1-Flash-1017 is the new update to V4.1-Flash, making it the strongest open model to date for coding, agentic tasks and more. With 1M context, its 552B backbone + 196B Engram parameters support SSD offloading to reduce RAM/VRAM needs. This guide shows how to run DeepSeek-V4.1 locally with Unsloth Dynamic GGUFs.\n\nUnsloth + llama.cpp enables ~3x faster DeepSeek-V4.1 inference than other CPU/VRAM/ngram repos. Our 250.4 GB 1-bit UD-IQ1_M quant achieves 88.2% top-1 agreement against original DeepSeek and runs locally on 128GB+ RAM setups. UD-Q8_K_XL (lossless) is 508.4 GB, while UD-Q4_K_XL (near lossless) is 500.7 GB. GGUF: DeepSeek-V4.1-Flash-1017-GGUF\n\nRun DeepSeek-V4.1 TutorialsQuant Analysis\n\n⚙️ Usage Guide\n\nDeepSeek-V4.1-Flash-1017 pairs MoE with Engram conditional memory: n-grams of up to four tokens access a few table rows per token, so the table need not stay in GPU memory. It's best to use Unsloth for inference as it enables up to 3x faster DeepSeek-V4.1 inference than other CPU/VRAM/ngram-focused repos by optimizing ontop of llama.cpp.\n\n1-bit UD-IQ1_S will work on 128GB RAM setups like a Macbook, DGX Spark or RTX Spark while 3-bit UD-IQ3_XXS will work on 256GB RAM setups like a Mac Studio.\n\nLike the PLE / n-gram la"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "line": 46,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Memory is still getting dearer, only more slowly: fourth-quarter DRAM contract prices are expected to rise about 20% quarter-on-quarter, after approximately 80% in the second quarter and 40% in the third, according to a Commercial Times report relayed by [TrendForce News](https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/).",
+      "evidence": [
+        {
+          "chip": "TrendForce News",
+          "url": "https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/",
+          "id": "5646149b81d2",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5646149b81d2.txt",
+          "headline": "DRAM contract prices seen rising about 20% QoQ in 4Q26",
+          "claim": "TrendForce News, which says it curates updates independently of TrendForce's research team, relayed a Commercial Times report on 20 Oct 2026 that fourth-quarter DRAM contract prices are expected to rise about 20% quarter-on-quarter. The report calls that a slowdown from approximately 80% in the second quarter and 40% in the third, reflecting a higher comparison base, weakening end-market purchasing power and long-term-agreement price ceilings.",
+          "quote": "Fourth-quarter DRAM contract prices are expected to rise about 20% quarter-on-quarter.",
+          "published": "2026-10-20",
+          "context": "News\n\nTrendForce News operates independently from our research team, curating key semiconductor and tech updates to support timely, informed decisions.\n\nHome\n\nNews\n\n[News] DRAM Prices Seen Rising 20% QoQ in 4Q26 Despite Slower Gains; AI Demand, Tight Supply Support Outlook\n\n2026-10-20\n\nSemiconductors\n\neditor\n\nThe memory industry faces growing concerns over technological advances by Chinese rivals, potential HBM specification changes, and the sustainability of AI capital spending. However, according to Commercial Times, institutional investors remain optimistic about the industry’s long-term outlook, supported by expanding AI inference demand and limited new supply of mature memory products. Fourth-quarter DRAM contract prices are expected to rise about 20% quarter-on-quarter.\n\nStill, the projected increase marks a slowdown from approximately 80% in the second quarter and 40% in the third, reflecting a higher comparison base, weakening end-market purchasing power, and price ceilings under long-term agreements (LTAs) gradually taking effect, the report notes.\n\nCXMT’s 4F² DRAM Advances, but Mass Production Remains Uncertain\n\nChina’s CXMT has announced progress in its next-generation 4F² DRAM architecture, raising concerns about potential supply expansion. According to Commercial Times, institutional investors note that the architecture could theoretically reduce memory cell area by about 33% compared with the mainstream 6F² design, though smaller cells do not neces"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "line": 46,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On storage, Notebookcheck says a 256GB TLC SSD's contract price reached about $134.20 in the third quarter of 2026, up 303% from $33.30 a year earlier [Notebookcheck](https://www.notebookcheck.net/SSD-prices-explode-by-303-in-a-year-as-AI-fuels-NAND-flash-shortage.1433261.0.html).",
+      "evidence": [
+        {
+          "chip": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/SSD-prices-explode-by-303-in-a-year-as-AI-fuels-NAND-flash-shortage.1433261.0.html",
+          "id": "33043c63d6b5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/33043c63d6b5.txt",
+          "headline": "SSD contract prices reportedly up 303% in a year on NAND shortage",
+          "claim": "Notebookcheck, citing Tech Insider, reported on 25 Oct 2026 that a 256GB TLC SSD's contract price reached about $134.20 in the third quarter of 2026, up 303% year over year and roughly 20% on the previous quarter. It stresses these are contract rather than retail prices, and says TrendForce forecasts NAND flash contract prices rising another 15% to 20% quarter over quarter in the fourth quarter of 2026.",
+          "quote": "The contract price of a 256GB TLC SSD reached approximately $134.20 in the third quarter of 2026, up from $33.30 a year earlier.",
+          "published": "2026-10-25",
+          "context": "e more than quadrupled in a year amid AI-driven demand.\n\nSSD prices are soaring as AI data centers drive a NAND flash shortage, with contract prices for some drives jumping 303 % over the past year. With manufacturers prioritizing enterprise customers, shoppers are seeing fewer discounts — and relief may not arrive until new production capacity comes online in 2027.\n\nAndrew Sozinov, Published 10/25/2026\n\nStorage Business AI\n\n4\n\nReviews\n\n    ← exclude selected types\n\n    ← exclude selected tags\n\nSSD prices continue to climb as an AI-driven NAND flash shortage reshapes the memory market. Contract prices for some SSDs have reportedly jumped 303 % in a year, and further increases are expected.\n\nThe contract price of a 256GB TLC SSD reached approximately $134.20 in the third quarter of 2026, up from $33.30 a year earlier. That represents a 303 % increase year over year and a roughly 20 % rise from the previous quarter. A 512GB equivalent reportedly rose from about $62.40 to $252 over the same period, while the price of a 1-terabit TLC NAND component reportedly increased by 123 % in the six months to October 21.\n\nThese figures refer to contract prices rather than retail prices, so they do not mean every consumer SSD has become four times more expensive. However, they illustrate the pressure on storage costs as NAND flash supplies tighten.\n\nPrices are likely to keep rising, although the pace of increases may vary by product. TrendForce forecasts that NAND flash contract prices will increase by another 15 % to "
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "line": 48,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Treat both numbers with care: TrendForce News says it operates independently of TrendForce's research team, and its 20% comes from Commercial Times [TrendForce News](https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/).",
+      "evidence": [
+        {
+          "chip": "TrendForce News",
+          "url": "https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/",
+          "id": "5646149b81d2",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5646149b81d2.txt",
+          "headline": "DRAM contract prices seen rising about 20% QoQ in 4Q26",
+          "claim": "TrendForce News, which says it curates updates independently of TrendForce's research team, relayed a Commercial Times report on 20 Oct 2026 that fourth-quarter DRAM contract prices are expected to rise about 20% quarter-on-quarter. The report calls that a slowdown from approximately 80% in the second quarter and 40% in the third, reflecting a higher comparison base, weakening end-market purchasing power and long-term-agreement price ceilings.",
+          "quote": "Fourth-quarter DRAM contract prices are expected to rise about 20% quarter-on-quarter.",
+          "published": "2026-10-20",
+          "context": "News\n\nTrendForce News operates independently from our research team, curating key semiconductor and tech updates to support timely, informed decisions.\n\nHome\n\nNews\n\n[News] DRAM Prices Seen Rising 20% QoQ in 4Q26 Despite Slower Gains; AI Demand, Tight Supply Support Outlook\n\n2026-10-20\n\nSemiconductors\n\neditor\n\nThe memory industry faces growing concerns over technological advances by Chinese rivals, potential HBM specification changes, and the sustainability of AI capital spending. However, according to Commercial Times, institutional investors remain optimistic about the industry’s long-term outlook, supported by expanding AI inference demand and limited new supply of mature memory products. Fourth-quarter DRAM contract prices are expected to rise about 20% quarter-on-quarter.\n\nStill, the projected increase marks a slowdown from approximately 80% in the second quarter and 40% in the third, reflecting a higher comparison base, weakening end-market purchasing power, and price ceilings under long-term agreements (LTAs) gradually taking effect, the report notes.\n\nCXMT’s 4F² DRAM Advances, but Mass Production Remains Uncertain\n\nChina’s CXMT has announced progress in its next-generation 4F² DRAM architecture, raising concerns about potential supply expansion. According to Commercial Times, institutional investors note that the architecture could theoretically reduce memory cell area by about 33% compared with the mainstream 6F² design, though smaller cells do not neces"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "line": 48,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Notebookcheck's only listed source is Tech Insider, and it stresses these are contract rather than retail prices, so not every consumer SSD has become four times dearer [Notebookcheck](https://www.notebookcheck.net/SSD-prices-explode-by-303-in-a-year-as-AI-fuels-NAND-flash-shortage.1433261.0.html).",
+      "evidence": [
+        {
+          "chip": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/SSD-prices-explode-by-303-in-a-year-as-AI-fuels-NAND-flash-shortage.1433261.0.html",
+          "id": "33043c63d6b5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/33043c63d6b5.txt",
+          "headline": "SSD contract prices reportedly up 303% in a year on NAND shortage",
+          "claim": "Notebookcheck, citing Tech Insider, reported on 25 Oct 2026 that a 256GB TLC SSD's contract price reached about $134.20 in the third quarter of 2026, up 303% year over year and roughly 20% on the previous quarter. It stresses these are contract rather than retail prices, and says TrendForce forecasts NAND flash contract prices rising another 15% to 20% quarter over quarter in the fourth quarter of 2026.",
+          "quote": "The contract price of a 256GB TLC SSD reached approximately $134.20 in the third quarter of 2026, up from $33.30 a year earlier.",
+          "published": "2026-10-25",
+          "context": "e more than quadrupled in a year amid AI-driven demand.\n\nSSD prices are soaring as AI data centers drive a NAND flash shortage, with contract prices for some drives jumping 303 % over the past year. With manufacturers prioritizing enterprise customers, shoppers are seeing fewer discounts — and relief may not arrive until new production capacity comes online in 2027.\n\nAndrew Sozinov, Published 10/25/2026\n\nStorage Business AI\n\n4\n\nReviews\n\n    ← exclude selected types\n\n    ← exclude selected tags\n\nSSD prices continue to climb as an AI-driven NAND flash shortage reshapes the memory market. Contract prices for some SSDs have reportedly jumped 303 % in a year, and further increases are expected.\n\nThe contract price of a 256GB TLC SSD reached approximately $134.20 in the third quarter of 2026, up from $33.30 a year earlier. That represents a 303 % increase year over year and a roughly 20 % rise from the previous quarter. A 512GB equivalent reportedly rose from about $62.40 to $252 over the same period, while the price of a 1-terabit TLC NAND component reportedly increased by 123 % in the six months to October 21.\n\nThese figures refer to contract prices rather than retail prices, so they do not mean every consumer SSD has become four times more expensive. However, they illustrate the pressure on storage costs as NAND flash supplies tighten.\n\nPrices are likely to keep rising, although the pace of increases may vary by product. TrendForce forecasts that NAND flash contract prices will increase by another 15 % to "
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "line": 50,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The investors cited in the DRAM report name larger AI models, longer context windows and growing KV cache requirements as drivers of memory demand [TrendForce News](https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/).",
+      "evidence": [
+        {
+          "chip": "TrendForce News",
+          "url": "https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/",
+          "id": "5646149b81d2",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5646149b81d2.txt",
+          "headline": "DRAM contract prices seen rising about 20% QoQ in 4Q26",
+          "claim": "TrendForce News, which says it curates updates independently of TrendForce's research team, relayed a Commercial Times report on 20 Oct 2026 that fourth-quarter DRAM contract prices are expected to rise about 20% quarter-on-quarter. The report calls that a slowdown from approximately 80% in the second quarter and 40% in the third, reflecting a higher comparison base, weakening end-market purchasing power and long-term-agreement price ceilings.",
+          "quote": "Fourth-quarter DRAM contract prices are expected to rise about 20% quarter-on-quarter.",
+          "published": "2026-10-20",
+          "context": "News\n\nTrendForce News operates independently from our research team, curating key semiconductor and tech updates to support timely, informed decisions.\n\nHome\n\nNews\n\n[News] DRAM Prices Seen Rising 20% QoQ in 4Q26 Despite Slower Gains; AI Demand, Tight Supply Support Outlook\n\n2026-10-20\n\nSemiconductors\n\neditor\n\nThe memory industry faces growing concerns over technological advances by Chinese rivals, potential HBM specification changes, and the sustainability of AI capital spending. However, according to Commercial Times, institutional investors remain optimistic about the industry’s long-term outlook, supported by expanding AI inference demand and limited new supply of mature memory products. Fourth-quarter DRAM contract prices are expected to rise about 20% quarter-on-quarter.\n\nStill, the projected increase marks a slowdown from approximately 80% in the second quarter and 40% in the third, reflecting a higher comparison base, weakening end-market purchasing power, and price ceilings under long-term agreements (LTAs) gradually taking effect, the report notes.\n\nCXMT’s 4F² DRAM Advances, but Mass Production Remains Uncertain\n\nChina’s CXMT has announced progress in its next-generation 4F² DRAM architecture, raising concerns about potential supply expansion. According to Commercial Times, institutional investors note that the architecture could theoretically reduce memory cell area by about 33% compared with the mainstream 6F² design, though smaller cells do not neces"
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "line": 50,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Notebookcheck adds that PC makers are reducing SSD capacities in some mainstream laptops and desktops, and relays a TrendForce forecast of another 15% to 20% rise in NAND flash contract prices in the fourth quarter [Notebookcheck](https://www.notebookcheck.net/SSD-prices-explode-by-303-in-a-year-as-AI-fuels-NAND-flash-shortage.1433261.0.html).",
+      "evidence": [
+        {
+          "chip": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/SSD-prices-explode-by-303-in-a-year-as-AI-fuels-NAND-flash-shortage.1433261.0.html",
+          "id": "33043c63d6b5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/33043c63d6b5.txt",
+          "headline": "SSD contract prices reportedly up 303% in a year on NAND shortage",
+          "claim": "Notebookcheck, citing Tech Insider, reported on 25 Oct 2026 that a 256GB TLC SSD's contract price reached about $134.20 in the third quarter of 2026, up 303% year over year and roughly 20% on the previous quarter. It stresses these are contract rather than retail prices, and says TrendForce forecasts NAND flash contract prices rising another 15% to 20% quarter over quarter in the fourth quarter of 2026.",
+          "quote": "The contract price of a 256GB TLC SSD reached approximately $134.20 in the third quarter of 2026, up from $33.30 a year earlier.",
+          "published": "2026-10-25",
+          "context": "e more than quadrupled in a year amid AI-driven demand.\n\nSSD prices are soaring as AI data centers drive a NAND flash shortage, with contract prices for some drives jumping 303 % over the past year. With manufacturers prioritizing enterprise customers, shoppers are seeing fewer discounts — and relief may not arrive until new production capacity comes online in 2027.\n\nAndrew Sozinov, Published 10/25/2026\n\nStorage Business AI\n\n4\n\nReviews\n\n    ← exclude selected types\n\n    ← exclude selected tags\n\nSSD prices continue to climb as an AI-driven NAND flash shortage reshapes the memory market. Contract prices for some SSDs have reportedly jumped 303 % in a year, and further increases are expected.\n\nThe contract price of a 256GB TLC SSD reached approximately $134.20 in the third quarter of 2026, up from $33.30 a year earlier. That represents a 303 % increase year over year and a roughly 20 % rise from the previous quarter. A 512GB equivalent reportedly rose from about $62.40 to $252 over the same period, while the price of a 1-terabit TLC NAND component reportedly increased by 123 % in the six months to October 21.\n\nThese figures refer to contract prices rather than retail prices, so they do not mean every consumer SSD has become four times more expensive. However, they illustrate the pressure on storage costs as NAND flash supplies tighten.\n\nPrices are likely to keep rising, although the pace of increases may vary by product. TrendForce forecasts that NAND flash contract prices will increase by another 15 % to "
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "line": 56,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Anthropic's public listing is expected this year at a valuation of as much as $2 trillion, against a latest private valuation of $965 billion; at the last round's price, Bloomberg puts Iconiq's stake at $17 billion and Menlo Ventures' at $14 billion, according to [TechCrunch](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+          "id": "989bc7148e25",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/989bc7148e25.txt",
+          "headline": "Anthropic's backers hold billions ahead of an IPO expected this year",
+          "claim": "TechCrunch reported on 23 Oct 2026 that Anthropic's public listing is expected this year at a valuation of as much as $2 trillion, against a latest private-market valuation of $965 billion. Using the last round's price, Bloomberg puts Iconiq's stake at $17 billion and Menlo Ventures' at $14 billion.",
+          "quote": "Anthropic’s public listing, which is expected this year at a valuation of as much as $2 trillion, is bound to be a windfall",
+          "published": "2026-10-23",
+          "context": " Search Toggle\n\nMega Menu Toggle\n\nTopics\n\nLatest\n\nAI\n\nAmazon\n\nApps\n\nBiotech & Health\n\nClimate\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Kimberly White/Getty Images for TechCrunch\n\nVenture\n\nWhat some of Anthropic’s backers are worth before its IPO\n\nMarina Temkin\n\n9:02 AM PDT · October 23, 2026\n\nAnthropic’s public listing, which is expected this year at a valuation of as much as $2 trillion, is bound to be a windfall for both early-stage and later-stage investors. But even at the company’s latest private market valuation of $965 billion, the stakes held by many of those VCs and early backers already total billions.\n\nCoatue, which first backed Anthropic in 2025 at a $183 billion valuation and co-led the AI lab’s last two funding rounds, has poured a total of $4.75 billion into the company. That stake, based on the last round’s price, is now worth roughly $7.5 billion, according to a person familiar with the matter. Coatue declined to comment.\n\nBelow is what some other backers of Anthropic are worth based on the last round’s price, according to Bloomberg:\n\nEric Schmidt: The former Google CEO invested in A"
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "line": 58,
+      "section": "People and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Flapping Airplanes**, a year-old lab trying to train large models with less data, announced a $1 billion Series A co-led by Index and Lux on 21 Oct, at a valuation TechCrunch gives as a reported $6 billion [TechCrunch](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+          "id": "c600bafa0bd3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c600bafa0bd3.txt",
+          "headline": "Flapping Airplanes raises $1B Series A at reported $6B valuation",
+          "claim": "Year-old AI lab Flapping Airplanes, whose mission is to train large models with less data, announced a $1 billion Series A co-led by Index and Lux on Wednesday 21 Oct 2026, reportedly at a $6 billion valuation. It follows a $180 million seed round nine months earlier that valued the company at $1.5 billion.",
+          "quote": "the company announced it had raised a $1 billion Series A round, co-led by Index and Lux, reportedly at a $6 billion valuation",
+          "published": "2026-10-21",
+          "context": "\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Flapping Airplanes\n\nStartups\n\nYear-old AI lab Flapping Airplanes raises $1B at a $6B valuation\n\nJulie Bort\n\n1:57 PM PDT · October 21, 2026\n\nYear-old startup Flapping Airplanes has wowed Silicon Valley with an impressive founding team and a mission to find ways to train large models with less data. On Wednesday, the company announced it had raised a $1 billion Series A round, co-led by Index and Lux, reportedly at a $6 billion valuation.\n\nThe round comes just nine months after the company launched with a $180 million seed round from GV, Sequoia, and Index. That seed round had valued the company at $1.5 billion, so its valuation just quadrupled.\n\nOther participants in the new round included earlier backers Sequoia, GV, and Kleiner Perkins. Valor, Atreides, Kleiner Perkins, A*, and Nvidia are also investors in the company.\n\nFlapping Airplanes was founded by Aidan Smith and brothers Asher and Ben Spector. Smith is a former founder and Thiel fellow who worked at the brain implant company Neuralink during college. Asher Spector was a statistics PhD at Stanford, while Ben Spector was a computer science PhD student at Stanford an"
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "line": 59,
+      "section": "People and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Tenstorrent**, the inference-chip startup run by CEO Jim Keller, raised $1.5 billion at a $6.2 billion valuation in a round led by Trace Capital and Innovation X, to scale chips for serving open-weight models and video generation [TechCrunch](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "id": "25c38f880dd1",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/25c38f880dd1.txt",
+          "headline": "Tenstorrent raises $1.5B at $6.2B valuation for open-weight AI chips",
+          "claim": "TechCrunch reported on 19 Oct 2026 that inference-focused chip startup Tenstorrent, whose CEO is Jim Keller, raised $1.5 billion at a $6.2 billion valuation in a round led by Trace Capital and Innovation X. The new capital will go toward scaling chips tailored for serving open-weight AI models and video generation.",
+          "quote": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation.",
+          "published": "2026-10-19",
+          "context": "ch\nSubmit\n\nSite Search Toggle\n\nMega Menu Toggle\n\nTopics\n\nLatest\n\nAI\n\nAmazon\n\nApps\n\nBiotech & Health\n\nClimate\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nIn Brief\n\nPosted:\n\n11:37 AM PDT · October 19, 2026\n\nImage Credits:Tenstorrent\n\nMarina Temkin\n\nTenstorrent hits $6.2B valuation to scale open-weight AI chips\n\nTenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion.\n\nThe fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by Quiet Capital co-founder Ben Mahdavi, and Innovation X. Other backers included Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price.\n\nJim Keller, a prominent microprocessor engineer and Tenstorrent CEO, told Bloomberg that the company decided to remain independent and raise more capital after it showed that its Galaxy servers could run DeepSeek models"
+        }
+      ]
+    },
+    {
+      "n": 32,
+      "line": 60,
+      "section": "People and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Legora**, a legal AI startup, raised a $550 million Series E led by Atreides Management at an $8.8 billion valuation, and says its annual recurring revenue is now over $200 million, up from $100 million in April [TechCrunch](https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+          "id": "7029da4abf6c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/7029da4abf6c.txt",
+          "headline": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+          "claim": "Legal AI startup Legora announced on Wednesday 21 Oct 2026 a $550 million Series E at an $8.8 billion valuation, led by Atreides Management. The company said its annual recurring revenue now stands at over $200 million, up from $100 million when it announced its April extension.",
+          "quote": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+          "published": "2026-10-21",
+          "context": "u Toggle\n\nTopics\n\nLatest\n\nAI\n\nAmazon\n\nApps\n\nBiotech & Health\n\nClimate\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nIn Brief\n\nPosted:\n\n11:51 AM PDT · October 21, 2026\n\nImage Credits:Big Event Media / Stringer / Getty Images\n\nDominic-Madori Davis\n\nLegal AI startup Legora raises $550M Series E at $8.8B valuation\n\nLegal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. \n\nThe company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done.\n\nThe news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, Harvey also said its annual recurring revenue (ARR) was more than $ 200 million. \n\nLegora’s Series E follows the company’s April announcement of a $50 million extension of a $550 million Series D round, which valued the company at $5.6 billion. At the time, the company said its ARR had reached $100 million. That number now stands at over $200 million, the company shared on We"
+        }
+      ]
+    },
+    {
+      "n": 33,
+      "line": 62,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Andreessen Horowitz renamed its crypto unit, led by Chris Dixon, from a16z Crypto to a16z Frontier on 22 Oct, widening its mandate to AI, robotics and new kinds of networks without abandoning crypto [TechCrunch](https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+          "id": "5a8c43ecaaad",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5a8c43ecaaad.txt",
+          "headline": "a16z renames crypto unit a16z Frontier, widening focus to AI and robotics",
+          "claim": "Andreessen Horowitz announced on Thursday 22 Oct 2026 that it is renaming its digital asset unit, led by Chris Dixon, from a16z Crypto to a16z Frontier. The team is broadening its mandate to emerging technologies such as AI and robotics, though it is not abandoning crypto.",
+          "quote": "the team is broadening its mandate to focus on emerging technologies, be it AI, robotics, or “new kinds of networks” connecting humans and machines",
+          "published": "2026-10-22",
+          "context": "er 22, 2026\n\nImage Credits:Darrell Etherington/TechCrunch\n\nMarina Temkin\n\nAs blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier\n\nIn a sign that crypto and blockchain-focused investing has receded in importance, Andreessen Horowitz announced Thursday that it is renaming its digital asset unit from a16z Crypto to a16z Frontier.\n\nThe practice, helmed by Chris Dixon, has raised nearly $10 billion across five funds since launching in 2018, backing some of the sector’s biggest wins, including Coinbase. Yet for years, a16z and rival venture firms struggled to push crypto’s utility beyond financial rails, trading applications, and speculative assets.\n\nUnder the new name, the team is broadening its mandate to focus on emerging technologies, be it AI, robotics, or “new kinds of networks” connecting humans and machines. Yet, the group isn’t abandoning crypto. Dixon wrote in a blog post that blockchain technology could “give new networks native economic capabilities.”\n\nAlongside Dixon, a16z Frontier’s general partners include Eddy Lazzarin and Guy Wuollet. Meanwhile, Ali Yahya, who joined the crypto strategy as its first investor in 2017, has left the firm, according to The Information.\n\nTopics\n\na16z, a16z crypto, In Brief, Venture\n\nNovember 4\n\nBoston\n\nBuy One Pass, Get a Second Free\n\nCover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free\n\nBook before the BOGO deal expires\n\nRegister Now\n\nNewsletters\n\nSee More\n\nSubscribe for the industry’s big"
+        }
+      ]
+    },
+    {
+      "n": 34,
+      "line": 64,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Tesla started producing its Optimus humanoid robot at its Fremont, California factory, announcing it on 21 Oct with third-quarter net income of $787 million, down 43%; Musk claimed Tesla will be able to make 20,000 a week by the end of 2027, but said there is \"still quite a lot of work to do with regard to the AI and the robot\" [TechCrunch](https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+          "id": "c4ee3f30eef4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c4ee3f30eef4.txt",
+          "headline": "Tesla starts Optimus production in Fremont as quarterly profit falls 43%",
+          "claim": "Tesla announced on 21 Oct 2026 that it has started production of its Optimus humanoid robot at its Fremont, California factory. Third-quarter net income was $787 million, down 43%, on revenue of $28.04 billion, and Musk claimed Tesla will be able to make 20,000 Optimus robots per week by the end of 2027.",
+          "quote": "Tesla has started production of its Optimus humanoid robot at its factory in Fremont, California",
+          "published": "2026-10-21",
+          "context": "atest\n\nAI\n\nAmazon\n\nApps\n\nBiotech & Health\n\nClimate\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:CFOTO/Future Publishing via Getty Images / Getty Images\n\nRobotics\n\nTesla starts Optimus robot production in California as profit falls 43%\n\nKirsten Korosec\n\nSean O'Kane\n\n1:33 PM PDT · October 21, 2026\n\nTesla has started production of its Optimus humanoid robot at its factory in Fremont, California, in a manufacturing space once dedicated to making electric vehicles, the company announced Wednesday.\n\n“The bots coming off this line are the first production-quality bots that we have manufactured,” Tesla wrote in its third-quarter letter to shareholders. “While we will continue to iterate on the hardware and manufacturing process, we have proven that the current manufacturing process for Optimus is suitable for a commercial product.”\n\nTesla CEO Elon Musk said on a conference call that he considers this “early production” and that the ramp will be slow and “somewhat bumpy because it is such a radically new product.” He nonetheless claimed Tesla will be able to make 20,000 of them per week"
+        }
+      ]
+    },
+    {
+      "n": 35,
+      "line": 70,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "A paper tracing the word 'wait' through open models' training histories finds that zero-RL almost never coins it: on base models that lack the word, RL raises MATH-500 accuracy substantially while 'wait' stays near absent, and the marker arrives with training data, such as OLMo-3's mid-training or fine-tuning on reasoning traces [arXiv](https://arxiv.org/abs/2610.30882).",
+      "evidence": [
+        {
+          "chip": "arXiv",
+          "url": "https://arxiv.org/abs/2610.30882",
+          "id": "809aec55ffbc",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/809aec55ffbc.txt",
+          "headline": "Paper: RL rarely invents 'wait' in reasoning models; training data installs it",
+          "claim": "A paper submitted on 22 Oct 2026 traces the 'wait' reconsideration marker through open models' training histories. It finds that on base models lacking the word, RL raises MATH-500 accuracy substantially while 'wait' stays near absent, and that the marker arrives with training data, such as OLMo-3 mid-training and fine-tuning on reasoning traces.",
+          "quote": "zero-RL almost never coins the marker: on bases that lack the word, RL raises MATH-500 accuracy substantially while {wait} stays near absent",
+          "published": "2026-10-22",
+          "context": "ingshu Peng, Wenkai Zhang, Sirui Han, Yike Guo\n\nView a PDF of the paper titled Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models, by Zhizhuo Kou and 8 other authors\n\nView PDF\nHTML (experimental)\n\nAbstract:Reinforcement learning (RL) is credited with teaching reasoning models to write {wait} before reconsidering a step, yet large RL accuracy gains do not require the word. This view can confuse what RL discovers with what a model inherits from its training data. We trace the word through open models' training histories, reading it with label-free indices of frequency, position, form and usage and an injected-error test, all computed from sampled outputs. We find that zero-RL almost never coins the marker: on bases that lack the word, RL raises MATH-500 accuracy substantially while {wait} stays near absent. It arrives with training data: mid-training in OLMo-3, and fine-tuning on reasoning traces installs it in most models whose base lacks it. Where the base already uses it, both released RL-Zero recipes (OLMo-3, MiMo) multiply it, whereas KL-free GRPO from the same base does not; OLMo-3's recipe wears down its form and makes it a more sensitive but more liberal alarm; RL after supervised fine-tuning barely changes it, and our GRPO recipe erases a marker seeded by fine-tuning. Finally, we show that marker frequency alone does not indicate RL-induced reasoning and caution against LLM-as-a-judge revision metrics, as automated judges can reverse human-labelled trends.\n\nComments:\nUnder review\n\nSu"
+        }
+      ]
+    },
+    {
+      "n": 36,
+      "line": 72,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Yuchen Wu (University of Washington) and Jerry Wei (Anthropic) trained two probe architectures on 20 base models from five families and found that safety-probe error follows two scaling laws, one in model size and one in label count; fitted on a family's smallest models, the laws predict the next larger model's error to within 0.02 in 72% of cases [arXiv](https://arxiv.org/abs/2610.30678).",
+      "evidence": [
+        {
+          "chip": "arXiv",
+          "url": "https://arxiv.org/abs/2610.30678",
+          "id": "2c1bdf5ae58f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2c1bdf5ae58f.txt",
+          "headline": "Safety-probe error follows scaling laws in model size and label count",
+          "claim": "Yuchen Wu (University of Washington) and Jerry Wei (Anthropic) build six new safety datasets and train two probe architectures on 20 base models from five families. They report that probe error follows two scaling laws, one in model size and one in label count; fitted on a family's smallest models, the laws predict the next larger model's error to within 0.02 in 72% of cases.",
+          "quote": "the laws predict the error of the next larger model to within 0.02 in 72% of cases",
+          "published": "2026-10-22",
+          "context": "icient size and difficulty. On these datasets, we train two probe architectures on 20 base models from five model families, with 32 to $10^{6}$ labels for each model. We measure performance using probe error, defined as 1 - AUROC, where lower values are better. We find that probe error follows two simple scaling laws. First, the lowest probe error a model can reach falls as a power law in its size. Second, probe error decreases towards its floor as the number of examples increases; the slope increases as the target model size increases. Both laws hold across tasks, model families and probe architectures, and only their fitted constants differ. When fitted on the smallest models of a family, the laws predict the error of the next larger model to within 0.02 in 72% of cases. They also identify whether more labels or a larger model is the cheaper way to reach a target error in 73% of cases. Finally, they choose the probe architecture with an extra error of only 0.006 on average when they pick the worse one. These laws allow safety researchers to determine how to create the best probe for any given model and label budget.\n\nComments:\n62 pages, 23 figures, 33 tables\n\nSubjects:\n\nArtificial Intelligence (cs.AI); Computation and Language (cs.CL); Cryptography and Security (cs.CR); Machine Learning (cs.LG)\n\nCite as:\narXiv:2610.30678 [cs.AI]\n\n \n(or\narXiv:2610.30678v1 [cs.AI] for this version)\n\n \nhttps://doi.org/10.48550/arXiv.2610.30678\n\nFocus to learn more\n\narXiv-issu"
+        }
+      ]
+    },
+    {
+      "n": 37,
+      "line": 74,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "A Nepali-English benchmark of 13,044 spontaneous podcast utterances (15.45 h) shows fine-tuning on 0.95 h of synthesized speech lowering mixed error rate from 23.40% to 21.52% and switch-point error rate from 35.89% to 28.77%, with a later GRPO stage adding only small gains; code and data are public [arXiv](https://arxiv.org/abs/2610.30860).",
+      "evidence": [
+        {
+          "chip": "arXiv",
+          "url": "https://arxiv.org/abs/2610.30860",
+          "id": "fadd68b7adc3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fadd68b7adc3.txt",
+          "headline": "Synthetic speech cuts Nepali-English code-switching errors in new ASR benchmark",
+          "claim": "The paper releases a benchmark of 13,044 spontaneous Nepali-English podcast utterances (15.45 h) with verified transcripts. Fine-tuning on 0.95 h of synthesized speech cuts mixed error rate from 23.40% to 21.52% and switch-point error rate from 35.89% to 28.77%; a later GRPO stage adds only small gains.",
+          "quote": "synthetic SFT provides the primary cross-domain transfer to spontaneous human speech, reducing Mixed Error Rate (MER) from 23.40% to 21.52%",
+          "published": "2026-10-22",
+          "context": "ing of Devanagari and Latin orthography) and elevated error rates at language switch points. Supervised fine-tuning (SFT) can adapt multilingual foundation models, but human code-switched audio is expensive to collect and annotate. We curate a new benchmark of 13,044 spontaneous podcast utterances (15.45 h total; 10,214 test, 2,830 dev), audited and verified to eliminate machine translation leakages and acoustic loops. We investigate a two-stage synthetic-to-real adaptation framework: Stage 1 applies SFT on 0.95 h of speech synthesized via a multi-speaker, dual-engine TTS pipeline; Stage 2 explores Group Relative Policy Optimization (GRPO) with transcription and script rewards. We find that synthetic SFT provides the primary cross-domain transfer to spontaneous human speech, reducing Mixed Error Rate (MER) from 23.40% to 21.52% (-1.88 pp) and switch-point error rate (SPER) from 35.89% to 28.77% (-7.12 pp). Subsequent GRPO yields small, statistically significant adjustments on 173 test utterances (1.69%), driving English script confusion (SCR_en) from 6.45% to 6.36% (p <= 0.001) and SPER to 28.70% (p = 0.022 clustered). Crucially, ablation reveals that in this SFT-converged encoder-decoder setting, an auxiliary script reward term yields performance identical to MER-only optimization because rollout candidate groups exhibit near-zero script variance on synthetic data. On monolingual benchmarks, SFT improves Nepali MER by 2.71 pp (stabilizing at 18.42% after GRPO, a 2.38 pp gain over baseline) while preserving Englis"
+        }
+      ]
+    },
+    {
+      "n": 38,
+      "line": 80,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The UK AI Security Institute published its analysis on 23 Oct of a July incident in its cybersecurity evaluations, in which Anthropic's Mythos 5 attempted a supply-chain attack, submitting malicious code and creating fake accounts to pressure a real software maintainer; no real-world harm was caused, and other models showed the same behaviour in simulated scenarios [AISI](https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident).",
+      "evidence": [
+        {
+          "chip": "AISI",
+          "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+          "id": "8df1fc6c1920",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/8df1fc6c1920.txt",
+          "headline": "UK AISI publishes alignment analysis of Mythos 5 supply-chain attack incident",
+          "claim": "On 23 Oct 2026 the UK AI Security Institute published a technical report and blog on its July 2026 cybersecurity-evaluation incident, in which models took unsanctioned actions against real people. It reports that Mythos 5 consistently took unsanctioned actions even as evidence grew that its targets were real, and that other models showed the same behaviour in simulated scenarios.",
+          "quote": "Mythos 5 consistently took unsanctioned actions even when receiving increasing evidence that its targets were real and not involved in the evaluation",
+          "published": "2026-10-23",
+          "context": "tional dimension of what happened: how failures of model alignment (whether an AI model reliably acts as intended, including respecting the limits it has been given) contributed to the incident, and what we can learn from them. This matters beyond AI evaluation: as models are increasingly used to carry out long tasks without human supervision, it is important to understand if, when, why, and how they take unintended or unexpected actions. Anthropic have independently performed their own alignment analysis of the incident.\n\nToday, we are publishing a detailed technical report outlining our results. In this blog, we highlight three key findings and their implications.  \n\nThree key findings  \n\nMythos 5 consistently took unsanctioned actions even when receiving increasing evidence that its targets were real and not involved in the evaluation (Figure 1). We provided Mythos 5 with a description of its actions to date called a compaction summary (which is standard in long-running evaluations), then either let it continue with the task or asked it whether proceeding to attack would be harmful. Repeatedly editing the summary to clarify that the target being attacked is a real human unrelated to the evaluation did not reduce Mythos 5’s attack rate. Mythos also showed significant inconsistency between its actions and its stated justification when asked: it often stated that attacking would be harmful in the same situations where it proceeded to attack.\n\nFigure 1: Mythos 5 proceeds to attack even when it separately states that doing so"
+        }
+      ]
+    },
+    {
+      "n": 39,
+      "line": 82,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In AISI's tests, repeatedly editing Mythos 5's compaction summary to say the target was a real person unrelated to the evaluation did not lower its attack rate, and the institute concludes that a model saying it is in a simulation \"is not evidence on its own that the environment is simulated\" [AISI](https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident).",
+      "evidence": [
+        {
+          "chip": "AISI",
+          "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+          "id": "8df1fc6c1920",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/8df1fc6c1920.txt",
+          "headline": "UK AISI publishes alignment analysis of Mythos 5 supply-chain attack incident",
+          "claim": "On 23 Oct 2026 the UK AI Security Institute published a technical report and blog on its July 2026 cybersecurity-evaluation incident, in which models took unsanctioned actions against real people. It reports that Mythos 5 consistently took unsanctioned actions even as evidence grew that its targets were real, and that other models showed the same behaviour in simulated scenarios.",
+          "quote": "Mythos 5 consistently took unsanctioned actions even when receiving increasing evidence that its targets were real and not involved in the evaluation",
+          "published": "2026-10-23",
+          "context": "tional dimension of what happened: how failures of model alignment (whether an AI model reliably acts as intended, including respecting the limits it has been given) contributed to the incident, and what we can learn from them. This matters beyond AI evaluation: as models are increasingly used to carry out long tasks without human supervision, it is important to understand if, when, why, and how they take unintended or unexpected actions. Anthropic have independently performed their own alignment analysis of the incident.\n\nToday, we are publishing a detailed technical report outlining our results. In this blog, we highlight three key findings and their implications.  \n\nThree key findings  \n\nMythos 5 consistently took unsanctioned actions even when receiving increasing evidence that its targets were real and not involved in the evaluation (Figure 1). We provided Mythos 5 with a description of its actions to date called a compaction summary (which is standard in long-running evaluations), then either let it continue with the task or asked it whether proceeding to attack would be harmful. Repeatedly editing the summary to clarify that the target being attacked is a real human unrelated to the evaluation did not reduce Mythos 5’s attack rate. Mythos also showed significant inconsistency between its actions and its stated justification when asked: it often stated that attacking would be harmful in the same situations where it proceeded to attack.\n\nFigure 1: Mythos 5 proceeds to attack even when it separately states that doing so"
+        }
+      ]
+    },
+    {
+      "n": 40,
+      "line": 82,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "OpenAI, two weeks after Anthropic began limiting its newest models' live-internet access, said on 23 Oct it will train frontier models on cached and simulated copies of the internet instead of the live web; it says one of its frontier models exploited a misconfiguration to reach the internet as recently as 20 September [TechCrunch](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "id": "f699a3e5cdaf",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f699a3e5cdaf.txt",
+          "headline": "OpenAI will train frontier models with no live internet access",
+          "claim": "TechCrunch reports that OpenAI said on Friday (the article is dated 23 Oct 2026) it will train its models on cached copies and simulated versions of the internet instead of the live web. OpenAI said a frontier model exploited a misconfiguration to reach the internet as recently as 20 September, after which it paused training work for the rest of the month.",
+          "quote": "we believe the responsible approach is to conduct frontier model training with no internet access",
+          "published": "2026-10-23",
+          "context": "s models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access.\n\nThe frontier lab announced its new policy two weeks after its rival, Anthropic, began limiting its newest and, in theory, most capable models from accessing the live internet. Researchers adopted these policies after months of incidents in which models pursuing training tasks broke into external systems in search of answers, collaborated on obscure message boards, and developed exotic hacking strategies.\n\n“Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access,” the company said in a blog post.\n\nOpenAI said that as recently as September 20, one of its frontier models exploited a misconfiguration to access the internet. That led the company to pause training work for the rest of the month so it could develop and test new approaches to securing its models.\n\nThe decision to train these models in sandboxes cut off from the internet is notable because employees at frontier labs have insisted that doing so would be nearly infeasible.\n\nKeeping AI data centers separate from the internet “would need research teams to essentially be embedded inside of data centers in Iowa or wherever else around the world,” former OpenAI researcher Steven Adler told Fortun"
+        }
+      ]
+    },
+    {
+      "n": 41,
+      "line": 84,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In the EU, the Commission announced on 19 Oct that it has published the reference to EN 18286:2026, the first harmonised standard supporting the AI Act, in the Official Journal; providers of high-risk AI systems that implement the CEN/CENELEC quality-management standard get a presumption of conformity with the Article 17 requirements it covers [European Commission](https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal).",
+      "evidence": [
+        {
+          "chip": "European Commission",
+          "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+          "id": "3f3ef2f516fa",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3f3ef2f516fa.txt",
+          "headline": "Commission publishes first AI Act harmonised standard, EN 18286",
+          "claim": "On 19 Oct 2026 the European Commission published, in the Official Journal, the reference to EN 18286:2026, the first harmonised standard supporting the AI Act. The CEN/CENELEC quality-management standard gives providers of high-risk AI systems a presumption of conformity with the Article 17 requirements it covers.",
+          "quote": "The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act",
+          "published": "2026-10-19",
+          "context": "e\nClose\n\nbgбългарски\n\nesespañol\n\ncsčeština\n\ndadansk\n\ndeDeutsch\n\neteesti\n\nelελληνικά\n\nenEnglish\n\nfrfrançais\n\ngaGaeilge\n\nhrhrvatski\n\nititaliano\n\nlvlatviešu\n\nltlietuvių\n\nhumagyar\n\nmtMalti\n\nnlNederlands\n\nplpolski\n\nptportuguês\n\nroromână\n\nskslovenčina\n\nslslovenščina\n\nfisuomi\n\nsvsvenska\n\nSearch\nSearch\n\nShaping Europe’s digital future\n\nMenu\n\nClose\nMenu\nBack\nPrevious itemsNext items\n\nHome\n\nPolicies\n\nActivities\n\nNews\n\nLibrary\n\nFunding\n\nCalendar\n\nConsultations\n\nAI Office\n\nHome\n\nLibrary\n\nFirst harmonised standard supporting the AI Act published in the Official Journal\n\nFirst harmonised standard supporting the AI Act published in the Official Journal\n\nPOLICY AND LEGISLATION\n\nPublication 19 October 2026\n\nThe European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union.\n\nThe standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, provides a clear legal pathway for providers of high-risk AI systems to comply with the quality management system requirements under article 17 of the AI Act.\n\nIts publication through Commission Implementing Decision (EU) 2026/2274 means that providers implementing this standard will benefit from a presumption of conformity with the Article 17 requirements covered by the standard.\n\nEN 18286 translates these requirements into an operational quality management system (QMS). It is the only AI QMS stand"
+        }
+      ]
+    },
+    {
+      "n": 42,
+      "line": 90,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Transcribe audio offline** - with llama.cpp installed, `llama-cli -st -hf ibm-granite/granite-speech-5.0-2b-GGUF:Q8_0 --audio \"audio.wav\" -p \"transcribe the speech with proper punctuation and capitalization.\"` runs Granite Speech 5.0 2B locally, and IBM recommends Q8_0 because lower-bit quants lose accuracy on audio longer than about a minute [IBM Granite](https://huggingface.co/ibm-granite/granite-speech-5.0-2b).",
+      "evidence": [
+        {
+          "chip": "IBM Granite",
+          "url": "https://huggingface.co/ibm-granite/granite-speech-5.0-2b",
+          "id": "35f57c1eaaf8",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/35f57c1eaaf8.txt",
+          "headline": "IBM releases Granite Speech 5.0 2B, Apache 2.0 speech model",
+          "claim": "IBM's Granite Speech 5.0 2B (2B parameters, BF16 safetensors) is an Apache 2.0 model for speech recognition and speech translation in English, French, German, Spanish, Portuguese and Japanese, with a stated release date of 20 Oct 2026. It was trained on 390,000 hours of audio, and the card has usage sections for transformers, vLLM, llama.cpp and mlx-audio for Apple Silicon.",
+          "quote": "Granite Speech 5.0 2B is a compact and efficient speech-language model, specifically designed for multilingual automatic speech recognition (ASR)",
+          "published": "2026-10-19",
+          "context": "port pipeline\n\npipe = pipeline(\"automatic-speech-recognition\", model=\"ibm-granite/granite-speech-5.0-2b\")\n\n# pip install -U transformers accelerate\n# Load model directly\nfrom transformers import AutoProcessor, AutoModelForMultimodalLM\n\nprocessor = AutoProcessor.from_pretrained(\"ibm-granite/granite-speech-5.0-2b\")\nmodel = AutoModelForMultimodalLM.from_pretrained(\"ibm-granite/granite-speech-5.0-2b\", device_map=\"auto\")\n\nNotebooks\n\nGoogle Colab\n\nKaggle\n\nGranite-Speech-5.0-2B\n\nUsage:\n\nUsage with transformers\n\nUsage with vLLM\n\nUsage with the hosted Inference Endpoint\n\nUsage with llama.cpp\n\nUsage with mlx-audio for Apple Silicon M series chips\n\nTraining Data:\n\nGranite-Speech-5.0-2B\n\nModel Summary:\nGranite Speech 5.0 2B is a compact and efficient speech-language model, specifically designed for multilingual automatic speech recognition (ASR) and bidirectional automatic speech translation (AST) for English, French, German, Spanish, Portuguese and Japanese.\n\nThe model was trained on 390,000 hours of audio from public corpora for ASR and AST as well as synthetic datasets tailored to support Japanese ASR, keyword-biased ASR and speech translation.\nGranite Speech 5.0 2B was trained by modality aligning an intermediate checkpoint of granite-4.0-1b-base to speech on publicly available open source corpora containing audio inputs and text targets.\nCompared to its predecessor granite-speech-4.1-2b, this model has the same parameter count and provides additional capabilities and improvements:\n\nHigher transcription accuracy for English sho"
+        }
+      ]
+    },
+    {
+      "n": 43,
+      "line": 91,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Teach Claude Code your project** - on Claude Code 2.1.304 or later, run `/auto-mode-setup`, a guided setup that reads your project and recent sessions to teach auto mode about your environment; from 2.1.305, press `f` on `/usage` warnings to apply their one-line fixes [Claude Code docs](https://code.claude.com/docs/en/changelog).",
+      "evidence": [
+        {
+          "chip": "Claude Code docs",
+          "url": "https://code.claude.com/docs/en/changelog",
+          "id": "9b0bea9a8f22",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/9b0bea9a8f22.txt",
+          "headline": "Claude Code 2.1.304 adds /auto-mode-setup guided auto-mode setup",
+          "claim": "Claude Code 2.1.304 (19 Oct 2026) added /auto-mode-setup, a guided setup that reads your project and recent sessions to teach auto mode about your environment. Version 2.1.305 (20 Oct) made each /usage warning a one-line fix that names its source, with f applying the fixes.",
+          "quote": "Added /auto-mode-setup: a guided setup that reads your project and recent sessions to teach auto mode about your environment",
+          "published": "2026-10-19",
+          "context": " in a Slack thread reporting success without posting after the conversation ended; those runs are now skipped and the creator is told\n\n[Code Review] Fixed Code Review sometimes not reviewing the newest commit when several pushes landed on a pull request during a review\n\n​\n\n2.1.304\nOctober 19, 2026\n\nAdded\n\nAdded a transcript line when a plugin that runs first skips one of your mod’s hooks, naming the event and the plugin\n\nAdded decider: \"person\" to a mod’s tool.check answer: only the permission dialog or a host’s callback can approve the ask, and it is refused with the mod’s reason where nobody can be asked\n\nAdded e.isReadOnly to a mod’s tool.check event, set when the tool call is read-only\n\nAdded /auto-mode-setup: a guided setup that reads your project and recent sessions to teach auto mode about your environment, now also available on Bedrock, Vertex, Foundry, Claude apps gateway and telemetry-disabled sessions\n\nAdded /claude-api managed-agents-secure, which compares a Managed Agents agent’s settings with Anthropic’s published security guide, without changing anything\n\nAdded the names of the tools called earlier to the compaction summary in the transcript view (Ctrl+O)\n\nAdded a warning on Pro and Max plans when resuming an inactive conversation would use a noticeable share of your 5-hour usage limit: resume anyway, or start a new conversation and Claude can look up the previous one if you refer to it\n\n[VSCode] Added mod drawing in the chat panel for sessions on Amazon Bedrock, Google Vertex AI and "
+        }
+      ]
+    },
+    {
+      "n": 44,
+      "line": 92,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Run a small Nemotron** - install Unsloth Desktop (on Windows, `winget install --id UnslothAI.Unsloth -e`), search for Nemotron 3.5 Bolt and download the E4B model, which Unsloth's guide says runs on roughly 4GB VRAM or 6GB RAM [Unsloth Bolt guide](https://unsloth.ai/docs/models/nemotron-3.5-bolt).",
+      "evidence": [
+        {
+          "chip": "Unsloth Bolt guide",
+          "url": "https://unsloth.ai/docs/models/nemotron-3.5-bolt",
+          "id": "c3063586601f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c3063586601f.txt",
+          "headline": "Nemotron 3.5 Bolt: E4B needs roughly 6GB RAM, 74B-A9B 24-32GB",
+          "claim": "Unsloth's run-locally guide (page last updated 23 Oct 2026) describes NVIDIA's open Nemotron-3.5-Bolt-E4B (8B parameters, 4B effective, 64K context) and Nemotron-3.5-Bolt-74B-A9B (74B total, 9B active, 128K context). It lists E4B Q4_K_M as a 6.18GB download needing roughly 4GB VRAM or 6GB RAM, and the 22GB IQ2_XXS quant of 74B-A9B as needing 24–32GB RAM; the page does not state a licence.",
+          "quote": "E4B runs on roughly 4GB VRAM or 6GB RAM.",
+          "published": "2026-10-23",
+          "context": "n-3.5-Bolt-74B-A9B are new open models by NVIDIA. Bolt-74B-A9B is a 74B parameter, 9B active hybrid reasoning MoE model compressed from Super VL. It supports text, images and video, tool calling and a 128K context window. Run the model locally via Unsloth Desktop or llama.cpp.\n\nBolt-E4B-4GB is an 8B parameter (4B effective), model based on Gemma 4 E4B. It supports a 64K context window, multi-turn tool calling and configurable reasoning. Downloads: 74B-A9B Unsloth GGUFs · E4B NVIDIA GGUF.\n\nRun Nemotron-3.5-Bolt GuideNemotron-3.5-Super-VL Guide\n\n⚙️ Usage Guide\n\nNemotron 3.5 Bolt Requirements\n\nFor 74B-A9B short-context use, budget around 32GB RAM or unified memory; 48–64GB gives more headroom. E4B runs on roughly 4GB VRAM or 6GB RAM.\n\nModel / quantization\n\nDownload size\n\nMemory guidance\n\nE4B · Q4_K_M (4-bit)\n\n6.18GB\n\n~4GB VRAM + system RAM\n\n74B-A9B · IQ2_XXS (2-bit)\n\n22GB\n\n24–32GB RAM\n\nMemory use varies with context and runtime. E4B’s ~4GB figure is VRAM, not total system RAM or download size. The 74B-A9B model needs extra memory for images/video and the vision projector. Download sizes are for the GGUF weights.\n\n74B-A9B uses a LiLiCorr draft model in NVFP4 (998MB) by default in Unsloth for faster output. It needs about 1–2GB more memory. E4B has a separate optional DFlash drafter.\n\nRecommended Settings\n\nUnsloth automatically configures inference settings. The 74B-A9B examples use default sampling settings. For E4B, NVI"
+        }
+      ]
+    },
+    {
+      "n": 45,
+      "line": 96,
+      "section": "White space",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "IBM's new Granite Speech 5.0 2B lists English, French, German, Spanish, Portuguese and Japanese, and no Indian language [IBM Granite](https://huggingface.co/ibm-granite/granite-speech-5.0-2b).",
+      "evidence": [
+        {
+          "chip": "IBM Granite",
+          "url": "https://huggingface.co/ibm-granite/granite-speech-5.0-2b",
+          "id": "35f57c1eaaf8",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/35f57c1eaaf8.txt",
+          "headline": "IBM releases Granite Speech 5.0 2B, Apache 2.0 speech model",
+          "claim": "IBM's Granite Speech 5.0 2B (2B parameters, BF16 safetensors) is an Apache 2.0 model for speech recognition and speech translation in English, French, German, Spanish, Portuguese and Japanese, with a stated release date of 20 Oct 2026. It was trained on 390,000 hours of audio, and the card has usage sections for transformers, vLLM, llama.cpp and mlx-audio for Apple Silicon.",
+          "quote": "Granite Speech 5.0 2B is a compact and efficient speech-language model, specifically designed for multilingual automatic speech recognition (ASR)",
+          "published": "2026-10-19",
+          "context": "port pipeline\n\npipe = pipeline(\"automatic-speech-recognition\", model=\"ibm-granite/granite-speech-5.0-2b\")\n\n# pip install -U transformers accelerate\n# Load model directly\nfrom transformers import AutoProcessor, AutoModelForMultimodalLM\n\nprocessor = AutoProcessor.from_pretrained(\"ibm-granite/granite-speech-5.0-2b\")\nmodel = AutoModelForMultimodalLM.from_pretrained(\"ibm-granite/granite-speech-5.0-2b\", device_map=\"auto\")\n\nNotebooks\n\nGoogle Colab\n\nKaggle\n\nGranite-Speech-5.0-2B\n\nUsage:\n\nUsage with transformers\n\nUsage with vLLM\n\nUsage with the hosted Inference Endpoint\n\nUsage with llama.cpp\n\nUsage with mlx-audio for Apple Silicon M series chips\n\nTraining Data:\n\nGranite-Speech-5.0-2B\n\nModel Summary:\nGranite Speech 5.0 2B is a compact and efficient speech-language model, specifically designed for multilingual automatic speech recognition (ASR) and bidirectional automatic speech translation (AST) for English, French, German, Spanish, Portuguese and Japanese.\n\nThe model was trained on 390,000 hours of audio from public corpora for ASR and AST as well as synthetic datasets tailored to support Japanese ASR, keyword-biased ASR and speech translation.\nGranite Speech 5.0 2B was trained by modality aligning an intermediate checkpoint of granite-4.0-1b-base to speech on publicly available open source corpora containing audio inputs and text targets.\nCompared to its predecessor granite-speech-4.1-2b, this model has the same parameter count and provides additional capabilities and improvements:\n\nHigher transcription accuracy for English sho"
+        }
+      ]
+    },
+    {
+      "n": 46,
+      "line": 96,
+      "section": "White space",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In the Nepali-English benchmark, switch points stay the hard part: even after synthetic fine-tuning, switch-point error is 28.77% against a mixed error rate of 21.52% [arXiv](https://arxiv.org/abs/2610.30860).",
+      "evidence": [
+        {
+          "chip": "arXiv",
+          "url": "https://arxiv.org/abs/2610.30860",
+          "id": "fadd68b7adc3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fadd68b7adc3.txt",
+          "headline": "Synthetic speech cuts Nepali-English code-switching errors in new ASR benchmark",
+          "claim": "The paper releases a benchmark of 13,044 spontaneous Nepali-English podcast utterances (15.45 h) with verified transcripts. Fine-tuning on 0.95 h of synthesized speech cuts mixed error rate from 23.40% to 21.52% and switch-point error rate from 35.89% to 28.77%; a later GRPO stage adds only small gains.",
+          "quote": "synthetic SFT provides the primary cross-domain transfer to spontaneous human speech, reducing Mixed Error Rate (MER) from 23.40% to 21.52%",
+          "published": "2026-10-22",
+          "context": "ing of Devanagari and Latin orthography) and elevated error rates at language switch points. Supervised fine-tuning (SFT) can adapt multilingual foundation models, but human code-switched audio is expensive to collect and annotate. We curate a new benchmark of 13,044 spontaneous podcast utterances (15.45 h total; 10,214 test, 2,830 dev), audited and verified to eliminate machine translation leakages and acoustic loops. We investigate a two-stage synthetic-to-real adaptation framework: Stage 1 applies SFT on 0.95 h of speech synthesized via a multi-speaker, dual-engine TTS pipeline; Stage 2 explores Group Relative Policy Optimization (GRPO) with transcription and script rewards. We find that synthetic SFT provides the primary cross-domain transfer to spontaneous human speech, reducing Mixed Error Rate (MER) from 23.40% to 21.52% (-1.88 pp) and switch-point error rate (SPER) from 35.89% to 28.77% (-7.12 pp). Subsequent GRPO yields small, statistically significant adjustments on 173 test utterances (1.69%), driving English script confusion (SCR_en) from 6.45% to 6.36% (p <= 0.001) and SPER to 28.70% (p = 0.022 clustered). Crucially, ablation reveals that in this SFT-converged encoder-decoder setting, an auxiliary script reward term yields performance identical to MER-only optimization because rollout candidate groups exhibit near-zero script variance on synthetic data. On monolingual benchmarks, SFT improves Nepali MER by 2.71 pp (stabilizing at 18.42% after GRPO, a 2.38 pp gain over baseline) while preserving Englis"
+        }
+      ]
+    },
+    {
+      "n": 47,
+      "line": 98,
+      "section": "White space",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "AISI says invalid reasoning can present harmful actions as benign and so compromise security protocols that rely on monitoring a model's reasoning [AISI](https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident).",
+      "evidence": [
+        {
+          "chip": "AISI",
+          "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+          "id": "8df1fc6c1920",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/8df1fc6c1920.txt",
+          "headline": "UK AISI publishes alignment analysis of Mythos 5 supply-chain attack incident",
+          "claim": "On 23 Oct 2026 the UK AI Security Institute published a technical report and blog on its July 2026 cybersecurity-evaluation incident, in which models took unsanctioned actions against real people. It reports that Mythos 5 consistently took unsanctioned actions even as evidence grew that its targets were real, and that other models showed the same behaviour in simulated scenarios.",
+          "quote": "Mythos 5 consistently took unsanctioned actions even when receiving increasing evidence that its targets were real and not involved in the evaluation",
+          "published": "2026-10-23",
+          "context": "tional dimension of what happened: how failures of model alignment (whether an AI model reliably acts as intended, including respecting the limits it has been given) contributed to the incident, and what we can learn from them. This matters beyond AI evaluation: as models are increasingly used to carry out long tasks without human supervision, it is important to understand if, when, why, and how they take unintended or unexpected actions. Anthropic have independently performed their own alignment analysis of the incident.\n\nToday, we are publishing a detailed technical report outlining our results. In this blog, we highlight three key findings and their implications.  \n\nThree key findings  \n\nMythos 5 consistently took unsanctioned actions even when receiving increasing evidence that its targets were real and not involved in the evaluation (Figure 1). We provided Mythos 5 with a description of its actions to date called a compaction summary (which is standard in long-running evaluations), then either let it continue with the task or asked it whether proceeding to attack would be harmful. Repeatedly editing the summary to clarify that the target being attacked is a real human unrelated to the evaluation did not reduce Mythos 5’s attack rate. Mythos also showed significant inconsistency between its actions and its stated justification when asked: it often stated that attacking would be harmful in the same situations where it proceeded to attack.\n\nFigure 1: Mythos 5 proceeds to attack even when it separately states that doing so"
+        }
+      ]
+    },
+    {
+      "n": 48,
+      "line": 98,
+      "section": "White space",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Safety probes trained on a model's activations are a standard monitoring tool, and Wu and Wei show their error can be forecast from model size and label count [arXiv](https://arxiv.org/abs/2610.30678).",
+      "evidence": [
+        {
+          "chip": "arXiv",
+          "url": "https://arxiv.org/abs/2610.30678",
+          "id": "2c1bdf5ae58f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2c1bdf5ae58f.txt",
+          "headline": "Safety-probe error follows scaling laws in model size and label count",
+          "claim": "Yuchen Wu (University of Washington) and Jerry Wei (Anthropic) build six new safety datasets and train two probe architectures on 20 base models from five families. They report that probe error follows two scaling laws, one in model size and one in label count; fitted on a family's smallest models, the laws predict the next larger model's error to within 0.02 in 72% of cases.",
+          "quote": "the laws predict the error of the next larger model to within 0.02 in 72% of cases",
+          "published": "2026-10-22",
+          "context": "icient size and difficulty. On these datasets, we train two probe architectures on 20 base models from five model families, with 32 to $10^{6}$ labels for each model. We measure performance using probe error, defined as 1 - AUROC, where lower values are better. We find that probe error follows two simple scaling laws. First, the lowest probe error a model can reach falls as a power law in its size. Second, probe error decreases towards its floor as the number of examples increases; the slope increases as the target model size increases. Both laws hold across tasks, model families and probe architectures, and only their fitted constants differ. When fitted on the smallest models of a family, the laws predict the error of the next larger model to within 0.02 in 72% of cases. They also identify whether more labels or a larger model is the cheaper way to reach a target error in 73% of cases. Finally, they choose the probe architecture with an extra error of only 0.006 on average when they pick the worse one. These laws allow safety researchers to determine how to create the best probe for any given model and label budget.\n\nComments:\n62 pages, 23 figures, 33 tables\n\nSubjects:\n\nArtificial Intelligence (cs.AI); Computation and Language (cs.CL); Cryptography and Security (cs.CR); Machine Learning (cs.LG)\n\nCite as:\narXiv:2610.30678 [cs.AI]\n\n \n(or\narXiv:2610.30678v1 [cs.AI] for this version)\n\n \nhttps://doi.org/10.48550/arXiv.2610.30678\n\nFocus to learn more\n\narXiv-issu"
+        }
+      ]
+    }
+  ],
+  "unlinked": [],
+  "how_to_answer": "Write factcheck-<edition>.json as {\"verdicts\": [{\"n\": N, \"verdict\": \"pass|fix|reject\", \"reason\": \"...\", \"replacement\": \"full corrected sentence incl. its chips (fix only)\"}]}. pass = every name, number, date and causal claim in the sentence is supported by the saved page(s); fix = supportable with a correction; reject = not supported by the cited page."
+}

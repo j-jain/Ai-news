@@ -17,7 +17,7 @@
 - https://qwenlm.github.io/blog/ (ok)
 - https://api-docs.deepseek.com/news/ (ok)
 - https://ai.meta.com/blog/ (answers 400 to the fetcher - bot wall; use Tier B or coverage from The Verge / TechCrunch)
-- https://techcrunch.com/category/artificial-intelligence/ (ok) and https://www.theverge.com/ai-artificial-intelligence (verify) for coverage and for the Chinese labs
+- https://techcrunch.com/category/artificial-intelligence/ (ok) and https://www.theverge.com/ai-artificial-intelligence (unreachable from here on 25 Oct 2026; retry, else use TechCrunch) for coverage and for the Chinese labs
 - Status pages when there was an outage: https://status.anthropic.com/ , https://status.openai.com/ (verify)
 
 ## Search queries

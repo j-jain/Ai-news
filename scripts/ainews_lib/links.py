@@ -9,6 +9,7 @@ from common import (LINK_RE, canonical_url, parse_front_matter, read_json, read_
 from fetch import http_get
 from mdunits import content_units, links_in, normalize_paragraphs, sentences, units
 
+REPO_PREFIXES = ("https://github.com/j-jain/Ai-news/", "https://j-jain.github.io/Ai-news/")
 WARN_STATUSES = {0, 401, 403, 405, 406, 408, 429, 500, 502, 503, 504, 520, 521, 522, 523, 524, 525, 526}
 
 
@@ -44,6 +45,9 @@ def run(args):
     results = []
     for url in urls:
         c = canonical_url(url)
+        if url.startswith(REPO_PREFIXES):
+            results.append({"url": url, "status": None, "verdict": "ok", "note": "repo file; exists once this run is published"})
+            continue
         if c in ok_cache and not args.recheck:
             results.append({"url": url, "status": 200, "verdict": "ok", "note": "fetched successfully earlier this run"})
             continue

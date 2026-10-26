@@ -39,11 +39,14 @@ def verify_item(week, item):
     item["quote_verified"] = ("script" if tier == "A" else "model") if ok else "none"
     item["verify_note"] = why
     if meta:
+        item.pop("published_unverified", None)
         if meta.get("published"):
             item["published"] = meta["published"]
             item["published_evidence"] = meta.get("published_evidence")
         elif item.get("published"):
             ev = item.get("published_evidence") or ""
+            if ev.startswith("text: "):
+                ev = ev[len("text: "):]
             if ev and norm_text(ev) in norm_text(text):
                 item["published_evidence"] = f"text: {ev}"
             else:

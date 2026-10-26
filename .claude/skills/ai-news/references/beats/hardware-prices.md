@@ -9,12 +9,12 @@
 ## Seeds
 
 - https://www.trendforce.com/presscenter/news (ok 25 Oct 2026) - DRAM/NAND contract prices, each release dated
-- https://www.tomshardware.com/ (verify) - RAM/GPU price coverage; cite the article
-- https://www.techpowerup.com/ (verify)
-- https://www.theregister.com/ (verify) - memory and datacentre supply news
-- https://www.notebookcheck.net/ (verify) - laptop launches and reviews with configurations
-- https://nvidianews.nvidia.com/ (verify) - NVIDIA's own announcements
-- https://www.gadgets360.com/laptops (verify) and https://www.digit.in/ (verify) - India launch prices
+- https://www.tomshardware.com/ (ok 25 Oct 2026) - RAM/GPU price coverage; cite the article
+- https://www.techpowerup.com/ (unreachable from here on 25 Oct 2026; retry)
+- https://www.theregister.com/ (ok 25 Oct 2026) - memory and datacentre supply news
+- https://www.notebookcheck.net/ (ok 25 Oct 2026) - laptop launches and reviews with configurations
+- https://nvidianews.nvidia.com/ (ok 25 Oct 2026) - NVIDIA's own announcements
+- https://www.gadgets360.com/laptops (403 to the fetcher; Tier B or use Digit) and https://www.digit.in/ (ok 25 Oct 2026) - India launch prices
 - https://pcpartpicker.com/trends/price/memory/ (verify; may block)
 
 ## Search queries

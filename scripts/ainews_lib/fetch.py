@@ -45,7 +45,7 @@ class Extractor(HTMLParser):
             key = a.get("property") or a.get("name") or a.get("itemprop")
             if key and a.get("content"):
                 self.meta.setdefault(key.lower().strip(), a["content"].strip())
-        elif tag == "time":
+        elif tag in ("time", "relative-time"):
             if a.get("datetime"):
                 self.times.append(a["datetime"])
         elif tag == "title":
@@ -305,6 +305,8 @@ def fetch(week, url, tier="A", text_file=None, force=False, published=None, publ
             meta["site_name"] = info.get("meta", {}).get("og:site_name") or host_of(r["final_url"])
             meta["published"], meta["published_evidence"] = published_from(info, r["final_url"])
             if published and not meta["published"]:
+                if published_evidence and published_evidence.startswith("text: "):
+                    published_evidence = published_evidence[len("text: "):]
                 ev_ok = bool(published_evidence) and norm_text(published_evidence) in norm_text(text)
                 if ev_ok:
                     meta["published"], meta["published_evidence"] = published, f"text: {published_evidence}"

@@ -1,0 +1,905 @@
+{
+  "week": "2026-W43",
+  "edition": "india",
+  "draft": "work/2026-W43/draft-india.md",
+  "claims": [
+    {
+      "n": 1,
+      "line": 3,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Chariot says it beats Saaras v4** Chariot launched Chariot-1-ASR Realtime on 22 Oct for 10 Indian languages plus Indian English, and in its own tests it made 9% fewer errors than Sarvam's Saaras v4 among whole-recording systems and 17% fewer among streaming ones [AIM](https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages), so test it on your own audio first.",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages",
+          "id": "4d4424ae2b1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/4d4424ae2b1c.txt",
+          "headline": "Chariot launches Chariot-1-ASR Realtime speech model for 10 Indian languages",
+          "claim": "Chariot, which AIM calls a frontier AI research lab, launched Chariot-1-ASR Realtime on 22 Oct 2026, a speech recognition model for 10 Indian languages plus Indian English that is available on the Chariot platform. In its own tests on 79 public test sets, Chariot says the model made 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fewer than Sarvam's Saaras v4 against systems that process a whole recording, and 17% fewer than Saaras v4 against streaming systems.",
+          "quote": "launched Chariot-1-ASR Realtime on October 22, a speech recognition model that converts spoken words into text",
+          "published": "2026-10-23",
+          "context": "riot launched its speech recognition model, Chariot-1-ASR Realtime, which converts spoken words into text during conversations.\n\nThe model demonstrates superior accuracy, with 26% fewer errors than Google Gemini 3.5 Transcribe across 10 Indian languages.\n\nChariot-1-ASR Realtime supports major Indian languages, including Hindi, Marathi, and Tamil, along with Indian English.\n\nIn tests, it showed a 5.04% error rate for Hindi calls, outperforming OpenAI's gpt-transcribe significantly.\n\nThe model was tested on extensive datasets, making it robust for various types of audio recordings.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nChariot, a frontier AI research lab, launched Chariot-1-ASR Realtime on October 22, a speech recognition model that converts spoken words into text while people are still talking. The company said the model outperformed every streaming and batch transcription system it tested across 10 Indian languages.\n\nThe model supports Hindi, Marathi, Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Punjabi and Odia. It also supports Indian English and is available on the Chariot platform, according to the company.\n\nChariot said it tested the model on 79 public test sets from 11 collections, covering around 153,000 audio recordings. The tests included everyday conversations, telephone calls, read-aloud speech and recordings with background noise.\n\nThe research lab said its model made 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fe"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "line": 4,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Infosys now earns 10.5% from AI** Infosys's AI revenue grew 29% quarter on quarter in the September quarter to 10.5% of total revenue, even as it cut its FY27 revenue growth guidance to 1%-2% in constant currency from 1.5%-3% [AIM](https://analyticsindiamag.com/ai-news/infosys-ai-revenue-rises-29-in-q2-fy27-growth-guidance-cut), so if Indian IT is your fallback, aim for its AI work.",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/infosys-ai-revenue-rises-29-in-q2-fy27-growth-guidance-cut",
+          "id": "6b0423e847a4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6b0423e847a4.txt",
+          "headline": "Infosys AI revenue up 29% sequentially, 10.5% of total; guidance cut",
+          "claim": "AIM reported on 23 Oct 2026 that Infosys's AI revenue grew 29% sequentially in the September quarter to 10.5% of total revenue, while the company cut its FY27 constant-currency revenue growth guidance to 1%-2% from 1.5%-3%. Infosys also reported $5.2 billion of large-deal contract value, including a mega deal of over $2 billion.",
+          "quote": "Infosys’ AI revenue grew 29% sequentially in the September quarter, accounting for 10.5% of total revenue",
+          "published": "2026-10-23",
+          "context": "Infosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut\n\nMagazineLatestListiclesVisual StoriesInfographics\n\nContact UsAdvertise🇺🇸USAI CompassMLDS\n\nSubscribe\n\nSubscribeSign In\n\nArticle Complete\n\nInfosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut\n\nSaveListen\n\nAI News\n\nInfosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut\n\nInfosys recorded $5.2 billion in large-deal contract value, with 62% classified as net new business, as it lowered its full-year growth outlook.\n\nMukundan Sivaraj\n\nPublished 2026-10-23T16:48:00.023+05:30Updated 2026-10-23T16:48:00.023+05:30\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nInfosys’ AI revenue grew 29% sequentially in the September quarter, accounting for 10.5% of total revenue, even as the company cut its full-year FY27 revenue growth guidance to 1%-2% in constant currency from 1.5%-3%.\n\nThe company reported second-quarter revenue of $5.145 billion, up 1.5% year on year and 1.2% sequentially in constant-currency terms. Operating margin remained at 21%.\n\nFor IT services firms, AI can drive demand for consulting, implementation, and engineering work while reducing the hours needed to deliver existing contracts. Whether vendors can win enough new business to offset those efficiencies remains a key question for the sector.\n\nInfosys recorded $5.2 billion in large-deal total contract value (TCV), with 62% classified as net new business. The bookings included a mega dea"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "line": 5,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Birla AI Labs releases Yug-1 forecaster** Birla AI Labs, under the Aditya Birla Group, put Yug-1, its first time series foundation model, on GitHub and Hugging Face, and says it outperformed other first-generation time series models on the GiftEval benchmark [AIM](https://analyticsindiamag.com/ai-news/birla-ai-labs-launches-yug-1-a-time-series-foundation-model-built-in-india), so your next forecasting project has a baseline to try.",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/birla-ai-labs-launches-yug-1-a-time-series-foundation-model-built-in-india",
+          "id": "e75814707d27",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e75814707d27.txt",
+          "headline": "Birla AI Labs releases Yug-1, a time series foundation model",
+          "claim": "Birla AI Labs, an AI initiative and venture studio under the Aditya Birla Group, has released Yug-1, its first time series foundation model, which AIM reported on 19 Oct 2026 is available on GitHub and Hugging Face for developers and researchers to test. Founder and chairperson Ananya Birla says Yug-1 outperformed other first-generation time series models on the GiftEval benchmark and performed competitively against newer-generation models (the lab's own claim).",
+          "quote": "has released Yug-1, its first time series foundation model (TSFM), developed to forecast outcomes, identify patterns, and detect anomalies across interconnected datasets.",
+          "published": "2026-10-19",
+          "context": "o analyse time-dependent data and generate forecasts across multiple variables.\n\nThe model outperformed first-generation time series models and is competitive with newer generations, according to Birla AI Labs.\n\nYug-1 was developed and deployed in under six months, reflecting the efficiency of Birla AI Labs' research team.\n\nThe model is available for developers and researchers on platforms like GitHub and Hugging Face.\n\nBirla AI Labs aims to shift the focus of AI research from language models to structured, time-dependent data analysis.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nBirla AI Labs, an AI initiative and venture studio under the Aditya Birla Group, has released Yug-1, its first time series foundation model (TSFM), developed to forecast outcomes, identify patterns, and detect anomalies across interconnected datasets.\n\nTSFMs are large-scale AI models pre-trained on a diverse collection of universal temporal patterns, such as weather, traffic, finance, retail, and energy records.\n\nAnanya Birla, Founder and Chairperson of Birla AI Labs, said Yug-1 outperformed other first-generation TSMFs on the GiftEval benchmark and performed competitively against newer-generation models.\n\nThe company said its frontier research team took Yug-1 from training to deployment in under six months. The model is available on GitHub and Hugging Face for developers and researchers to test.\n\n“Most of the conversation around AI today is about language. But so much of the data that actually runs businesses and economies moves through"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "line": 9,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Chariot, which AIM calls a frontier AI research lab, launched Chariot-1-ASR Realtime on 22 Oct to transcribe Hindi, Marathi, Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Punjabi, Odia and Indian English while people are still talking; it can identify the language itself, write borrowed English words in either script, and is available on the Chariot platform [AIM](https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages",
+          "id": "4d4424ae2b1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/4d4424ae2b1c.txt",
+          "headline": "Chariot launches Chariot-1-ASR Realtime speech model for 10 Indian languages",
+          "claim": "Chariot, which AIM calls a frontier AI research lab, launched Chariot-1-ASR Realtime on 22 Oct 2026, a speech recognition model for 10 Indian languages plus Indian English that is available on the Chariot platform. In its own tests on 79 public test sets, Chariot says the model made 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fewer than Sarvam's Saaras v4 against systems that process a whole recording, and 17% fewer than Saaras v4 against streaming systems.",
+          "quote": "launched Chariot-1-ASR Realtime on October 22, a speech recognition model that converts spoken words into text",
+          "published": "2026-10-23",
+          "context": "riot launched its speech recognition model, Chariot-1-ASR Realtime, which converts spoken words into text during conversations.\n\nThe model demonstrates superior accuracy, with 26% fewer errors than Google Gemini 3.5 Transcribe across 10 Indian languages.\n\nChariot-1-ASR Realtime supports major Indian languages, including Hindi, Marathi, and Tamil, along with Indian English.\n\nIn tests, it showed a 5.04% error rate for Hindi calls, outperforming OpenAI's gpt-transcribe significantly.\n\nThe model was tested on extensive datasets, making it robust for various types of audio recordings.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nChariot, a frontier AI research lab, launched Chariot-1-ASR Realtime on October 22, a speech recognition model that converts spoken words into text while people are still talking. The company said the model outperformed every streaming and batch transcription system it tested across 10 Indian languages.\n\nThe model supports Hindi, Marathi, Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Punjabi and Odia. It also supports Indian English and is available on the Chariot platform, according to the company.\n\nChariot said it tested the model on 79 public test sets from 11 collections, covering around 153,000 audio recordings. The tests included everyday conversations, telephone calls, read-aloud speech and recordings with background noise.\n\nThe research lab said its model made 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fe"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "line": 11,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The results are from Chariot's own tests: on 79 public test sets covering around 153,000 recordings, it reports 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fewer than Saaras v4 among whole-recording systems, and 17% fewer than Saaras v4 and 57% fewer than ElevenLabs Scribe v2 Realtime among streaming ones, where Chariot was not told the language and rivals got the language settings that worked best for them [AIM](https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages",
+          "id": "4d4424ae2b1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/4d4424ae2b1c.txt",
+          "headline": "Chariot launches Chariot-1-ASR Realtime speech model for 10 Indian languages",
+          "claim": "Chariot, which AIM calls a frontier AI research lab, launched Chariot-1-ASR Realtime on 22 Oct 2026, a speech recognition model for 10 Indian languages plus Indian English that is available on the Chariot platform. In its own tests on 79 public test sets, Chariot says the model made 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fewer than Sarvam's Saaras v4 against systems that process a whole recording, and 17% fewer than Saaras v4 against streaming systems.",
+          "quote": "launched Chariot-1-ASR Realtime on October 22, a speech recognition model that converts spoken words into text",
+          "published": "2026-10-23",
+          "context": "riot launched its speech recognition model, Chariot-1-ASR Realtime, which converts spoken words into text during conversations.\n\nThe model demonstrates superior accuracy, with 26% fewer errors than Google Gemini 3.5 Transcribe across 10 Indian languages.\n\nChariot-1-ASR Realtime supports major Indian languages, including Hindi, Marathi, and Tamil, along with Indian English.\n\nIn tests, it showed a 5.04% error rate for Hindi calls, outperforming OpenAI's gpt-transcribe significantly.\n\nThe model was tested on extensive datasets, making it robust for various types of audio recordings.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nChariot, a frontier AI research lab, launched Chariot-1-ASR Realtime on October 22, a speech recognition model that converts spoken words into text while people are still talking. The company said the model outperformed every streaming and batch transcription system it tested across 10 Indian languages.\n\nThe model supports Hindi, Marathi, Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Punjabi and Odia. It also supports Indian English and is available on the Chariot platform, according to the company.\n\nChariot said it tested the model on 79 public test sets from 11 collections, covering around 153,000 audio recordings. The tests included everyday conversations, telephone calls, read-aloud speech and recordings with background noise.\n\nThe research lab said its model made 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fe"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "line": 13,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On Vaani, Hindi recordings from speakers across different districts, Chariot reports a 17.21% error rate against 17.86% for Saaras v4, and on Monsoon's unscripted Hindi phone calls 5.04% against 8.27% for OpenAI's gpt-transcribe [AIM](https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages",
+          "id": "4d4424ae2b1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/4d4424ae2b1c.txt",
+          "headline": "Chariot launches Chariot-1-ASR Realtime speech model for 10 Indian languages",
+          "claim": "Chariot, which AIM calls a frontier AI research lab, launched Chariot-1-ASR Realtime on 22 Oct 2026, a speech recognition model for 10 Indian languages plus Indian English that is available on the Chariot platform. In its own tests on 79 public test sets, Chariot says the model made 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fewer than Sarvam's Saaras v4 against systems that process a whole recording, and 17% fewer than Saaras v4 against streaming systems.",
+          "quote": "launched Chariot-1-ASR Realtime on October 22, a speech recognition model that converts spoken words into text",
+          "published": "2026-10-23",
+          "context": "riot launched its speech recognition model, Chariot-1-ASR Realtime, which converts spoken words into text during conversations.\n\nThe model demonstrates superior accuracy, with 26% fewer errors than Google Gemini 3.5 Transcribe across 10 Indian languages.\n\nChariot-1-ASR Realtime supports major Indian languages, including Hindi, Marathi, and Tamil, along with Indian English.\n\nIn tests, it showed a 5.04% error rate for Hindi calls, outperforming OpenAI's gpt-transcribe significantly.\n\nThe model was tested on extensive datasets, making it robust for various types of audio recordings.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nChariot, a frontier AI research lab, launched Chariot-1-ASR Realtime on October 22, a speech recognition model that converts spoken words into text while people are still talking. The company said the model outperformed every streaming and batch transcription system it tested across 10 Indian languages.\n\nThe model supports Hindi, Marathi, Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Punjabi and Odia. It also supports Indian English and is available on the Chariot platform, according to the company.\n\nChariot said it tested the model on 79 public test sets from 11 collections, covering around 153,000 audio recordings. The tests included everyday conversations, telephone calls, read-aloud speech and recordings with background noise.\n\nThe research lab said its model made 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fe"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "line": 15,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Saaras V4 itself supports 22 Indian languages and English, AIM noted in a separate 19 Oct feature on Indian voice AI [AIM](https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+          "id": "e62b4cb6e5db",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e62b4cb6e5db.txt",
+          "headline": "Karnataka-ElevenLabs voice AI MoU irks Indian startups",
+          "claim": "AIM reported on 19 Oct 2026 that Indian voice AI startups are unhappy that ElevenLabs signed an MoU with the Karnataka Innovation and Technology Society to explore Kannada voice AI for citizen services, skilling and grievance redressal. The article says India is ElevenLabs' second-largest market outside the US, with more than 250 businesses and enterprises using it and 100 million conversations on ElevenAgents over the past year.",
+          "quote": "ElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada",
+          "published": "2026-10-19",
+          "context": "ces in Kannada for citizen engagement.\n\nThis collaboration may limit opportunities for domestic startups in a competitive market focused on government services.\n\nElevenLabs has a significant presence in India, with over 250 businesses utilising its technology for various conversations.\n\nConcerns arise over data privacy, as reliance on foreign AI platforms could expose sensitive information to external jurisdictions.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nIndia’s AI startups are building homegrown alternatives to global products, yet state governments have been eyeing partnerships with foreign players, making it harder for them to find customers at home.\n\nElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada across citizen services, skilling, and grievance redressal. The initiative will enable mute users to communicate using a synthetic version of their lost voice, including in Kannada. Under the programme, they will receive free lifetime licences.\n\nThis partnership gives ElevenLabs a formal route to pursue public-sector applications in a state with a large technology ecosystem.\n\nThat said, India is ElevenLabs second-largest market outside the US, with more than 250 businesses and enterprises using its technology. Indian businesses recorded 100 million conversations on ElevenAgents over the past year, with more than 70% conducted in Hindi, Kannada, Tamil, and Telugu. The platform’s language sup"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "line": 17,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Birla AI Labs, an AI initiative and venture studio under the Aditya Birla Group, released Yug-1, its first time series foundation model, to forecast outcomes, identify patterns and detect anomalies across interconnected datasets, and the company says its team took it from training to deployment in under six months [AIM](https://analyticsindiamag.com/ai-news/birla-ai-labs-launches-yug-1-a-time-series-foundation-model-built-in-india).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/birla-ai-labs-launches-yug-1-a-time-series-foundation-model-built-in-india",
+          "id": "e75814707d27",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e75814707d27.txt",
+          "headline": "Birla AI Labs releases Yug-1, a time series foundation model",
+          "claim": "Birla AI Labs, an AI initiative and venture studio under the Aditya Birla Group, has released Yug-1, its first time series foundation model, which AIM reported on 19 Oct 2026 is available on GitHub and Hugging Face for developers and researchers to test. Founder and chairperson Ananya Birla says Yug-1 outperformed other first-generation time series models on the GiftEval benchmark and performed competitively against newer-generation models (the lab's own claim).",
+          "quote": "has released Yug-1, its first time series foundation model (TSFM), developed to forecast outcomes, identify patterns, and detect anomalies across interconnected datasets.",
+          "published": "2026-10-19",
+          "context": "o analyse time-dependent data and generate forecasts across multiple variables.\n\nThe model outperformed first-generation time series models and is competitive with newer generations, according to Birla AI Labs.\n\nYug-1 was developed and deployed in under six months, reflecting the efficiency of Birla AI Labs' research team.\n\nThe model is available for developers and researchers on platforms like GitHub and Hugging Face.\n\nBirla AI Labs aims to shift the focus of AI research from language models to structured, time-dependent data analysis.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nBirla AI Labs, an AI initiative and venture studio under the Aditya Birla Group, has released Yug-1, its first time series foundation model (TSFM), developed to forecast outcomes, identify patterns, and detect anomalies across interconnected datasets.\n\nTSFMs are large-scale AI models pre-trained on a diverse collection of universal temporal patterns, such as weather, traffic, finance, retail, and energy records.\n\nAnanya Birla, Founder and Chairperson of Birla AI Labs, said Yug-1 outperformed other first-generation TSMFs on the GiftEval benchmark and performed competitively against newer-generation models.\n\nThe company said its frontier research team took Yug-1 from training to deployment in under six months. The model is available on GitHub and Hugging Face for developers and researchers to test.\n\n“Most of the conversation around AI today is about language. But so much of the data that actually runs businesses and economies moves through"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "line": 19,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Founder and chairperson Ananya Birla says Yug-1 outperformed other first-generation time series models on the GiftEval benchmark and performed competitively against newer-generation ones, both claims from the lab itself, and the model is on GitHub and Hugging Face for developers and researchers to test [AIM](https://analyticsindiamag.com/ai-news/birla-ai-labs-launches-yug-1-a-time-series-foundation-model-built-in-india).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/birla-ai-labs-launches-yug-1-a-time-series-foundation-model-built-in-india",
+          "id": "e75814707d27",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e75814707d27.txt",
+          "headline": "Birla AI Labs releases Yug-1, a time series foundation model",
+          "claim": "Birla AI Labs, an AI initiative and venture studio under the Aditya Birla Group, has released Yug-1, its first time series foundation model, which AIM reported on 19 Oct 2026 is available on GitHub and Hugging Face for developers and researchers to test. Founder and chairperson Ananya Birla says Yug-1 outperformed other first-generation time series models on the GiftEval benchmark and performed competitively against newer-generation models (the lab's own claim).",
+          "quote": "has released Yug-1, its first time series foundation model (TSFM), developed to forecast outcomes, identify patterns, and detect anomalies across interconnected datasets.",
+          "published": "2026-10-19",
+          "context": "o analyse time-dependent data and generate forecasts across multiple variables.\n\nThe model outperformed first-generation time series models and is competitive with newer generations, according to Birla AI Labs.\n\nYug-1 was developed and deployed in under six months, reflecting the efficiency of Birla AI Labs' research team.\n\nThe model is available for developers and researchers on platforms like GitHub and Hugging Face.\n\nBirla AI Labs aims to shift the focus of AI research from language models to structured, time-dependent data analysis.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nBirla AI Labs, an AI initiative and venture studio under the Aditya Birla Group, has released Yug-1, its first time series foundation model (TSFM), developed to forecast outcomes, identify patterns, and detect anomalies across interconnected datasets.\n\nTSFMs are large-scale AI models pre-trained on a diverse collection of universal temporal patterns, such as weather, traffic, finance, retail, and energy records.\n\nAnanya Birla, Founder and Chairperson of Birla AI Labs, said Yug-1 outperformed other first-generation TSMFs on the GiftEval benchmark and performed competitively against newer-generation models.\n\nThe company said its frontier research team took Yug-1 from training to deployment in under six months. The model is available on GitHub and Hugging Face for developers and researchers to test.\n\n“Most of the conversation around AI today is about language. But so much of the data that actually runs businesses and economies moves through"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "line": 29,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In Karnataka, AIM reported on 19 Oct that ElevenLabs recently signed an MoU with the Karnataka Innovation and Technology Society to explore Kannada voice AI in citizen services, skilling and grievance redressal, including free lifetime licences for mute users to communicate through a synthetic version of their lost voice [AIM](https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+          "id": "e62b4cb6e5db",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e62b4cb6e5db.txt",
+          "headline": "Karnataka-ElevenLabs voice AI MoU irks Indian startups",
+          "claim": "AIM reported on 19 Oct 2026 that Indian voice AI startups are unhappy that ElevenLabs signed an MoU with the Karnataka Innovation and Technology Society to explore Kannada voice AI for citizen services, skilling and grievance redressal. The article says India is ElevenLabs' second-largest market outside the US, with more than 250 businesses and enterprises using it and 100 million conversations on ElevenAgents over the past year.",
+          "quote": "ElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada",
+          "published": "2026-10-19",
+          "context": "ces in Kannada for citizen engagement.\n\nThis collaboration may limit opportunities for domestic startups in a competitive market focused on government services.\n\nElevenLabs has a significant presence in India, with over 250 businesses utilising its technology for various conversations.\n\nConcerns arise over data privacy, as reliance on foreign AI platforms could expose sensitive information to external jurisdictions.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nIndia’s AI startups are building homegrown alternatives to global products, yet state governments have been eyeing partnerships with foreign players, making it harder for them to find customers at home.\n\nElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada across citizen services, skilling, and grievance redressal. The initiative will enable mute users to communicate using a synthetic version of their lost voice, including in Kannada. Under the programme, they will receive free lifetime licences.\n\nThis partnership gives ElevenLabs a formal route to pursue public-sector applications in a state with a large technology ecosystem.\n\nThat said, India is ElevenLabs second-largest market outside the US, with more than 250 businesses and enterprises using its technology. Indian businesses recorded 100 million conversations on ElevenAgents over the past year, with more than 70% conducted in Hindi, Kannada, Tamil, and Telugu. The platform’s language sup"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "line": 31,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Indian voice AI founders pushed back in [AIM](https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups): \"If the model sits abroad, India is renting intelligence, not building it,\" said Navana.ai chief executive Raoul Nanavati, though CoRover.ai chief executive Ankush Sabharwal cautioned that the risk is \"preference becomes blind protection\".",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+          "id": "e62b4cb6e5db",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e62b4cb6e5db.txt",
+          "headline": "Karnataka-ElevenLabs voice AI MoU irks Indian startups",
+          "claim": "AIM reported on 19 Oct 2026 that Indian voice AI startups are unhappy that ElevenLabs signed an MoU with the Karnataka Innovation and Technology Society to explore Kannada voice AI for citizen services, skilling and grievance redressal. The article says India is ElevenLabs' second-largest market outside the US, with more than 250 businesses and enterprises using it and 100 million conversations on ElevenAgents over the past year.",
+          "quote": "ElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada",
+          "published": "2026-10-19",
+          "context": "ces in Kannada for citizen engagement.\n\nThis collaboration may limit opportunities for domestic startups in a competitive market focused on government services.\n\nElevenLabs has a significant presence in India, with over 250 businesses utilising its technology for various conversations.\n\nConcerns arise over data privacy, as reliance on foreign AI platforms could expose sensitive information to external jurisdictions.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nIndia’s AI startups are building homegrown alternatives to global products, yet state governments have been eyeing partnerships with foreign players, making it harder for them to find customers at home.\n\nElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada across citizen services, skilling, and grievance redressal. The initiative will enable mute users to communicate using a synthetic version of their lost voice, including in Kannada. Under the programme, they will receive free lifetime licences.\n\nThis partnership gives ElevenLabs a formal route to pursue public-sector applications in a state with a large technology ecosystem.\n\nThat said, India is ElevenLabs second-largest market outside the US, with more than 250 businesses and enterprises using its technology. Indian businesses recorded 100 million conversations on ElevenAgents over the past year, with more than 70% conducted in Hindi, Kannada, Tamil, and Telugu. The platform’s language sup"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "line": 33,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On compute, Utho Cloud opened reservations for NVIDIA B300 GPUs in India ahead of a planned February 2027 deployment, for one, two or three years, allocated in order of reservation, with rupee billing and India-hosted infrastructure; AIM gives no prices and no B300 count, though Utho has outlined plans to deploy 10,000 GPUs [AIM](https://analyticsindiamag.com/ai-news/utho-cloud-opens-b300-gpu-bookings-ahead-of-february-2027-rollout).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/utho-cloud-opens-b300-gpu-bookings-ahead-of-february-2027-rollout",
+          "id": "2cfa8241334d",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2cfa8241334d.txt",
+          "headline": "Utho Cloud opens NVIDIA B300 reservations in India ahead of February 2027",
+          "claim": "Analytics India Magazine reported on 19 Oct 2026 that Utho Cloud has opened reservations for NVIDIA B300 GPUs in India, with deployment planned for February 2027, one-to-three-year reservations, rupee-based billing and India-hosted infrastructure. The article gives no prices and no count of B300 GPUs available.",
+          "quote": "Indian cloud provider Utho Cloud has opened reservations for NVIDIA B300 GPUs in India ahead of a planned February 2027 deployment",
+          "published": "2026-10-19",
+          "context": "2026-10-19T12:13:41.724+05:30\n\nKey takeaways\n\nUtho Cloud has opened reservations for NVIDIA B300 GPUs in India, with deployment scheduled for February 2027.\n\nThe service offers round-the-clock engineering support, rupee-based pricing, and local data hosting to assist Indian businesses.\n\nOrganisations can reserve GPU capacity for one to three years, with allocations based on reservation order.\n\nThe NVIDIA B300 GPU supports advanced workloads, including large language model training and AI applications.\n\nUtho Cloud aims to enhance access to computing capacity as demand for AI infrastructure continues to grow in India.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nIndian cloud provider Utho Cloud has opened reservations for NVIDIA B300 GPUs in India ahead of a planned February 2027 deployment, offering AI companies and enterprises committed computing capacity with rupee-based billing and India-hosted infrastructure.\n\nThe company said that organisations can reserve GPU capacity for one, two, or three years. Allocations will be made in the order of reservations, allowing customers to plan computing requirements ahead of deployment.\n\nThe NVIDIA B300, based on the Blackwell Ultra architecture, comes with 288GB of HBM3e memory and supports workloads such as large language model training, inference, and AI agents.\n\nUtho said its offering will include round-the-clock engineering support, rupee-based pricing, and local data hosting. These provisions are intended to help Indian businesse"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "line": 35,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Cortex DC, the AI-first subsidiary of The Chatterjee Group, plans 2 GW of data centre capacity across India for hyperscalers, cloud providers and AI workloads, targets operational readiness for its first data centre within 18 months of first shovel and plans to source 51 per cent of its energy from green sources, but the report names no site, cost or customer [Indian Infrastructure](https://indianinfrastructure.com/2026/10/23/cortex-dc-advances-plans-to-develop-2-gw-of-ai-ready-data-centre-capacity-across-india/).",
+      "evidence": [
+        {
+          "chip": "Indian Infrastructure",
+          "url": "https://indianinfrastructure.com/2026/10/23/cortex-dc-advances-plans-to-develop-2-gw-of-ai-ready-data-centre-capacity-across-india/",
+          "id": "8af3b89f59e1",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/8af3b89f59e1.txt",
+          "headline": "Cortex DC plans 2 GW of AI-ready data centres across India",
+          "claim": "Cortex DC, the AI-first subsidiary of The Chatterjee Group, plans to develop 2 gigawatts of data centre capacity across India, is targeting operational readiness for its first data centre within 18 months of first shovel, and plans to source 51 per cent of its energy from green sources (Indian Infrastructure, 23 Oct 2026). The report names no site, investment figure or customer.",
+          "quote": "the company plans to develop 2 gigawatts (GW) of capacity across India to meet rising demand for high-performance computing",
+          "published": "2026-10-23",
+          "context": "andla\n\nPorts & Shipping\n\n[ October 22, 2026 ]\n\nCeigall India receives PCC for Jalbehra-Shahbad greenfield road project in Haryana\n\nRoads and Bridges\n\n[ October 22, 2026 ]\n\nKPIL secures Rs 23.49 billion orders across various segments\n\nPower\n\nSearch for:\n\nHomeNewsTelecomCortex DC advances plans to develop 2 GW of AI-ready data centre capacity across India\n\nCortex DC advances plans to develop 2 GW of AI-ready data centre capacity across India\n\nOctober 23, 2026\n\nCortex DC, the artificial intelligence (AI) first subsidiary of The Chatterjee Group (TCG) is foraying into the data centre space after careful preparation. Built to serve hyperscalers, cloud service providers and advanced AI workloads, the company plans to develop 2 gigawatts (GW) of capacity across India to meet rising demand for high-performance computing driven by AI and cloud adoption.\n\nThe platform has been in development over the past several months, and its site, power and partner workstreams are already advanced. Cortex DC is built on three priorities: speed, scale and sustainable power. The company is targeting operational readiness for its first data centre within 18 months of first shovel, an accelerated timeline aimed at meeting growing demand for AI-ready infrastructure, hypercompute capability and data consumption. It also plans to source 51 per cent of its energy from green sources, building renewable energy into its infrastructure strategy from the outset.\n\nWith a clear development roadmap, an experienced leadership team and a "
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "line": 41,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "AI led a slower funding week: Indian startups raised over $184 Mn across 17 deals between 19 and 23 Oct, down 22% from the week before, and AI startups took $93.9 Mn of it across six deals, all six listed under application layer in Inc42's table [Inc42](https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
+          "id": "e0a51f312ca3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e0a51f312ca3.txt",
+          "headline": "Different emerges from stealth with $48 Mn seed; AI leads weekly funding",
+          "claim": "Ajeet Sing-led AI martech startup Different came out of stealth with a $48 Mn seed round led by General Catalyst, with Lightspeed Venture Partners also investing (22 Oct 2026). Inc42 counted AI startups as the top sector for 19-23 Oct, raising $93.9 Mn across six deals out of over $184 Mn across 17 startup deals.",
+          "quote": "Ajeet Sing-led AI powered martech startup Different emerged from stealth and raised $48 Mn, the biggest cheque for an AI startup this week.",
+          "published": "2026-10-24",
+          "context": "t)\n\n21 Oct 2026\nOnto\nTravel Tech\nBooking Services\nB2C\n$1 Mn\nPre-Seed\nStargazer Fund, White Venture Capital\nStargazer Fund, White Venture Capital\n\n23 Oct 2026\nPaar Autonomy\nAdvanced Hardware & Technology\nDefence Tech\nB2B\n$1 Mn\nSeed\nAdvantEdge Founders\nAdvantEdge Founders\n\n23 Oct 2026\nSpectraGaze Systems\nAdvanced Hardware & Technology\nSpace Tech\nB2B\n$389K\nSeed\nGVFL\n\n21 Oct 2026\nRAAHO\nLogistics\nShipping & Delivery\nB2B\n–\nPre-Series A\nEnrission India Capital Inc\nEnrission India Capital Inc\n\nSource: Inc42\n\n*Mix of equity and debt\n\nKey Startup Funding Highlights Of The Week\n\nAI startups continued to see the highest investor interest for a second consecutive week, raising $93.9 Mn across six deals. Ajeet Sing-led AI powered martech startup Different emerged from stealth and raised $48 Mn, the biggest cheque for an AI startup this week. \n\nHealthtech was the second-most funded sector, attracting $60.6 Mn across two deals. The funding number was largely driven by Even Healthcare’s $50 Mn Series B round, while CureBay raised $10.6 Mn in a mix of equity and debt.\n\nVenture debt firm Trifecta Capital and early-stage focused VC Blume Ventures backed two startups apiece, becoming the most active investors this week.\n\nIn a relatively dull funding week, seed stage startups were more sought after by investors. Five startups at this stage lapped up $51.4 Mn, making up about 28% of the overall funding pie.\n\nStartup IPO Updates Of The Week\n\nDefence tech company Tonbo Imaging closed its ₹852 Cr IPO with a whopping 135.9X subscription and"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "line": 43,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Different**, Ajeet Sing's AI martech startup, came out of stealth with a $48 Mn seed round led by General Catalyst, with Lightspeed Venture Partners, the biggest AI cheque in Inc42's tally of Indian startup rounds that week [Inc42](https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
+          "id": "e0a51f312ca3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e0a51f312ca3.txt",
+          "headline": "Different emerges from stealth with $48 Mn seed; AI leads weekly funding",
+          "claim": "Ajeet Sing-led AI martech startup Different came out of stealth with a $48 Mn seed round led by General Catalyst, with Lightspeed Venture Partners also investing (22 Oct 2026). Inc42 counted AI startups as the top sector for 19-23 Oct, raising $93.9 Mn across six deals out of over $184 Mn across 17 startup deals.",
+          "quote": "Ajeet Sing-led AI powered martech startup Different emerged from stealth and raised $48 Mn, the biggest cheque for an AI startup this week.",
+          "published": "2026-10-24",
+          "context": "t)\n\n21 Oct 2026\nOnto\nTravel Tech\nBooking Services\nB2C\n$1 Mn\nPre-Seed\nStargazer Fund, White Venture Capital\nStargazer Fund, White Venture Capital\n\n23 Oct 2026\nPaar Autonomy\nAdvanced Hardware & Technology\nDefence Tech\nB2B\n$1 Mn\nSeed\nAdvantEdge Founders\nAdvantEdge Founders\n\n23 Oct 2026\nSpectraGaze Systems\nAdvanced Hardware & Technology\nSpace Tech\nB2B\n$389K\nSeed\nGVFL\n\n21 Oct 2026\nRAAHO\nLogistics\nShipping & Delivery\nB2B\n–\nPre-Series A\nEnrission India Capital Inc\nEnrission India Capital Inc\n\nSource: Inc42\n\n*Mix of equity and debt\n\nKey Startup Funding Highlights Of The Week\n\nAI startups continued to see the highest investor interest for a second consecutive week, raising $93.9 Mn across six deals. Ajeet Sing-led AI powered martech startup Different emerged from stealth and raised $48 Mn, the biggest cheque for an AI startup this week. \n\nHealthtech was the second-most funded sector, attracting $60.6 Mn across two deals. The funding number was largely driven by Even Healthcare’s $50 Mn Series B round, while CureBay raised $10.6 Mn in a mix of equity and debt.\n\nVenture debt firm Trifecta Capital and early-stage focused VC Blume Ventures backed two startups apiece, becoming the most active investors this week.\n\nIn a relatively dull funding week, seed stage startups were more sought after by investors. Five startups at this stage lapped up $51.4 Mn, making up about 28% of the overall funding pie.\n\nStartup IPO Updates Of The Week\n\nDefence tech company Tonbo Imaging closed its ₹852 Cr IPO with a whopping 135.9X subscription and"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "line": 44,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**AuxoAI**, whose AI strategists and engineers work alongside client staff at companies such as UKG and Fogo de Chão, raised a $20.7 million Series A led by NTTVC [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-21-october-2026/).",
+      "evidence": [
+        {
+          "chip": "StartupTalky",
+          "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-21-october-2026/",
+          "id": "ad3ca80fc7a3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/ad3ca80fc7a3.txt",
+          "headline": "AuxoAI raises $20.7 Mn Series A led by NTTVC",
+          "claim": "AuxoAI raised a $20.7 million Series A led by NTTVC on 21 Oct 2026, with angel investors George Still Jr., Amit Zavery and Giacomo Sonnino taking part. Its AI strategists and engineers work alongside client staff, and its clients include UKG and Fogo de Chão.",
+          "quote": "AuxoAI raised $20.7 million in a Series A round led by NTTVC, the Silicon Valley venture firm backed by Japan's NTT.",
+          "published": "2026-10-21",
+          "context": "lion, Jio Platforms Opens ₹30,213 Crore IPO\n\nFour funding rounds were announced on 21 October 2026, in sectors ranging from enterprise AI to travel and local delivery. NTTVC, SenseAI Ventures and Stargazer Fund were among the day's lead investors. Jio Platforms also opened its INR 30,213 crore IPO, India's biggest share sale.\n\nDaily Indian Startup Funding Roundup - 21 October 2026\n\nStartup Sector Funding Round Lead Investors\n\nAuxoAI Enterprise AI $20.7 Mn Series A NTTVC\n\nVectorial AI Software $3 Mn Undisclosed SenseAI Ventures\n\nOnto Travel Tech $1 Mn Pre-Seed Stargazer Fund\n\nFurtilo Hyperlocal Delivery Undisclosed Seed Trikona LLC\n\nAuxoAI Raises $20.7 Million in Series A Round Led by NTTVC\n\nAuxoAI raised $20.7 million in a Series A round led by NTTVC, the Silicon Valley venture firm backed by Japan's NTT. Angel investors George Still Jr., Amit Zavery and Giacomo Sonnino also took part. The company will use the money to grow the teams it places inside client companies and to build its own AI tools.\n\nFounded in 2023 by Amaresh Tripathy, Arvinder Pal Singh and Kabir Singh, AuxoAI helps large global companies find uses for AI and build working systems. Its AI strategists and engineers work alongside client staff, using its in-house platform, Damia. Its clients include workforce software firm UKG and restaurant chain Fogo de Chão.\n\nVectorial Raises $3 Million Led by SenseAI Ventures\n\nVectorial raised $3 million in a round led by SenseAI Ventures, with Smilegate, Berkeley SkyDeck and other investo"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "line": 45,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Hunar.AI**, whose conversational agents handle candidate screening and interview scheduling for frontline employers in regional languages, raised Rs 39.3 crore in a Series A led by Blume Ventures, according to [Indian Startup News](https://indianstartupnews.com/funding/ai-hiring-startup-hunarai-raises-rs-393-crore-in-funding-led-by-blume-ventures-12690269), which cites reports based on regulatory filings; Inc42's table lists the round at $4.2 Mn [Inc42](https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/).",
+      "evidence": [
+        {
+          "chip": "Indian Startup News",
+          "url": "https://indianstartupnews.com/funding/ai-hiring-startup-hunarai-raises-rs-393-crore-in-funding-led-by-blume-ventures-12690269",
+          "id": "02ad5aebb239",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/02ad5aebb239.txt",
+          "headline": "Hunar.AI raises Rs 39.3 crore Series A led by Blume",
+          "claim": "Bengaluru-based Hunar.AI raised Rs 39.3 crore in a Series A led by Blume Ventures, which invested Rs 29 crore, according to reports citing regulatory filings. Its conversational AI agents automate recruitment, onboarding, training and workforce engagement for employers of frontline workers, and its customers include Croma and Tata 1mg.",
+          "quote": "Bengaluru-based conversational AI startup Hunar.AI has raised Rs 39.3 crore in a Series A funding round led by Blume Ventures",
+          "published": "2026-10-21",
+          "context": "News.\n\nSign In with Google\n\nSign In with Facebook\n\nSign in with Email\n\nBy clicking the button, I accept the Terms of Use of the service and its Privacy Policy, as well as consent to the processing of personal data.\n\nDon’t have an account? Signup\n\nBookmarks\n\nMy Profile\n\nLog Out\n\nNews\n\nISN Exclusive\n\nFunding Fusion\n\nStartup Stories\n\nISN IN Depth\n\nNext Wave\n\nGovt Policy\n\nReports\n\nTID by ISN\n\nNews\n\nFunding Fusion\n\nStartup Stories\n\nISN In Depth\n\nNextWave\n\nWeb Stories\n\nReports\n\nNewsletter\n\nYou have successfully subscribed the newsletter.\n\nFunding Fusion\n\nNews\n\nAI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures\n\nISN Team\n\n21 Oct 2026\n\n15:27\nIST\n\nFollow Us\n\nNew Update\n\nBengaluru-based conversational AI startup Hunar.AI has raised Rs 39.3 crore in a Series A funding round led by Blume Ventures, as it looks to expand its technology for hiring and managing frontline workers.\n\nAdvertisment\n\nThe round also saw participation from Seedstars, Hyderabad Angels Fund, AVNM Ventures and PhysicsWallah co-founders Alakh Pandey and Prateek Maheshwari, according to reports citing regulatory filings.\n\nBlume Ventures invested Rs 29 crore, while Seedstars and Hyderabad Angels Fund contributed Rs 3.31 crore and Rs 3 crore respectively.\n\nThe startup plans to use the funding to strengthen its AI infrastructure, develop its products and expand its operations.\n\nFounded by Krishna Khandelwal and Shantanu Bhattacharyya, Hunar.AI develops conversational AI agents to automate recruitment, onboarding, train"
+        },
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
+          "id": "e0a51f312ca3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e0a51f312ca3.txt",
+          "headline": "Different emerges from stealth with $48 Mn seed; AI leads weekly funding",
+          "claim": "Ajeet Sing-led AI martech startup Different came out of stealth with a $48 Mn seed round led by General Catalyst, with Lightspeed Venture Partners also investing (22 Oct 2026). Inc42 counted AI startups as the top sector for 19-23 Oct, raising $93.9 Mn across six deals out of over $184 Mn across 17 startup deals.",
+          "quote": "Ajeet Sing-led AI powered martech startup Different emerged from stealth and raised $48 Mn, the biggest cheque for an AI startup this week.",
+          "published": "2026-10-24",
+          "context": "t)\n\n21 Oct 2026\nOnto\nTravel Tech\nBooking Services\nB2C\n$1 Mn\nPre-Seed\nStargazer Fund, White Venture Capital\nStargazer Fund, White Venture Capital\n\n23 Oct 2026\nPaar Autonomy\nAdvanced Hardware & Technology\nDefence Tech\nB2B\n$1 Mn\nSeed\nAdvantEdge Founders\nAdvantEdge Founders\n\n23 Oct 2026\nSpectraGaze Systems\nAdvanced Hardware & Technology\nSpace Tech\nB2B\n$389K\nSeed\nGVFL\n\n21 Oct 2026\nRAAHO\nLogistics\nShipping & Delivery\nB2B\n–\nPre-Series A\nEnrission India Capital Inc\nEnrission India Capital Inc\n\nSource: Inc42\n\n*Mix of equity and debt\n\nKey Startup Funding Highlights Of The Week\n\nAI startups continued to see the highest investor interest for a second consecutive week, raising $93.9 Mn across six deals. Ajeet Sing-led AI powered martech startup Different emerged from stealth and raised $48 Mn, the biggest cheque for an AI startup this week. \n\nHealthtech was the second-most funded sector, attracting $60.6 Mn across two deals. The funding number was largely driven by Even Healthcare’s $50 Mn Series B round, while CureBay raised $10.6 Mn in a mix of equity and debt.\n\nVenture debt firm Trifecta Capital and early-stage focused VC Blume Ventures backed two startups apiece, becoming the most active investors this week.\n\nIn a relatively dull funding week, seed stage startups were more sought after by investors. Five startups at this stage lapped up $51.4 Mn, making up about 28% of the overall funding pie.\n\nStartup IPO Updates Of The Week\n\nDefence tech company Tonbo Imaging closed its ₹852 Cr IPO with a whopping 135.9X subscription and"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "line": 46,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Karta AI** raised a $3 million seed round for voice AI that automates customer interactions in banking, lending and insurance [Local Samosa](https://www.localsamosa.com/news/startup-roundup-fourth-week-of-october-2026-12740723).",
+      "evidence": [
+        {
+          "chip": "Local Samosa",
+          "url": "https://www.localsamosa.com/news/startup-roundup-fourth-week-of-october-2026-12740723",
+          "id": "659ceaf4537c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/659ceaf4537c.txt",
+          "headline": "Karta AI raises $3 Mn seed for voice AI in banking",
+          "claim": "Voice AI startup Karta AI raised $3 million in seed funding led by PeerCapital and Cedar Hill Capital, per Local Samosa's 23 Oct 2026 roundup. It will use the funds to build its conversational AI platform for financial institutions and to automate customer interactions across banking, lending and insurance.",
+          "quote": "Voice AI startup Karta AI has raised $3 million in seed funding led by PeerCapital and Cedar Hill Capital",
+          "published": "2026-10-23",
+          "context": "s A funding round to expand its outlet network and strengthen operations. The company plans to use the capital to establish central kitchens and open new outlets across cities including Delhi-NCR, Mumbai, Bengaluru and Chandigarh.\n\nChapter Home raises Rs. 63 crore at nearly Rs. 1,000 crore valuation\n\nHome and kitchen products startup Chapter Home has raised Rs. 63 crore through a strategic funding round at a valuation of nearly Rs. 1,000 crore. The company will use the capital to expand into new categories, strengthen product development, invest in technology and brand building, and grow its distribution network.\n\nKarta AI raises $3 million in seed funding led by PeerCapital and Cedar Hill\n\nVoice AI startup Karta AI has raised $3 million in seed funding led by PeerCapital and Cedar Hill Capital to develop its conversational AI platform for financial institutions. The company will use the funds to enhance its voice AI technology, expand its customer base and automate customer interactions across banking, lending and insurance.\n\nCureBay raises Rs. 100 crore to expand its rural healthcare network\n\nHealthtech startup CureBay has raised Rs. 100 crore to expand its rural clinic network and strengthen its AI-powered screening and healthcare services. The funding will support its expansion into new markets and improve technology-enabled screening and clinical decision-making in underserved regions.\n\nBlacksmith raises $66 million at a unicorn valuation\n\nAI infrastructure startup Blacksmith"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "line": 47,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Blacksmith**, a San Francisco-based AI code-testing startup, raised a $66 Mn Series C led by Sequoia Capital at a $1 Bn valuation, with Peak XV, which led its Series B in August, investing again [Inc42](https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/",
+          "id": "5a2e525751c3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5a2e525751c3.txt",
+          "headline": "Peak XV-backed Blacksmith raises $66 Mn Series C at $1 Bn valuation",
+          "claim": "San Francisco-based AI code-testing startup Blacksmith raised a $66 Mn Series C led by Sequoia Capital, with Premji Invest and existing investors Peak XV Partners, Google Ventures and Y Combinator also participating, at a $1 Bn valuation. Inc42 says that doubled its $550 Mn valuation from the $45 Mn Series B that Peak XV led in August.",
+          "quote": "San Francisco-based AI code testing startup Blacksmith has raised $66 Mn in a Series C funding round led by Sequoia Capital",
+          "published": "2026-10-21",
+          "context": "s=\"3\"]\n\nNews\n\nPeak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation\n\n21 Oct'26\n| By Gaurav Bagur\n\nSUMMARY\n\nBlacksmith’s $66 Mn Series C funding round was led by Sequoia Capital with Premji Invest, Peak XV Partners, Google Ventures, and Y Combinator also participating\n\nThe startup, which currently manages nearly 10 MW of compute footprint, plans to expand its capacity by 5X in 2027 to meet the growing demand for its AI code testing cloud platform\n\nBlacksmith’s valuation has doubled to $1 Bn in just over two months. It was valued at $550 Mn when Peak XV led its $45 Mn Series B funding round in August\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nSan Francisco-based AI code testing startup Blacksmith has raised $66 Mn in a Series C funding round led by Sequoia Capital, bringing its total funding raised till date to $125 Mn. Premji Invest and existing investors Peak XV Partners, Google Ventures, and Y Combinator also participated in the round. \n\nThe startup raised the fresh capital at an unicorn valuation of $1 Bn, doubling in just over two months. It was valued at $550 Mn when Peak XV led its $45 Mn Series B funding round in August. \n\nIn a statement, the startup shared plans to bolster its compute infrastructure and expand its technical engineering team. It says that it currently manages nearly 10 MW of compute footprint across data centers in the United States and Europe.\n\nIt shared plans to expand its total capacity by 5X in 2027 to meet growing enterp"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "line": 49,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "At the growth stage, F2A, anchored by Nandan Nilekani, has secured ₹3,000 crore in subscriptions for its AI and deeptech fund and plans cheques of ₹100 crore to ₹200 crore into 12-15 companies, about 40% of it for physical AI such as semiconductors and robotics [AIM](https://analyticsindiamag.com/ai-features/why-nandan-nilekani-backed-f2a-believes-indias-investment-opportunity-lies-in-edge-ai).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/why-nandan-nilekani-backed-f2a-believes-indias-investment-opportunity-lies-in-edge-ai",
+          "id": "ec685efc48aa",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/ec685efc48aa.txt",
+          "headline": "Nilekani-anchored F2A gets ₹3,000 crore subscriptions for AI fund",
+          "claim": "Fundamentum Frontier Advisors (F2A), led by Ashish Kumar and anchored by Nandan Nilekani, has secured ₹3,000 crore in subscriptions for its growth-stage AI and deeptech fund, and its limited partners approved raising the hard cap to ₹3,500 crore. It expects to back 12-15 companies with cheques of ₹100 crore to ₹200 crore, about 40% in physical AI, 40% in digital consumer companies using AI and 20% in enterprise tools.",
+          "quote": "It recently secured ₹3,000 crore in subscriptions for its growth-stage AI and deeptech fund.",
+          "published": "2026-10-22",
+          "context": " acknowledges that Indian AI businesses may differ significantly from their Western counterparts.\n\nThere is a notable gap in funding for deeptech businesses at the growth stage in India.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nDeeptech investments are notorious for having long investment cycles. They can take anywhere between 7–12 years from founding to a liquidity event given the intensive R&D and testing phases. This requires specialised patient capital—something not many funds are willing to dabble in.\n\nFundamentum Frontier Advisors (F2A), the investment platform led by Ashish Kumar and anchored by Infosys co-founder Nandan Nilekani, is not among them. It recently secured ₹3,000 crore in subscriptions for its growth-stage AI and deeptech fund.\n\nIts limited partners have approved increasing the fund’s hard cap to ₹3,500 crore, following demand beyond its available capacity.\n\nThe fund plans to deploy capital over the next two to three years. It expects to invest in 12–15 companies, with individual cheques of ₹100 crore to ₹200 crore, according to F2A’s announcement.\n\nKumar believes the investor interest reflects growing recognition that Indian AI and deep-tech businesses may follow a different path from companies in Western markets.\n\n“The reason is people have bought the story; people have realised that the Indian AI and deeptech companies will not necessarily look exactly similar to what is happening in the West,” he tells AIM.\n\nH"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "line": 51,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Nikhil Kamath expects money to get harder to raise: in an NDTV World Summit interview streamed on 22 Oct, he said maybe a trillion dollars a year is going into AI against $100 to $200 billion coming out through enterprises, and that raising a lot of capital today and keeping it is \"probably not a bad idea\" [Singju Post](https://singjupost.com/transcript-nikhil-kamath-interview-at-ndtv-world-summit-2026/).",
+      "evidence": [
+        {
+          "chip": "Singju Post",
+          "url": "https://singjupost.com/transcript-nikhil-kamath-interview-at-ndtv-world-summit-2026/",
+          "id": "bf8b6c0e2c3c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bf8b6c0e2c3c.txt",
+          "headline": "Kamath says AI funding gap will make 2027 raises harder",
+          "claim": "In an NDTV World Summit interview streamed on 22 Oct 2026, Nikhil Kamath said roughly a trillion dollars a year is going into AI against maybe $100 to $200 billion coming out through enterprises, that money will become harder to get than it has been this year or last, and that raising capital now and keeping it is 'probably not a bad idea'. He rated the odds low that an Indian company can compete at the frontier-model layer, saw an opportunity in inference on open-source models, and said he would build at the application or services layers.",
+          "quote": "So if somebody is able to raise a lot of capital today and keep it, probably not a bad idea.",
+          "published": "2026-10-23",
+          "context": "h.\n\nSo everybody makes the debate, Rahul, that world GDP is $100-120 trillion, services is about half or 60% of it, and AI will disrupt 10% of that. So you will have $6-7 trillion of productivity coming out of it, and hence this spend is justified. I don’t know if I’ve seen that happen on the ground yet.\n\nSo for next year, with American Treasury rates going up, cost of money going to 5, 6, 7%, I don’t know where it’ll go, it’s at 5 today, somebody has to bridge this gap up until that $5 trillion revenue story plays out, even if it does. Or it doesn’t, nobody knows. So in the interim, I think it will become harder to get money, harder to get money than it has been this year or the last year. So if somebody is able to raise a lot of capital today and keep it, probably not a bad idea.\n\nInheritance Tax and Wealth Inequality\n\nRAHUL KANWAL: (00:35:20 – 00:35:44) Interesting. You’ve committed to giving away a lot of your money, which I find fascinating that such a young age you’re already thinking about giving away rather than accumulating more. You’ve also spoken about the need to look at how families inherit their resources, the capital that the patriarch has or the matriarch has. What do you think of the idea of inheritance tax in the Indian context?\n\nNIKHIL KAMATH: (00:35:46 – 00:37:30) I said something around this and got trolled once. There’s this thing called Gini coefficient which measures income inequality or wealth inequality in a society. It’s doing badly in most "
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "line": 53,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "\"I think the odds are low,\" Kamath said in the same interview of an Indian company competing at the frontier-model layer; if he were 17 today, he would build on the application or services layers [Singju Post](https://singjupost.com/transcript-nikhil-kamath-interview-at-ndtv-world-summit-2026/).",
+      "evidence": [
+        {
+          "chip": "Singju Post",
+          "url": "https://singjupost.com/transcript-nikhil-kamath-interview-at-ndtv-world-summit-2026/",
+          "id": "bf8b6c0e2c3c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bf8b6c0e2c3c.txt",
+          "headline": "Kamath says AI funding gap will make 2027 raises harder",
+          "claim": "In an NDTV World Summit interview streamed on 22 Oct 2026, Nikhil Kamath said roughly a trillion dollars a year is going into AI against maybe $100 to $200 billion coming out through enterprises, that money will become harder to get than it has been this year or last, and that raising capital now and keeping it is 'probably not a bad idea'. He rated the odds low that an Indian company can compete at the frontier-model layer, saw an opportunity in inference on open-source models, and said he would build at the application or services layers.",
+          "quote": "So if somebody is able to raise a lot of capital today and keep it, probably not a bad idea.",
+          "published": "2026-10-23",
+          "context": "h.\n\nSo everybody makes the debate, Rahul, that world GDP is $100-120 trillion, services is about half or 60% of it, and AI will disrupt 10% of that. So you will have $6-7 trillion of productivity coming out of it, and hence this spend is justified. I don’t know if I’ve seen that happen on the ground yet.\n\nSo for next year, with American Treasury rates going up, cost of money going to 5, 6, 7%, I don’t know where it’ll go, it’s at 5 today, somebody has to bridge this gap up until that $5 trillion revenue story plays out, even if it does. Or it doesn’t, nobody knows. So in the interim, I think it will become harder to get money, harder to get money than it has been this year or the last year. So if somebody is able to raise a lot of capital today and keep it, probably not a bad idea.\n\nInheritance Tax and Wealth Inequality\n\nRAHUL KANWAL: (00:35:20 – 00:35:44) Interesting. You’ve committed to giving away a lot of your money, which I find fascinating that such a young age you’re already thinking about giving away rather than accumulating more. You’ve also spoken about the need to look at how families inherit their resources, the capital that the patriarch has or the matriarch has. What do you think of the idea of inheritance tax in the Indian context?\n\nNIKHIL KAMATH: (00:35:46 – 00:37:30) I said something around this and got trolled once. There’s this thing called Gini coefficient which measures income inequality or wealth inequality in a society. It’s doing badly in most "
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "line": 53,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On Kamath's WTF podcast on 23 Oct, Turing's Vijay Krishnan counted about $700 billion committed to AI this year against roughly $100 billion of AI enterprise revenue [Scuttlebutt](https://getscuttlebutt.substack.com/p/turing-cto-not-one-fortune-500-ai).",
+      "evidence": [
+        {
+          "chip": "Scuttlebutt",
+          "url": "https://getscuttlebutt.substack.com/p/turing-cto-not-one-fortune-500-ai",
+          "id": "a4483da41c29",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/a4483da41c29.txt",
+          "headline": "WTF podcast: Turing CTO counts $700B AI spend against $100B revenue",
+          "claim": "On the 23 Oct 2026 episode of WTF is with Nikhil Kamath, Turing founder and CTO Vijay Krishnan counted about $700 billion committed to AI this year against roughly $100 billion of AI enterprise revenue. Scuttlebutt's summary says guests Vijay Krishnan and Notion COO Akshay Kothari put the bigger problem at adoption outside coding, and that agents went from 1% to 30% of Notion's users within 2026.",
+          "quote": "About $700 billion is committed to AI this year against roughly $100 billion of AI enterprise revenue, by the count of Vijay Krishnan",
+          "published": "2026-10-25",
+          "context": "Vijay Krishnan interview on WTF is with Nikhil Kamath\n\nScuttlebutt\n\nSubscribeSign in\n\nTuring CTO: not one Fortune 500 AI buyer has yet shown real revenue growth or cost cuts\n\n14 arguments: why Notion's COO calls AI usage a bubble, how agents reached 30% of Notion's users, and why $100 a month now buys an AI that works without being asked\n\nScuttlebutt\n\nOct 25, 2026\n\n∙ Paid\n\nShare\n\nAbout $700 billion is committed to AI this year against roughly $100 billion of AI enterprise revenue, by the count of Vijay Krishnan, founder and CTO of Turing, on WTF is with Nikhil Kamath.\n\nThe usual case for AI spending treats that gap as a timing problem. Vijay and Akshay Kothari, co-founder and COO of Notion, said the bigger problem is adoption: outside coding, most companies and most people have barely changed how they work. Azalia Mirhoseini and Anna Goldie, co-founders of Ricursive Intelligence, made the opposite case on capability, saying AI is already starting to improve itself.\n\n\"I think we're definitely in a bubble here in terms of how we use AI. Most people around the world that I met... are essentially using it as a better search tool.\" — Akshay Kothari\n\nThe four build different layers of the industry. Aksh"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "line": 59,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Infosys put a number on its AI business: AI revenue grew 29% quarter on quarter in the September quarter to 10.5% of the total, while quarterly revenue of $5.145 billion grew 1.2% sequentially in constant currency and the FY27 outlook was cut to 1%-2% from 1.5%-3% [AIM](https://analyticsindiamag.com/ai-news/infosys-ai-revenue-rises-29-in-q2-fy27-growth-guidance-cut).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/infosys-ai-revenue-rises-29-in-q2-fy27-growth-guidance-cut",
+          "id": "6b0423e847a4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6b0423e847a4.txt",
+          "headline": "Infosys AI revenue up 29% sequentially, 10.5% of total; guidance cut",
+          "claim": "AIM reported on 23 Oct 2026 that Infosys's AI revenue grew 29% sequentially in the September quarter to 10.5% of total revenue, while the company cut its FY27 constant-currency revenue growth guidance to 1%-2% from 1.5%-3%. Infosys also reported $5.2 billion of large-deal contract value, including a mega deal of over $2 billion.",
+          "quote": "Infosys’ AI revenue grew 29% sequentially in the September quarter, accounting for 10.5% of total revenue",
+          "published": "2026-10-23",
+          "context": "Infosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut\n\nMagazineLatestListiclesVisual StoriesInfographics\n\nContact UsAdvertise🇺🇸USAI CompassMLDS\n\nSubscribe\n\nSubscribeSign In\n\nArticle Complete\n\nInfosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut\n\nSaveListen\n\nAI News\n\nInfosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut\n\nInfosys recorded $5.2 billion in large-deal contract value, with 62% classified as net new business, as it lowered its full-year growth outlook.\n\nMukundan Sivaraj\n\nPublished 2026-10-23T16:48:00.023+05:30Updated 2026-10-23T16:48:00.023+05:30\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nInfosys’ AI revenue grew 29% sequentially in the September quarter, accounting for 10.5% of total revenue, even as the company cut its full-year FY27 revenue growth guidance to 1%-2% in constant currency from 1.5%-3%.\n\nThe company reported second-quarter revenue of $5.145 billion, up 1.5% year on year and 1.2% sequentially in constant-currency terms. Operating margin remained at 21%.\n\nFor IT services firms, AI can drive demand for consulting, implementation, and engineering work while reducing the hours needed to deliver existing contracts. Whether vendors can win enough new business to offset those efficiencies remains a key question for the sector.\n\nInfosys recorded $5.2 billion in large-deal total contract value (TCV), with 62% classified as net new business. The bookings included a mega dea"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "line": 61,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Infosys also booked $5.2 billion in large deals, including a mega deal of over $2 billion, and is deploying Cognition's Devin AI software engineer across internal engineering operations and client engagements [AIM](https://analyticsindiamag.com/ai-news/infosys-ai-revenue-rises-29-in-q2-fy27-growth-guidance-cut).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/infosys-ai-revenue-rises-29-in-q2-fy27-growth-guidance-cut",
+          "id": "6b0423e847a4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6b0423e847a4.txt",
+          "headline": "Infosys AI revenue up 29% sequentially, 10.5% of total; guidance cut",
+          "claim": "AIM reported on 23 Oct 2026 that Infosys's AI revenue grew 29% sequentially in the September quarter to 10.5% of total revenue, while the company cut its FY27 constant-currency revenue growth guidance to 1%-2% from 1.5%-3%. Infosys also reported $5.2 billion of large-deal contract value, including a mega deal of over $2 billion.",
+          "quote": "Infosys’ AI revenue grew 29% sequentially in the September quarter, accounting for 10.5% of total revenue",
+          "published": "2026-10-23",
+          "context": "Infosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut\n\nMagazineLatestListiclesVisual StoriesInfographics\n\nContact UsAdvertise🇺🇸USAI CompassMLDS\n\nSubscribe\n\nSubscribeSign In\n\nArticle Complete\n\nInfosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut\n\nSaveListen\n\nAI News\n\nInfosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut\n\nInfosys recorded $5.2 billion in large-deal contract value, with 62% classified as net new business, as it lowered its full-year growth outlook.\n\nMukundan Sivaraj\n\nPublished 2026-10-23T16:48:00.023+05:30Updated 2026-10-23T16:48:00.023+05:30\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nInfosys’ AI revenue grew 29% sequentially in the September quarter, accounting for 10.5% of total revenue, even as the company cut its full-year FY27 revenue growth guidance to 1%-2% in constant currency from 1.5%-3%.\n\nThe company reported second-quarter revenue of $5.145 billion, up 1.5% year on year and 1.2% sequentially in constant-currency terms. Operating margin remained at 21%.\n\nFor IT services firms, AI can drive demand for consulting, implementation, and engineering work while reducing the hours needed to deliver existing contracts. Whether vendors can win enough new business to offset those efficiencies remains a key question for the sector.\n\nInfosys recorded $5.2 billion in large-deal total contract value (TCV), with 62% classified as net new business. The bookings included a mega dea"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "line": 63,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In voice, India is ElevenLabs' second-largest market outside the US, with more than 250 businesses using its technology and 100 million conversations on ElevenAgents over the past year, more than 70% of them in Hindi, Kannada, Tamil and Telugu [AIM](https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+          "id": "e62b4cb6e5db",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e62b4cb6e5db.txt",
+          "headline": "Karnataka-ElevenLabs voice AI MoU irks Indian startups",
+          "claim": "AIM reported on 19 Oct 2026 that Indian voice AI startups are unhappy that ElevenLabs signed an MoU with the Karnataka Innovation and Technology Society to explore Kannada voice AI for citizen services, skilling and grievance redressal. The article says India is ElevenLabs' second-largest market outside the US, with more than 250 businesses and enterprises using it and 100 million conversations on ElevenAgents over the past year.",
+          "quote": "ElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada",
+          "published": "2026-10-19",
+          "context": "ces in Kannada for citizen engagement.\n\nThis collaboration may limit opportunities for domestic startups in a competitive market focused on government services.\n\nElevenLabs has a significant presence in India, with over 250 businesses utilising its technology for various conversations.\n\nConcerns arise over data privacy, as reliance on foreign AI platforms could expose sensitive information to external jurisdictions.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nIndia’s AI startups are building homegrown alternatives to global products, yet state governments have been eyeing partnerships with foreign players, making it harder for them to find customers at home.\n\nElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada across citizen services, skilling, and grievance redressal. The initiative will enable mute users to communicate using a synthetic version of their lost voice, including in Kannada. Under the programme, they will receive free lifetime licences.\n\nThis partnership gives ElevenLabs a formal route to pursue public-sector applications in a state with a large technology ecosystem.\n\nThat said, India is ElevenLabs second-largest market outside the US, with more than 250 businesses and enterprises using its technology. Indian businesses recorded 100 million conversations on ElevenAgents over the past year, with more than 70% conducted in Hindi, Kannada, Tamil, and Telugu. The platform’s language sup"
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "line": 65,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Razorpay, which partners with ElevenLabs, Gnani.ai and Sarvam AI, has deployed voice AI at scale in marketing, sales and risk, and its chief product officer Khilan Haria says 20–30% of all searches in India are voice [AIM](https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+          "id": "e62b4cb6e5db",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e62b4cb6e5db.txt",
+          "headline": "Karnataka-ElevenLabs voice AI MoU irks Indian startups",
+          "claim": "AIM reported on 19 Oct 2026 that Indian voice AI startups are unhappy that ElevenLabs signed an MoU with the Karnataka Innovation and Technology Society to explore Kannada voice AI for citizen services, skilling and grievance redressal. The article says India is ElevenLabs' second-largest market outside the US, with more than 250 businesses and enterprises using it and 100 million conversations on ElevenAgents over the past year.",
+          "quote": "ElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada",
+          "published": "2026-10-19",
+          "context": "ces in Kannada for citizen engagement.\n\nThis collaboration may limit opportunities for domestic startups in a competitive market focused on government services.\n\nElevenLabs has a significant presence in India, with over 250 businesses utilising its technology for various conversations.\n\nConcerns arise over data privacy, as reliance on foreign AI platforms could expose sensitive information to external jurisdictions.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nIndia’s AI startups are building homegrown alternatives to global products, yet state governments have been eyeing partnerships with foreign players, making it harder for them to find customers at home.\n\nElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada across citizen services, skilling, and grievance redressal. The initiative will enable mute users to communicate using a synthetic version of their lost voice, including in Kannada. Under the programme, they will receive free lifetime licences.\n\nThis partnership gives ElevenLabs a formal route to pursue public-sector applications in a state with a large technology ecosystem.\n\nThat said, India is ElevenLabs second-largest market outside the US, with more than 250 businesses and enterprises using its technology. Indian businesses recorded 100 million conversations on ElevenAgents over the past year, with more than 70% conducted in Hindi, Kannada, Tamil, and Telugu. The platform’s language sup"
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "line": 73,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Science Academies' SRFP 2027** - summer research with an Academies-approved guide, for listed rows only, such as BSc (Research) III year or BE / BTech / BCA II and III years (plain BS / BSc is II year only), with average marks of 65% or above in core subjects and one teacher's recommendation, deadline 30 Nov [Indian Academy of Sciences](https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp).",
+      "evidence": [
+        {
+          "chip": "Indian Academy of Sciences",
+          "url": "https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp",
+          "id": "f12af75ab217",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f12af75ab217.txt",
+          "headline": "Science Academies' SRFP 2027 applications close 30 November",
+          "claim": "The three national Science Academies' Summer Research Fellowship Program 2027 closes online applications on 30 November 2026. Listed eligible students include BSc (Research) in the III year and BE/BTech/BCA in the II and III years, with 65% or above average marks in core subjects and one teacher's recommendation.",
+          "quote": "The last date for receipt of applications online is 30 November 2026.",
+          "published": null,
+          "context": "Science Academies' Summer Research Fellowship Program 2027\n\nScience Academies' Summer Research Fellowship Program for Students and Teachers 2027\n\n← SRFP 2027 - Announcement\n\nInstructions to Applicants\n(Please read each of the instructions carefully before filling up the application)\n\nImportant Notices:\n\nPlease do not send hard copies of mark sheets or applications.\n\nWhile filling out the form, please do not use an apostrophe (').\n\nThe last date for receipt of applications online is 30 November 2026.\n\nA. General Instructions\n\nApplication should be submitted online in the prescribed format. This link is available on the websites of the three Academies:\nwww.ias.ac.in,\nwww.insaindia.res.in, and\nwww.nasi.ac.in.\n\nIt is mandatory to upload the mark sheets from class X till the last examination. Please have scanned versions of mark sheets (in JPEG format - the size of each mark sheet should not exceed 700 kb) ready before starting to fill up the application.\n\nOnly one application per candidate will be considered. If more than one application is submitted, none of the applications will be considered.\n\nAnswers to columns indicated by an asterisk (*) are mandatory and must be filled.\n\nB. Eligibil"
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "line": 74,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Gnani AI's Great Indian AI Internship Challenge** - for enrolled students in India, 18 or older, solo or in pairs: build any working app on Gnani's models, post the demo on LinkedIn or X, and compete for up to 100 paid six-month internships at up to ₹1 lakh a month, deadline 11:59 PM IST on 10 Nov [Gnani AI](https://www.gnani.ai/internship).",
+      "evidence": [
+        {
+          "chip": "Gnani AI",
+          "url": "https://www.gnani.ai/internship",
+          "id": "7a46dc3eecb8",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/7a46dc3eecb8.txt",
+          "headline": "Gnani AI internship challenge closes 10 November for Indian students",
+          "claim": "Gnani AI's Great Indian AI Internship Challenge closes final submissions at 11:59 PM IST on 10 November 2026. Enrolled students in India aged 18 or older, solo or in a team of two, build on Gnani's models for a chance at up to 100 paid six-month internships with stipends up to ₹1 lakh a month, plus ten ₹50,000 awards.",
+          "quote": "Final submissions close at 11:59 PM IST on November 10, 2026.",
+          "published": null,
+          "context": "em individually.\n\n1\nOffers and stipends are individual\n\nTeammates are interviewed separately, and one can receive an offer without the other. Stipends of up to ₹1 lakh a month are paid per intern, never split.\n\n2\nThe brief is open\n\nThere's no set problem statement. Build any working application on Gnani AI's models or APIs.\n\n3\nYour project uses Gnani AI technology\n\nYour submission names the Gnani AI models or APIs it uses and each member's contribution.\n\n4\nYou demo it in public\n\nPost your project on LinkedIn or X with the hashtags #GnaniAI and #GreatIndianAIInternshipChallenge, then nominate those posts in your submission. The post has to be live before you submit.\n\n5\nThe deadline is fixed\n\nFinal submissions close at 11:59 PM IST on November 10, 2026. You can edit project details until you submit.\n\n6\nKeep it authentic\n\nBought engagement, bots, paid promotion, engagement swaps, plagiarism and misleading demos aren't allowed. Entries with substantiated breaches may be disqualified.\n\nAn internship is confirmed only by a written offer from Gnani AI after the interview stage. Gnani AI may modify, suspend or cancel any part of the contest, including rules, timelines and prizes, as set out in the programme terms.\n\nHow it works\n\nRegister, build, post, submit\n\nA finished entry is a working application built on at least one Gnani AI model or API, shown working in a public video. Here is what you'll need at each step, so you can prepare before you "
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "line": 75,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Code for a Billion: Bharat Agentic-AI Hackathon** - free and fully online for students, professionals and indie developers: pick one of ten public-impact areas, build in the AgentFoundry IDE, then deploy to any cloud and open-source it for a share of ₹18 lakh, deadline 15 Nov [Code for India](https://codeforindia.org/hackathon).",
+      "evidence": [
+        {
+          "chip": "Code for India",
+          "url": "https://codeforindia.org/hackathon",
+          "id": "20d3edc0d87d",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/20d3edc0d87d.txt",
+          "headline": "Code for India's agentic AI hackathon closes submissions 15 November",
+          "claim": "Code for India's Code for a Billion: Bharat Agentic-AI Hackathon judges every project deployed to any cloud by 15 November 2026, with winners announced on 5 December 2026. Entrants pick one of ten public-impact areas, the ₹18 lakh prize pool is paid per track or category, and the event is open to students, professionals and indie developers, solo or in teams, fully online.",
+          "quote": "Judging covers every project deployed to any cloud by 15 November 2026.",
+          "published": null,
+          "context": "age and contamination detection, groundwater intelligence.\n\n06\n\nHealth\n\nFrontline health workers, preventive care, diagnostics access, public-health surveillance.\n\n07\n\nTimely Justice — Legal Backlog\n\nCase triage, document summarisation, legal aid access, court scheduling efficiency.\n\n08\n\nTransportation Safety\n\nRoad-accident hotspots, driver behaviour, pedestrian safety, emergency response times.\n\n09\n\nLivelihood for the Uneducated\n\nSkill matching, informal-sector income, micro-entrepreneurship, benefits access.\n\n10\n\nTech Employment for Youth\n\nJob discovery, portfolio building, apprenticeships, hiring signal for first-time coders.\n\nPrizes\n\n₹18 lakh in cash prizes — announced 5 December 2026.\n\nJudging covers every project deployed to any cloud by 15 November 2026. Winners are announced on 5 December 2026.\n\n🥇 1st place\n\n₹1,50,000\n\nper track / category\n\n🥈 2nd place\n\n₹1,00,000\n\nper track / category\n\n🥉 3rd place\n\n₹50,000\n\nper track / category\n\n₹18,00,000 total prize pool.\n\nPlus sponsor recognition awards — \"Best Use of AgentFoundry Agents\" and \"Best xSpan CareHub Integration\" — and a fast-track to CFI's open-source incubation for standout projects.\n\nTimeline\n\nFrom signup to ship.\n\n15 Aug 2026\n\nLaunch day. Registration and building open — sign up on AgentFoundry.me.\n\nAug–Oct 2026\n\n90 days of building. Create your project in the AgentFoundry IDE, invite collaborators, use your 1M free smart-code tokens.\n\n15 Nov 2026\n\nSubmissions close. Projects must be dep"
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "line": 76,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**ETH Zurich and Purdue summer research** - ETH's Student Summer Research Fellowship takes applications from 1 Nov to 16 Dec at 13:00 CET for 2 Jul to 27 Aug 2027, with a CHF 4,000 stipend plus travel and visa expenses, if you are in a computer science or closely related bachelor's or master's, will have two years of study done by the start and expect to graduate in 2028 or later [ETH Zurich](https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html); Purdue's paid 10-week SURF takes undergraduates from international institutions, with an international deadline of 15 Dec [Purdue Engineering](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF).",
+      "evidence": [
+        {
+          "chip": "ETH Zurich",
+          "url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
+          "id": "5c719ad390a3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5c719ad390a3.txt",
+          "headline": "ETH Zurich summer research fellowship takes applications 1 November to 16 December",
+          "claim": "ETH Zurich's Department of Computer Science takes applications for its Student Summer Research Fellowship from 1 November to 16 December 2026 at 13:00 CET. The fellowship runs 2 July to 27 August 2027, pays a CHF 4,000 stipend and covers travel and visa expenses; applicants need two years of study completed by the start.",
+          "quote": "1st November – 16 December 2026 at 13:00 (Central European Time).",
+          "published": null,
+          "context": "How to apply – Department of Computer Science | ETH Zurich\n\nHomepage\n\nNavigation\n\nSearch\n\nContent\n\nFooter\n\nContact\n\nSitemap\n\nDepartment of Computer Science\n\nServices\n\nStudent portal\n\nAlumni association\n\nStaffnet\n\nContact\n\nLogin\n\nSearch\n\nSearch\n\nen\n\nEN\n\nDE\n\nDepartments\n\nETH Zurich\n\nD-INFK\n\nLanguage Selection\n\nen\n\nEnglish\n\nDeutsch\n\nYou are here\n\nHomepage\n\nStudies\n\nSummer Research Fellowship\n\nHow to apply\n\nHow to apply\n\nETH Zürich / Gian Marco Castelberg\n\nApplication window:\n\n1st November – 16 December 2026 at 13:00 (Central European Time).\n\nProgramme Administrator:\n\nKatja Abrahams\n\nYou are eligible for the ETH Student Summer Research Fellowship programme if you satisfy the following conditions:\n\nYou are enrolled in a study programme (bachelor or master) in computer science or a closely related field (e.g., electrical engineering, mathematics, physics)\n\nYour expected graduation date in your current study programme (bachelor or master) is in the year following the fellowship or later\n\nYou will have completed two years of study by start of the programme (master students naturally satisfy this condition)\n\nThe duration of the fellowship is the full two months of July and August, during which time you must be present\n\nLanguage requ"
+        },
+        {
+          "chip": "Purdue Engineering",
+          "url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF",
+          "id": "46deec0425a1",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46deec0425a1.txt",
+          "headline": "Purdue SURF 2027 sets 15 December international deadline for undergraduates",
+          "claim": "Purdue's College of Engineering lists an international deadline of 15 December 2026 for its 2027 Summer Undergraduate Research Fellowships, with applications opening in early November 2026 and a priority deadline of 15 January 2027. The 10-week paid programme accepts undergraduates from international institutions and runs in person from 7 June to 30 July 2027.",
+          "quote": "International Deadline December 15, 2026",
+          "published": null,
+          "context": "SURF - Research - College of Engineering - Purdue University\n\nSURF - Research - College of Engineering - Purdue University\n\nSkip to main content\n\n \nQuick Links\n\nPurdue\n\nEngineering\n\nCollege of Engineering\n\nInformation For...\n\nAcademic Units\n\nAeronautics and Astronautics\n\nAgricultural and Biological Engineering\n\nBiomedical Engineering\n\nChemical Engineering\n\nCivil and Construction Engineering\n\nComputer Science\n\nElectrical and Computer Engineering\n\nEngineering Education\n\nIndustrial Engineering\n\nMaterials Engineering\n\nMechanical Engineering\n\nNuclear Engineering\n\nSustainability Engineering and Environmental Engineering\n\nPrograms\n\nCollege of Engineering Honors Program\n\nFirst-Year Engineering\n\nOffice of Future Engineers\n\nEPICS\n\nGlobal Engineering Programs and Partnerships\n\nIndiana Space Grant Consortium\n\nProfessional Practice (Co-Op) Program\n\nEngineering Student Success\n\nWomen in Engineering Program\n\nInnovation and Leadership Studies\n\nVertically Integrated Projects\n\nDean's Leadership Scholars\n\nEngineering Postdoctoral Scholars\n\n \n\nSearch\n\nLoading\n\nCollege of Engineering\n\n | \nResearch\n\nMenu\n\nHome\n\nFor You\n\nStudents\n\nFuture Undergraduate Students\n\nFuture Graduate Students\n\nCurrent Undergraduate Students\n\nCurrent Graduate Students\n\nInternational Students\n\nCARES Hub\n\nFaculty\n\nFaculty & Staff\n\nProspective Faculty\n\nAlumni\n\nEngineering Alumni Association\n\nPurdue Engineering 38 by 38\n\nParents"
+        }
+      ]
+    },
+    {
+      "n": 32,
+      "line": 77,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Summer 2027 internships at AI labs, no deadline posted** - Together AI's Model Shaping research internship takes bachelor's students [Together AI](https://job-boards.greenhouse.io/togetherai/jobs/5238466007); Scale AI's ML research internship wants a Fall 2027 or Spring 2028 graduation plus prior research or publications [Scale AI](https://job-boards.greenhouse.io/scaleai/jobs/4735665005); xAI's Palo Alto software internship needs bachelor's or graduate enrolment and 3+ months of coding and pays Junior/Senior interns $34 an hour [xAI](https://job-boards.greenhouse.io/xai/jobs/5255111007); none of the three mentions visas, while Scale's Doha software internship says Scale will support the visa application [Scale AI Doha](https://job-boards.greenhouse.io/scaleai/jobs/4730834005).",
+      "evidence": [
+        {
+          "chip": "Together AI",
+          "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007",
+          "id": "803c6deab1e6",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/803c6deab1e6.txt",
+          "headline": "Together AI lists Summer 2027 research internship open to bachelor's students",
+          "claim": "Together AI lists a Summer 2027 Research Intern role on its Model Shaping team (post-training, efficient training, evaluation) in San Francisco or Amsterdam, open to students pursuing a Bachelor's, Master's or Ph.D. The 12 to 14 week internship has an estimated US hourly rate of $58 to $70.",
+          "quote": "This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd in our San Francisco or Amsterdam office.",
+          "published": "2026-09-23",
+          "context": "cts\n\nAbout Together AI\n\nTogether AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.\n\nInternship Program Details\n\nOur internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd in our San Francisco or Amsterdam office.\n\nCompensation\n\nWe offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.\n\nEqual Opportunity\n\nTogether AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.\n\nPlease see our privacy policy at https://www.together.ai/privacy\n"
+        },
+        {
+          "chip": "Scale AI",
+          "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+          "id": "eb9e563b63f8",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/eb9e563b63f8.txt",
+          "headline": "Scale AI lists Summer 2027 machine learning research internship",
+          "claim": "Scale AI lists a Machine Learning Research Intern (Summer 2027) role in San Francisco or New York (listing updated 22 Oct 2026). It is for students enrolled in a BS, MS or PhD with an ML, deep learning or NLP focus and a graduation date in Fall 2027 or Spring 2028, and asks for prior research experience or publications.",
+          "quote": "Available for a Summer 2027 internship (May/June start dates) in San Francisco Or New York.",
+          "published": "2026-10-22",
+          "context": "del generalization and capabilities to inform data-driven advancements\n\nResearch synthetic and hybrid data with humans in the loop to scale up high-quality data generation\n\nTake models currently in production, identify areas for improvement, improve them using retraining and hyperparameter searches, then deploy without regressing on core model characteristics\n\nCreate post-training or agentic solutions that integrate into our ability to deliver applications for enterprise and public sector clients\n\nRequired to Have\n\nCurrently enrolled in a BS, MS or PhD program with a focus on Machine Learning, Deep Learning, or Natural Language Processing, with a graduation date in Fall 2027 or Spring 2028\n\nAvailable for a Summer 2027 internship (May/June start dates) in San Francisco Or New York.\n\nPrior research experience or a track record of publications on LLMs, NLP, multimodal models, agents, safety, evaluation, alignment, or a related field\n\nExperience with one or more general purpose programming languages, including Python, Javascript, or similar\n\nIdeally You'd Have\n\nA previous internship in Machine Learning, Deep Learning, Natural Language Processing, Adversarial Robustness, Alignment, Evaluation, or Agents\n\nExperience as a researcher — through internships, full-time roles, or at a lab\n\nPublications at top-tier venues such as NeurIPS, ICML, ICLR, CVPR, ACL, EMNLP or AAAI, or contributions to open source projects\n\nHands-on experience with reinforcement learning, agentic system"
+        },
+        {
+          "chip": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
+          "id": "5c14e4a81c29",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5c14e4a81c29.txt",
+          "headline": "xAI lists Summer 2027 software engineering internship in Palo Alto",
+          "claim": "xAI's listing (employer text names SpaceXSI) for a Summer 2027 Software Engineering Internship/Co-op in Palo Alto, updated 22 Oct 2026, asks for enrolment in a bachelor's or graduate program, 3+ months of programming experience and onsite work for at least 12 consecutive weeks from May or June 2027. It lists $34 an hour for Junior/Senior interns.",
+          "quote": "Must be enrolled in a bachelor’s degree or graduate program",
+          "published": "2026-10-22",
+          "context": "mentor and other employees who will help you apply your knowledge and grow your skills on projects that have a significant impact. If you’ve demonstrated a commitment to academic success and motivation to apply your knowledge outside of the classroom, you are a great candidate! \n\nSpaceXSI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. This includes Grok, the frontier AI model for everything you need, trained on the world's largest supercluster, and developing Starmind, a new constellation of satellites capturing solar energy in space to power low-cost, high-performance AI compute for Earth. \n\nBASIC QUALIFICATIONS:\n\nMust be enrolled in a bachelor’s degree or graduate program\n\n3+ months of software programming or development experience\n\nSoftware coding experience in one or more of the following: C, C++, C#, Java, JavaScript, Python \n\nPREFERRED SKILLS AND EXPERIENCE:\n\nGPA of 3.5 or above \n\n6+ months experience developing and deploying software that has been used on real-world applications and projects  \n\nStrong fundamental knowledge of computer architecture and networks  \n\nExperience with software documentation, creating system diagrams, and enumerating software requirements \n\nStrong skills in debugging, performance optimization and unit testing \n\nStrong interpersonal skills (examples: leading a student organization or working successfully in teams) \n\nAbility to "
+        },
+        {
+          "chip": "Scale AI Doha",
+          "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+          "id": "362b361f82d8",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/362b361f82d8.txt",
+          "headline": "Scale AI lists Summer 2027 software internship in Doha with visa support",
+          "claim": "Scale AI lists a Software Engineering Intern (Summer 2027) role in Doha, Qatar (listing updated 22 Oct 2026) for students with a Bachelor's degree graduation date in Fall 2027 or Spring 2028 who can start in May or June 2027. The page says Scale will work with successful candidates to support the visa application process; the same internship is also listed for London and San Francisco.",
+          "quote": "Available for a Summer 2027 internship (May/June start dates)",
+          "published": "2026-10-22",
+          "context": " remove bad actors and keep Scale's contributor base safe and trusted\n\nUse models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale\n\nDevise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy\n\nCreate optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors completing billions of complex tasks\n\nDevelop new AI infrastructure products to visualize, query, and explore Scale data\n\nRequirements:\n\nA graduation date in Fall 2027 or Spring 2028 with a Bachelor's degree (or equivalent) in a relevant field (Computer Science, EECS, Computer Engineering, Statistics)\n\nAvailable for a Summer 2027 internship (May/June start dates) \n\nProduct engineering experience such as building web apps full-stack, integrating with relevant APIs and services, talking to customers, figuring out 'what' to build and then iterating\n\nPrevious Computer Science/Software Engineering internship experience\n\nTrack record of shipping high-quality products and features\n\nExperience building systems that process large volumes of data\n\nExperience with Python, Typescript, React, and/or MongoDB\n\nPlease reference the job posting's subtitle for where this position will be located. \n\nNice to have:\n\nHands-on experience with LLMs, evaluations, or agentic systems — whether from coursework, research, or personal projects\n\nOpen source contributions or a por"
+        }
+      ]
+    },
+    {
+      "n": 33,
+      "line": 85,
+      "section": "An independent scoreboard for Indian speech",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Chariot's launch figures all come from its own tests [AIM on Chariot](https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages), and Navana.ai's Raoul Nanavati says open evaluations and clear benchmarks could help ensure the best companies are chosen [AIM on Karnataka](https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups).",
+      "evidence": [
+        {
+          "chip": "AIM on Chariot",
+          "url": "https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages",
+          "id": "4d4424ae2b1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/4d4424ae2b1c.txt",
+          "headline": "Chariot launches Chariot-1-ASR Realtime speech model for 10 Indian languages",
+          "claim": "Chariot, which AIM calls a frontier AI research lab, launched Chariot-1-ASR Realtime on 22 Oct 2026, a speech recognition model for 10 Indian languages plus Indian English that is available on the Chariot platform. In its own tests on 79 public test sets, Chariot says the model made 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fewer than Sarvam's Saaras v4 against systems that process a whole recording, and 17% fewer than Saaras v4 against streaming systems.",
+          "quote": "launched Chariot-1-ASR Realtime on October 22, a speech recognition model that converts spoken words into text",
+          "published": "2026-10-23",
+          "context": "riot launched its speech recognition model, Chariot-1-ASR Realtime, which converts spoken words into text during conversations.\n\nThe model demonstrates superior accuracy, with 26% fewer errors than Google Gemini 3.5 Transcribe across 10 Indian languages.\n\nChariot-1-ASR Realtime supports major Indian languages, including Hindi, Marathi, and Tamil, along with Indian English.\n\nIn tests, it showed a 5.04% error rate for Hindi calls, outperforming OpenAI's gpt-transcribe significantly.\n\nThe model was tested on extensive datasets, making it robust for various types of audio recordings.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nChariot, a frontier AI research lab, launched Chariot-1-ASR Realtime on October 22, a speech recognition model that converts spoken words into text while people are still talking. The company said the model outperformed every streaming and batch transcription system it tested across 10 Indian languages.\n\nThe model supports Hindi, Marathi, Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Punjabi and Odia. It also supports Indian English and is available on the Chariot platform, according to the company.\n\nChariot said it tested the model on 79 public test sets from 11 collections, covering around 153,000 audio recordings. The tests included everyday conversations, telephone calls, read-aloud speech and recordings with background noise.\n\nThe research lab said its model made 26% fewer errors than Google Gemini 3.5 Transcribe and 9% fe"
+        },
+        {
+          "chip": "AIM on Karnataka",
+          "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+          "id": "e62b4cb6e5db",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e62b4cb6e5db.txt",
+          "headline": "Karnataka-ElevenLabs voice AI MoU irks Indian startups",
+          "claim": "AIM reported on 19 Oct 2026 that Indian voice AI startups are unhappy that ElevenLabs signed an MoU with the Karnataka Innovation and Technology Society to explore Kannada voice AI for citizen services, skilling and grievance redressal. The article says India is ElevenLabs' second-largest market outside the US, with more than 250 businesses and enterprises using it and 100 million conversations on ElevenAgents over the past year.",
+          "quote": "ElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada",
+          "published": "2026-10-19",
+          "context": "ces in Kannada for citizen engagement.\n\nThis collaboration may limit opportunities for domestic startups in a competitive market focused on government services.\n\nElevenLabs has a significant presence in India, with over 250 businesses utilising its technology for various conversations.\n\nConcerns arise over data privacy, as reliance on foreign AI platforms could expose sensitive information to external jurisdictions.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nIndia’s AI startups are building homegrown alternatives to global products, yet state governments have been eyeing partnerships with foreign players, making it harder for them to find customers at home.\n\nElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada across citizen services, skilling, and grievance redressal. The initiative will enable mute users to communicate using a synthetic version of their lost voice, including in Kannada. Under the programme, they will receive free lifetime licences.\n\nThis partnership gives ElevenLabs a formal route to pursue public-sector applications in a state with a large technology ecosystem.\n\nThat said, India is ElevenLabs second-largest market outside the US, with more than 250 businesses and enterprises using its technology. Indian businesses recorded 100 million conversations on ElevenAgents over the past year, with more than 70% conducted in Hindi, Kannada, Tamil, and Telugu. The platform’s language sup"
+        }
+      ]
+    },
+    {
+      "n": 34,
+      "line": 91,
+      "section": "Forecasts small sellers can check",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Yug-1 is on GitHub and Hugging Face, and Ananya Birla names demand and supply among the time-dependent data it is built for, writing on LinkedIn that \"so much of the data that actually runs businesses and economies moves through time\" [AIM](https://analyticsindiamag.com/ai-news/birla-ai-labs-launches-yug-1-a-time-series-foundation-model-built-in-india).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/birla-ai-labs-launches-yug-1-a-time-series-foundation-model-built-in-india",
+          "id": "e75814707d27",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e75814707d27.txt",
+          "headline": "Birla AI Labs releases Yug-1, a time series foundation model",
+          "claim": "Birla AI Labs, an AI initiative and venture studio under the Aditya Birla Group, has released Yug-1, its first time series foundation model, which AIM reported on 19 Oct 2026 is available on GitHub and Hugging Face for developers and researchers to test. Founder and chairperson Ananya Birla says Yug-1 outperformed other first-generation time series models on the GiftEval benchmark and performed competitively against newer-generation models (the lab's own claim).",
+          "quote": "has released Yug-1, its first time series foundation model (TSFM), developed to forecast outcomes, identify patterns, and detect anomalies across interconnected datasets.",
+          "published": "2026-10-19",
+          "context": "o analyse time-dependent data and generate forecasts across multiple variables.\n\nThe model outperformed first-generation time series models and is competitive with newer generations, according to Birla AI Labs.\n\nYug-1 was developed and deployed in under six months, reflecting the efficiency of Birla AI Labs' research team.\n\nThe model is available for developers and researchers on platforms like GitHub and Hugging Face.\n\nBirla AI Labs aims to shift the focus of AI research from language models to structured, time-dependent data analysis.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nBirla AI Labs, an AI initiative and venture studio under the Aditya Birla Group, has released Yug-1, its first time series foundation model (TSFM), developed to forecast outcomes, identify patterns, and detect anomalies across interconnected datasets.\n\nTSFMs are large-scale AI models pre-trained on a diverse collection of universal temporal patterns, such as weather, traffic, finance, retail, and energy records.\n\nAnanya Birla, Founder and Chairperson of Birla AI Labs, said Yug-1 outperformed other first-generation TSMFs on the GiftEval benchmark and performed competitively against newer-generation models.\n\nThe company said its frontier research team took Yug-1 from training to deployment in under six months. The model is available on GitHub and Hugging Face for developers and researchers to test.\n\n“Most of the conversation around AI today is about language. But so much of the data that actually runs businesses and economies moves through"
+        }
+      ]
+    },
+    {
+      "n": 35,
+      "line": 97,
+      "section": "Proof of where inference ran",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "CoRover.ai's Ankush Sabharwal counts a lack of transparency over where inference takes place among the risks at scale [AIM on Karnataka](https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups), and Kamath sees an opening for an Indian inference company that serves open-source models while companies keep their own context [Singju Post](https://singjupost.com/transcript-nikhil-kamath-interview-at-ndtv-world-summit-2026/).",
+      "evidence": [
+        {
+          "chip": "AIM on Karnataka",
+          "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+          "id": "e62b4cb6e5db",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e62b4cb6e5db.txt",
+          "headline": "Karnataka-ElevenLabs voice AI MoU irks Indian startups",
+          "claim": "AIM reported on 19 Oct 2026 that Indian voice AI startups are unhappy that ElevenLabs signed an MoU with the Karnataka Innovation and Technology Society to explore Kannada voice AI for citizen services, skilling and grievance redressal. The article says India is ElevenLabs' second-largest market outside the US, with more than 250 businesses and enterprises using it and 100 million conversations on ElevenAgents over the past year.",
+          "quote": "ElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada",
+          "published": "2026-10-19",
+          "context": "ces in Kannada for citizen engagement.\n\nThis collaboration may limit opportunities for domestic startups in a competitive market focused on government services.\n\nElevenLabs has a significant presence in India, with over 250 businesses utilising its technology for various conversations.\n\nConcerns arise over data privacy, as reliance on foreign AI platforms could expose sensitive information to external jurisdictions.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nIndia’s AI startups are building homegrown alternatives to global products, yet state governments have been eyeing partnerships with foreign players, making it harder for them to find customers at home.\n\nElevenLabs recently signed a memorandum of understanding (MoU) with the Karnataka Innovation and Technology Society (KITS) to explore using voice AI in Kannada across citizen services, skilling, and grievance redressal. The initiative will enable mute users to communicate using a synthetic version of their lost voice, including in Kannada. Under the programme, they will receive free lifetime licences.\n\nThis partnership gives ElevenLabs a formal route to pursue public-sector applications in a state with a large technology ecosystem.\n\nThat said, India is ElevenLabs second-largest market outside the US, with more than 250 businesses and enterprises using its technology. Indian businesses recorded 100 million conversations on ElevenAgents over the past year, with more than 70% conducted in Hindi, Kannada, Tamil, and Telugu. The platform’s language sup"
+        },
+        {
+          "chip": "Singju Post",
+          "url": "https://singjupost.com/transcript-nikhil-kamath-interview-at-ndtv-world-summit-2026/",
+          "id": "bf8b6c0e2c3c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bf8b6c0e2c3c.txt",
+          "headline": "Kamath says AI funding gap will make 2027 raises harder",
+          "claim": "In an NDTV World Summit interview streamed on 22 Oct 2026, Nikhil Kamath said roughly a trillion dollars a year is going into AI against maybe $100 to $200 billion coming out through enterprises, that money will become harder to get than it has been this year or last, and that raising capital now and keeping it is 'probably not a bad idea'. He rated the odds low that an Indian company can compete at the frontier-model layer, saw an opportunity in inference on open-source models, and said he would build at the application or services layers.",
+          "quote": "So if somebody is able to raise a lot of capital today and keep it, probably not a bad idea.",
+          "published": "2026-10-23",
+          "context": "h.\n\nSo everybody makes the debate, Rahul, that world GDP is $100-120 trillion, services is about half or 60% of it, and AI will disrupt 10% of that. So you will have $6-7 trillion of productivity coming out of it, and hence this spend is justified. I don’t know if I’ve seen that happen on the ground yet.\n\nSo for next year, with American Treasury rates going up, cost of money going to 5, 6, 7%, I don’t know where it’ll go, it’s at 5 today, somebody has to bridge this gap up until that $5 trillion revenue story plays out, even if it does. Or it doesn’t, nobody knows. So in the interim, I think it will become harder to get money, harder to get money than it has been this year or the last year. So if somebody is able to raise a lot of capital today and keep it, probably not a bad idea.\n\nInheritance Tax and Wealth Inequality\n\nRAHUL KANWAL: (00:35:20 – 00:35:44) Interesting. You’ve committed to giving away a lot of your money, which I find fascinating that such a young age you’re already thinking about giving away rather than accumulating more. You’ve also spoken about the need to look at how families inherit their resources, the capital that the patriarch has or the matriarch has. What do you think of the idea of inheritance tax in the Indian context?\n\nNIKHIL KAMATH: (00:35:46 – 00:37:30) I said something around this and got trolled once. There’s this thing called Gini coefficient which measures income inequality or wealth inequality in a society. It’s doing badly in most "
+        }
+      ]
+    }
+  ],
+  "unlinked": [],
+  "how_to_answer": "Write factcheck-<edition>.json as {\"verdicts\": [{\"n\": N, \"verdict\": \"pass|fix|reject\", \"reason\": \"...\", \"replacement\": \"full corrected sentence incl. its chips (fix only)\"}]}. pass = every name, number, date and causal claim in the sentence is supported by the saved page(s); fix = supportable with a correction; reject = not supported by the cited page."
+}

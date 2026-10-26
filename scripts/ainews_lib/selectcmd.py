@@ -8,7 +8,7 @@ from common import (INDIA_BEATS, canonical_url, now_iso, p, parse_date, read_jso
                     work_dir, write_json)
 from quotes import verify_item
 
-CAPS = {"india": 22, "world": 26}
+CAPS = {"india": 26, "world": 26}
 MIN_PER_BEAT = 2
 MAX_FOLLOWUPS = 3
 FOLLOWUP_GRACE_DAYS = 7
