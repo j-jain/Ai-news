@@ -68,7 +68,7 @@ Say "fix X in this week's World issue" to the skill, or by hand:
 
 ## The weekly schedule
 
-A desktop-app scheduled task named `ai-news-weekly` runs the skill every Monday at 08:00 (local time) while the Claude app is open; if the app was closed, it runs on the next launch. It covers the seven days ending Sunday. Pause it from the app's scheduled-tasks list.
+A desktop-app scheduled task named `ai-news-weekly-2` (saved in Auto mode) runs the skill every Monday at about 08:03 local time while the Claude app is open; if the app was closed, it runs on the next launch. It covers the seven days ending Sunday. Pause it from the app's scheduled-tasks list.
 
 ## Licence
 
