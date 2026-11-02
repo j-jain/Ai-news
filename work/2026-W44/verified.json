@@ -1,0 +1,1034 @@
+{
+  "week": "2026-W44",
+  "window_start": "2026-10-26",
+  "window_end": "2026-11-01",
+  "generated_at": "2026-11-02T15:26:25+05:30",
+  "counts": {
+    "candidates": 37,
+    "verified": 30,
+    "dropped": 7,
+    "pages_fetched": 137,
+    "india": 9,
+    "world": 21,
+    "tier_b": 0,
+    "followups": 0
+  },
+  "items": [
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "headline": "Google announces Gemini 4 Carbon, limited to cyber defenders first",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "quote": "Starting this week, we will make Carbon available to a subset of cyber defenders and will gradually phase access to additional trusted partners",
+      "claim": "Google announced Gemini 4 Carbon on 28 Oct 2026, saying it ranks #1 on Artificial Analysis Intelligence Index v5.0 at 59. Access is limited at first to a subset of cyber defenders and trusted partners via the Fairwind Program.",
+      "why_it_matters": "A new top model exists but is not yet available to developers or consumers, so plan around Gemini 4 Argon for now.",
+      "published": "2026-10-28",
+      "published_evidence": "meta article:published_time",
+      "source_type": "primary",
+      "source_name": "Google",
+      "significance": 5,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "6318bf62f2c5",
+      "fetch_tier": "A",
+      "page_file": "pages/6318bf62f2c5.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Introducing Gemini 4 Carbon",
+      "is_followup": false,
+      "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
+      "story_key": "5271ef576da1",
+      "editions": [
+        "world"
+      ],
+      "score": 6.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "headline": "Anthropic publicly files S-1 for IPO, plans Nasdaq listing as ANT",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "quote": "Anthropic intends to list its Class A common stock on the Nasdaq Global Select Market under the symbol “ANT.”",
+      "claim": "On 26 Oct 2026 Anthropic, PBC filed a registration statement on Form S-1 with the SEC for a proposed IPO of Class A common stock. Share count and price range are not yet determined.",
+      "why_it_matters": "The company behind Claude going public shapes pricing, access and the job market for AI engineers you may apply to.",
+      "published": "2026-10-26",
+      "published_evidence": "meta article:published_time",
+      "source_type": "primary",
+      "source_name": "Anthropic",
+      "significance": 4,
+      "secondary_urls": [
+        "https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "edf59637f599",
+      "fetch_tier": "A",
+      "page_file": "pages/edf59637f599.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering \\ Anthropic",
+      "is_followup": false,
+      "canonical_url": "https://www.anthropic.com/news/s1-sec",
+      "story_key": "520f33a65110",
+      "editions": [
+        "world"
+      ],
+      "score": 5.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "headline": "OpenAI reorganizes Model Spec around five core values",
+      "url": "https://openai.com/index/updated-model-spec/",
+      "quote": "The update reorganizes its guidance around five underlying values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.",
+      "claim": "OpenAI updated its Model Spec on 29 Oct 2026, reorganizing guidance around five values, adding guidance on context, oversight and agency, and retiring much of the detailed style guidance.",
+      "why_it_matters": "The Spec is the public target for how GPT models should behave, which matters if you build agents on the API.",
+      "published": "2026-10-30",
+      "published_evidence": "time datetime",
+      "source_type": "primary",
+      "source_name": "OpenAI",
+      "significance": 3,
+      "secondary_urls": [
+        "https://model-spec.openai.com/2026-10-29.html"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "7bf0065ceb16",
+      "fetch_tier": "A",
+      "page_file": "pages/7bf0065ceb16.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "An updated Model Spec for more capable and beneficial AI | OpenAI",
+      "is_followup": false,
+      "canonical_url": "https://openai.com/index/updated-model-spec",
+      "story_key": "ede1fe5a76d3",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "headline": "Anthropic reports early results using Claude in drug development",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "quote": "Claude converted Divergence Labs’ goals into a detailed design plan, and then, largely autonomously, generated roughly 35,000 antibody designs in about a month",
+      "claim": "Anthropic says it has research partnerships with six organizations developing medicines. At Divergence Labs, Claude generated roughly 35,000 antibody designs in about a month; early tests found three designs that bind IgE and 20 that dislodge it.",
+      "why_it_matters": "Shows agentic Claude Code workflows being used on real science pipelines, a possible direction for bio and AI projects.",
+      "published": "2026-10-27",
+      "published_evidence": "meta article:published_time",
+      "source_type": "primary",
+      "source_name": "Anthropic",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "fdf27bf9960b",
+      "fetch_tier": "A",
+      "page_file": "pages/fdf27bf9960b.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Early progress on accelerating drug development with Claude \\ Anthropic",
+      "is_followup": false,
+      "canonical_url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "story_key": "99df3748211c",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "headline": "Mistral releases weights of trillion-parameter Large 4 'Le Chonk'",
+      "url": "https://www.implicator.ai/mistral-releases-weights-mistral-large-4-le-chonk-says/",
+      "quote": "Artificial Analysis ranks it second among open-weight entries on its Coding Agent Index, one point behind GLM-5.3, with about 47% fewer tokens per task.",
+      "claim": "Mistral released the weights of Mistral Large 4, a trillion-parameter model, on 29 Oct 2026 under a modified MIT license; commercial model-as-a-service operators need a separate licence. Mistral reports 41% on Terminal-Bench 4.0.",
+      "why_it_matters": "A strong open-weight coding model you can download, though its size needs multi-GPU hardware to self-host.",
+      "published": "2026-10-29",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Implicator",
+      "significance": 3,
+      "secondary_urls": [
+        "https://mistral.ai/news"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "d3004d9f34e0",
+      "fetch_tier": "A",
+      "page_file": "pages/d3004d9f34e0.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Mistral Large 4 Weights Released: How Le Chonk Scores Agains",
+      "is_followup": false,
+      "canonical_url": "https://www.implicator.ai/mistral-releases-weights-mistral-large-4-le-chonk-says",
+      "story_key": "bae5f3423518",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "headline": "Google opens Gemini and Search to more apps via Connected Apps Platform",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "quote": "The new Connected Apps platform is in public preview for U.S. developers who sign up for the waitlist.",
+      "claim": "Google debuted a Connected Apps Platform letting businesses connect their apps to Search and Gemini. It is in public preview for U.S. developers on a waitlist; Google gave no date for wider availability.",
+      "why_it_matters": "Another agent-integration surface for app builders, but US-only for now.",
+      "published": "2026-10-28",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TechCrunch",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "a01db71b034c",
+      "fetch_tier": "A",
+      "page_file": "pages/a01db71b034c.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps | TechCrunch",
+      "is_followup": false,
+      "canonical_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "story_key": "7ec9a74cb2fd",
+      "editions": [
+        "world"
+      ],
+      "score": 2.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "hardware-prices",
+      "edition": "india",
+      "headline": "Apple launches 14-inch M6 MacBook Pro in India from Rs 2,39,900",
+      "url": "https://www.business-standard.com/technology/gadgets/apple-macbook-pro-m6-launch-price-india-features-specifications-126102800479_1.html",
+      "quote": "Apple has launched the 14-inch MacBook Pro with M6 in India at Rs 2,39,900. Pre-orders begin October 28, with sales starting November 6",
+      "claim": "The 14-inch MacBook Pro with M6 starts at Rs 2,39,900 in India with 16GB unified memory and 1TB storage; the 24GB 1TB configuration is Rs 2,63,900. Sales start November 6.",
+      "why_it_matters": "Even the base M6 Pro-class MacBook with 16GB sits near Jai's Rs 2.5 lakh ceiling; 24GB is already above it.",
+      "published": "2026-10-28",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Business Standard",
+      "significance": 4,
+      "secondary_urls": [
+        "https://www.gizmotimes.com/laptops/apple-macbook-pro-14-m6-india-price-specifications/51642"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "ad05c0bd6dcc",
+      "fetch_tier": "A",
+      "page_file": "pages/ad05c0bd6dcc.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Apple MacBook Pro with M6 launched in India: Check price, offers and specs | Gadgets - Business Standard",
+      "is_followup": false,
+      "canonical_url": "https://www.business-standard.com/technology/gadgets/apple-macbook-pro-m6-launch-price-india-features-specifications-126102800479_1.html",
+      "story_key": "0b0d3b2216d4",
+      "editions": [
+        "india"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "hardware-prices",
+      "edition": "world",
+      "headline": "SK Hynix says memory shortages will persist until 2030",
+      "url": "https://www.theregister.com/a/5305887",
+      "quote": "shipment volumes for PCs and mobile devices are expected to decrease due to cost burdens from rising memory prices and supply shortages.",
+      "claim": "SK Hynix expects demand to exceed supply through 2030, and its CFO predicted PC and mobile shipments will fall because of rising memory prices. Quarterly revenue was 104.6 trillion won, up 328 percent year over year.",
+      "why_it_matters": "RAM and SSD prices for laptops and upgrades are unlikely to ease soon, so buying memory early or choosing fixed configurations matters.",
+      "published": "2026-10-28",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "The Register",
+      "significance": 4,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "4d194c20796c",
+      "quote_verified": "script",
+      "verify_note": "",
+      "fetch_tier": "A",
+      "page_file": "pages/4d194c20796c.txt",
+      "title": "SK Hynix says memory shortages to persist until 2030",
+      "is_followup": false,
+      "canonical_url": "https://www.theregister.com/a/5305887",
+      "story_key": "85c8505cf2ef",
+      "editions": [
+        "world"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "hardware-prices",
+      "edition": "world",
+      "headline": "TrendForce: high-end MLCC shortage to persist through 1H27 as AI inference lifts DDR5 demand",
+      "url": "https://www.trendforce.com/presscenter/news/20261029-13284.html",
+      "quote": "major notebook ODMs expect orders to decline by an average of 10–15% YoY in 4Q26",
+      "claim": "TrendForce says notebook ODMs expect orders to fall an average of 10-15% YoY in 4Q26, and high-end MLCC shortages should be worst in 1Q27 and 2Q27 as Vera Rubin ramps.",
+      "why_it_matters": "Component shortages beyond memory can keep laptop prices firm into 2027.",
+      "published": "2026-10-29",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "primary",
+      "source_name": "TrendForce",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "bb44a4adf085",
+      "fetch_tier": "A",
+      "page_file": "pages/bb44a4adf085.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "AI Inference Drives CPU and DDR5 Demand, with High-Capacitance MLCC Shortages Expected to Persist Through 1H27, Says TrendForce",
+      "is_followup": false,
+      "canonical_url": "https://www.trendforce.com/presscenter/news/20261029-13284.html",
+      "story_key": "07661ec1000f",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "india",
+      "headline": "MeitY unveils DEPA for AI Training handbook with iSPIRT",
+      "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+      "quote": "MeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October.",
+      "claim": "MeitY Secretary S Krishnan unveiled a draft DEPA for AI Training handbook, prepared with iSPIRT, proposing a 'sealed room' where models train on sensitive data without the raw data being shared.",
+      "why_it_matters": "If adopted, it could open banking, health and education data for model training under consent rules, shaping what Indian AI builders can access.",
+      "published": "2026-10-31",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Elets CIO",
+      "significance": 4,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "f9d8d0968b8e",
+      "fetch_tier": "A",
+      "page_file": "pages/f9d8d0968b8e.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "DEPA for AI Training: MeitY's Plan to Unlock Data for AI | Elets CIO",
+      "is_followup": false,
+      "canonical_url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548",
+      "story_key": "3bb638b52a6c",
+      "editions": [
+        "india"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "india",
+      "headline": "Maharashtra rolls out Sarvam's Indus Cowork to 2,500 officials",
+      "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+      "quote": "Sarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28.",
+      "claim": "Maharashtra launched Sarvam's Indus Cowork on 28 October for 2,500 officials under a two-year outlay of ₹11.26 crore, covering 22 languages including Marathi, plus Samvaad for citizen outreach.",
+      "why_it_matters": "State governments are paying for Indian-language AI products at scale, which means real demand for people who can build and integrate them.",
+      "published": "2026-10-29",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "AIM",
+      "significance": 4,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "3bdd9251c36a",
+      "fetch_tier": "A",
+      "page_file": "pages/3bdd9251c36a.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Maharashtra Government Adopts Sarvam AI Solutions",
+      "is_followup": false,
+      "canonical_url": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+      "story_key": "b3b23deb06bf",
+      "editions": [
+        "india"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "india",
+      "headline": "Sarvam signs five-year AI MoU with HQ IDS for armed forces",
+      "url": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
+      "quote": "Sarvam AI has signed a five-year memorandum of understanding (MoU) with the Ministry of Defence to develop and deploy AI applications",
+      "claim": "Sarvam signed a five-year MoU with HQ Integrated Defence Staff to develop AI applications for the Army, Navy and Air Force, to be run by its Chanakya division using the Sarvam 105B model; human oversight is retained for operational decisions.",
+      "why_it_matters": "A homegrown lab's 105B model is now being tied into defence workflows, a sign of where sovereign-AI engineering jobs will be.",
+      "published": "2026-10-27",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "AIM",
+      "significance": 4,
+      "secondary_urls": [
+        "https://cio.eletsonline.com/technology/hq-ids-sarvam-ai-mou-sovereign-ai-armed-forces/76429/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "796217fe95e3",
+      "fetch_tier": "A",
+      "page_file": "pages/796217fe95e3.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Sarvam Signs 5-Year Defence AI Deal Covering Army, Navy and",
+      "is_followup": false,
+      "canonical_url": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
+      "story_key": "6909c7eb5fc5",
+      "editions": [
+        "india"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "india",
+      "headline": "L&T Vyoma.AI breaks ground on 52 MW Chennai data centre",
+      "url": "https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai",
+      "quote": "The company held a groundbreaking ceremony for the facility on October 28.",
+      "claim": "Vyoma.AI, L&T's AI cloud unit, broke ground on 28 October on a 52 MW AI-ready data centre in Chennai with direct-to-chip liquid cooling, part of a plan for over 250 MW across India.",
+      "why_it_matters": "More domestic GPU capacity means cheaper, in-country compute for Indian builders over time.",
+      "published": "2026-10-28",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "AIM",
+      "significance": 3,
+      "secondary_urls": [
+        "https://w.media/?p=44966"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "0f7f3e662a6c",
+      "fetch_tier": "A",
+      "page_file": "pages/0f7f3e662a6c.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "L&T’s Vyoma.AI Breaks Ground on 52 MW Data Centre in Chenna",
+      "is_followup": false,
+      "canonical_url": "https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai",
+      "story_key": "c5617487a143",
+      "editions": [
+        "india"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "Sarvam signs five-year AI framework MoU with HQ IDS for Army, Navy, Air Force",
+      "url": "https://www.sarvam.ai/blogs/sarvam-hq-ids-mou",
+      "quote": "setting up an umbrella framework for AI projects across the Indian Army, the Indian Navy and the Indian Air Force",
+      "claim": "Sarvam says it signed an MoU with Headquarters Integrated Defence Staff, setting up an umbrella framework for AI projects across the Army, Navy and Air Force; work will be done by its defence division Chanakya using models such as Sarvam 105B.",
+      "why_it_matters": "Indian-built foundation models are now being contracted for defence work, a sign of where sovereign AI jobs and projects are heading.",
+      "published": "2026-10-27",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "primary",
+      "source_name": "Sarvam AI",
+      "significance": 4,
+      "secondary_urls": [
+        "https://inc42.com/buzz/ministry-of-defence-partners-with-sarvam-to-drive-ai-adoption-for-armed-forces/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "49dcc0d226d4",
+      "fetch_tier": "A",
+      "page_file": "pages/49dcc0d226d4.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Sarvam and Ministry of Defence sign AI MoU | Sarvam AI",
+      "is_followup": false,
+      "canonical_url": "https://www.sarvam.ai/blogs/sarvam-hq-ids-mou",
+      "story_key": "7bfc9f1efeef",
+      "editions": [
+        "india"
+      ],
+      "score": 5.0,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "Cognizant reportedly in talks to invest in Sarvam at $3.5-4 Bn valuation",
+      "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
+      "quote": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation",
+      "claim": "Inc42 reports Cognizant is in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation; Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation. Unconfirmed report.",
+      "why_it_matters": "Big IT services firms are buying into Indian model builders, which signals where enterprise AI hiring may flow.",
+      "published": "2026-10-28",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Inc42",
+      "significance": 4,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "5a2809d5baac",
+      "fetch_tier": "A",
+      "page_file": "pages/5a2809d5baac.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
+      "is_followup": false,
+      "canonical_url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report",
+      "story_key": "8312cf13cd18",
+      "editions": [
+        "india"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "AI startups raised $30.4 Mn in Indian week of 26-31 October",
+      "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
+      "quote": "AI was second-placed this week, with five startups raising $30.4 Mn.",
+      "claim": "Inc42 says AI was the second-placed sector in weekly Indian startup funding, with five startups raising $30.4 Mn; Simplismart's $14 Mn and Live2.ai's $13.7 Mn made up 91% of it.",
+      "why_it_matters": "Shows how thin Indian AI funding was this week: two rounds were nearly all of it.",
+      "published": "2026-10-31",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Inc42",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "b424dca1a4ab",
+      "fetch_tier": "A",
+      "page_file": "pages/b424dca1a4ab.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Indian Startups Raised Over $132 Mn This Week",
+      "is_followup": false,
+      "canonical_url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week",
+      "story_key": "662b4fec6be2",
+      "editions": [
+        "india"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "Simplismart raises $14 Mn Series B led by Dallas Venture Capital",
+      "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/",
+      "quote": "Simplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing.",
+      "claim": "Bengaluru-based Simplismart raised $14 million in a Series B led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax investing; it says its annual revenue run rate grew 14 times in six months.",
+      "why_it_matters": "Inference-cost tooling built in Bengaluru is attracting NVIDIA money, so infra skills are in demand.",
+      "published": "2026-10-28",
+      "published_evidence": "meta article:published_time",
+      "source_type": "secondary",
+      "source_name": "StartupTalky",
+      "significance": 3,
+      "secondary_urls": [
+        "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "48e5818006a5",
+      "fetch_tier": "A",
+      "page_file": "pages/48e5818006a5.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Daily Indian Funding Roundup & Key News - 28 October 2026: Simplismart Raises $14 Million, Jio Platforms Lists at 21% Premium",
+      "is_followup": false,
+      "canonical_url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026",
+      "story_key": "779f471c5370",
+      "editions": [
+        "india"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "open-local",
+      "edition": "world",
+      "headline": "Mistral releases Mistral Large 4 open weights, 1T-parameter MoE, 1M context",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "quote": "a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token",
+      "claim": "Mistral Large 4 is a 1 trillion-parameter natively multimodal MoE with 49B active parameters per token (52B including embeddings), a 1M context window, under the Mistral Ecosystem Open-Weight License.",
+      "why_it_matters": "Frontier-class open weights, but 1T parameters means datacenter hardware; useful to read the licence and MoE design, not to run on a laptop.",
+      "published": "2026-10-29",
+      "published_evidence": "time datetime",
+      "source_type": "primary",
+      "source_name": "Mistral AI (Hugging Face)",
+      "significance": 4,
+      "secondary_urls": [
+        "https://itdaily.com/news/innovation/mistral-le-chonk-open-weight/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "014576526a4d",
+      "fetch_tier": "A",
+      "page_file": "pages/014576526a4d.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+      "is_followup": false,
+      "canonical_url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "story_key": "e489db0118e0",
+      "editions": [
+        "world"
+      ],
+      "score": 5.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "open-local",
+      "edition": "world",
+      "headline": "Liquid AI LFM3-1.7B targets local agents, about 1 GB at 4-bit",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "quote": "at 4-bit precision, it takes about 1 GB of memory, so it fits on any phone or laptop.",
+      "claim": "LFM3-1.7B (1.73B parameters, 256K-token context, LFM Open License v1.0) is a text model for local agents; the card says it takes about 1 GB at 4-bit and is not recommended for agentic coding or complex multi-step reasoning.",
+      "why_it_matters": "A small, tool-calling model that fits even an 8 GB laptop per the card, with single-GPU fine-tuning for your own projects.",
+      "published": "2026-10-28",
+      "published_evidence": "time datetime",
+      "source_type": "primary",
+      "source_name": "Liquid AI (Hugging Face)",
+      "significance": 4,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "11144fe59342",
+      "fetch_tier": "A",
+      "page_file": "pages/11144fe59342.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "LiquidAI/LFM3-1.7B · Hugging Face",
+      "is_followup": false,
+      "canonical_url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "story_key": "34eb1653280a",
+      "editions": [
+        "world"
+      ],
+      "score": 5.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "open-local",
+      "edition": "world",
+      "headline": "Baidu releases Unlimited-OCR 2, MIT-licensed 3B document parser",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+      "quote": "[2026/10/27] 🚀 We release Unlimited OCR 2, achieving unlimited-horizon parsing with SR-SWA.",
+      "claim": "Baidu released Unlimited OCR 2 on 27 Oct 2026 under the MIT licence; it uses Sparse Reference Sliding Window Attention to keep decoding memory nearly constant on long documents, and the page lists 3B params with a new MarathonDocBench benchmark.",
+      "why_it_matters": "A permissively licensed OCR model for long PDFs you can build on, though the card tests on an 80 GB A800.",
+      "published": "2026-10-27",
+      "published_evidence": "time datetime",
+      "source_type": "primary",
+      "source_name": "Baidu (Hugging Face)",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "c55904e21a85",
+      "fetch_tier": "A",
+      "page_file": "pages/c55904e21a85.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "baidu/Unlimited-OCR-2 · Hugging Face",
+      "is_followup": false,
+      "canonical_url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+      "story_key": "bb031c2bee4d",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "open-local",
+      "edition": "world",
+      "headline": "IBM Granite Switch 4.1.1 patches adapters without retraining base model",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "quote": "Granite Switch 4.1.1 is a patch release. The version number means what it means in software: fully backwards compatible with 4.1",
+      "claim": "IBM shipped Granite Switch 4.1.1 with an updated multilingual Granite Speech ASR model (10 languages) and an updated Decision adapter; the base model is untouched.",
+      "why_it_matters": "Shows an adapter-swapping design where you update skills on one endpoint without redownloading a 30B base.",
+      "published": "2026-10-29",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "primary",
+      "source_name": "IBM Granite (Hugging Face)",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "f3538b6fb36f",
+      "fetch_tier": "A",
+      "page_file": "pages/f3538b6fb36f.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "is_followup": false,
+      "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "story_key": "77866eac7108",
+      "editions": [
+        "world"
+      ],
+      "score": 3.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Thrive Holdings agrees to buy ADT for $15.3B enterprise value",
+      "url": "https://thenextweb.com/news/thrive-holdings-acquires-adt-7-6bn-kushner",
+      "quote": "The deal values ADT at about $7.6bn in equity and $15.3bn in enterprise value.",
+      "claim": "Thrive Holdings, set up by Thrive Capital, agreed to buy ADT for $10 a share in cash; OpenAI is a partner supplying AI models and engineers, Apollo funds the financing, and closing is expected in Q1 2027.",
+      "why_it_matters": "AI-backed holding companies are buying ordinary businesses to retrofit with AI, a pattern that creates demand for engineers who can deploy AI in non-tech firms.",
+      "published": "2026-10-30",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TNW",
+      "significance": 4,
+      "secondary_urls": [
+        "https://axios.com/pro/all-deals/2026/10/29/thrive-holdings-adt-15b-take-private"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "a8f5236446e9",
+      "fetch_tier": "A",
+      "page_file": "pages/a8f5236446e9.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Joshua Kushner’s Thrive Holdings agrees to buy ADT for $7.6bn in cash",
+      "is_followup": false,
+      "canonical_url": "https://thenextweb.com/news/thrive-holdings-acquires-adt-7-6bn-kushner",
+      "story_key": "240e35d53381",
+      "editions": [
+        "world"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Anthropic S-1: Amazon likely biggest IPO winner, VCs hold under 5%",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "quote": "none of those VC firms owns 5%, the threshold for being included in the principal stockholders’ table",
+      "claim": "According to Anthropic's S-1 as reported by TechCrunch, no venture firm (Menlo, Sequoia, Sound Ventures, Spark) owns 5% of Anthropic, and Amazon, holding convertible notes it valued at $97.9 billion as of June 30, is likely the largest financial beneficiary of the IPO.",
+      "why_it_matters": "The Anthropic IPO is now a filed S-1 with real numbers; it shows who captures AI value and how strategic cloud money shapes labs.",
+      "published": "2026-10-28",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TechCrunch",
+      "significance": 4,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "1b16f2a2a47a",
+      "quote_verified": "script",
+      "verify_note": "",
+      "fetch_tier": "A",
+      "page_file": "pages/1b16f2a2a47a.txt",
+      "title": "VCs will make billions on Anthropic's IPO, but Amazon is set to make much (much) more | TechCrunch",
+      "is_followup": false,
+      "canonical_url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
+      "story_key": "2375fcf7dfcc",
+      "editions": [
+        "world"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Guidewire to acquire AI underwriting firm hyperexponential for $1.7B cash",
+      "url": "https://www.guidewire.com/ja/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential",
+      "quote": "for a base purchase price of $1.7 billion in cash, subject to adjustments, and up to an additional $400 million in contingent consideration",
+      "claim": "Guidewire signed a definitive agreement to acquire London-based hyperexponential, an AI-native underwriting and pricing platform, for a base $1.7 billion in cash plus up to $400 million contingent on recurring revenue targets.",
+      "why_it_matters": "A $1.7B exit for a vertical agentic-AI software startup shows where acquirers pay: deep domain workflows like insurance underwriting.",
+      "published": "2026-10-27",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "primary",
+      "source_name": "Guidewire",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "a9bdb88e2641",
+      "fetch_tier": "A",
+      "page_file": "pages/a9bdb88e2641.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Guidewire Signs Definitive Agreement to Acquire hyperexponential | Guidewire",
+      "is_followup": false,
+      "canonical_url": "https://www.guidewire.com/ja/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential",
+      "story_key": "71f478df9896",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Ex-Palantir founders raise $17M a16z-led seed for building world models",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "quote": "Dream has emerged from stealth with $17 million in seed funding led by Andreessen Horowitz",
+      "claim": "Dream, founded by Andy Elder and Arjun Mathur, emerged from stealth with a $17 million seed led by Andreessen Horowitz, building built world models for architecture, engineering and construction that aim to replace AutoCAD and Revit.",
+      "why_it_matters": "An a16z-backed bet that world models can break into building design is a concrete new area for AI builders beyond chat and code.",
+      "published": "2026-10-29",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TechCrunch",
+      "significance": 3,
+      "secondary_urls": [
+        "https://thenextweb.com/news/dream-17m-seed-ai-building-design"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "4dcfcc0d1943",
+      "quote_verified": "script",
+      "verify_note": "",
+      "fetch_tier": "A",
+      "page_file": "pages/4dcfcc0d1943.txt",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction | TechCrunch",
+      "is_followup": false,
+      "canonical_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+      "story_key": "f7f3c7f3be06",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Disruptive closes $10B fund for about 10 late-stage AI and defence bets",
+      "url": "https://thenextweb.com/news/disruptive-10bn-fund-ai-defence-startups",
+      "quote": "Disruptive plans to back about 10 late-stage companies, putting around $1bn into each.",
+      "claim": "Dallas firm Disruptive raised a $10bn fund (reported by Bloomberg) to invest in AI, defence and software startups, moving from deal-by-deal SPVs to a single fund; TNW notes OpenAI is reportedly raising at a $1.25tn valuation.",
+      "why_it_matters": "Late-stage AI cheques are now around $1B each, so capital concentrates in a few companies while early founders compete for far smaller pools.",
+      "published": "2026-10-27",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TNW",
+      "significance": 3,
+      "secondary_urls": [
+        "https://www.dmagazine.com/business-economy/2026/10/dallas-investor-alex-davis-on-his-new-10b-fund-and-the-ai-arms-race/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "873bba62f39f",
+      "fetch_tier": "A",
+      "page_file": "pages/873bba62f39f.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Dallas firm Disruptive closes $10bn fund to back AI and defence startups",
+      "is_followup": false,
+      "canonical_url": "https://thenextweb.com/news/disruptive-10bn-fund-ai-defence-startups",
+      "story_key": "02cfd222bfdf",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "research-policy-trythis",
+      "edition": "world",
+      "headline": "LARC reasons over continuous hidden states for image generation, tops GenEval",
+      "url": "https://arxiv.org/abs/2610.42149",
+      "quote": "LARC achieves state-of-the-art performance on GenEval with a 7%p gain over BAGEL",
+      "claim": "LARC reasons over continuous hidden states in unified multimodal models, trained by curriculum SFT then information-gain RL, and reports a 7%p GenEval gain over BAGEL (NeurIPS 2026 comment).",
+      "why_it_matters": "A readable example of latent reasoning moving beyond text-token chain-of-thought.",
+      "published": "2026-10-30",
+      "published_evidence": "meta citation_date",
+      "source_type": "primary",
+      "source_name": "arXiv",
+      "significance": 3,
+      "secondary_urls": [
+        "https://huggingface.co/papers/2610.42149"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "bc4760b1661e",
+      "fetch_tier": "A",
+      "page_file": "pages/bc4760b1661e.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "[2610.42149] Latent Reasoning in Continuous Space for Unified Multimodal Models",
+      "is_followup": false,
+      "canonical_url": "https://arxiv.org/abs/2610.42149",
+      "story_key": "007150fa9d1c",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "research-policy-trythis",
+      "edition": "world",
+      "headline": "AISI finds pretraining data filtering works for open-weight protein models, not durably",
+      "url": "https://www.aisi.gov.uk/blog/pretraining-data-filtering-in-open-weight-biological-models",
+      "quote": "find it to be effective and selective, but not necessarily durable against fine-tuning",
+      "claim": "The UK AI Security Institute assessed pretraining data filtering as a safeguard for open-weight protein models and found it effective and selective, but not necessarily durable against fine-tuning.",
+      "why_it_matters": "Shows where a common open-weights safety technique breaks, useful context if you fine-tune open models.",
+      "published": "2026-10-26",
+      "published_evidence": "text: Oct 26, 2026",
+      "source_type": "primary",
+      "source_name": "AI Security Institute",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "be63b1acf619",
+      "fetch_tier": "A",
+      "page_file": "pages/be63b1acf619.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Pretraining data filtering in open-weight biological models | AISI Work",
+      "is_followup": false,
+      "canonical_url": "https://www.aisi.gov.uk/blog/pretraining-data-filtering-in-open-weight-biological-models",
+      "story_key": "261c6447ff81",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "research-policy-trythis",
+      "edition": "world",
+      "headline": "AISI tests whether coding agents can rebuild biological AI tools from papers",
+      "url": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
+      "quote": "We tested whether leading coding agents can re-create published biological AI tools from limited information",
+      "claim": "AISI's Chem-Bio team tested whether leading coding agents can re-create published biological AI tools from limited information, and what that means for managed access controls.",
+      "why_it_matters": "Paper-to-code reproduction by agents is now a safety-evaluation question, not just a convenience.",
+      "published": "2026-10-26",
+      "published_evidence": "text: Oct 26, 2026",
+      "source_type": "primary",
+      "source_name": "AI Security Institute",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "b5839914dc66",
+      "fetch_tier": "A",
+      "page_file": "pages/b5839914dc66.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Can AI coding agents rebuild biological AI tools from a paper? | AISI Work",
+      "is_followup": false,
+      "canonical_url": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
+      "story_key": "649c1d48ccc8",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "research-policy-trythis",
+      "edition": "world",
+      "headline": "CEPO splits coordinator and executor prompts to improve multi-agent prompt optimization",
+      "url": "https://arxiv.org/abs/2610.34722",
+      "quote": "experiments spanning 11 benchmarks across four domains demonstrate that applying CEPO to four existing prompt optimizers consistently improves their performance",
+      "claim": "CEPO separates a shared coordinator prompt from agent-specific executor prompts; across 11 benchmarks in four domains it improved four existing prompt optimizers.",
+      "why_it_matters": "A cheap technique you can layer on whatever prompt optimizer you already use for multi-agent projects.",
+      "published": "2026-10-26",
+      "published_evidence": "meta citation_date",
+      "source_type": "primary",
+      "source_name": "arXiv",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "ef97925afa6f",
+      "fetch_tier": "A",
+      "page_file": "pages/ef97925afa6f.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "[2610.34722] CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems",
+      "is_followup": false,
+      "canonical_url": "https://arxiv.org/abs/2610.34722",
+      "story_key": "7f2205bdae58",
+      "editions": [
+        "world"
+      ],
+      "score": 3.0,
+      "used_in": [
+        "world"
+      ]
+    }
+  ]
+}

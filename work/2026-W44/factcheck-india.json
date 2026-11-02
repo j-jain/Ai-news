@@ -1,0 +1,159 @@
+{
+ "verdicts": [
+  {
+   "n": 1,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Sarvam blog dated 27 Oct: MoU with HQ IDS, umbrella framework across Army/Navy/Air Force, Chanakya division, Sarvam 105B."
+  },
+  {
+   "n": 2,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. AIM: Fadnavis launched 28 Oct, 2,500 officials, two-year outlay Rs 11.26 crore, 22 languages incl. Marathi."
+  },
+  {
+   "n": 3,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Elets: Krishnan unveiled draft DEPA for AI Training handbook with iSPIRT at Bengaluru roundtable on 30 Oct; sealed-room model, no raw data shared."
+  },
+  {
+   "n": 4,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Near-verbatim from Sarvam blog: design/develop/deploy for operational, training, decision-support needs, follow-on support, extends to joint/tri-service orgs."
+  },
+  {
+   "n": 5,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. AIM: decision support, target acquisition, data fusion across sensor-to-shooter loop, human oversight, AI agents/geospatial/perception."
+  },
+  {
+   "n": 6,
+   "verdict": "pass",
+   "reason": "Round 2: AIM quotes Pratyush Kumar, co-founder, with these exact words; attribution now to AIM only."
+  },
+  {
+   "n": 7,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Sarvam blog carries 'Clarification, 28 October 2026' with exactly this content."
+  },
+  {
+   "n": 8,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. AIM lists drafting notes/replies, translate/summarise, analyse data, scanned records to searchable text, GR Expert, Email Summariser, RFP Bid Evaluator."
+  },
+  {
+   "n": 9,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. AIM: Samvaad voice/WhatsApp outreach, Saaras and Bulbul integrated with MahaAI, audited infrastructure entirely in India, state can inspect."
+  },
+  {
+   "n": 10,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Elets lists the four pillars and says developer gets back only trained model or a decision such as on a loan application."
+  },
+  {
+   "n": 11,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Elets: providers register datasets, consumers request access per use case, Data Collabs aggregate and standardise."
+  },
+  {
+   "n": 12,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Elets: draft, not legally binding, consultations in coming weeks, finance/healthcare pilots first, Samyog powered by iSPIRT."
+  },
+  {
+   "n": 13,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Elets: payment methods 'will be explored', liability for leaks not spelled out, DPDP Act main rules take effect May 2027."
+  },
+  {
+   "n": 14,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. AIM: groundbreaking 28 Oct, 52 MW Chennai, direct-to-chip liquid cooling, gigawatt-scale AI Factory campus with operational 30 MW, >250 MW plan."
+  },
+  {
+   "n": 15,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. AIM: serves hyperscalers, neocloud providers, AI companies; offers sovereign cloud, GPUaaS, hyperscale colocation; page gives no prices or opening date."
+  },
+  {
+   "n": 16,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Business Standard price table matches all three 1TB configurations; sales from 6 Nov."
+  },
+  {
+   "n": 17,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Business Standard: up to 25% faster on-device AI vs M5, up to 170GB/s, Rs 15,000 cashback for Amex/Axis/ICICI."
+  },
+  {
+   "n": 18,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Inc42: $130.2 Mn Oct 26-30, down 29.2% from $184 Mn; AI second, five startups $30.4 Mn, Simplismart and Live2.ai 91%."
+  },
+  {
+   "n": 19,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. StartupTalky: founded 2022, Bengaluru, run/scale AI models cutting compute costs, $14M Series B led by Dallas VC with NVIDIA, Accel, Shastra VC, Micromax."
+  },
+  {
+   "n": 20,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. StartupTalky: ARR grew 14x in six months, customers InVideo/HeyGen/Ema, funds for US and other markets and team growth."
+  },
+  {
+   "n": 21,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Inc42 table: Live2.ai, AI, Application Layer, B2B, $13.7 Mn Pre-Series B, IvyCap Ventures."
+  },
+  {
+   "n": 22,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. StartupTalky: ex-slice exec Pradeep Ayyagari, $2.3M pre-seed led by Japan's Globalway with Blume, Marsshot, DeVC; custom software/AI agents in days, tools on SAP and Salesforce."
+  },
+  {
+   "n": 23,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Inc42 table: CopperPilot $390K pre-seed from Neon Fund; Glance, amount blank, L Catterton."
+  },
+  {
+   "n": 24,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Inc42: Munjal and Saini raising Rs 700 Cr Longshot Capital for AI/deeptech; Protectt.ai to acquire controlling stake in Bosch-incubated AIShield."
+  },
+  {
+   "n": 25,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Elets: bank testing since March, fintech partner's customers, before consent, >2 million requests in two weeks, per Mint."
+  },
+  {
+   "n": 26,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Elets: MRI tumour-detection pilot demonstrated at launch; HDFC Bank, Sarvam, Emergent AI representatives at Bengaluru roundtable."
+  },
+  {
+   "n": 27,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. AIM: approved in August; tools within workflows for correspondence, policy documents, departmental records; Samvaad voice/WhatsApp outreach."
+  },
+  {
+   "n": 28,
+   "verdict": "pass",
+   "reason": "Round 2: StartupTalky names InVideo, HeyGen and Ema as customers; unsupported AI-product label removed."
+  },
+  {
+   "n": 29,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. Elets: sealed room executes only what the authorised e-contract permits; liability for leaks not spelled out."
+  },
+  {
+   "n": 30,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. AIM: GR Expert searches Government Resolutions across departments and tracks changes."
+  },
+  {
+   "n": 31,
+   "verdict": "pass",
+   "reason": "Unchanged from round 1. StartupTalky: helps run and scale AI models while keeping compute costs down; ARR grew 14x in six months."
+  }
+ ]
+}

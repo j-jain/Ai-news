@@ -1,0 +1,722 @@
+{
+  "week": "2026-W44",
+  "edition": "india",
+  "draft": "work/2026-W44/draft-india.md",
+  "claims": [
+    {
+      "n": 1,
+      "line": 3,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Sarvam signs an armed forces framework** Sarvam signed an MoU on 27 Oct with Headquarters Integrated Defence Staff, setting up an umbrella framework for AI projects across the Indian Army, Navy and Air Force, to be carried out by its defence division Chanakya using models such as Sarvam 105B [Sarvam](https://www.sarvam.ai/blogs/sarvam-hq-ids-mou), so Indian foundation-model work now has a defence customer as well as state ones.",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-hq-ids-mou",
+          "id": "49dcc0d226d4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/49dcc0d226d4.txt",
+          "headline": "Sarvam signs five-year AI framework MoU with HQ IDS for Army, Navy, Air Force",
+          "claim": "Sarvam says it signed an MoU with Headquarters Integrated Defence Staff, setting up an umbrella framework for AI projects across the Army, Navy and Air Force; work will be done by its defence division Chanakya using models such as Sarvam 105B.",
+          "quote": "setting up an umbrella framework for AI projects across the Indian Army, the Indian Navy and the Indian Air Force",
+          "published": "2026-10-27",
+          "context": "Sarvam and Ministry of Defence sign AI MoU | Sarvam AI\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 27, 20262 min read\nShare\n\nOct 27, 2026·2 min read\nShare\n\nClarification, 28 October 2026: A few news articles have suggested that the MoU has been signed with the Ministry of Defence. The MoU has been executed with HQ IDS, an organisation under the Ministry of Defence.\n\nWe have signed a Memorandum of Understanding (MoU) with Headquarters Integrated Defence Staff (HQ IDS), Ministry of Defence, setting up an umbrella framework for AI projects across the Indian Army, the Indian Navy and the Indian Air Force. The framework also extends to the joint, tri-service and integrated organisations under HQ IDS.\n\nUnder the MoU, we will design, develop and deploy AI applications for the operational, training and decision-support requirements of the three Services, and provide follow-on technical support. Work under the MoU spans several projects across all three Services, with HQ IDS facilitating the engagement.\n\nThrough the agreement, the three Services and the joint organisations gain access to the same foundation models, the same agentic infrastructure, and the same geospatial and perception systems. Doctrine and lessons learnt from one Service’s projects can then inform the next.\n\nThe MoU advances th"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "line": 4,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Maharashtra puts Indus on 2,500 desks** Chief Minister Devendra Fadnavis launched Sarvam's Indus Cowork on 28 Oct for 2,500 Maharashtra government officials under a two-year outlay of ₹11.26 crore, with support for 22 languages including Marathi [AIM](https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials), so a state is now a paying customer for Indian-language AI tools you could build on.",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+          "id": "3bdd9251c36a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3bdd9251c36a.txt",
+          "headline": "Maharashtra rolls out Sarvam's Indus Cowork to 2,500 officials",
+          "claim": "Maharashtra launched Sarvam's Indus Cowork on 28 October for 2,500 officials under a two-year outlay of ₹11.26 crore, covering 22 languages including Marathi, plus Samvaad for citizen outreach.",
+          "quote": "Sarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28.",
+          "published": "2026-10-29",
+          "context": "6-10-29T15:43:36.846+05:30Updated 2026-10-29T15:43:36.846+05:30\n\nKey takeaways\n\nSarvam AI's Indus Cowork is being deployed to 2,500 Maharashtra government officials under a two-year agreement valued at ₹11.26 crore.\n\nThe platform assists officials in drafting documents, analysing reports, and summarising files, supporting 22 languages including Marathi.\n\nAdditional tools include GR Expert for searching government resolutions and Email Summariser for condensing official correspondence.\n\nThe agreement also encompasses a voice-based citizen outreach system and integrates AI speech recognition and text-to-speech models.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nSarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28. The AI productivity platform is designed to help officials draft documents, analyse reports, summarise files and search government records.\n\nThe Maharashtra government approved the deployment of Sarvam’s sovereign AI solutions in August, with a two-year outlay of ₹11.26 crore. The agreement covers Indus Cowork for government employees alongside other AI and speech technology applications.\n\nOfficials can use Indus Cowork to draft official notes and replies, research government policies, translate and summarise lengthy documents, analyse data and convert scanned records into searchable text, according to Sarvam. The workspace supports 22 languages, including Marathi.\n\nThe platform also includ"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "line": 5,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**MeitY drafts sealed-room rules for training** MeitY Secretary S Krishnan unveiled the draft DEPA for AI Training handbook, prepared with iSPIRT, at a roundtable in Bengaluru on 30 Oct, proposing a 'sealed room' where models train on sensitive data without the raw data being shared [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/), so bank and hospital data could one day reach small teams through a contract instead of a favour.",
+      "evidence": [
+        {
+          "chip": "Elets CIO",
+          "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+          "id": "f9d8d0968b8e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f9d8d0968b8e.txt",
+          "headline": "MeitY unveils DEPA for AI Training handbook with iSPIRT",
+          "claim": "MeitY Secretary S Krishnan unveiled a draft DEPA for AI Training handbook, prepared with iSPIRT, proposing a 'sealed room' where models train on sensitive data without the raw data being shared.",
+          "quote": "MeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October.",
+          "published": "2026-10-31",
+          "context": "nstructions?\n\n07-10-2026\n\nartificial intelligence\n\nMeitY Unveils DEPA for AI Training, a ‘Sealed Room’ Framework to Train AI on Sensitive Data Without Exposing It\nBy Elets News Network - 31 October 2026\n\nShare:\n\nIndia has some of the richest datasets in the world, from hospital scans to bank transaction histories, but almost none of it reaches the teams building AI models. Hospitals and banks rarely share it: they earn little from doing so and face penalties of up to ₹250 crore under the data protection law if it leaks. The Ministry of Electronics and Information Technology (MeitY) now wants to break that stalemate by sending AI models to the data instead of sending data to the developers.\n\nMeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October. The draft framework, prepared with the volunteer-led think tank iSPIRT Foundation, is pitched as India’s digital public infrastructure for AI, and says it has the potential to unlock $500 billion in AI-driven value for India’s GDP by 2030.\n\nBreaking the “data deadlock”\n\nThe handbook calls the core problem a “data deadlock”: the data needed to solve the next generation of problems is split across domains and locked behind separate institutional and regulatory walls. It argues that simply stripping out names and ID numbers is not enough, because anonymised data can often be re-identified and loses much of its usefulness along the way.\n\nDEPA itself is not new. NITI Aayog introduced it in 2020 "
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "line": 9,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Under the defence MoU, Sarvam says it will design, develop and deploy AI applications for the operational, training and decision-support requirements of the three Services and provide follow-on technical support, and the framework also extends to the joint, tri-service and integrated organisations under HQ IDS [Sarvam](https://www.sarvam.ai/blogs/sarvam-hq-ids-mou).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-hq-ids-mou",
+          "id": "49dcc0d226d4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/49dcc0d226d4.txt",
+          "headline": "Sarvam signs five-year AI framework MoU with HQ IDS for Army, Navy, Air Force",
+          "claim": "Sarvam says it signed an MoU with Headquarters Integrated Defence Staff, setting up an umbrella framework for AI projects across the Army, Navy and Air Force; work will be done by its defence division Chanakya using models such as Sarvam 105B.",
+          "quote": "setting up an umbrella framework for AI projects across the Indian Army, the Indian Navy and the Indian Air Force",
+          "published": "2026-10-27",
+          "context": "Sarvam and Ministry of Defence sign AI MoU | Sarvam AI\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 27, 20262 min read\nShare\n\nOct 27, 2026·2 min read\nShare\n\nClarification, 28 October 2026: A few news articles have suggested that the MoU has been signed with the Ministry of Defence. The MoU has been executed with HQ IDS, an organisation under the Ministry of Defence.\n\nWe have signed a Memorandum of Understanding (MoU) with Headquarters Integrated Defence Staff (HQ IDS), Ministry of Defence, setting up an umbrella framework for AI projects across the Indian Army, the Indian Navy and the Indian Air Force. The framework also extends to the joint, tri-service and integrated organisations under HQ IDS.\n\nUnder the MoU, we will design, develop and deploy AI applications for the operational, training and decision-support requirements of the three Services, and provide follow-on technical support. Work under the MoU spans several projects across all three Services, with HQ IDS facilitating the engagement.\n\nThrough the agreement, the three Services and the joint organisations gain access to the same foundation models, the same agentic infrastructure, and the same geospatial and perception systems. Doctrine and lessons learnt from one Service’s projects can then inform the next.\n\nThe MoU advances th"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "line": 11,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The focus areas are decision support, target acquisition and data fusion across the sensor-to-shooter loop, with human oversight retained for operational decisions, and the framework also provides for AI agents, geospatial systems and perception technologies across the Services [AIM](https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
+          "id": "796217fe95e3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796217fe95e3.txt",
+          "headline": "Sarvam signs five-year AI MoU with HQ IDS for armed forces",
+          "claim": "Sarvam signed a five-year MoU with HQ Integrated Defence Staff to develop AI applications for the Army, Navy and Air Force, to be run by its Chanakya division using the Sarvam 105B model; human oversight is retained for operational decisions.",
+          "quote": "Sarvam AI has signed a five-year memorandum of understanding (MoU) with the Ministry of Defence to develop and deploy AI applications",
+          "published": "2026-10-27",
+          "context": "arvam AI has signed a five-year MoU with the Ministry of Defence to develop AI applications for the Army, Navy, and Air Force.\n\nThe agreement focuses on decision support, target acquisition, and data fusion, with human oversight retained for operational decisions.\n\nThe projects will be managed by Sarvam's Chanakya division, which aims to enhance India's indigenous AI capabilities for defence.\n\nHQ IDS will facilitate the implementation of projects across joint and integrated organisations under the three Services.\n\nSarvam's mission emphasises developing AI technologies tailored specifically for India's defence needs.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nSarvam AI has signed a five-year memorandum of understanding (MoU) with the Ministry of Defence to develop and deploy AI applications across the Indian Army, Navy and Air Force, as India expands its efforts to build indigenous AI capabilities for defence.\n\nThe agreement with Headquarters Integrated Defence Staff (HQ IDS) also covers joint and integrated organisations under the three Services. HQ IDS will facilitate projects under the framework.\n\nUnder the MoU, Sarvam will develop AI applications for operational requirements, training and decision support. The company will also provide technical support for the projects.\n\nThe work will cover several projects across the three Services, including applications for decision support, target acquisition and data fusion across the sensor-to-shooter loop. Human oversight will be r"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "line": 13,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "\"Sarvam exists to build AI in India, for India,\" co-founder Pratyush Kumar said, as quoted by [AIM](https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
+          "id": "796217fe95e3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796217fe95e3.txt",
+          "headline": "Sarvam signs five-year AI MoU with HQ IDS for armed forces",
+          "claim": "Sarvam signed a five-year MoU with HQ Integrated Defence Staff to develop AI applications for the Army, Navy and Air Force, to be run by its Chanakya division using the Sarvam 105B model; human oversight is retained for operational decisions.",
+          "quote": "Sarvam AI has signed a five-year memorandum of understanding (MoU) with the Ministry of Defence to develop and deploy AI applications",
+          "published": "2026-10-27",
+          "context": "arvam AI has signed a five-year MoU with the Ministry of Defence to develop AI applications for the Army, Navy, and Air Force.\n\nThe agreement focuses on decision support, target acquisition, and data fusion, with human oversight retained for operational decisions.\n\nThe projects will be managed by Sarvam's Chanakya division, which aims to enhance India's indigenous AI capabilities for defence.\n\nHQ IDS will facilitate the implementation of projects across joint and integrated organisations under the three Services.\n\nSarvam's mission emphasises developing AI technologies tailored specifically for India's defence needs.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nSarvam AI has signed a five-year memorandum of understanding (MoU) with the Ministry of Defence to develop and deploy AI applications across the Indian Army, Navy and Air Force, as India expands its efforts to build indigenous AI capabilities for defence.\n\nThe agreement with Headquarters Integrated Defence Staff (HQ IDS) also covers joint and integrated organisations under the three Services. HQ IDS will facilitate projects under the framework.\n\nUnder the MoU, Sarvam will develop AI applications for operational requirements, training and decision support. The company will also provide technical support for the projects.\n\nThe work will cover several projects across the three Services, including applications for decision support, target acquisition and data fusion across the sensor-to-shooter loop. Human oversight will be r"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "line": 15,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "One correction worth knowing: Sarvam added a note on 28 Oct saying a few news articles had suggested the MoU was signed with the Ministry of Defence, when it was executed with HQ IDS, an organisation under the ministry [Sarvam](https://www.sarvam.ai/blogs/sarvam-hq-ids-mou).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-hq-ids-mou",
+          "id": "49dcc0d226d4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/49dcc0d226d4.txt",
+          "headline": "Sarvam signs five-year AI framework MoU with HQ IDS for Army, Navy, Air Force",
+          "claim": "Sarvam says it signed an MoU with Headquarters Integrated Defence Staff, setting up an umbrella framework for AI projects across the Army, Navy and Air Force; work will be done by its defence division Chanakya using models such as Sarvam 105B.",
+          "quote": "setting up an umbrella framework for AI projects across the Indian Army, the Indian Navy and the Indian Air Force",
+          "published": "2026-10-27",
+          "context": "Sarvam and Ministry of Defence sign AI MoU | Sarvam AI\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 27, 20262 min read\nShare\n\nOct 27, 2026·2 min read\nShare\n\nClarification, 28 October 2026: A few news articles have suggested that the MoU has been signed with the Ministry of Defence. The MoU has been executed with HQ IDS, an organisation under the Ministry of Defence.\n\nWe have signed a Memorandum of Understanding (MoU) with Headquarters Integrated Defence Staff (HQ IDS), Ministry of Defence, setting up an umbrella framework for AI projects across the Indian Army, the Indian Navy and the Indian Air Force. The framework also extends to the joint, tri-service and integrated organisations under HQ IDS.\n\nUnder the MoU, we will design, develop and deploy AI applications for the operational, training and decision-support requirements of the three Services, and provide follow-on technical support. Work under the MoU spans several projects across all three Services, with HQ IDS facilitating the engagement.\n\nThrough the agreement, the three Services and the joint organisations gain access to the same foundation models, the same agentic infrastructure, and the same geospatial and perception systems. Doctrine and lessons learnt from one Service’s projects can then inform the next.\n\nThe MoU advances th"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "line": 17,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The Maharashtra rollout gives officials a workspace to draft notes and replies, translate and summarise long documents, analyse data and convert scanned records into searchable text, alongside GR Expert for searching Government Resolutions across departments, an Email Summariser and an RFP Bid Evaluator for comparing tender bids [AIM](https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+          "id": "3bdd9251c36a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3bdd9251c36a.txt",
+          "headline": "Maharashtra rolls out Sarvam's Indus Cowork to 2,500 officials",
+          "claim": "Maharashtra launched Sarvam's Indus Cowork on 28 October for 2,500 officials under a two-year outlay of ₹11.26 crore, covering 22 languages including Marathi, plus Samvaad for citizen outreach.",
+          "quote": "Sarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28.",
+          "published": "2026-10-29",
+          "context": "6-10-29T15:43:36.846+05:30Updated 2026-10-29T15:43:36.846+05:30\n\nKey takeaways\n\nSarvam AI's Indus Cowork is being deployed to 2,500 Maharashtra government officials under a two-year agreement valued at ₹11.26 crore.\n\nThe platform assists officials in drafting documents, analysing reports, and summarising files, supporting 22 languages including Marathi.\n\nAdditional tools include GR Expert for searching government resolutions and Email Summariser for condensing official correspondence.\n\nThe agreement also encompasses a voice-based citizen outreach system and integrates AI speech recognition and text-to-speech models.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nSarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28. The AI productivity platform is designed to help officials draft documents, analyse reports, summarise files and search government records.\n\nThe Maharashtra government approved the deployment of Sarvam’s sovereign AI solutions in August, with a two-year outlay of ₹11.26 crore. The agreement covers Indus Cowork for government employees alongside other AI and speech technology applications.\n\nOfficials can use Indus Cowork to draft official notes and replies, research government policies, translate and summarise lengthy documents, analyse data and convert scanned records into searchable text, according to Sarvam. The workspace supports 22 languages, including Marathi.\n\nThe platform also includ"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "line": 19,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The same package includes Samvaad, a voice and WhatsApp-based system for citizen outreach, and connects Sarvam's Saaras speech recognition and Bulbul text-to-speech models to the state's MahaAI platform; Sarvam says it all runs on audited infrastructure located entirely within India that the state can inspect [AIM](https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+          "id": "3bdd9251c36a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3bdd9251c36a.txt",
+          "headline": "Maharashtra rolls out Sarvam's Indus Cowork to 2,500 officials",
+          "claim": "Maharashtra launched Sarvam's Indus Cowork on 28 October for 2,500 officials under a two-year outlay of ₹11.26 crore, covering 22 languages including Marathi, plus Samvaad for citizen outreach.",
+          "quote": "Sarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28.",
+          "published": "2026-10-29",
+          "context": "6-10-29T15:43:36.846+05:30Updated 2026-10-29T15:43:36.846+05:30\n\nKey takeaways\n\nSarvam AI's Indus Cowork is being deployed to 2,500 Maharashtra government officials under a two-year agreement valued at ₹11.26 crore.\n\nThe platform assists officials in drafting documents, analysing reports, and summarising files, supporting 22 languages including Marathi.\n\nAdditional tools include GR Expert for searching government resolutions and Email Summariser for condensing official correspondence.\n\nThe agreement also encompasses a voice-based citizen outreach system and integrates AI speech recognition and text-to-speech models.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nSarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28. The AI productivity platform is designed to help officials draft documents, analyse reports, summarise files and search government records.\n\nThe Maharashtra government approved the deployment of Sarvam’s sovereign AI solutions in August, with a two-year outlay of ₹11.26 crore. The agreement covers Indus Cowork for government employees alongside other AI and speech technology applications.\n\nOfficials can use Indus Cowork to draft official notes and replies, research government policies, translate and summarise lengthy documents, analyse data and convert scanned records into searchable text, according to Sarvam. The workspace supports 22 languages, including Marathi.\n\nThe platform also includ"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "line": 27,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The DEPA draft rests on four technical pillars, a Data Exchange Platform, machine-readable electronic contracts, a Secure Data Environment and differential privacy, and the developer sends a model into the sealed room and gets back only the trained model or, in some cases, just a decision such as on a loan application [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).",
+      "evidence": [
+        {
+          "chip": "Elets CIO",
+          "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+          "id": "f9d8d0968b8e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f9d8d0968b8e.txt",
+          "headline": "MeitY unveils DEPA for AI Training handbook with iSPIRT",
+          "claim": "MeitY Secretary S Krishnan unveiled a draft DEPA for AI Training handbook, prepared with iSPIRT, proposing a 'sealed room' where models train on sensitive data without the raw data being shared.",
+          "quote": "MeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October.",
+          "published": "2026-10-31",
+          "context": "nstructions?\n\n07-10-2026\n\nartificial intelligence\n\nMeitY Unveils DEPA for AI Training, a ‘Sealed Room’ Framework to Train AI on Sensitive Data Without Exposing It\nBy Elets News Network - 31 October 2026\n\nShare:\n\nIndia has some of the richest datasets in the world, from hospital scans to bank transaction histories, but almost none of it reaches the teams building AI models. Hospitals and banks rarely share it: they earn little from doing so and face penalties of up to ₹250 crore under the data protection law if it leaks. The Ministry of Electronics and Information Technology (MeitY) now wants to break that stalemate by sending AI models to the data instead of sending data to the developers.\n\nMeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October. The draft framework, prepared with the volunteer-led think tank iSPIRT Foundation, is pitched as India’s digital public infrastructure for AI, and says it has the potential to unlock $500 billion in AI-driven value for India’s GDP by 2030.\n\nBreaking the “data deadlock”\n\nThe handbook calls the core problem a “data deadlock”: the data needed to solve the next generation of problems is split across domains and locked behind separate institutional and regulatory walls. It argues that simply stripping out names and ID numbers is not enough, because anonymised data can often be re-identified and loses much of its usefulness along the way.\n\nDEPA itself is not new. NITI Aayog introduced it in 2020 "
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "line": 29,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Data providers such as hospitals, banks and public agencies register their datasets, data consumers including startups, researchers and enterprises request access for a specific use case, and a new class of intermediaries called Data Collabs aggregates and standardises data from multiple sources [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).",
+      "evidence": [
+        {
+          "chip": "Elets CIO",
+          "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+          "id": "f9d8d0968b8e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f9d8d0968b8e.txt",
+          "headline": "MeitY unveils DEPA for AI Training handbook with iSPIRT",
+          "claim": "MeitY Secretary S Krishnan unveiled a draft DEPA for AI Training handbook, prepared with iSPIRT, proposing a 'sealed room' where models train on sensitive data without the raw data being shared.",
+          "quote": "MeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October.",
+          "published": "2026-10-31",
+          "context": "nstructions?\n\n07-10-2026\n\nartificial intelligence\n\nMeitY Unveils DEPA for AI Training, a ‘Sealed Room’ Framework to Train AI on Sensitive Data Without Exposing It\nBy Elets News Network - 31 October 2026\n\nShare:\n\nIndia has some of the richest datasets in the world, from hospital scans to bank transaction histories, but almost none of it reaches the teams building AI models. Hospitals and banks rarely share it: they earn little from doing so and face penalties of up to ₹250 crore under the data protection law if it leaks. The Ministry of Electronics and Information Technology (MeitY) now wants to break that stalemate by sending AI models to the data instead of sending data to the developers.\n\nMeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October. The draft framework, prepared with the volunteer-led think tank iSPIRT Foundation, is pitched as India’s digital public infrastructure for AI, and says it has the potential to unlock $500 billion in AI-driven value for India’s GDP by 2030.\n\nBreaking the “data deadlock”\n\nThe handbook calls the core problem a “data deadlock”: the data needed to solve the next generation of problems is split across domains and locked behind separate institutional and regulatory walls. It argues that simply stripping out names and ID numbers is not enough, because anonymised data can often be re-identified and loses much of its usefulness along the way.\n\nDEPA itself is not new. NITI Aayog introduced it in 2020 "
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "line": 31,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "It is a draft and not legally binding: consultations are expected to begin in the coming weeks, pilots in finance and healthcare come first, and day-to-day management is expected to sit with Samyog, a new industry group powered by iSPIRT [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).",
+      "evidence": [
+        {
+          "chip": "Elets CIO",
+          "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+          "id": "f9d8d0968b8e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f9d8d0968b8e.txt",
+          "headline": "MeitY unveils DEPA for AI Training handbook with iSPIRT",
+          "claim": "MeitY Secretary S Krishnan unveiled a draft DEPA for AI Training handbook, prepared with iSPIRT, proposing a 'sealed room' where models train on sensitive data without the raw data being shared.",
+          "quote": "MeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October.",
+          "published": "2026-10-31",
+          "context": "nstructions?\n\n07-10-2026\n\nartificial intelligence\n\nMeitY Unveils DEPA for AI Training, a ‘Sealed Room’ Framework to Train AI on Sensitive Data Without Exposing It\nBy Elets News Network - 31 October 2026\n\nShare:\n\nIndia has some of the richest datasets in the world, from hospital scans to bank transaction histories, but almost none of it reaches the teams building AI models. Hospitals and banks rarely share it: they earn little from doing so and face penalties of up to ₹250 crore under the data protection law if it leaks. The Ministry of Electronics and Information Technology (MeitY) now wants to break that stalemate by sending AI models to the data instead of sending data to the developers.\n\nMeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October. The draft framework, prepared with the volunteer-led think tank iSPIRT Foundation, is pitched as India’s digital public infrastructure for AI, and says it has the potential to unlock $500 billion in AI-driven value for India’s GDP by 2030.\n\nBreaking the “data deadlock”\n\nThe handbook calls the core problem a “data deadlock”: the data needed to solve the next generation of problems is split across domains and locked behind separate institutional and regulatory walls. It argues that simply stripping out names and ID numbers is not enough, because anonymised data can often be re-identified and loses much of its usefulness along the way.\n\nDEPA itself is not new. NITI Aayog introduced it in 2020 "
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "line": 33,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The gaps are plain: the handbook says payment methods for data owners \"will be explored\", Elets CIO reports, and it does not spell out who is liable if data leaks from a sealed room, while the main rules of the Digital Personal Data Protection Act, 2023 take effect in May 2027 [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).",
+      "evidence": [
+        {
+          "chip": "Elets CIO",
+          "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+          "id": "f9d8d0968b8e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f9d8d0968b8e.txt",
+          "headline": "MeitY unveils DEPA for AI Training handbook with iSPIRT",
+          "claim": "MeitY Secretary S Krishnan unveiled a draft DEPA for AI Training handbook, prepared with iSPIRT, proposing a 'sealed room' where models train on sensitive data without the raw data being shared.",
+          "quote": "MeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October.",
+          "published": "2026-10-31",
+          "context": "nstructions?\n\n07-10-2026\n\nartificial intelligence\n\nMeitY Unveils DEPA for AI Training, a ‘Sealed Room’ Framework to Train AI on Sensitive Data Without Exposing It\nBy Elets News Network - 31 October 2026\n\nShare:\n\nIndia has some of the richest datasets in the world, from hospital scans to bank transaction histories, but almost none of it reaches the teams building AI models. Hospitals and banks rarely share it: they earn little from doing so and face penalties of up to ₹250 crore under the data protection law if it leaks. The Ministry of Electronics and Information Technology (MeitY) now wants to break that stalemate by sending AI models to the data instead of sending data to the developers.\n\nMeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October. The draft framework, prepared with the volunteer-led think tank iSPIRT Foundation, is pitched as India’s digital public infrastructure for AI, and says it has the potential to unlock $500 billion in AI-driven value for India’s GDP by 2030.\n\nBreaking the “data deadlock”\n\nThe handbook calls the core problem a “data deadlock”: the data needed to solve the next generation of problems is split across domains and locked behind separate institutional and regulatory walls. It argues that simply stripping out names and ID numbers is not enough, because anonymised data can often be re-identified and loses much of its usefulness along the way.\n\nDEPA itself is not new. NITI Aayog introduced it in 2020 "
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "line": 35,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On compute, L&T's Vyoma.AI broke ground on 28 Oct on a 52 MW AI-ready data centre in Chennai with direct-to-chip liquid cooling, part of a planned gigawatt-scale AI Factory campus that already hosts an operational 30 MW facility, and of a plan for more than 250 MW across India [AIM](https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai",
+          "id": "0f7f3e662a6c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/0f7f3e662a6c.txt",
+          "headline": "L&T Vyoma.AI breaks ground on 52 MW Chennai data centre",
+          "claim": "Vyoma.AI, L&T's AI cloud unit, broke ground on 28 October on a 52 MW AI-ready data centre in Chennai with direct-to-chip liquid cooling, part of a plan for over 250 MW across India.",
+          "quote": "The company held a groundbreaking ceremony for the facility on October 28.",
+          "published": "2026-10-28",
+          "context": "tilise direct-to-chip liquid cooling technology and incorporate renewable energy for efficiency.\n\nThis project is part of L&T's broader plan to expand data centre capacity to over 250 MW across India.\n\nThe data centre aims to meet the demands of hyperscalers and AI companies requiring robust computing infrastructure.\n\nThe development is expected to enhance India's digital infrastructure ecosystem significantly.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nVyoma.AI, Larsen & Toubro’s (L&T) AI cloud and data centre business, has broken ground on a 52 MW AI-ready data centre in Chennai as it expands its infrastructure to support AI workloads and cloud computing.\n\nThe company held a groundbreaking ceremony for the facility on October 28. The data centre will use direct-to-chip liquid cooling technology to manage heat generated by high-density computing workloads. It will also integrate renewable energy and energy-efficient technologies.\n\nThe facility is part of L&T’s planned gigawatt-scale AI Factory campus in Chennai. The campus already hosts an operational 30 MW facility with AI compute clusters and has 150 MVA of power infrastructure readiness, according to the company.\n\n“The groundbreaking of our 52 MW Chennai data centre marks a significant step in strengthening India’s digital infrastructure ecosystem,” said Prashant Chiranjive Jain, Managing Director of Vyoma.AI.\n\n“As AI adoption accelerates, the data centre is being"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "line": 37,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The new facility will serve hyperscalers, neocloud providers and AI companies, and Vyoma.AI sells sovereign cloud services, GPU-as-a-Service and hyperscale colocation, though the report gives no prices or opening date [AIM](https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai",
+          "id": "0f7f3e662a6c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/0f7f3e662a6c.txt",
+          "headline": "L&T Vyoma.AI breaks ground on 52 MW Chennai data centre",
+          "claim": "Vyoma.AI, L&T's AI cloud unit, broke ground on 28 October on a 52 MW AI-ready data centre in Chennai with direct-to-chip liquid cooling, part of a plan for over 250 MW across India.",
+          "quote": "The company held a groundbreaking ceremony for the facility on October 28.",
+          "published": "2026-10-28",
+          "context": "tilise direct-to-chip liquid cooling technology and incorporate renewable energy for efficiency.\n\nThis project is part of L&T's broader plan to expand data centre capacity to over 250 MW across India.\n\nThe data centre aims to meet the demands of hyperscalers and AI companies requiring robust computing infrastructure.\n\nThe development is expected to enhance India's digital infrastructure ecosystem significantly.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nVyoma.AI, Larsen & Toubro’s (L&T) AI cloud and data centre business, has broken ground on a 52 MW AI-ready data centre in Chennai as it expands its infrastructure to support AI workloads and cloud computing.\n\nThe company held a groundbreaking ceremony for the facility on October 28. The data centre will use direct-to-chip liquid cooling technology to manage heat generated by high-density computing workloads. It will also integrate renewable energy and energy-efficient technologies.\n\nThe facility is part of L&T’s planned gigawatt-scale AI Factory campus in Chennai. The campus already hosts an operational 30 MW facility with AI compute clusters and has 150 MVA of power infrastructure readiness, according to the company.\n\n“The groundbreaking of our 52 MW Chennai data centre marks a significant step in strengthening India’s digital infrastructure ecosystem,” said Prashant Chiranjive Jain, Managing Director of Vyoma.AI.\n\n“As AI adoption accelerates, the data centre is being"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "line": 41,
+      "section": "Compute on your desk",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Apple's 14-inch MacBook Pro with M6 starts at Rs 2,39,900 in India with 16GB unified memory and 1TB storage, the 24GB and 1TB version is Rs 2,63,900 and the 32GB and 1TB version is Rs 2,87,900, with sales from 6 Nov [Business Standard](https://www.business-standard.com/technology/gadgets/apple-macbook-pro-m6-launch-price-india-features-specifications-126102800479_1.html).",
+      "evidence": [
+        {
+          "chip": "Business Standard",
+          "url": "https://www.business-standard.com/technology/gadgets/apple-macbook-pro-m6-launch-price-india-features-specifications-126102800479_1.html",
+          "id": "ad05c0bd6dcc",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/ad05c0bd6dcc.txt",
+          "headline": "Apple launches 14-inch M6 MacBook Pro in India from Rs 2,39,900",
+          "claim": "The 14-inch MacBook Pro with M6 starts at Rs 2,39,900 in India with 16GB unified memory and 1TB storage; the 24GB 1TB configuration is Rs 2,63,900. Sales start November 6.",
+          "quote": "Apple has launched the 14-inch MacBook Pro with M6 in India at Rs 2,39,900. Pre-orders begin October 28, with sales starting November 6",
+          "published": "2026-10-28",
+          "context": "Apple MacBook Pro with M6 launched in India: Check price, offers and specs | Gadgets - Business Standard\n\nWednesday, October 28, 2026 | 12:01 PM ISTहिंदी में पढें\n\nHome\n\nTechnology\n\nTech News\n\nTech Reviews\n\nGadgets\n\nAI\n\nE-PaperDecodedOpinionIndia NewsLatest News\n\nHome / Technology / Gadgets / Apple MacBook Pro with M6 launched in India: Check price, offers and specs\n\nApple MacBook Pro with M6 launched in India: Check price, offers and specs\n\nApple has launched the 14-inch MacBook Pro with M6 in India at Rs 2,39,900. Pre-orders begin October 28, with sales starting November 6\n\nApple’s 14-inch MacBook Pro with the M6 chip is available for pre-order in India from October 28, with sales starting November 6\n\nHarsh Shivam New Delhi\n\n5 min read Last Updated : Oct 28 2026 | 11:59 AM IST\n\nListen to This Article\n\nApple has launched a new 14-inch MacBook Pro powered by its M6 chip, with prices in India starting at Rs 2,39,900. The new MacBook Pro features a 12-core CPU, 12-core GPU and a dual 16-core Neural Engine. Apple claims battery life of up to 24 hours and support for on-device artificial intelligence (AI) workloads. Pre-orders in India begin at 10:40 pm IST on October 28.\n \nAlongside the MacBook Pro with M6, Apple also updated the iMac with the M6 chip. The announc"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "line": 43,
+      "section": "Compute on your desk",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Apple claims up to 25 per cent faster on-device AI performance than the M5 and memory bandwidth of up to 170GB per second, and eligible American Express, Axis Bank and ICICI Bank cardholders can get Rs 15,000 cashback [Business Standard](https://www.business-standard.com/technology/gadgets/apple-macbook-pro-m6-launch-price-india-features-specifications-126102800479_1.html).",
+      "evidence": [
+        {
+          "chip": "Business Standard",
+          "url": "https://www.business-standard.com/technology/gadgets/apple-macbook-pro-m6-launch-price-india-features-specifications-126102800479_1.html",
+          "id": "ad05c0bd6dcc",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/ad05c0bd6dcc.txt",
+          "headline": "Apple launches 14-inch M6 MacBook Pro in India from Rs 2,39,900",
+          "claim": "The 14-inch MacBook Pro with M6 starts at Rs 2,39,900 in India with 16GB unified memory and 1TB storage; the 24GB 1TB configuration is Rs 2,63,900. Sales start November 6.",
+          "quote": "Apple has launched the 14-inch MacBook Pro with M6 in India at Rs 2,39,900. Pre-orders begin October 28, with sales starting November 6",
+          "published": "2026-10-28",
+          "context": "Apple MacBook Pro with M6 launched in India: Check price, offers and specs | Gadgets - Business Standard\n\nWednesday, October 28, 2026 | 12:01 PM ISTहिंदी में पढें\n\nHome\n\nTechnology\n\nTech News\n\nTech Reviews\n\nGadgets\n\nAI\n\nE-PaperDecodedOpinionIndia NewsLatest News\n\nHome / Technology / Gadgets / Apple MacBook Pro with M6 launched in India: Check price, offers and specs\n\nApple MacBook Pro with M6 launched in India: Check price, offers and specs\n\nApple has launched the 14-inch MacBook Pro with M6 in India at Rs 2,39,900. Pre-orders begin October 28, with sales starting November 6\n\nApple’s 14-inch MacBook Pro with the M6 chip is available for pre-order in India from October 28, with sales starting November 6\n\nHarsh Shivam New Delhi\n\n5 min read Last Updated : Oct 28 2026 | 11:59 AM IST\n\nListen to This Article\n\nApple has launched a new 14-inch MacBook Pro powered by its M6 chip, with prices in India starting at Rs 2,39,900. The new MacBook Pro features a 12-core CPU, 12-core GPU and a dual 16-core Neural Engine. Apple claims battery life of up to 24 hours and support for on-device artificial intelligence (AI) workloads. Pre-orders in India begin at 10:40 pm IST on October 28.\n \nAlongside the MacBook Pro with M6, Apple also updated the iMac with the M6 chip. The announc"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "line": 49,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "AI money was thin this week: Indian startups raised $130.2 Mn between 26 and 30 Oct, down 29.2% from $184 Mn the week before, and AI came second with five startups raising $30.4 Mn, 91% of it from Simplismart's $14 Mn and Live2.ai's $13.7 Mn [Inc42](https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
+          "id": "b424dca1a4ab",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b424dca1a4ab.txt",
+          "headline": "AI startups raised $30.4 Mn in Indian week of 26-31 October",
+          "claim": "Inc42 says AI was the second-placed sector in weekly Indian startup funding, with five startups raising $30.4 Mn; Simplismart's $14 Mn and Live2.ai's $13.7 Mn made up 91% of it.",
+          "quote": "AI was second-placed this week, with five startups raising $30.4 Mn.",
+          "published": "2026-10-31",
+          "context": "l Vehicles\nB2B\n–\nSeed\nGrowthCap Ventures\nGrowthCap Ventures\n\n26 Oct 2026\nCHOSEN\nEcommerce\nD2C\nB2C\n–\nSeries A*\nAvnish Chhabria (Wellbeing Nutrition), Saurabh Kapoor (Wellbeing Nutrition)\nAvnish Chhabria (Wellbeing Nutrition), Saurabh Kapoor (Wellbeing Nutrition)\n\n26 Oct 2026\nGlance\nAI\nApplication Layer\nB2C\n–\n–\nL Catterton\nL Catterton\n\nSource: Inc42\n\n*Part of a larger round\n\n**Mix of primary and secondary transactions\n\nKey Startup Funding Highlights Of The Week\n\nEcommerce led the sectoral funding charts this week, with nine deals bringing in $33.4 Mn. Troovy’s $10.5 Mn and Ace Blend’s $9.9 Mn rounds did much of the heavy lifting, together accounting for 61% of the sector’s funding this week.\n\nAI was second-placed this week, with five startups raising $30.4 Mn. Simplismart’s $14 Mn round and Live2.ai’s $13.7 Mn infusion contributed 91% to the total haul this week.\n\nFive advanced hardware and technology startups bagged $6.8 Mn this week, while the enterprise services sector also saw three deals worth $9.5 Mn.\n\nOn the investor front, Blume Ventures and Antler emerged as the most active investors this week and backed three startups each.\n\nStartup IPO Updates Of The Week\n\nSEBI has greenlit appliance maker Atomberg’s proposed ₹450 Cr IPO, which comprises a fresh issue of shares worth up to ₹450 Cr and an OFS component of up to 7.65 Cr shares.\n\nEdtech startup Imarticus Learning plans to file its DRHP via the confidential pre-filing route in the next two"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "line": 51,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Simplismart**, a Bengaluru startup founded in 2022 that helps companies run and scale AI models while keeping computing costs down, raised a $14 million Series B led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/).",
+      "evidence": [
+        {
+          "chip": "StartupTalky",
+          "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/",
+          "id": "48e5818006a5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/48e5818006a5.txt",
+          "headline": "Simplismart raises $14 Mn Series B led by Dallas Venture Capital",
+          "claim": "Bengaluru-based Simplismart raised $14 million in a Series B led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax investing; it says its annual revenue run rate grew 14 times in six months.",
+          "quote": "Simplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing.",
+          "published": "2026-10-28",
+          "context": "October 2026, in sectors ranging from AI infrastructure to esports and skincare. Dallas Venture Capital, Anand Mahindra and Globalway were among the day's lead investors. Jio Platforms also made its stock market debut at a 21% premium.\n\nDaily Indian Startup Funding Roundup - 28 October 2026\n\nStartup Sector Funding Round Lead Investors\n\nSimplismart AI Infrastructure $14 Mn Series B Dallas Venture Capital\n\nLet's Game Now Esports ₹30 Cr Undisclosed Anand Mahindra, Bestvantage Investments\n\nQwikBuild Enterprise AI $2.3 Mn Pre-Seed Globalway\n\nCHOSEN Skincare Undisclosed Series A Extension Wellbeing Nutrition Founders\n\nSimplismart Raises $14 Million in Series B Round Led by Dallas Venture Capital\n\nSimplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing. The startup will use the money to expand in the US and other markets, grow its team and build out its platform.\n\nFounded in 2022 by Amritanshu Jain and Devansh Ghatak, Bengaluru-based Simplismart helps companies run and scale AI models while keeping computing costs down. Its customers include InVideo, HeyGen and Ema. The company says its annual revenue run rate has grown 14 times in six months.\n\nLet's Game Now Raises INR 30 Crore Led by Anand Mahindra and Bestvantage Investments\n\nLet's Game Now raised INR 30 crore in a round co-led by Anand Mahindra and Bestvantage Investments, with a UAE-based family office also investing. The company will use the money to build out its Indian Super Gaming"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "line": 52,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "Simplismart says its annual revenue run rate grew 14 times in six months, names InVideo, HeyGen and Ema as customers, and will use the money to expand in the US and other markets and grow its team [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/).",
+      "evidence": [
+        {
+          "chip": "StartupTalky",
+          "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/",
+          "id": "48e5818006a5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/48e5818006a5.txt",
+          "headline": "Simplismart raises $14 Mn Series B led by Dallas Venture Capital",
+          "claim": "Bengaluru-based Simplismart raised $14 million in a Series B led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax investing; it says its annual revenue run rate grew 14 times in six months.",
+          "quote": "Simplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing.",
+          "published": "2026-10-28",
+          "context": "October 2026, in sectors ranging from AI infrastructure to esports and skincare. Dallas Venture Capital, Anand Mahindra and Globalway were among the day's lead investors. Jio Platforms also made its stock market debut at a 21% premium.\n\nDaily Indian Startup Funding Roundup - 28 October 2026\n\nStartup Sector Funding Round Lead Investors\n\nSimplismart AI Infrastructure $14 Mn Series B Dallas Venture Capital\n\nLet's Game Now Esports ₹30 Cr Undisclosed Anand Mahindra, Bestvantage Investments\n\nQwikBuild Enterprise AI $2.3 Mn Pre-Seed Globalway\n\nCHOSEN Skincare Undisclosed Series A Extension Wellbeing Nutrition Founders\n\nSimplismart Raises $14 Million in Series B Round Led by Dallas Venture Capital\n\nSimplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing. The startup will use the money to expand in the US and other markets, grow its team and build out its platform.\n\nFounded in 2022 by Amritanshu Jain and Devansh Ghatak, Bengaluru-based Simplismart helps companies run and scale AI models while keeping computing costs down. Its customers include InVideo, HeyGen and Ema. The company says its annual revenue run rate has grown 14 times in six months.\n\nLet's Game Now Raises INR 30 Crore Led by Anand Mahindra and Bestvantage Investments\n\nLet's Game Now raised INR 30 crore in a round co-led by Anand Mahindra and Bestvantage Investments, with a UAE-based family office also investing. The company will use the money to build out its Indian Super Gaming"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "line": 53,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Live2.ai** raised $13.7 Mn in a pre-Series B round from IvyCap Ventures, and Inc42's table lists it as a B2B application-layer AI startup [Inc42](https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
+          "id": "b424dca1a4ab",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b424dca1a4ab.txt",
+          "headline": "AI startups raised $30.4 Mn in Indian week of 26-31 October",
+          "claim": "Inc42 says AI was the second-placed sector in weekly Indian startup funding, with five startups raising $30.4 Mn; Simplismart's $14 Mn and Live2.ai's $13.7 Mn made up 91% of it.",
+          "quote": "AI was second-placed this week, with five startups raising $30.4 Mn.",
+          "published": "2026-10-31",
+          "context": "l Vehicles\nB2B\n–\nSeed\nGrowthCap Ventures\nGrowthCap Ventures\n\n26 Oct 2026\nCHOSEN\nEcommerce\nD2C\nB2C\n–\nSeries A*\nAvnish Chhabria (Wellbeing Nutrition), Saurabh Kapoor (Wellbeing Nutrition)\nAvnish Chhabria (Wellbeing Nutrition), Saurabh Kapoor (Wellbeing Nutrition)\n\n26 Oct 2026\nGlance\nAI\nApplication Layer\nB2C\n–\n–\nL Catterton\nL Catterton\n\nSource: Inc42\n\n*Part of a larger round\n\n**Mix of primary and secondary transactions\n\nKey Startup Funding Highlights Of The Week\n\nEcommerce led the sectoral funding charts this week, with nine deals bringing in $33.4 Mn. Troovy’s $10.5 Mn and Ace Blend’s $9.9 Mn rounds did much of the heavy lifting, together accounting for 61% of the sector’s funding this week.\n\nAI was second-placed this week, with five startups raising $30.4 Mn. Simplismart’s $14 Mn round and Live2.ai’s $13.7 Mn infusion contributed 91% to the total haul this week.\n\nFive advanced hardware and technology startups bagged $6.8 Mn this week, while the enterprise services sector also saw three deals worth $9.5 Mn.\n\nOn the investor front, Blume Ventures and Antler emerged as the most active investors this week and backed three startups each.\n\nStartup IPO Updates Of The Week\n\nSEBI has greenlit appliance maker Atomberg’s proposed ₹450 Cr IPO, which comprises a fresh issue of shares worth up to ₹450 Cr and an OFS component of up to 7.65 Cr shares.\n\nEdtech startup Imarticus Learning plans to file its DRHP via the confidential pre-filing route in the next two"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "line": 54,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**QwikBuild**, founded by former slice executive Pradeep Ayyagari, raised a $2.3 million pre-seed round led by Japan's Globalway, with Blume Ventures, Marsshot and DeVC, to build custom software and AI agents for businesses in days, including tools on top of SAP and Salesforce [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/).",
+      "evidence": [
+        {
+          "chip": "StartupTalky",
+          "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/",
+          "id": "48e5818006a5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/48e5818006a5.txt",
+          "headline": "Simplismart raises $14 Mn Series B led by Dallas Venture Capital",
+          "claim": "Bengaluru-based Simplismart raised $14 million in a Series B led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax investing; it says its annual revenue run rate grew 14 times in six months.",
+          "quote": "Simplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing.",
+          "published": "2026-10-28",
+          "context": "October 2026, in sectors ranging from AI infrastructure to esports and skincare. Dallas Venture Capital, Anand Mahindra and Globalway were among the day's lead investors. Jio Platforms also made its stock market debut at a 21% premium.\n\nDaily Indian Startup Funding Roundup - 28 October 2026\n\nStartup Sector Funding Round Lead Investors\n\nSimplismart AI Infrastructure $14 Mn Series B Dallas Venture Capital\n\nLet's Game Now Esports ₹30 Cr Undisclosed Anand Mahindra, Bestvantage Investments\n\nQwikBuild Enterprise AI $2.3 Mn Pre-Seed Globalway\n\nCHOSEN Skincare Undisclosed Series A Extension Wellbeing Nutrition Founders\n\nSimplismart Raises $14 Million in Series B Round Led by Dallas Venture Capital\n\nSimplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing. The startup will use the money to expand in the US and other markets, grow its team and build out its platform.\n\nFounded in 2022 by Amritanshu Jain and Devansh Ghatak, Bengaluru-based Simplismart helps companies run and scale AI models while keeping computing costs down. Its customers include InVideo, HeyGen and Ema. The company says its annual revenue run rate has grown 14 times in six months.\n\nLet's Game Now Raises INR 30 Crore Led by Anand Mahindra and Bestvantage Investments\n\nLet's Game Now raised INR 30 crore in a round co-led by Anand Mahindra and Bestvantage Investments, with a UAE-based family office also investing. The company will use the money to build out its Indian Super Gaming"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "line": 55,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**CopperPilot** raised a $390K pre-seed round from Neon Fund, and Glance took an undisclosed sum from L Catterton [Inc42](https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
+          "id": "b424dca1a4ab",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b424dca1a4ab.txt",
+          "headline": "AI startups raised $30.4 Mn in Indian week of 26-31 October",
+          "claim": "Inc42 says AI was the second-placed sector in weekly Indian startup funding, with five startups raising $30.4 Mn; Simplismart's $14 Mn and Live2.ai's $13.7 Mn made up 91% of it.",
+          "quote": "AI was second-placed this week, with five startups raising $30.4 Mn.",
+          "published": "2026-10-31",
+          "context": "l Vehicles\nB2B\n–\nSeed\nGrowthCap Ventures\nGrowthCap Ventures\n\n26 Oct 2026\nCHOSEN\nEcommerce\nD2C\nB2C\n–\nSeries A*\nAvnish Chhabria (Wellbeing Nutrition), Saurabh Kapoor (Wellbeing Nutrition)\nAvnish Chhabria (Wellbeing Nutrition), Saurabh Kapoor (Wellbeing Nutrition)\n\n26 Oct 2026\nGlance\nAI\nApplication Layer\nB2C\n–\n–\nL Catterton\nL Catterton\n\nSource: Inc42\n\n*Part of a larger round\n\n**Mix of primary and secondary transactions\n\nKey Startup Funding Highlights Of The Week\n\nEcommerce led the sectoral funding charts this week, with nine deals bringing in $33.4 Mn. Troovy’s $10.5 Mn and Ace Blend’s $9.9 Mn rounds did much of the heavy lifting, together accounting for 61% of the sector’s funding this week.\n\nAI was second-placed this week, with five startups raising $30.4 Mn. Simplismart’s $14 Mn round and Live2.ai’s $13.7 Mn infusion contributed 91% to the total haul this week.\n\nFive advanced hardware and technology startups bagged $6.8 Mn this week, while the enterprise services sector also saw three deals worth $9.5 Mn.\n\nOn the investor front, Blume Ventures and Antler emerged as the most active investors this week and backed three startups each.\n\nStartup IPO Updates Of The Week\n\nSEBI has greenlit appliance maker Atomberg’s proposed ₹450 Cr IPO, which comprises a fresh issue of shares worth up to ₹450 Cr and an OFS component of up to 7.65 Cr shares.\n\nEdtech startup Imarticus Learning plans to file its DRHP via the confidential pre-filing route in the next two"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "line": 57,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Beyond rounds, Unacademy co-founders Gaurav Munjal and Roman Saini are raising a ₹700 Cr venture fund, Longshot Capital, to back AI and deeptech startups, and Protectt.ai plans to take a controlling stake in AIShield, an AI security platform incubated at Bosch Global Software Technologies [Inc42](https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
+          "id": "b424dca1a4ab",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b424dca1a4ab.txt",
+          "headline": "AI startups raised $30.4 Mn in Indian week of 26-31 October",
+          "claim": "Inc42 says AI was the second-placed sector in weekly Indian startup funding, with five startups raising $30.4 Mn; Simplismart's $14 Mn and Live2.ai's $13.7 Mn made up 91% of it.",
+          "quote": "AI was second-placed this week, with five startups raising $30.4 Mn.",
+          "published": "2026-10-31",
+          "context": "l Vehicles\nB2B\n–\nSeed\nGrowthCap Ventures\nGrowthCap Ventures\n\n26 Oct 2026\nCHOSEN\nEcommerce\nD2C\nB2C\n–\nSeries A*\nAvnish Chhabria (Wellbeing Nutrition), Saurabh Kapoor (Wellbeing Nutrition)\nAvnish Chhabria (Wellbeing Nutrition), Saurabh Kapoor (Wellbeing Nutrition)\n\n26 Oct 2026\nGlance\nAI\nApplication Layer\nB2C\n–\n–\nL Catterton\nL Catterton\n\nSource: Inc42\n\n*Part of a larger round\n\n**Mix of primary and secondary transactions\n\nKey Startup Funding Highlights Of The Week\n\nEcommerce led the sectoral funding charts this week, with nine deals bringing in $33.4 Mn. Troovy’s $10.5 Mn and Ace Blend’s $9.9 Mn rounds did much of the heavy lifting, together accounting for 61% of the sector’s funding this week.\n\nAI was second-placed this week, with five startups raising $30.4 Mn. Simplismart’s $14 Mn round and Live2.ai’s $13.7 Mn infusion contributed 91% to the total haul this week.\n\nFive advanced hardware and technology startups bagged $6.8 Mn this week, while the enterprise services sector also saw three deals worth $9.5 Mn.\n\nOn the investor front, Blume Ventures and Antler emerged as the most active investors this week and backed three startups each.\n\nStartup IPO Updates Of The Week\n\nSEBI has greenlit appliance maker Atomberg’s proposed ₹450 Cr IPO, which comprises a fresh issue of shares worth up to ₹450 Cr and an OFS component of up to 7.65 Cr shares.\n\nEdtech startup Imarticus Learning plans to file its DRHP via the confidential pre-filing route in the next two"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "line": 63,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "DEPA already has pilots behind it: a bank testing the approach since March identified which customers of a fintech partner qualified for its credit cards before seeking consent, and handled more than two million requests in two weeks, according to Mint as cited by [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).",
+      "evidence": [
+        {
+          "chip": "Elets CIO",
+          "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+          "id": "f9d8d0968b8e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f9d8d0968b8e.txt",
+          "headline": "MeitY unveils DEPA for AI Training handbook with iSPIRT",
+          "claim": "MeitY Secretary S Krishnan unveiled a draft DEPA for AI Training handbook, prepared with iSPIRT, proposing a 'sealed room' where models train on sensitive data without the raw data being shared.",
+          "quote": "MeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October.",
+          "published": "2026-10-31",
+          "context": "nstructions?\n\n07-10-2026\n\nartificial intelligence\n\nMeitY Unveils DEPA for AI Training, a ‘Sealed Room’ Framework to Train AI on Sensitive Data Without Exposing It\nBy Elets News Network - 31 October 2026\n\nShare:\n\nIndia has some of the richest datasets in the world, from hospital scans to bank transaction histories, but almost none of it reaches the teams building AI models. Hospitals and banks rarely share it: they earn little from doing so and face penalties of up to ₹250 crore under the data protection law if it leaks. The Ministry of Electronics and Information Technology (MeitY) now wants to break that stalemate by sending AI models to the data instead of sending data to the developers.\n\nMeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October. The draft framework, prepared with the volunteer-led think tank iSPIRT Foundation, is pitched as India’s digital public infrastructure for AI, and says it has the potential to unlock $500 billion in AI-driven value for India’s GDP by 2030.\n\nBreaking the “data deadlock”\n\nThe handbook calls the core problem a “data deadlock”: the data needed to solve the next generation of problems is split across domains and locked behind separate institutional and regulatory walls. It argues that simply stripping out names and ID numbers is not enough, because anonymised data can often be re-identified and loses much of its usefulness along the way.\n\nDEPA itself is not new. NITI Aayog introduced it in 2020 "
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "line": 65,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In a second pilot shown at the launch, hospitals and a health-tech startup are training a tumour-detection model on MRI scans that the startup never sees, and representatives of HDFC Bank, Sarvam and Emergent AI sat at the Bengaluru roundtable [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).",
+      "evidence": [
+        {
+          "chip": "Elets CIO",
+          "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+          "id": "f9d8d0968b8e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f9d8d0968b8e.txt",
+          "headline": "MeitY unveils DEPA for AI Training handbook with iSPIRT",
+          "claim": "MeitY Secretary S Krishnan unveiled a draft DEPA for AI Training handbook, prepared with iSPIRT, proposing a 'sealed room' where models train on sensitive data without the raw data being shared.",
+          "quote": "MeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October.",
+          "published": "2026-10-31",
+          "context": "nstructions?\n\n07-10-2026\n\nartificial intelligence\n\nMeitY Unveils DEPA for AI Training, a ‘Sealed Room’ Framework to Train AI on Sensitive Data Without Exposing It\nBy Elets News Network - 31 October 2026\n\nShare:\n\nIndia has some of the richest datasets in the world, from hospital scans to bank transaction histories, but almost none of it reaches the teams building AI models. Hospitals and banks rarely share it: they earn little from doing so and face penalties of up to ₹250 crore under the data protection law if it leaks. The Ministry of Electronics and Information Technology (MeitY) now wants to break that stalemate by sending AI models to the data instead of sending data to the developers.\n\nMeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October. The draft framework, prepared with the volunteer-led think tank iSPIRT Foundation, is pitched as India’s digital public infrastructure for AI, and says it has the potential to unlock $500 billion in AI-driven value for India’s GDP by 2030.\n\nBreaking the “data deadlock”\n\nThe handbook calls the core problem a “data deadlock”: the data needed to solve the next generation of problems is split across domains and locked behind separate institutional and regulatory walls. It argues that simply stripping out names and ID numbers is not enough, because anonymised data can often be re-identified and loses much of its usefulness along the way.\n\nDEPA itself is not new. NITI Aayog introduced it in 2020 "
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "line": 67,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In Maharashtra, the state approved Sarvam's deployment in August and the tools now sit inside workflows for official correspondence, policy documents and departmental records, with a voice and WhatsApp channel for citizens on top [AIM](https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+          "id": "3bdd9251c36a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3bdd9251c36a.txt",
+          "headline": "Maharashtra rolls out Sarvam's Indus Cowork to 2,500 officials",
+          "claim": "Maharashtra launched Sarvam's Indus Cowork on 28 October for 2,500 officials under a two-year outlay of ₹11.26 crore, covering 22 languages including Marathi, plus Samvaad for citizen outreach.",
+          "quote": "Sarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28.",
+          "published": "2026-10-29",
+          "context": "6-10-29T15:43:36.846+05:30Updated 2026-10-29T15:43:36.846+05:30\n\nKey takeaways\n\nSarvam AI's Indus Cowork is being deployed to 2,500 Maharashtra government officials under a two-year agreement valued at ₹11.26 crore.\n\nThe platform assists officials in drafting documents, analysing reports, and summarising files, supporting 22 languages including Marathi.\n\nAdditional tools include GR Expert for searching government resolutions and Email Summariser for condensing official correspondence.\n\nThe agreement also encompasses a voice-based citizen outreach system and integrates AI speech recognition and text-to-speech models.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nSarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28. The AI productivity platform is designed to help officials draft documents, analyse reports, summarise files and search government records.\n\nThe Maharashtra government approved the deployment of Sarvam’s sovereign AI solutions in August, with a two-year outlay of ₹11.26 crore. The agreement covers Indus Cowork for government employees alongside other AI and speech technology applications.\n\nOfficials can use Indus Cowork to draft official notes and replies, research government policies, translate and summarise lengthy documents, analyse data and convert scanned records into searchable text, according to Sarvam. The workspace supports 22 languages, including Marathi.\n\nThe platform also includ"
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "line": 69,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Simplismart's customers include InVideo, HeyGen and Ema [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/).",
+      "evidence": [
+        {
+          "chip": "StartupTalky",
+          "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/",
+          "id": "48e5818006a5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/48e5818006a5.txt",
+          "headline": "Simplismart raises $14 Mn Series B led by Dallas Venture Capital",
+          "claim": "Bengaluru-based Simplismart raised $14 million in a Series B led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax investing; it says its annual revenue run rate grew 14 times in six months.",
+          "quote": "Simplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing.",
+          "published": "2026-10-28",
+          "context": "October 2026, in sectors ranging from AI infrastructure to esports and skincare. Dallas Venture Capital, Anand Mahindra and Globalway were among the day's lead investors. Jio Platforms also made its stock market debut at a 21% premium.\n\nDaily Indian Startup Funding Roundup - 28 October 2026\n\nStartup Sector Funding Round Lead Investors\n\nSimplismart AI Infrastructure $14 Mn Series B Dallas Venture Capital\n\nLet's Game Now Esports ₹30 Cr Undisclosed Anand Mahindra, Bestvantage Investments\n\nQwikBuild Enterprise AI $2.3 Mn Pre-Seed Globalway\n\nCHOSEN Skincare Undisclosed Series A Extension Wellbeing Nutrition Founders\n\nSimplismart Raises $14 Million in Series B Round Led by Dallas Venture Capital\n\nSimplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing. The startup will use the money to expand in the US and other markets, grow its team and build out its platform.\n\nFounded in 2022 by Amritanshu Jain and Devansh Ghatak, Bengaluru-based Simplismart helps companies run and scale AI models while keeping computing costs down. Its customers include InVideo, HeyGen and Ema. The company says its annual revenue run rate has grown 14 times in six months.\n\nLet's Game Now Raises INR 30 Crore Led by Anand Mahindra and Bestvantage Investments\n\nLet's Game Now raised INR 30 crore in a round co-led by Anand Mahindra and Bestvantage Investments, with a UAE-based family office also investing. The company will use the money to build out its Indian Super Gaming"
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "line": 85,
+      "section": "A sealed room you can run yourself",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In the DEPA draft, training runs inside a secure computing environment that executes only what the authorised electronic contract permits, and the handbook leaves open who is liable if data leaks [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).",
+      "evidence": [
+        {
+          "chip": "Elets CIO",
+          "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+          "id": "f9d8d0968b8e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/f9d8d0968b8e.txt",
+          "headline": "MeitY unveils DEPA for AI Training handbook with iSPIRT",
+          "claim": "MeitY Secretary S Krishnan unveiled a draft DEPA for AI Training handbook, prepared with iSPIRT, proposing a 'sealed room' where models train on sensitive data without the raw data being shared.",
+          "quote": "MeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October.",
+          "published": "2026-10-31",
+          "context": "nstructions?\n\n07-10-2026\n\nartificial intelligence\n\nMeitY Unveils DEPA for AI Training, a ‘Sealed Room’ Framework to Train AI on Sensitive Data Without Exposing It\nBy Elets News Network - 31 October 2026\n\nShare:\n\nIndia has some of the richest datasets in the world, from hospital scans to bank transaction histories, but almost none of it reaches the teams building AI models. Hospitals and banks rarely share it: they earn little from doing so and face penalties of up to ₹250 crore under the data protection law if it leaks. The Ministry of Electronics and Information Technology (MeitY) now wants to break that stalemate by sending AI models to the data instead of sending data to the developers.\n\nMeitY Secretary S Krishnan unveiled the Data Empowerment and Protection Architecture (DEPA) for AI Training handbook at a roundtable in Bengaluru on 30 October. The draft framework, prepared with the volunteer-led think tank iSPIRT Foundation, is pitched as India’s digital public infrastructure for AI, and says it has the potential to unlock $500 billion in AI-driven value for India’s GDP by 2030.\n\nBreaking the “data deadlock”\n\nThe handbook calls the core problem a “data deadlock”: the data needed to solve the next generation of problems is split across domains and locked behind separate institutional and regulatory walls. It argues that simply stripping out names and ID numbers is not enough, because anonymised data can often be re-identified and loses much of its usefulness along the way.\n\nDEPA itself is not new. NITI Aayog introduced it in 2020 "
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "line": 91,
+      "section": "Resolution search for the next state",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Maharashtra's package includes GR Expert, which lets officials search Government Resolutions across departments and track changes to them [AIM](https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+          "id": "3bdd9251c36a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3bdd9251c36a.txt",
+          "headline": "Maharashtra rolls out Sarvam's Indus Cowork to 2,500 officials",
+          "claim": "Maharashtra launched Sarvam's Indus Cowork on 28 October for 2,500 officials under a two-year outlay of ₹11.26 crore, covering 22 languages including Marathi, plus Samvaad for citizen outreach.",
+          "quote": "Sarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28.",
+          "published": "2026-10-29",
+          "context": "6-10-29T15:43:36.846+05:30Updated 2026-10-29T15:43:36.846+05:30\n\nKey takeaways\n\nSarvam AI's Indus Cowork is being deployed to 2,500 Maharashtra government officials under a two-year agreement valued at ₹11.26 crore.\n\nThe platform assists officials in drafting documents, analysing reports, and summarising files, supporting 22 languages including Marathi.\n\nAdditional tools include GR Expert for searching government resolutions and Email Summariser for condensing official correspondence.\n\nThe agreement also encompasses a voice-based citizen outreach system and integrates AI speech recognition and text-to-speech models.\n\nListen5 min\n\nSHARESave\n\nFollowPreferred SourceGoogle NewsWhatsAppTelegram\n\nSarvam AI's Indus Cowork is being rolled out to 2,500 Maharashtra government officials following its launch by Chief Minister Devendra Fadnavis on October 28. The AI productivity platform is designed to help officials draft documents, analyse reports, summarise files and search government records.\n\nThe Maharashtra government approved the deployment of Sarvam’s sovereign AI solutions in August, with a two-year outlay of ₹11.26 crore. The agreement covers Indus Cowork for government employees alongside other AI and speech technology applications.\n\nOfficials can use Indus Cowork to draft official notes and replies, research government policies, translate and summarise lengthy documents, analyse data and convert scanned records into searchable text, according to Sarvam. The workspace supports 22 languages, including Marathi.\n\nThe platform also includ"
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "line": 97,
+      "section": "An inference bill for Indian-language apps",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Simplismart sells help running and scaling AI models while keeping computing costs down, and says its revenue run rate grew 14 times in six months [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/).",
+      "evidence": [
+        {
+          "chip": "StartupTalky",
+          "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/",
+          "id": "48e5818006a5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/48e5818006a5.txt",
+          "headline": "Simplismart raises $14 Mn Series B led by Dallas Venture Capital",
+          "claim": "Bengaluru-based Simplismart raised $14 million in a Series B led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax investing; it says its annual revenue run rate grew 14 times in six months.",
+          "quote": "Simplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing.",
+          "published": "2026-10-28",
+          "context": "October 2026, in sectors ranging from AI infrastructure to esports and skincare. Dallas Venture Capital, Anand Mahindra and Globalway were among the day's lead investors. Jio Platforms also made its stock market debut at a 21% premium.\n\nDaily Indian Startup Funding Roundup - 28 October 2026\n\nStartup Sector Funding Round Lead Investors\n\nSimplismart AI Infrastructure $14 Mn Series B Dallas Venture Capital\n\nLet's Game Now Esports ₹30 Cr Undisclosed Anand Mahindra, Bestvantage Investments\n\nQwikBuild Enterprise AI $2.3 Mn Pre-Seed Globalway\n\nCHOSEN Skincare Undisclosed Series A Extension Wellbeing Nutrition Founders\n\nSimplismart Raises $14 Million in Series B Round Led by Dallas Venture Capital\n\nSimplismart raised $14 million in a Series B round led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing. The startup will use the money to expand in the US and other markets, grow its team and build out its platform.\n\nFounded in 2022 by Amritanshu Jain and Devansh Ghatak, Bengaluru-based Simplismart helps companies run and scale AI models while keeping computing costs down. Its customers include InVideo, HeyGen and Ema. The company says its annual revenue run rate has grown 14 times in six months.\n\nLet's Game Now Raises INR 30 Crore Led by Anand Mahindra and Bestvantage Investments\n\nLet's Game Now raised INR 30 crore in a round co-led by Anand Mahindra and Bestvantage Investments, with a UAE-based family office also investing. The company will use the money to build out its Indian Super Gaming"
+        }
+      ]
+    }
+  ],
+  "unlinked": [],
+  "how_to_answer": "Write factcheck-<edition>.json as {\"verdicts\": [{\"n\": N, \"verdict\": \"pass|fix|reject\", \"reason\": \"...\", \"replacement\": \"full corrected sentence incl. its chips (fix only)\"}]}. pass = every name, number, date and causal claim in the sentence is supported by the saved page(s); fix = supportable with a correction; reject = not supported by the cited page."
+}

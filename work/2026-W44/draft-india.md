@@ -1,0 +1,114 @@
+---
+layout: issue
+title: "India: Sarvam signs with the armed forces, Maharashtra buys Indus, MeitY drafts DEPA"
+edition: india
+week: "2026-W44"
+date: 2026-11-02
+window: "2026-10-26 to 2026-11-01"
+summary: "Sarvam's defence MoU and Maharashtra rollout, MeitY's sealed-room data draft, a thin AI funding week, and what an M6 MacBook costs here."
+sources_fetched: 0
+items_dropped: 0
+---
+## If you only read three things
+
+- **Sarvam signs an armed forces framework** Sarvam signed an MoU on 27 Oct with Headquarters Integrated Defence Staff, setting up an umbrella framework for AI projects across the Indian Army, Navy and Air Force, to be carried out by its defence division Chanakya using models such as Sarvam 105B [Sarvam](https://www.sarvam.ai/blogs/sarvam-hq-ids-mou), so Indian foundation-model work now has a defence customer as well as state ones.
+- **Maharashtra puts Indus on 2,500 desks** Chief Minister Devendra Fadnavis launched Sarvam's Indus Cowork on 28 Oct for 2,500 Maharashtra government officials under a two-year outlay of ₹11.26 crore, with support for 22 languages including Marathi [AIM](https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials), so a state is now a paying customer for Indian-language AI tools you could build on.
+- **MeitY drafts sealed-room rules for training** MeitY Secretary S Krishnan unveiled the draft DEPA for AI Training handbook, prepared with iSPIRT, at a roundtable in Bengaluru on 30 Oct, proposing a 'sealed room' where models train on sensitive data without the raw data being shared [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/), so bank and hospital data could one day reach small teams through a contract instead of a favour.
+
+## Sarvam and the Indian labs
+
+Under the defence MoU, Sarvam says it will design, develop and deploy AI applications for the operational, training and decision-support requirements of the three Services and provide follow-on technical support, and the framework also extends to the joint, tri-service and integrated organisations under HQ IDS [Sarvam](https://www.sarvam.ai/blogs/sarvam-hq-ids-mou).
+
+The focus areas are decision support, target acquisition and data fusion across the sensor-to-shooter loop, with human oversight retained for operational decisions, and the framework also provides for AI agents, geospatial systems and perception technologies across the Services [AIM](https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force).
+
+"Sarvam exists to build AI in India, for India," co-founder Pratyush Kumar said, as quoted by [AIM](https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force).
+
+One correction worth knowing: Sarvam added a note on 28 Oct saying a few news articles had suggested the MoU was signed with the Ministry of Defence, when it was executed with HQ IDS, an organisation under the ministry [Sarvam](https://www.sarvam.ai/blogs/sarvam-hq-ids-mou).
+
+The Maharashtra rollout gives officials a workspace to draft notes and replies, translate and summarise long documents, analyse data and convert scanned records into searchable text, alongside GR Expert for searching Government Resolutions across departments, an Email Summariser and an RFP Bid Evaluator for comparing tender bids [AIM](https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials).
+
+The same package includes Samvaad, a voice and WhatsApp-based system for citizen outreach, and connects Sarvam's Saaras speech recognition and Bulbul text-to-speech models to the state's MahaAI platform; Sarvam says it all runs on audited infrastructure located entirely within India that the state can inspect [AIM](https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials).
+
+*Nothing verifiable this week from Krutrim, AI4Bharat, BharatGen or the IIT and IISc labs; I found no release of theirs dated 26 Oct to 1 Nov.*
+
+**My read:** Sarvam's week was about selling, not shipping models: one state and the three Services have signed up for its stack. If you want to work on Indian-language AI, the useful skill is plugging speech and text models into messy government workflows, and that is a portfolio you can start on public documents.
+
+## Government, compute and policy
+
+The DEPA draft rests on four technical pillars, a Data Exchange Platform, machine-readable electronic contracts, a Secure Data Environment and differential privacy, and the developer sends a model into the sealed room and gets back only the trained model or, in some cases, just a decision such as on a loan application [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).
+
+Data providers such as hospitals, banks and public agencies register their datasets, data consumers including startups, researchers and enterprises request access for a specific use case, and a new class of intermediaries called Data Collabs aggregates and standardises data from multiple sources [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).
+
+It is a draft and not legally binding: consultations are expected to begin in the coming weeks, pilots in finance and healthcare come first, and day-to-day management is expected to sit with Samyog, a new industry group powered by iSPIRT [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).
+
+The gaps are plain: the handbook says payment methods for data owners "will be explored", Elets CIO reports, and it does not spell out who is liable if data leaks from a sealed room, while the main rules of the Digital Personal Data Protection Act, 2023 take effect in May 2027 [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).
+
+On compute, L&T's Vyoma.AI broke ground on 28 Oct on a 52 MW AI-ready data centre in Chennai with direct-to-chip liquid cooling, part of a planned gigawatt-scale AI Factory campus that already hosts an operational 30 MW facility, and of a plan for more than 250 MW across India [AIM](https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai).
+
+The new facility will serve hyperscalers, neocloud providers and AI companies, and Vyoma.AI sells sovereign cloud services, GPU-as-a-Service and hyperscale colocation, though the report gives no prices or opening date [AIM](https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai).
+
+### Compute on your desk
+
+Apple's 14-inch MacBook Pro with M6 starts at Rs 2,39,900 in India with 16GB unified memory and 1TB storage, the 24GB and 1TB version is Rs 2,63,900 and the 32GB and 1TB version is Rs 2,87,900, with sales from 6 Nov [Business Standard](https://www.business-standard.com/technology/gadgets/apple-macbook-pro-m6-launch-price-india-features-specifications-126102800479_1.html).
+
+Apple claims up to 25 per cent faster on-device AI performance than the M5 and memory bandwidth of up to 170GB per second, and eligible American Express, Axis Bank and ICICI Bank cardholders can get Rs 15,000 cashback [Business Standard](https://www.business-standard.com/technology/gadgets/apple-macbook-pro-m6-launch-price-india-features-specifications-126102800479_1.html).
+
+**My read:** Under a Rs 2.5 lakh ceiling the M6 buys you only the 16GB model, which keeps local models small, so the bank cashback matters more than the spec sheet. DEPA is the policy item to follow: if the sealed rooms work, a student team could train on real bank or hospital data without ever holding it.
+
+## Startups and money
+
+AI money was thin this week: Indian startups raised $130.2 Mn between 26 and 30 Oct, down 29.2% from $184 Mn the week before, and AI came second with five startups raising $30.4 Mn, 91% of it from Simplismart's $14 Mn and Live2.ai's $13.7 Mn [Inc42](https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/).
+
+- **Simplismart**, a Bengaluru startup founded in 2022 that helps companies run and scale AI models while keeping computing costs down, raised a $14 million Series B led by Dallas Venture Capital, with NVIDIA, Accel, Shastra VC and Micromax also investing [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/).
+- Simplismart says its annual revenue run rate grew 14 times in six months, names InVideo, HeyGen and Ema as customers, and will use the money to expand in the US and other markets and grow its team [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/).
+- **Live2.ai** raised $13.7 Mn in a pre-Series B round from IvyCap Ventures, and Inc42's table lists it as a B2B application-layer AI startup [Inc42](https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/).
+- **QwikBuild**, founded by former slice executive Pradeep Ayyagari, raised a $2.3 million pre-seed round led by Japan's Globalway, with Blume Ventures, Marsshot and DeVC, to build custom software and AI agents for businesses in days, including tools on top of SAP and Salesforce [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/).
+- **CopperPilot** raised a $390K pre-seed round from Neon Fund, and Glance took an undisclosed sum from L Catterton [Inc42](https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/).
+
+Beyond rounds, Unacademy co-founders Gaurav Munjal and Roman Saini are raising a ₹700 Cr venture fund, Longshot Capital, to back AI and deeptech startups, and Protectt.ai plans to take a controlling stake in AIShield, an AI security platform incubated at Bosch Global Software Technologies [Inc42](https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/).
+
+**My read:** The two cheques that mattered went to running models cheaply and to building agents for clients, not to new models. If you are picking an internship, an inference-cost shop with NVIDIA on the cap table teaches skills that travel to any lab.
+
+## AI in the wild in India
+
+DEPA already has pilots behind it: a bank testing the approach since March identified which customers of a fintech partner qualified for its credit cards before seeking consent, and handled more than two million requests in two weeks, according to Mint as cited by [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).
+
+In a second pilot shown at the launch, hospitals and a health-tech startup are training a tumour-detection model on MRI scans that the startup never sees, and representatives of HDFC Bank, Sarvam and Emergent AI sat at the Bengaluru roundtable [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).
+
+In Maharashtra, the state approved Sarvam's deployment in August and the tools now sit inside workflows for official correspondence, policy documents and departmental records, with a voice and WhatsApp channel for citizens on top [AIM](https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials).
+
+Simplismart's customers include InVideo, HeyGen and Ema [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/).
+
+**My read:** Count the users this week, not the press releases: 2,500 officials and two million credit checks are real workloads. Those are the numbers to quote in an interview when someone asks whether Indian AI is past demos.
+
+## Opportunities: open now
+
+{% include opportunities-top5.html %}
+
+*Nothing verifiable and new this week: every opening the researchers found was already in last week's issue, so the table above is the list.*
+
+**My read:** A quiet week for openings is a good week to finish one application from the table instead of hunting for more. Pick the nearest deadline and ship it before the weekend.
+
+## Ideas for India
+
+### A sealed room you can run yourself
+
+In the DEPA draft, training runs inside a secure computing environment that executes only what the authorised electronic contract permits, and the handbook leaves open who is liable if data leaks [Elets CIO](https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/).
+
+**My read:** Hospitals, banks and the new Data Collabs will need something to test before they trust it, and an open reference build is a credible student project. This semester, build a container that takes a model and a dataset, enforces a machine-readable contract, adds differential privacy and returns only weights plus a signed audit log.
+
+### Resolution search for the next state
+
+Maharashtra's package includes GR Expert, which lets officials search Government Resolutions across departments and track changes to them [AIM](https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials).
+
+**My read:** Other state departments, and the lawyers and reporters who chase GRs, would pay for the same thing in Hindi, Tamil or Kannada. Scrape one state's public resolutions, index them by department and date, and show what changed between versions.
+
+### An inference bill for Indian-language apps
+
+Simplismart sells help running and scaling AI models while keeping computing costs down, and says its revenue run rate grew 14 times in six months [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/).
+
+**My read:** Application-layer startups like the ones in Inc42's table would pay to know what one Hindi conversation costs on each model and host. Build an open benchmark that runs the same Indian-language tasks across providers and publishes cost and latency per task.
+
+## Sources and verification
+
+This issue cites 8 of the 137 pages fetched between 2026-10-26 and 2026-11-02; every link above opens the page its sentence came from. Dropped: 7 items, all already covered in an earlier week - Gnani AI's internship challenge, Code for a Billion's hackathon, the Science Academies' SRFP 2027, ETH Zurich's summer fellowship, Purdue's SURF 2027, Scale AI's Summer 2027 ML research internship and a Claude Code changelog entry. Left out of the body although verified: Inc42's report that Cognizant is in talks to invest in Sarvam at a $3.5-4 Bn valuation, because the talks are unconfirmed. Links that answered 403 or timed out when re-checked: none among the cited pages. Full logs: [verified.json](https://github.com/j-jain/Ai-news/blob/main/work/2026-W44/verified.json), [fact-check](https://github.com/j-jain/Ai-news/blob/main/work/2026-W44/factcheck-india.json), [dropped](https://github.com/j-jain/Ai-news/blob/main/work/2026-W44/dropped.json).

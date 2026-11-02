@@ -1,0 +1,5 @@
+# Notes research-policy-trythis W44
+Searches (5 of 8): AI regulation this week; reasoning agents arXiv Oct 2026; OpenAI API credits; EU/AISI/EO Oct 2026 (extended); Parameter Labs ChatGPT; policy Oct 29 (extended). Search engine mostly returned old or secondary material.
+Fetched: HF papers, Interconnects (thin, subscribe wall), Claude Code changelog, Simon Willison index, OpenAI help article (no date on page, so not used; OpenAI announced benefit 28 Oct per search/Simon 29 Oct entry, could be a try-this item if a dated source is found), arXiv x3, AISI blog index + 2 posts, NIST.
+Skipped: R2Orch (arXiv submitted 15 Oct, out of window); AISI 23 Oct "alignment failures in AISI's incident" (Mythos 5, out of window, 23 Oct); Simon posts (index only, no permalinks fetched); Parameter Labs ChatGPT HTML preview exploit (no primary found); GitHub Octoverse 2026 (not fetched); EU draft implementing regulation 12 Oct (before window). Policy thread thin: no primary in-window policy item found.
+Odd: nothing instructing me. NIST page title shows "Super intelligence" rename (matches EO 14434 claim from search; unverified).

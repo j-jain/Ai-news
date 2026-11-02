@@ -1,0 +1,19 @@
+{
+  "week": "2026-W44",
+  "run_date": "2026-11-02",
+  "window_start": "2026-10-26",
+  "window_end": "2026-11-01",
+  "days": 7,
+  "editions": [
+    "india",
+    "world"
+  ],
+  "dry_run": false,
+  "ok": true,
+  "reason": "",
+  "last_run": {
+    "week": "2026-W43",
+    "run_date": "2026-10-26",
+    "window_end": "2026-10-25"
+  }
+}

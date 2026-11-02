@@ -1,0 +1,125 @@
+---
+layout: issue
+title: "World: Gemini 4 Carbon stays gated, Anthropic files to list, memory stays tight"
+edition: world
+week: "2026-W44"
+date: 2026-11-02
+window: "2026-10-26 to 2026-11-01"
+summary: "Google's top model ships to cyber defenders only, Anthropic files its S-1, Mistral opens a 1T model and memory makers see shortages to 2030."
+sources_fetched: 0
+items_dropped: 0
+---
+## If you only read three things
+
+- **Google's best model skips the queue** Google announced Gemini 4 Carbon on 28 Oct, says it ranks #1 on the Artificial Analysis Intelligence Index v5.0 at 59, and is giving it first to a subset of cyber defenders [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/). For your projects this week, the top model on the chart is not one you can call.
+- **Anthropic files to list as ANT** Anthropic filed a Form S-1 with the SEC on 26 Oct and intends to list its Class A stock on the Nasdaq Global Select Market under the symbol ANT [Anthropic](https://www.anthropic.com/news/s1-sec). If a frontier lab is on your internship list, its own filing is the most detailed company profile you will get.
+- **Hynix sees memory shortage until 2030** SK Hynix expects demand to exceed supply through 2030, and its CFO predicted PC and mobile shipments will fall because of rising memory prices [The Register](https://www.theregister.com/a/5305887). Waiting for RAM to get cheaper before buying a laptop for local models is not a plan.
+
+## Frontier labs
+
+Google's Gemini 4 Carbon posts 88.2% on SEC-bench Pro, 54.8% on ExploitGym and 71.0% on CWE-bench, and Google says it ranks #1 on the Artificial Analysis Intelligence Index v5.0 at 59 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/).
+
+Access is the catch: Carbon goes first to a subset of cyber defenders, then in phases to trusted partners through the Fairwind Program, and Google will launch it at Argon's introductory price of $2 per million input tokens and $10 per million output tokens, with $4 per 1M input tokens and $20 per 1M output tokens after that period [Google blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/).
+
+Google also says Carbon cut successful cheating on Terminal-Bench 4.0 to 0.0% and reduced unsupported claims by approximately 2x over Argon in internal testing [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/).
+
+Separately, Google opened a Connected Apps Platform that lets businesses connect their apps to Search and Gemini, but it is a public preview for U.S. developers on a waitlist, with no date for wider availability [TechCrunch](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/).
+
+The plumbing is familiar: developers integrate a cloud-hosted MCP server or Android MCP through the AppFunctions APIs, then register, test and submit the app in the Google Connected Console [TechCrunch](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/).
+
+Anthropic published early results from research partnerships with six organisations developing medicines; at Divergence Labs, Claude generated roughly 35,000 antibody designs in about a month, and early tests found three designs that bind IgE and 20 that dislodge it [Anthropic](https://www.anthropic.com/research/early-progress-drug-development).
+
+The same post says manufacturing chemists at Enveda spent up to 75% of their time on paperwork, so Enveda connected its manufacturing documents to Claude and lets it flag possible issues [Anthropic](https://www.anthropic.com/research/early-progress-drug-development).
+
+**My read:** The best model of the week is one almost nobody can use, so keep your evals model-agnostic and swap when Carbon opens up. If you already run an MCP server for a side project, you are most of the way to a Connected Apps listing once the waitlist leaves the US.
+
+## Open and local models
+
+Mistral put the weights of Mistral Large 4 on Hugging Face: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token (52 billion including embeddings and output layers) and a 1M context window [Mistral model card](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B).
+
+The licence is the Mistral Ecosystem Open-Weight License, a modified MIT licence for commercial and non-commercial use, though operating a model-as-a-service business needs a separate commercial licence from Mistral [Hugging Face](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B).
+
+Outside numbers trim the pitch: Artificial Analysis ranks it second among open-weight entries on its Coding Agent Index, one point behind GLM-5.3, with about 47% fewer tokens per task [Implicator](https://www.implicator.ai/mistral-releases-weights-mistral-large-4-le-chonk-says/).
+
+Mistral reports 41% on Terminal-Bench 4.0, while the Artificial Analysis Intelligence Index assessment reports 25% on that test, from different evaluation contexts [Implicator](https://www.implicator.ai/mistral-releases-weights-mistral-large-4-le-chonk-says/).
+
+The laptop story is Liquid AI's LFM3-1.7B: 1.73B parameters, a 256K-token context and the LFM Open License v1.0, and at 4-bit it takes about 1 GB of memory [Liquid AI card](https://huggingface.co/LiquidAI/LFM3-1.7B).
+
+Its card is upfront that it is built for local agents, tool calling and structured outputs, and is not recommended for agentic coding or complex multi-step reasoning due to its small size [Liquid AI](https://huggingface.co/LiquidAI/LFM3-1.7B).
+
+Baidu released Unlimited OCR 2 on 27 Oct under the MIT licence, listing 3B params; its Sparse Reference Sliding Window Attention keeps per-step decoding latency and memory nearly constant regardless of document length, and it ships with a new MarathonDocBench benchmark [Baidu card](https://huggingface.co/baidu/Unlimited-OCR-2).
+
+IBM shipped Granite Switch 4.1.1, a patch release with an updated multilingual Granite Speech ASR model across 10 languages and an updated Decision adapter, with the base model untouched [IBM Granite](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1).
+
+| Fits in | Model | What the card says |
+|---|---|---|
+| 8 GB | LFM3-1.7B | 1.73B params, about 1 GB at 4-bit, 256K-token context, GGUF for llama.cpp, Ollama and LM Studio [Liquid AI card](https://huggingface.co/LiquidAI/LFM3-1.7B) |
+| 8-GPU node | Mistral Large 4 | ~1T total and ~52B active params, 1M context, example tensor-parallel size of 8 GPUs [Mistral card](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) |
+
+## Hardware and prices
+
+SK Hynix recorded quarterly revenue of ₩104.6 trillion ($78.1 billion), up 328 percent year over year, and expects demand to exceed supply through 2030 [The Register](https://www.theregister.com/a/5305887).
+
+"Shipment volumes for PCs and mobile devices are expected to decrease", CFO Kim Woo-hyun said on the earnings call, and 14 big buyers will collectively take more than half of Hynix output during 2027 and 2028, per [The Register](https://www.theregister.com/a/5305887).
+
+TrendForce says major notebook ODMs expect orders to decline by an average of 10-15% YoY in 4Q26, and that high-end MLCC shortages will be most severe in 1Q27 and 2Q27 as NVIDIA's Vera Rubin shipments ramp [TrendForce](https://www.trendforce.com/presscenter/news/20261029-13284.html).
+
+There is no quick fix in that report either: Murata's new capacity is unlikely to come online before 2028, and talks on 1Q27 prices begin in November 2026 [TrendForce](https://www.trendforce.com/presscenter/news/20261029-13284.html).
+
+**My read:** Memory and the small parts around it are both being pulled into AI servers, and the laptop market gets what is left. If you need 24 GB or more for local models this year, price it now rather than in March.
+
+## People and money
+
+The Anthropic S-1, as read by TechCrunch, shows that none of Menlo, Sequoia, Sound Ventures or Spark owns 5% of the company, while Amazon holds convertible notes it valued at $97.9 billion as of June 30 [TechCrunch](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/).
+
+Amazon also keeps earning from the relationship, since Anthropic has committed to spend at least $110 billion on AWS over the next 10 years, and the S-1 warns that some cloud providers also build rival AI models [TechCrunch](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/).
+
+Thrive Holdings, set up by Thrive Capital, agreed to buy ADT for $10 a share in cash, about $7.6bn in equity and $15.3bn in enterprise value, with closing expected in Q1 2027; OpenAI is a partner and investor in Thrive Holdings and supplies AI models and engineers to the companies it owns [TNW](https://thenextweb.com/news/thrive-holdings-acquires-adt-7-6bn-kushner).
+
+Guidewire agreed to buy London-based hyperexponential, an AI-native underwriting and pricing platform, for a base $1.7 billion in cash plus up to $400 million tied to recurring revenue targets [Guidewire](https://www.guidewire.com/ja/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential).
+
+Dream, founded by ex-Palantir pair Andy Elder and Arjun Mathur, came out of stealth with a $17 million seed led by Andreessen Horowitz to build world models for architecture, engineering and construction, trained on more than 100 million square feet of building data from US permit archives [TechCrunch](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/).
+
+At the other end of the cheque sizes, Alex Davis's Dallas venture firm raised a $10bn fund to back about 10 late-stage companies with around $1bn each, replacing its deal-by-deal SPVs with one fund [TNW](https://thenextweb.com/news/disruptive-10bn-fund-ai-defence-startups).
+
+**My read:** The money this week went to AI bolted onto old, boring industries: home security, insurance underwriting, building design. That is a better map for a summer project than another chat wrapper.
+
+## Research worth knowing
+
+The UK AI Security Institute tested whether four coding agents, Claude Opus 5, GPT-5.6 Sol, Kimi K3 and Qwen3.8-2.4T, could rebuild published biological AI tools, and found the simplest tools could be reproduced within 4 hours and with a compute budget of under $20 [AISI](https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper).
+
+Claude Opus 5 reached 96.5% fidelity on ProteinMPNN given the full paper, but no agent reproduced RFdiffusion3 within its time budget, and giving agents the full paper rather than the abstract did not consistently help [AISI](https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper).
+
+LARC, a NeurIPS 2026 paper, has unified multimodal models reason over continuous hidden states instead of text tokens, trained by curriculum SFT and then information-gain RL, and reports a 7%p GenEval gain over BAGEL [arXiv](https://arxiv.org/abs/2610.42149).
+
+CEPO splits a shared coordinator prompt from agent-specific executor prompts in multi-agent systems, and across 11 benchmarks in four domains it improved all four existing prompt optimizers it was applied to [arXiv paper](https://arxiv.org/abs/2610.34722).
+
+**My read:** CEPO is the one you could try in a weekend, because it sits on top of whatever prompt optimizer you already run.
+
+## Policy and safety
+
+AISI also pretrained ESM-2 protein models from 8M to 3B parameters with viral proteins filtered out, and found the filtering suppressed the targeted capability, but the loss could be recovered for under $80 of compute even for its largest model [AISI](https://www.aisi.gov.uk/blog/pretraining-data-filtering-in-open-weight-biological-models).
+
+OpenAI updated its Model Spec on 29 Oct around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care, adding guidance on context, oversight and agency and retiring much of the detailed style guidance [OpenAI](https://openai.com/index/updated-model-spec/).
+
+Google says it is taking part in the U.S. government's voluntary process for pre-release model testing for Gemini 4 Carbon [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/).
+
+**My read:** Two AISI papers in one week say the same thing from different sides: hiding code or data slows people down for a few hours and a few dollars, not for good.
+
+## Try this week
+
+- **LFM3-1.7B on your laptop** - pull a GGUF for llama.cpp, Ollama or LM Studio (use one with the current chat template), and start with the card's chat and tool-use settings of temperature=0.1, top_k=50, repetition_penalty=1.1 [Liquid AI card](https://huggingface.co/LiquidAI/LFM3-1.7B).
+- **Mistral Large 4 without a GPU rack** - the card says the model is served on the Mistral API as mistral-large-4, with reasoning_effort set to low, medium or high per request [Mistral card](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B).
+- **Unlimited OCR 2 on a long PDF** - try the demo Space, or run it through Transformers for quick tests and SGLang for serving, as the card recommends [Baidu card](https://huggingface.co/baidu/Unlimited-OCR-2).
+
+## White space
+
+Architects and structural engineers still draw designs part by part on legacy software, and "AI really plays no role in that equation", Dream co-founder Arjun Mathur told [TechCrunch](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/).
+
+On the science side, AISI concluded that a faithful rebuild of RFdiffusion3 is likely not achievable on a single GPU within the time available, even for the strongest coding agents it tested [AISI](https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper).
+
+**My read:** Building design is open ground because the data sits in permit archives, not on GitHub, and an Indian version would start from municipal approvals. The harder science tools are still out of reach for agents, which means people who can read a paper and train the model themselves remain scarce.
+
+## Sources and verification
+
+This issue cites 137 pages fetched between 2026-10-26 and 2026-11-02; every link above opens the page its sentence came from. Dropped for lack of proof: 7 items - all seven were already covered in an earlier week (Gnani AI internship challenge, Code for a Billion hackathon, Science Academies SRFP 2027, ETH Zurich summer research fellowship, Purdue SURF 2027, Scale AI Summer 2027 ML research internship, Claude Code changelog entry). Links that answered 403 or timed out when re-checked: none. Full logs: [verified.json](https://github.com/j-jain/Ai-news/blob/main/work/2026-W44/verified.json), [fact-check](https://github.com/j-jain/Ai-news/blob/main/work/2026-W44/factcheck-world.json), [dropped](https://github.com/j-jain/Ai-news/blob/main/work/2026-W44/dropped.json).

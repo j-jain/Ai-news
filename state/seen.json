@@ -341,5 +341,208 @@
     "headline": "Claude Code 2.1.304 adds /auto-mode-setup guided auto-mode setup",
     "first_seen": "2026-W43",
     "edition": "world"
+  },
+  "ad05c0bd6dcc": {
+    "story_key": "0b0d3b2216d4",
+    "url": "https://www.business-standard.com/technology/gadgets/apple-macbook-pro-m6-launch-price-india-features-specifications-126102800479_1.html",
+    "headline": "Apple launches 14-inch M6 MacBook Pro in India from Rs 2,39,900",
+    "first_seen": "2026-W44",
+    "edition": "india"
+  },
+  "f9d8d0968b8e": {
+    "story_key": "3bb638b52a6c",
+    "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+    "headline": "MeitY unveils DEPA for AI Training handbook with iSPIRT",
+    "first_seen": "2026-W44",
+    "edition": "india"
+  },
+  "3bdd9251c36a": {
+    "story_key": "b3b23deb06bf",
+    "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+    "headline": "Maharashtra rolls out Sarvam's Indus Cowork to 2,500 officials",
+    "first_seen": "2026-W44",
+    "edition": "india"
+  },
+  "796217fe95e3": {
+    "story_key": "6909c7eb5fc5",
+    "url": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
+    "headline": "Sarvam signs five-year AI MoU with HQ IDS for armed forces",
+    "first_seen": "2026-W44",
+    "edition": "india"
+  },
+  "0f7f3e662a6c": {
+    "story_key": "c5617487a143",
+    "url": "https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai",
+    "headline": "L&T Vyoma.AI breaks ground on 52 MW Chennai data centre",
+    "first_seen": "2026-W44",
+    "edition": "india"
+  },
+  "49dcc0d226d4": {
+    "story_key": "7bfc9f1efeef",
+    "url": "https://www.sarvam.ai/blogs/sarvam-hq-ids-mou",
+    "headline": "Sarvam signs five-year AI framework MoU with HQ IDS for Army, Navy, Air Force",
+    "first_seen": "2026-W44",
+    "edition": "india"
+  },
+  "b424dca1a4ab": {
+    "story_key": "662b4fec6be2",
+    "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
+    "headline": "AI startups raised $30.4 Mn in Indian week of 26-31 October",
+    "first_seen": "2026-W44",
+    "edition": "india"
+  },
+  "48e5818006a5": {
+    "story_key": "779f471c5370",
+    "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/",
+    "headline": "Simplismart raises $14 Mn Series B led by Dallas Venture Capital",
+    "first_seen": "2026-W44",
+    "edition": "india"
+  },
+  "6318bf62f2c5": {
+    "story_key": "5271ef576da1",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "headline": "Google announces Gemini 4 Carbon, limited to cyber defenders first",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "edf59637f599": {
+    "story_key": "520f33a65110",
+    "url": "https://www.anthropic.com/news/s1-sec",
+    "headline": "Anthropic publicly files S-1 for IPO, plans Nasdaq listing as ANT",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "7bf0065ceb16": {
+    "story_key": "ede1fe5a76d3",
+    "url": "https://openai.com/index/updated-model-spec/",
+    "headline": "OpenAI reorganizes Model Spec around five core values",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "fdf27bf9960b": {
+    "story_key": "99df3748211c",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "headline": "Anthropic reports early results using Claude in drug development",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "d3004d9f34e0": {
+    "story_key": "bae5f3423518",
+    "url": "https://www.implicator.ai/mistral-releases-weights-mistral-large-4-le-chonk-says/",
+    "headline": "Mistral releases weights of trillion-parameter Large 4 'Le Chonk'",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "a01db71b034c": {
+    "story_key": "7ec9a74cb2fd",
+    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "headline": "Google opens Gemini and Search to more apps via Connected Apps Platform",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "4d194c20796c": {
+    "story_key": "85c8505cf2ef",
+    "url": "https://www.theregister.com/a/5305887",
+    "headline": "SK Hynix says memory shortages will persist until 2030",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "bb44a4adf085": {
+    "story_key": "07661ec1000f",
+    "url": "https://www.trendforce.com/presscenter/news/20261029-13284.html",
+    "headline": "TrendForce: high-end MLCC shortage to persist through 1H27 as AI inference lifts DDR5 demand",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "014576526a4d": {
+    "story_key": "e489db0118e0",
+    "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+    "headline": "Mistral releases Mistral Large 4 open weights, 1T-parameter MoE, 1M context",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "11144fe59342": {
+    "story_key": "34eb1653280a",
+    "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+    "headline": "Liquid AI LFM3-1.7B targets local agents, about 1 GB at 4-bit",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "c55904e21a85": {
+    "story_key": "bb031c2bee4d",
+    "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+    "headline": "Baidu releases Unlimited-OCR 2, MIT-licensed 3B document parser",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "f3538b6fb36f": {
+    "story_key": "77866eac7108",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "headline": "IBM Granite Switch 4.1.1 patches adapters without retraining base model",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "a8f5236446e9": {
+    "story_key": "240e35d53381",
+    "url": "https://thenextweb.com/news/thrive-holdings-acquires-adt-7-6bn-kushner",
+    "headline": "Thrive Holdings agrees to buy ADT for $15.3B enterprise value",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "1b16f2a2a47a": {
+    "story_key": "2375fcf7dfcc",
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "headline": "Anthropic S-1: Amazon likely biggest IPO winner, VCs hold under 5%",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "a9bdb88e2641": {
+    "story_key": "71f478df9896",
+    "url": "https://www.guidewire.com/ja/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential",
+    "headline": "Guidewire to acquire AI underwriting firm hyperexponential for $1.7B cash",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "4dcfcc0d1943": {
+    "story_key": "f7f3c7f3be06",
+    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "headline": "Ex-Palantir founders raise $17M a16z-led seed for building world models",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "873bba62f39f": {
+    "story_key": "02cfd222bfdf",
+    "url": "https://thenextweb.com/news/disruptive-10bn-fund-ai-defence-startups",
+    "headline": "Disruptive closes $10B fund for about 10 late-stage AI and defence bets",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "bc4760b1661e": {
+    "story_key": "007150fa9d1c",
+    "url": "https://arxiv.org/abs/2610.42149",
+    "headline": "LARC reasons over continuous hidden states for image generation, tops GenEval",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "be63b1acf619": {
+    "story_key": "261c6447ff81",
+    "url": "https://www.aisi.gov.uk/blog/pretraining-data-filtering-in-open-weight-biological-models",
+    "headline": "AISI finds pretraining data filtering works for open-weight protein models, not durably",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "b5839914dc66": {
+    "story_key": "649c1d48ccc8",
+    "url": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
+    "headline": "AISI tests whether coding agents can rebuild biological AI tools from papers",
+    "first_seen": "2026-W44",
+    "edition": "world"
+  },
+  "ef97925afa6f": {
+    "story_key": "7f2205bdae58",
+    "url": "https://arxiv.org/abs/2610.34722",
+    "headline": "CEPO splits coordinator and executor prompts to improve multi-agent prompt optimization",
+    "first_seen": "2026-W44",
+    "edition": "world"
   }
 }

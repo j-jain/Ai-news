@@ -1,0 +1,76 @@
+{
+  "week": "2026-W44",
+  "edition": "india",
+  "checked": 11,
+  "dead": 0,
+  "warn": 0,
+  "removed_sentences": 0,
+  "results": [
+    {
+      "url": "https://www.sarvam.ai/blogs/sarvam-hq-ids-mou",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://cio.eletsonline.com/artificial-intelligence/meity-depa-ai-training-framework-sealed-rooms-sensitive-data-ispirt/76548/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.business-standard.com/technology/gadgets/apple-macbook-pro-m6-launch-price-india-features-specifications-126102800479_1.html",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-october-2026/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W44/verified.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W44/factcheck-india.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W44/dropped.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    }
+  ]
+}
