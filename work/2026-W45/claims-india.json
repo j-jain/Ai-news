@@ -1,0 +1,745 @@
+{
+  "week": "2026-W45",
+  "edition": "india",
+  "draft": "work/2026-W45/draft-india.md",
+  "claims": [
+    {
+      "n": 1,
+      "line": 3,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**India is now ChatGPT's largest market** OpenAI India MD Prabhjeet Singh said India has become ChatGPT's largest market globally by weekly active users, with the local user base doubling since January 2026, and that OpenAI is now working on Indian-language capabilities and Android-first products [Inc42](https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/), so the product you use for coursework is being built around users like you.",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/",
+          "id": "bd4eadb64696",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bd4eadb64696.txt",
+          "headline": "India becomes ChatGPT's largest market by weekly users",
+          "claim": "OpenAI India MD Prabhjeet Singh said India is now ChatGPT's largest market by weekly active users and the local base has doubled since January 2026. India is also among Codex's largest markets, with developer use from tier-II cities.",
+          "quote": "India has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026",
+          "published": "2026-11-03",
+          "context": "ecorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nIndia Becomes ChatGPT’s Largest Market Globally, User Base Doubles Since January\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nIndia Becomes ChatGPT’s Largest Market Globally, User Base Doubles Since January\n\n03 Nov'26\n| By Anjali Jain\n\nSUMMARY\n\nIndia has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026, OpenAI India MD Prabhjeet Singh said\n\nOpenAI is expanding local computing capacity and enterprise partnerships to support adoption, with data security, privacy, and returns on investment remaining key considerations for businesses\n\nThe company is developing Indian-language capabilities and Android-first products, preparing UPI-related announcements, and working with Razorpay to help Indian brands advertise on ChatGPT\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nIndia has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026, OpenAI India MD Prabhjeet Singh said.\n\nSpeaking to ET, Singh attributed "
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "line": 4,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Sarvam puts Prism's open weights online** Sarvam released Prism on 3 Nov, a decision model built on Sarvam 105B that it says scores 71.8 at 44 ms on a B200 GPU among the 25 decision models it tested, with weights on Hugging Face under Apache 2.0 [Sarvam](https://www.sarvam.ai/blogs/sarvam-prism), so you can fine-tune an Indian model on your own data without a licence argument.",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+          "id": "c9d66dd6f94b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c9d66dd6f94b.txt",
+          "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+          "claim": "Sarvam released Prism on 3 Nov 2026, a decision model built on Sarvam 105B; Sarvam reports it scores 71.8 at 44 ms on a B200 GPU among 25 decision models tested. Weights are on Hugging Face under Apache 2.0.",
+          "quote": "Prism’s weights are on Hugging Face under the Apache 2.0 licence.",
+          "published": "2026-11-03",
+          "context": " no mask needed\n\nOptions + answer: a thin stripMasked kernel, only these rows\n\nRows: the word doing the reading. Columns: the words it can see. Q = question, A and B = two options, Ans = answer token.\n\nMaking it fast\n\nPrism started at 664 ms per median request, running in 16-bit precision across two B200 GPUs. We converted the weights to FP8 so the model fits on a single GPU, ran all 128 experts in one grouped kernel, captured the forward pass as a CUDA Graph, folded the FP8 conversion into the expert kernels, and merged the fine-tuning adapter into the model weights. Together, these bring the median request to 44 ms, 15× faster than where we started, with no drop in accuracy.\n\nUsing Prism\n\nPrism’s weights are on Hugging Face under the Apache 2.0 licence. Prism runs in FP8 on one GPU with at least 120 GB of memory. It is also available on the Sarvam API at Sarvam Indus. Each request takes a state, a question and any number of options that fit within the context window, and returns a probability for each option. The documentation is available here.\n\nRead More\n\nOct 27, 2026·Announcement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 26, 2026·Research\n\nHow we built the knowledge fabric for enterprise agents\n\nOct 13, 2026·Research\n\nIntroducing Bulbul V4 Flash\n\nCurious what else we're building? Explore our APIs and start creating.\n\nCurious what else we're building?\n\nExplore our APIs and start"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "line": 5,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**IndiaAI unveils EKA-1 and two Dhirs** Soket's 26.3 billion parameter EKA-1 and ZenteiQ's Dhīr 2B and Dhīr 5B were unveiled under the IndiaAI Mission in New Delhi before IT secretary S Krishnan, and ZenteiQ released its weights under Apache 2.0 through AIKosh [Swarajya](https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b), so there are now government-backed Indic bases you can download for a class project.",
+      "evidence": [
+        {
+          "chip": "Swarajya",
+          "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b",
+          "id": "d0e56e43a87c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/d0e56e43a87c.txt",
+          "headline": "IndiaAI Mission unveils EKA-1, Dhir 2B and Dhir 5B models",
+          "claim": "Soket's EKA-1 (26.3 billion parameters) and ZenteiQ's Dhir 2B and 5B were unveiled in New Delhi before IT secretary S Krishnan. They are accessible via AIKosh, and ZenteiQ released weights under Apache 2.0.",
+          "quote": "Soket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.",
+          "published": "2026-11-04",
+          "context": " And 5B\n\nSwarajya Staff\n\nNov 04, 2026 | Updated 09:24 AM GMT+5:30\n\nSave & read from anywhere!\n\nBookmark stories for easy access on any device or the Swarajya app.\n\nSign In\n\nPrefer\n\nPrefer\n\nRepresentative Image (Pic Generated Via Google AI)\n\nIndia unveiled three indigenous artificial intelligence foundation models yesterday as part of the government's IndiaAI Mission, marking a significant step in building domestic AI capabilities.\n\nThe models—Soket's EKA-1 and ZenteiQ's Dhīr 2B and Dhīr 5B—were unveiled at an event in New Delhi in the presence of IT secretary S Krishnan.\n\nBoth startups were selected under the mission's IndiaAI Innovation Centre pillar to develop domestic foundation models.\n\nSoket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.\n\nEKA-1 targets mathematics, coding, reasoning and agentic use cases, while Dhīr models focus on smaller multilingual assistants that can operate in environments with limited connectivity.\n\nSoket Labs cofounder and CEO Abhishek Upperwal said the model was developed specifically for India's banking, financial services and cybersecurity landscape.\n\nDhīr 2B and Dhīr 5B, developed by ZenteiQ, are mixture-of-experts foundation models trained from scratch using Google Cloud Tensor Processing Units (TPUs).\n\nZenteiQ debuted Dhīr 2B and Dhīr 5B open-source multilingual models, which support English and 10 other Indian languages.\n\nThe Dhīr models support English and 10 Indian languages and can run on "
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "line": 9,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Prism is not a chatbot: Sarvam describes it as a LoRA fine-tune of Sarvam 105B that takes a state, a question and a set of options in a single forward pass, and a small scoring head returns a probability for each option with no token-by-token generation [Sarvam](https://www.sarvam.ai/blogs/sarvam-prism).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+          "id": "c9d66dd6f94b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c9d66dd6f94b.txt",
+          "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+          "claim": "Sarvam released Prism on 3 Nov 2026, a decision model built on Sarvam 105B; Sarvam reports it scores 71.8 at 44 ms on a B200 GPU among 25 decision models tested. Weights are on Hugging Face under Apache 2.0.",
+          "quote": "Prism’s weights are on Hugging Face under the Apache 2.0 licence.",
+          "published": "2026-11-03",
+          "context": " no mask needed\n\nOptions + answer: a thin stripMasked kernel, only these rows\n\nRows: the word doing the reading. Columns: the words it can see. Q = question, A and B = two options, Ans = answer token.\n\nMaking it fast\n\nPrism started at 664 ms per median request, running in 16-bit precision across two B200 GPUs. We converted the weights to FP8 so the model fits on a single GPU, ran all 128 experts in one grouped kernel, captured the forward pass as a CUDA Graph, folded the FP8 conversion into the expert kernels, and merged the fine-tuning adapter into the model weights. Together, these bring the median request to 44 ms, 15× faster than where we started, with no drop in accuracy.\n\nUsing Prism\n\nPrism’s weights are on Hugging Face under the Apache 2.0 licence. Prism runs in FP8 on one GPU with at least 120 GB of memory. It is also available on the Sarvam API at Sarvam Indus. Each request takes a state, a question and any number of options that fit within the context window, and returns a probability for each option. The documentation is available here.\n\nRead More\n\nOct 27, 2026·Announcement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 26, 2026·Research\n\nHow we built the knowledge fabric for enterprise agents\n\nOct 13, 2026·Research\n\nIntroducing Bulbul V4 Flash\n\nCurious what else we're building? Explore our APIs and start creating.\n\nCurious what else we're building?\n\nExplore our APIs and start"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "line": 11,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The headline score averages three indices, the Jev Decision Index of 37 public benchmarks, Sarvam's own recreation of the Artificial Analysis Decision Index and an internal Indian-language benchmark, and on that last one Prism scores 82.5 against 82.6 for KnowLine-35B, while mammoth-1 tops the average at 75.2 but answers in 284 ms [Sarvam](https://www.sarvam.ai/blogs/sarvam-prism).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+          "id": "c9d66dd6f94b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c9d66dd6f94b.txt",
+          "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+          "claim": "Sarvam released Prism on 3 Nov 2026, a decision model built on Sarvam 105B; Sarvam reports it scores 71.8 at 44 ms on a B200 GPU among 25 decision models tested. Weights are on Hugging Face under Apache 2.0.",
+          "quote": "Prism’s weights are on Hugging Face under the Apache 2.0 licence.",
+          "published": "2026-11-03",
+          "context": " no mask needed\n\nOptions + answer: a thin stripMasked kernel, only these rows\n\nRows: the word doing the reading. Columns: the words it can see. Q = question, A and B = two options, Ans = answer token.\n\nMaking it fast\n\nPrism started at 664 ms per median request, running in 16-bit precision across two B200 GPUs. We converted the weights to FP8 so the model fits on a single GPU, ran all 128 experts in one grouped kernel, captured the forward pass as a CUDA Graph, folded the FP8 conversion into the expert kernels, and merged the fine-tuning adapter into the model weights. Together, these bring the median request to 44 ms, 15× faster than where we started, with no drop in accuracy.\n\nUsing Prism\n\nPrism’s weights are on Hugging Face under the Apache 2.0 licence. Prism runs in FP8 on one GPU with at least 120 GB of memory. It is also available on the Sarvam API at Sarvam Indus. Each request takes a state, a question and any number of options that fit within the context window, and returns a probability for each option. The documentation is available here.\n\nRead More\n\nOct 27, 2026·Announcement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 26, 2026·Research\n\nHow we built the knowledge fabric for enterprise agents\n\nOct 13, 2026·Research\n\nIntroducing Bulbul V4 Flash\n\nCurious what else we're building? Explore our APIs and start creating.\n\nCurious what else we're building?\n\nExplore our APIs and start"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "line": 13,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Read the fine print before you quote it: Sarvam ran Prism and 24 other decision models through the three indices itself and timed every model it could on the same B200 hardware using the bundled inference code [Sarvam](https://www.sarvam.ai/blogs/sarvam-prism).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+          "id": "c9d66dd6f94b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c9d66dd6f94b.txt",
+          "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+          "claim": "Sarvam released Prism on 3 Nov 2026, a decision model built on Sarvam 105B; Sarvam reports it scores 71.8 at 44 ms on a B200 GPU among 25 decision models tested. Weights are on Hugging Face under Apache 2.0.",
+          "quote": "Prism’s weights are on Hugging Face under the Apache 2.0 licence.",
+          "published": "2026-11-03",
+          "context": " no mask needed\n\nOptions + answer: a thin stripMasked kernel, only these rows\n\nRows: the word doing the reading. Columns: the words it can see. Q = question, A and B = two options, Ans = answer token.\n\nMaking it fast\n\nPrism started at 664 ms per median request, running in 16-bit precision across two B200 GPUs. We converted the weights to FP8 so the model fits on a single GPU, ran all 128 experts in one grouped kernel, captured the forward pass as a CUDA Graph, folded the FP8 conversion into the expert kernels, and merged the fine-tuning adapter into the model weights. Together, these bring the median request to 44 ms, 15× faster than where we started, with no drop in accuracy.\n\nUsing Prism\n\nPrism’s weights are on Hugging Face under the Apache 2.0 licence. Prism runs in FP8 on one GPU with at least 120 GB of memory. It is also available on the Sarvam API at Sarvam Indus. Each request takes a state, a question and any number of options that fit within the context window, and returns a probability for each option. The documentation is available here.\n\nRead More\n\nOct 27, 2026·Announcement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 26, 2026·Research\n\nHow we built the knowledge fabric for enterprise agents\n\nOct 13, 2026·Research\n\nIntroducing Bulbul V4 Flash\n\nCurious what else we're building? Explore our APIs and start creating.\n\nCurious what else we're building?\n\nExplore our APIs and start"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "line": 15,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The calibration numbers are the interesting part: for Indian-language answers given with 90% confidence or more, Prism predicts 5.4% errors and makes 4.4%, while the other models make 2.7 to 4.8 times as many errors as their confidence scores predict [Sarvam](https://www.sarvam.ai/blogs/sarvam-prism).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+          "id": "c9d66dd6f94b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c9d66dd6f94b.txt",
+          "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+          "claim": "Sarvam released Prism on 3 Nov 2026, a decision model built on Sarvam 105B; Sarvam reports it scores 71.8 at 44 ms on a B200 GPU among 25 decision models tested. Weights are on Hugging Face under Apache 2.0.",
+          "quote": "Prism’s weights are on Hugging Face under the Apache 2.0 licence.",
+          "published": "2026-11-03",
+          "context": " no mask needed\n\nOptions + answer: a thin stripMasked kernel, only these rows\n\nRows: the word doing the reading. Columns: the words it can see. Q = question, A and B = two options, Ans = answer token.\n\nMaking it fast\n\nPrism started at 664 ms per median request, running in 16-bit precision across two B200 GPUs. We converted the weights to FP8 so the model fits on a single GPU, ran all 128 experts in one grouped kernel, captured the forward pass as a CUDA Graph, folded the FP8 conversion into the expert kernels, and merged the fine-tuning adapter into the model weights. Together, these bring the median request to 44 ms, 15× faster than where we started, with no drop in accuracy.\n\nUsing Prism\n\nPrism’s weights are on Hugging Face under the Apache 2.0 licence. Prism runs in FP8 on one GPU with at least 120 GB of memory. It is also available on the Sarvam API at Sarvam Indus. Each request takes a state, a question and any number of options that fit within the context window, and returns a probability for each option. The documentation is available here.\n\nRead More\n\nOct 27, 2026·Announcement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 26, 2026·Research\n\nHow we built the knowledge fabric for enterprise agents\n\nOct 13, 2026·Research\n\nIntroducing Bulbul V4 Flash\n\nCurious what else we're building? Explore our APIs and start creating.\n\nCurious what else we're building?\n\nExplore our APIs and start"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "line": 17,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On recorded agent runs, Sarvam says Prism scores a full run in about half a second on a single GPU, against a median 2.5 seconds and $0.64 per 1,000 runs for Claude Haiku 5.5 through its API, and it handles up to 131,072 tokens per question [Sarvam](https://www.sarvam.ai/blogs/sarvam-prism).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+          "id": "c9d66dd6f94b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c9d66dd6f94b.txt",
+          "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+          "claim": "Sarvam released Prism on 3 Nov 2026, a decision model built on Sarvam 105B; Sarvam reports it scores 71.8 at 44 ms on a B200 GPU among 25 decision models tested. Weights are on Hugging Face under Apache 2.0.",
+          "quote": "Prism’s weights are on Hugging Face under the Apache 2.0 licence.",
+          "published": "2026-11-03",
+          "context": " no mask needed\n\nOptions + answer: a thin stripMasked kernel, only these rows\n\nRows: the word doing the reading. Columns: the words it can see. Q = question, A and B = two options, Ans = answer token.\n\nMaking it fast\n\nPrism started at 664 ms per median request, running in 16-bit precision across two B200 GPUs. We converted the weights to FP8 so the model fits on a single GPU, ran all 128 experts in one grouped kernel, captured the forward pass as a CUDA Graph, folded the FP8 conversion into the expert kernels, and merged the fine-tuning adapter into the model weights. Together, these bring the median request to 44 ms, 15× faster than where we started, with no drop in accuracy.\n\nUsing Prism\n\nPrism’s weights are on Hugging Face under the Apache 2.0 licence. Prism runs in FP8 on one GPU with at least 120 GB of memory. It is also available on the Sarvam API at Sarvam Indus. Each request takes a state, a question and any number of options that fit within the context window, and returns a probability for each option. The documentation is available here.\n\nRead More\n\nOct 27, 2026·Announcement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 26, 2026·Research\n\nHow we built the knowledge fabric for enterprise agents\n\nOct 13, 2026·Research\n\nIntroducing Bulbul V4 Flash\n\nCurious what else we're building? Explore our APIs and start creating.\n\nCurious what else we're building?\n\nExplore our APIs and start"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "line": 19,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "\"Prism's weights are on Hugging Face under the Apache 2.0 licence,\" Sarvam writes on its [Sarvam blog](https://www.sarvam.ai/blogs/sarvam-prism).",
+      "evidence": [
+        {
+          "chip": "Sarvam blog",
+          "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+          "id": "c9d66dd6f94b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c9d66dd6f94b.txt",
+          "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+          "claim": "Sarvam released Prism on 3 Nov 2026, a decision model built on Sarvam 105B; Sarvam reports it scores 71.8 at 44 ms on a B200 GPU among 25 decision models tested. Weights are on Hugging Face under Apache 2.0.",
+          "quote": "Prism’s weights are on Hugging Face under the Apache 2.0 licence.",
+          "published": "2026-11-03",
+          "context": " no mask needed\n\nOptions + answer: a thin stripMasked kernel, only these rows\n\nRows: the word doing the reading. Columns: the words it can see. Q = question, A and B = two options, Ans = answer token.\n\nMaking it fast\n\nPrism started at 664 ms per median request, running in 16-bit precision across two B200 GPUs. We converted the weights to FP8 so the model fits on a single GPU, ran all 128 experts in one grouped kernel, captured the forward pass as a CUDA Graph, folded the FP8 conversion into the expert kernels, and merged the fine-tuning adapter into the model weights. Together, these bring the median request to 44 ms, 15× faster than where we started, with no drop in accuracy.\n\nUsing Prism\n\nPrism’s weights are on Hugging Face under the Apache 2.0 licence. Prism runs in FP8 on one GPU with at least 120 GB of memory. It is also available on the Sarvam API at Sarvam Indus. Each request takes a state, a question and any number of options that fit within the context window, and returns a probability for each option. The documentation is available here.\n\nRead More\n\nOct 27, 2026·Announcement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 26, 2026·Research\n\nHow we built the knowledge fabric for enterprise agents\n\nOct 13, 2026·Research\n\nIntroducing Bulbul V4 Flash\n\nCurious what else we're building? Explore our APIs and start creating.\n\nCurious what else we're building?\n\nExplore our APIs and start"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "line": 21,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The government-backed models aim at different jobs: EKA-1 was trained on nearly 7.5 trillion tokens, supports all 22 scheduled Indian languages plus English and targets mathematics, coding, reasoning and agentic use, while the Dhīr models are mixture-of-experts models trained from scratch on Google Cloud TPUs [Swarajya](https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b).",
+      "evidence": [
+        {
+          "chip": "Swarajya",
+          "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b",
+          "id": "d0e56e43a87c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/d0e56e43a87c.txt",
+          "headline": "IndiaAI Mission unveils EKA-1, Dhir 2B and Dhir 5B models",
+          "claim": "Soket's EKA-1 (26.3 billion parameters) and ZenteiQ's Dhir 2B and 5B were unveiled in New Delhi before IT secretary S Krishnan. They are accessible via AIKosh, and ZenteiQ released weights under Apache 2.0.",
+          "quote": "Soket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.",
+          "published": "2026-11-04",
+          "context": " And 5B\n\nSwarajya Staff\n\nNov 04, 2026 | Updated 09:24 AM GMT+5:30\n\nSave & read from anywhere!\n\nBookmark stories for easy access on any device or the Swarajya app.\n\nSign In\n\nPrefer\n\nPrefer\n\nRepresentative Image (Pic Generated Via Google AI)\n\nIndia unveiled three indigenous artificial intelligence foundation models yesterday as part of the government's IndiaAI Mission, marking a significant step in building domestic AI capabilities.\n\nThe models—Soket's EKA-1 and ZenteiQ's Dhīr 2B and Dhīr 5B—were unveiled at an event in New Delhi in the presence of IT secretary S Krishnan.\n\nBoth startups were selected under the mission's IndiaAI Innovation Centre pillar to develop domestic foundation models.\n\nSoket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.\n\nEKA-1 targets mathematics, coding, reasoning and agentic use cases, while Dhīr models focus on smaller multilingual assistants that can operate in environments with limited connectivity.\n\nSoket Labs cofounder and CEO Abhishek Upperwal said the model was developed specifically for India's banking, financial services and cybersecurity landscape.\n\nDhīr 2B and Dhīr 5B, developed by ZenteiQ, are mixture-of-experts foundation models trained from scratch using Google Cloud Tensor Processing Units (TPUs).\n\nZenteiQ debuted Dhīr 2B and Dhīr 5B open-source multilingual models, which support English and 10 other Indian languages.\n\nThe Dhīr models support English and 10 Indian languages and can run on "
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "line": 29,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The IndiaAI Mission has lowered the bar for its next compute round from 1,000 units to 512 units at a single data centre in India, covering GPUs, TPUs and other accelerators, and the C-DAC tender seeks up to 10,000 additional units for a five-year service period [Lapaas Voice](https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender).",
+      "evidence": [
+        {
+          "chip": "Lapaas Voice",
+          "url": "https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender",
+          "id": "56956080aacf",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/56956080aacf.txt",
+          "headline": "IndiaAI cuts minimum bid to 512 units in 10,000-GPU tender",
+          "claim": "The IndiaAI procurement round now needs 512 compute units at one Indian data centre, down from 1,000, and seeks up to 10,000 additional units. Bids are due 13 Nov 2026 and technical bids open 14 Nov.",
+          "quote": "The revised tender timetable sets November 13, 2026, as the bid submission deadline, with technical bids scheduled to open on November 14.",
+          "published": "2026-11-05",
+          "context": "petition. Applicants are evaluated against technical, financial, infrastructure and operational criteria, with a minimum qualifying score of 60 out of 100.\n\nFinancial bids and detailed service-level commitments are not required at this initial qualification stage. Companies that qualify can participate in the second stage, where pricing, quantities, locations and service conditions will be determined through procurement rounds on the Government e-Marketplace (GeM).\n\nImportantly, empanelment does not guarantee that a company will receive a contract or business. Providers relying on a purchase order must have the required capacity operational before they can win work in the subsequent stage.\n\nThe revised tender timetable sets November 13, 2026, as the bid submission deadline, with technical bids scheduled to open on November 14.\n\nChip Prices and Commercial Risks Remain a Concern\n\nThe expansion of India’s AI compute capacity comes at a time when advanced accelerator hardware is expensive and global demand remains strong. Data centre operators must also account for electricity, cooling, networking, maintenance and financing costs.\n\nSome industry executives have raised concerns about unclear usage commitments and the possibility of aggressive pricing by competing vendors. These issues matter because providers may need to make substantial infrastructure investments without certainty about how much capacity they will ultimately supply or how frequently it will be used.\n\nA five-year service commitment also exposes provid"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "line": 31,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The lower bar is still high: bidders must be Indian companies, LLPs or partnerships with average annual turnover of at least ₹120 crore across FY2023-24, FY2024-25 and FY2025-26, a Tier-III or Rated-3 facility, ISO/IEC 27001 and a technical score of at least 60 out of 100 [Lapaas Voice](https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender).",
+      "evidence": [
+        {
+          "chip": "Lapaas Voice",
+          "url": "https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender",
+          "id": "56956080aacf",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/56956080aacf.txt",
+          "headline": "IndiaAI cuts minimum bid to 512 units in 10,000-GPU tender",
+          "claim": "The IndiaAI procurement round now needs 512 compute units at one Indian data centre, down from 1,000, and seeks up to 10,000 additional units. Bids are due 13 Nov 2026 and technical bids open 14 Nov.",
+          "quote": "The revised tender timetable sets November 13, 2026, as the bid submission deadline, with technical bids scheduled to open on November 14.",
+          "published": "2026-11-05",
+          "context": "petition. Applicants are evaluated against technical, financial, infrastructure and operational criteria, with a minimum qualifying score of 60 out of 100.\n\nFinancial bids and detailed service-level commitments are not required at this initial qualification stage. Companies that qualify can participate in the second stage, where pricing, quantities, locations and service conditions will be determined through procurement rounds on the Government e-Marketplace (GeM).\n\nImportantly, empanelment does not guarantee that a company will receive a contract or business. Providers relying on a purchase order must have the required capacity operational before they can win work in the subsequent stage.\n\nThe revised tender timetable sets November 13, 2026, as the bid submission deadline, with technical bids scheduled to open on November 14.\n\nChip Prices and Commercial Risks Remain a Concern\n\nThe expansion of India’s AI compute capacity comes at a time when advanced accelerator hardware is expensive and global demand remains strong. Data centre operators must also account for electricity, cooling, networking, maintenance and financing costs.\n\nSome industry executives have raised concerns about unclear usage commitments and the possibility of aggressive pricing by competing vendors. These issues matter because providers may need to make substantial infrastructure investments without certainty about how much capacity they will ultimately supply or how frequently it will be used.\n\nA five-year service commitment also exposes provid"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "line": 33,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Bids are due on 13 Nov and technical bids open on 14 Nov, with pricing, quantities and locations settled later in rounds on the Government e-Marketplace, and empanelment does not guarantee any contract [Lapaas Voice](https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender).",
+      "evidence": [
+        {
+          "chip": "Lapaas Voice",
+          "url": "https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender",
+          "id": "56956080aacf",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/56956080aacf.txt",
+          "headline": "IndiaAI cuts minimum bid to 512 units in 10,000-GPU tender",
+          "claim": "The IndiaAI procurement round now needs 512 compute units at one Indian data centre, down from 1,000, and seeks up to 10,000 additional units. Bids are due 13 Nov 2026 and technical bids open 14 Nov.",
+          "quote": "The revised tender timetable sets November 13, 2026, as the bid submission deadline, with technical bids scheduled to open on November 14.",
+          "published": "2026-11-05",
+          "context": "petition. Applicants are evaluated against technical, financial, infrastructure and operational criteria, with a minimum qualifying score of 60 out of 100.\n\nFinancial bids and detailed service-level commitments are not required at this initial qualification stage. Companies that qualify can participate in the second stage, where pricing, quantities, locations and service conditions will be determined through procurement rounds on the Government e-Marketplace (GeM).\n\nImportantly, empanelment does not guarantee that a company will receive a contract or business. Providers relying on a purchase order must have the required capacity operational before they can win work in the subsequent stage.\n\nThe revised tender timetable sets November 13, 2026, as the bid submission deadline, with technical bids scheduled to open on November 14.\n\nChip Prices and Commercial Risks Remain a Concern\n\nThe expansion of India’s AI compute capacity comes at a time when advanced accelerator hardware is expensive and global demand remains strong. Data centre operators must also account for electricity, cooling, networking, maintenance and financing costs.\n\nSome industry executives have raised concerns about unclear usage commitments and the possibility of aggressive pricing by competing vendors. These issues matter because providers may need to make substantial infrastructure investments without certainty about how much capacity they will ultimately supply or how frequently it will be used.\n\nA five-year service commitment also exposes provid"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "line": 35,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "For scale, MeitY said in an August 2026 parliamentary update that 15 compute providers had been empanelled across four rounds, 237 projects approved for subsidised compute and 93.18 lakh GPU hours sanctioned, and universities and academic institutions are among the intended users [Lapaas Voice](https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender).",
+      "evidence": [
+        {
+          "chip": "Lapaas Voice",
+          "url": "https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender",
+          "id": "56956080aacf",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/56956080aacf.txt",
+          "headline": "IndiaAI cuts minimum bid to 512 units in 10,000-GPU tender",
+          "claim": "The IndiaAI procurement round now needs 512 compute units at one Indian data centre, down from 1,000, and seeks up to 10,000 additional units. Bids are due 13 Nov 2026 and technical bids open 14 Nov.",
+          "quote": "The revised tender timetable sets November 13, 2026, as the bid submission deadline, with technical bids scheduled to open on November 14.",
+          "published": "2026-11-05",
+          "context": "petition. Applicants are evaluated against technical, financial, infrastructure and operational criteria, with a minimum qualifying score of 60 out of 100.\n\nFinancial bids and detailed service-level commitments are not required at this initial qualification stage. Companies that qualify can participate in the second stage, where pricing, quantities, locations and service conditions will be determined through procurement rounds on the Government e-Marketplace (GeM).\n\nImportantly, empanelment does not guarantee that a company will receive a contract or business. Providers relying on a purchase order must have the required capacity operational before they can win work in the subsequent stage.\n\nThe revised tender timetable sets November 13, 2026, as the bid submission deadline, with technical bids scheduled to open on November 14.\n\nChip Prices and Commercial Risks Remain a Concern\n\nThe expansion of India’s AI compute capacity comes at a time when advanced accelerator hardware is expensive and global demand remains strong. Data centre operators must also account for electricity, cooling, networking, maintenance and financing costs.\n\nSome industry executives have raised concerns about unclear usage commitments and the possibility of aggressive pricing by competing vendors. These issues matter because providers may need to make substantial infrastructure investments without certainty about how much capacity they will ultimately supply or how frequently it will be used.\n\nA five-year service commitment also exposes provid"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "line": 37,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "At the model launch, Krishnan said the models can be deployed in air-gapped environments for enterprise AI, and subsidised AI compute and support for research expenses helped the startups build them [Swarajya](https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b).",
+      "evidence": [
+        {
+          "chip": "Swarajya",
+          "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b",
+          "id": "d0e56e43a87c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/d0e56e43a87c.txt",
+          "headline": "IndiaAI Mission unveils EKA-1, Dhir 2B and Dhir 5B models",
+          "claim": "Soket's EKA-1 (26.3 billion parameters) and ZenteiQ's Dhir 2B and 5B were unveiled in New Delhi before IT secretary S Krishnan. They are accessible via AIKosh, and ZenteiQ released weights under Apache 2.0.",
+          "quote": "Soket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.",
+          "published": "2026-11-04",
+          "context": " And 5B\n\nSwarajya Staff\n\nNov 04, 2026 | Updated 09:24 AM GMT+5:30\n\nSave & read from anywhere!\n\nBookmark stories for easy access on any device or the Swarajya app.\n\nSign In\n\nPrefer\n\nPrefer\n\nRepresentative Image (Pic Generated Via Google AI)\n\nIndia unveiled three indigenous artificial intelligence foundation models yesterday as part of the government's IndiaAI Mission, marking a significant step in building domestic AI capabilities.\n\nThe models—Soket's EKA-1 and ZenteiQ's Dhīr 2B and Dhīr 5B—were unveiled at an event in New Delhi in the presence of IT secretary S Krishnan.\n\nBoth startups were selected under the mission's IndiaAI Innovation Centre pillar to develop domestic foundation models.\n\nSoket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.\n\nEKA-1 targets mathematics, coding, reasoning and agentic use cases, while Dhīr models focus on smaller multilingual assistants that can operate in environments with limited connectivity.\n\nSoket Labs cofounder and CEO Abhishek Upperwal said the model was developed specifically for India's banking, financial services and cybersecurity landscape.\n\nDhīr 2B and Dhīr 5B, developed by ZenteiQ, are mixture-of-experts foundation models trained from scratch using Google Cloud Tensor Processing Units (TPUs).\n\nZenteiQ debuted Dhīr 2B and Dhīr 5B open-source multilingual models, which support English and 10 other Indian languages.\n\nThe Dhīr models support English and 10 Indian languages and can run on "
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "line": 41,
+      "section": "Compute on your desk",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "RTX Spark laptops are here and priced for studios, not hostels: ASUS's ProArt P14 with 24GB memory and a 1TB SSD costs Rs 3,29,990, and the ProArt P16 costs Rs 4,99,990 with 64GB and Rs 6,49,990 with 128GB of unified memory [MySmartPrice](https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990/).",
+      "evidence": [
+        {
+          "chip": "MySmartPrice",
+          "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990/",
+          "id": "bdafe4e660e5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bdafe4e660e5.txt",
+          "headline": "ASUS ProArt P14 and P16 with RTX Spark launch in India from Rs 3,29,990",
+          "claim": "ASUS launched the ProArt P14 (24GB, 1TB) at Rs 3,29,990, and the P16 at Rs 4,99,990 (64GB) and Rs 6,49,990 (128GB), with RTX Spark N1X and up to 128GB unified memory.",
+          "quote": "The ProArt P14 with 24GB memory and a 1TB PCIe 4.0 SSD is priced at Rs 3,29,990.",
+          "published": "2026-11-03",
+          "context": "ptical switches and two-layer dampening foam. It also gets a multifunctional touch panel with four operating modes, individually lit keys, and dynamic lighting effects. ASUS claims up to 16 months of usage from its Type-C rechargeable battery.\n\nBoth accessories also come with Free Doorstep Replacement support, subject to terms and conditions.\n\nASUS ProArt P16, P14 Price in India and Availability\n\nThe ASUS ProArt lineup is available in India starting November 3. Here are the prices of the different configurations:\n\nThe ProArt P16 with 128GB unified memory and a 1TB PCIe 4.0 SSD is priced at Rs 6,49,990. Its 64GB memory variant costs Rs 4,99,990, while the 48GB variant will be available soon. The ProArt P14 with 24GB memory and a 1TB PCIe 4.0 SSD is priced at Rs 3,29,990. Its Neo White colour variant will be available soon.\n\nThe ProArt Mouse MD301 is priced at Rs 8,499, while the ProArt Keyboard KD300 costs Rs 14,999. The keyboard will go on sale from November 14. The laptops will be available through ASUS Exclusive Stores, Croma, Reliance Digital, Flipkart, Amazon, and the ASUS Eshop. The accessories will also be available through select ASUS and ROG stores and online platforms.\n\nAs part of the launch offer, buyers can avail of 0% No-Cost EMI starting at Rs 13,750 per month. ASUS is also offering two years of warranty extension and three years of damage protection for Rs 99, worth Rs 6,599. The offer is valid until November 30, 2026, subject to terms and co"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "line": 43,
+      "section": "Compute on your desk",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The P16 pairs the RTX Spark N1X platform's 6,144-core GPU with a 20-core CPU, the laptops went on sale on 3 Nov, and the launch offer includes 0% no-cost EMI from Rs 13,750 per month until 30 Nov [MySmartPrice](https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990/).",
+      "evidence": [
+        {
+          "chip": "MySmartPrice",
+          "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990/",
+          "id": "bdafe4e660e5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bdafe4e660e5.txt",
+          "headline": "ASUS ProArt P14 and P16 with RTX Spark launch in India from Rs 3,29,990",
+          "claim": "ASUS launched the ProArt P14 (24GB, 1TB) at Rs 3,29,990, and the P16 at Rs 4,99,990 (64GB) and Rs 6,49,990 (128GB), with RTX Spark N1X and up to 128GB unified memory.",
+          "quote": "The ProArt P14 with 24GB memory and a 1TB PCIe 4.0 SSD is priced at Rs 3,29,990.",
+          "published": "2026-11-03",
+          "context": "ptical switches and two-layer dampening foam. It also gets a multifunctional touch panel with four operating modes, individually lit keys, and dynamic lighting effects. ASUS claims up to 16 months of usage from its Type-C rechargeable battery.\n\nBoth accessories also come with Free Doorstep Replacement support, subject to terms and conditions.\n\nASUS ProArt P16, P14 Price in India and Availability\n\nThe ASUS ProArt lineup is available in India starting November 3. Here are the prices of the different configurations:\n\nThe ProArt P16 with 128GB unified memory and a 1TB PCIe 4.0 SSD is priced at Rs 6,49,990. Its 64GB memory variant costs Rs 4,99,990, while the 48GB variant will be available soon. The ProArt P14 with 24GB memory and a 1TB PCIe 4.0 SSD is priced at Rs 3,29,990. Its Neo White colour variant will be available soon.\n\nThe ProArt Mouse MD301 is priced at Rs 8,499, while the ProArt Keyboard KD300 costs Rs 14,999. The keyboard will go on sale from November 14. The laptops will be available through ASUS Exclusive Stores, Croma, Reliance Digital, Flipkart, Amazon, and the ASUS Eshop. The accessories will also be available through select ASUS and ROG stores and online platforms.\n\nAs part of the launch offer, buyers can avail of 0% No-Cost EMI starting at Rs 13,750 per month. ASUS is also offering two years of warranty extension and three years of damage protection for Rs 99, worth Rs 6,599. The offer is valid until November 30, 2026, subject to terms and co"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "line": 49,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Money rose and deals shrank: 20 Indian startups raised $255 Mn between 2 and 6 Nov, up 96% from $130.3 Mn the week before, while deal count fell 38% from 32, and on the back of GIVA's $103 Mn round ecommerce was the most funded sector [Inc42](https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
+          "id": "2ddfe0cfb1ec",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2ddfe0cfb1ec.txt",
+          "headline": "Indian startups raised $255 Mn across 20 deals this week",
+          "claim": "Inc42's weekly tally says 20 Indian startups raised $255 Mn between Nov 2 and 6, with deal count down 38% week-on-week.",
+          "quote": "Twenty startups cumulatively raised $255 Mn between November 2 and 6, up 96% uptick from $130.3 Mn raised last week.",
+          "published": "2026-11-07",
+          "context": "eek program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nFrom GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nFrom GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week\n\n07 Nov'26\n| By Akshit Pushkarna\n\nSUMMARY\n\nTwenty startups cumulatively raised $255 Mn between November 2 and 6, up 96% uptick from $130.3 Mn raised last week. However, deal count declined 38% week-on-week to 20\n\nOn the back of GIVA’s mega $103 Mn fundraise, ecommerce emerged as the most funded sector this week\n\nOmnivore emerged as the most active investor this week, backing altM and Two Point O Capital\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nStartup funding activity gathered steam in the first week of November. As per Inc42 data, 20 Indian startups cumulatively raised $255 Mn between November 2 and 6. This marks a 96% uptick from $130.3 Mn raised last week.\n\nHowever, deal count declined 38% to 20 as against 32 in the preceding week.\n\nFunding Galore: Indian Startup Funding Of The Week [Nov 2-6]\n\nDate\nName\nSector"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "line": 51,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**PowerUp Money** raised $10 million in a round led by Flourish Ventures, with existing investors Peak XV Partners, Accel, Blume Ventures, Kae Capital, 8i Ventures and DeVC, and plans to spend a significant portion on its AI-powered wealth management platform [YourStory](https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india).",
+      "evidence": [
+        {
+          "chip": "YourStory",
+          "url": "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india",
+          "id": "c4e747ef2346",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c4e747ef2346.txt",
+          "headline": "PowerUp Money raises $10M led by Flourish Ventures",
+          "claim": "PowerUp Money raised $10 million led by Flourish Ventures, with Peak XV Partners, Accel, Blume Ventures and others participating. It claims over 1.5 million users track mutual fund portfolios on its platform.",
+          "quote": "a wealthtech platform offering mutual fund advice and digital wealth management services, has raised $10 million in a funding round led by Flourish Ventures",
+          "published": "2026-11-03",
+          "context": " Condition\n\nCopyright © 2026 YourStory Media Pvt. Ltd. All rights reserved.\n\nBrands\n\nTopics\n\nResource Hub\n\nUpcoming Events\n\nDiscover\n\nAdvertise with Newsletter\n\nAbout UsCareersPrivacy PolicyTerms & Condition\n\nCopyright © 2026 YourStory Media Pvt. Ltd. All rights reserved.\n\nADVERTISEMENT\n\nPowerUp Money raises $10M to expand AI-led wealth management | YourStory\n\nADVERTISEMENT\n\nFunding\n\nPowerUp Money raises $10M to expand AI-led wealth management\n\nThe Bengaluru-based company plans to use a significant portion of the capital to develop its AI-powered wealth management platform and expand its managed advisory business.\n\nTeam YS17538 Stories\n\nTuesday November 03, 2026 , 3 min Read\n\nPowerUp Money, a wealthtech platform offering mutual fund advice and digital wealth management services, has raised $10 million in a funding round led by Flourish Ventures, an early-stage investment firm.\n\nExisting investors Peak XV Partners, Accel, Blume Ventures, Kae Capital, 8i Ventures and DeVC also participated. \n\nThe Bengaluru-based company plans to use a significant portion of the capital to develop its AI-powered wealth management platform and expand its managed advisory business.\n\nPowerUp claims more than 1.5 million users track mutual fund portfolios worth over Rs 2.5 lakh crore on its platform. Its paid subscription service, Elite, provides research-backed mutual fund advice and is said to have crossed 1,00,000 paid members in less than a year.\n\nThe company has now introduced Elite Prime, an AI-enabled digital wealth advisory service designed to pr"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "line": 52,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "PowerUp has introduced Elite Prime, an AI-enabled advisory service that suggests asset allocation, SIPs, rebalancing and withdrawal plans, with an AI wealth coach to explain recommendations [YourStory](https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india).",
+      "evidence": [
+        {
+          "chip": "YourStory",
+          "url": "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india",
+          "id": "c4e747ef2346",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c4e747ef2346.txt",
+          "headline": "PowerUp Money raises $10M led by Flourish Ventures",
+          "claim": "PowerUp Money raised $10 million led by Flourish Ventures, with Peak XV Partners, Accel, Blume Ventures and others participating. It claims over 1.5 million users track mutual fund portfolios on its platform.",
+          "quote": "a wealthtech platform offering mutual fund advice and digital wealth management services, has raised $10 million in a funding round led by Flourish Ventures",
+          "published": "2026-11-03",
+          "context": " Condition\n\nCopyright © 2026 YourStory Media Pvt. Ltd. All rights reserved.\n\nBrands\n\nTopics\n\nResource Hub\n\nUpcoming Events\n\nDiscover\n\nAdvertise with Newsletter\n\nAbout UsCareersPrivacy PolicyTerms & Condition\n\nCopyright © 2026 YourStory Media Pvt. Ltd. All rights reserved.\n\nADVERTISEMENT\n\nPowerUp Money raises $10M to expand AI-led wealth management | YourStory\n\nADVERTISEMENT\n\nFunding\n\nPowerUp Money raises $10M to expand AI-led wealth management\n\nThe Bengaluru-based company plans to use a significant portion of the capital to develop its AI-powered wealth management platform and expand its managed advisory business.\n\nTeam YS17538 Stories\n\nTuesday November 03, 2026 , 3 min Read\n\nPowerUp Money, a wealthtech platform offering mutual fund advice and digital wealth management services, has raised $10 million in a funding round led by Flourish Ventures, an early-stage investment firm.\n\nExisting investors Peak XV Partners, Accel, Blume Ventures, Kae Capital, 8i Ventures and DeVC also participated. \n\nThe Bengaluru-based company plans to use a significant portion of the capital to develop its AI-powered wealth management platform and expand its managed advisory business.\n\nPowerUp claims more than 1.5 million users track mutual fund portfolios worth over Rs 2.5 lakh crore on its platform. Its paid subscription service, Elite, provides research-backed mutual fund advice and is said to have crossed 1,00,000 paid members in less than a year.\n\nThe company has now introduced Elite Prime, an AI-enabled digital wealth advisory service designed to pr"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "line": 53,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Venomics AI**, a Bengaluru biotech spun out of IISc, raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed round co-led by Speciale Invest and South Park Commons, with Operators Studio participating [Inc42](https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/",
+          "id": "3bc61c0ce969",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3bc61c0ce969.txt",
+          "headline": "Venomics AI raises $2.7 Mn pre-seed for venom drug discovery",
+          "claim": "Venomics AI raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed round co-led by Speciale Invest and South Park Commons, per Inc42.",
+          "quote": "Biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale Invest and South Park Commons",
+          "published": "2026-11-05",
+          "context": "Foundations by Inc42 is a 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nVenomics AI Raises $2.7 Mn To Turn Venom Into Medicine\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nVenomics AI Raises $2.7 Mn To Turn Venom Into Medicine\n\n05 Nov'26\n| By Anne Florentyna\n\nSUMMARY\n\nBiotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale Invest and South Park Commons\n\nThe fresh capital will be used to expand ‘Venom Atlas’, a molecular dataset of venom-derived compounds, and strengthen its AI and laboratory screening capabilities\n\nThe startup combines venom biology, AI and experimental screening to identify and develop venom-derived molecules into potential therapeutic leads\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nBengaluru-based biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale Invest and South Park Commons, with participation from Operators Studio.\n\nThe startup, spun out of the Indian Institute of Science (IISc), combines venom biology, AI and experi"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "line": 54,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "Venomics will spend the money on its Venom Atlas dataset of venom-derived compounds and on AI and lab screening, and plans to hire across venom biology, computational science and drug discovery [Inc42](https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/",
+          "id": "3bc61c0ce969",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3bc61c0ce969.txt",
+          "headline": "Venomics AI raises $2.7 Mn pre-seed for venom drug discovery",
+          "claim": "Venomics AI raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed round co-led by Speciale Invest and South Park Commons, per Inc42.",
+          "quote": "Biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale Invest and South Park Commons",
+          "published": "2026-11-05",
+          "context": "Foundations by Inc42 is a 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nVenomics AI Raises $2.7 Mn To Turn Venom Into Medicine\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nVenomics AI Raises $2.7 Mn To Turn Venom Into Medicine\n\n05 Nov'26\n| By Anne Florentyna\n\nSUMMARY\n\nBiotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale Invest and South Park Commons\n\nThe fresh capital will be used to expand ‘Venom Atlas’, a molecular dataset of venom-derived compounds, and strengthen its AI and laboratory screening capabilities\n\nThe startup combines venom biology, AI and experimental screening to identify and develop venom-derived molecules into potential therapeutic leads\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nBengaluru-based biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale Invest and South Park Commons, with participation from Operators Studio.\n\nThe startup, spun out of the Indian Institute of Science (IISc), combines venom biology, AI and experi"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "line": 55,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**AugurAI** is the only startup in Inc42's weekly table filed under the AI sector, with a $212K round from Campus Angels Network [Inc42](https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
+          "id": "2ddfe0cfb1ec",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2ddfe0cfb1ec.txt",
+          "headline": "Indian startups raised $255 Mn across 20 deals this week",
+          "claim": "Inc42's weekly tally says 20 Indian startups raised $255 Mn between Nov 2 and 6, with deal count down 38% week-on-week.",
+          "quote": "Twenty startups cumulatively raised $255 Mn between November 2 and 6, up 96% uptick from $130.3 Mn raised last week.",
+          "published": "2026-11-07",
+          "context": "eek program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nFrom GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nFrom GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week\n\n07 Nov'26\n| By Akshit Pushkarna\n\nSUMMARY\n\nTwenty startups cumulatively raised $255 Mn between November 2 and 6, up 96% uptick from $130.3 Mn raised last week. However, deal count declined 38% week-on-week to 20\n\nOn the back of GIVA’s mega $103 Mn fundraise, ecommerce emerged as the most funded sector this week\n\nOmnivore emerged as the most active investor this week, backing altM and Two Point O Capital\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nStartup funding activity gathered steam in the first week of November. As per Inc42 data, 20 Indian startups cumulatively raised $255 Mn between November 2 and 6. This marks a 96% uptick from $130.3 Mn raised last week.\n\nHowever, deal count declined 38% to 20 as against 32 in the preceding week.\n\nFunding Galore: Indian Startup Funding Of The Week [Nov 2-6]\n\nDate\nName\nSector"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "line": 57,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Off the funding table, SEBI has cleared Razorpay's ₹5,000 Cr-₹6,000 Cr IPO, which is expected to value it at around ₹47,000 Cr with a listing likely between January and March 2027 [Inc42](https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
+          "id": "2ddfe0cfb1ec",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2ddfe0cfb1ec.txt",
+          "headline": "Indian startups raised $255 Mn across 20 deals this week",
+          "claim": "Inc42's weekly tally says 20 Indian startups raised $255 Mn between Nov 2 and 6, with deal count down 38% week-on-week.",
+          "quote": "Twenty startups cumulatively raised $255 Mn between November 2 and 6, up 96% uptick from $130.3 Mn raised last week.",
+          "published": "2026-11-07",
+          "context": "eek program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nFrom GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nFrom GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week\n\n07 Nov'26\n| By Akshit Pushkarna\n\nSUMMARY\n\nTwenty startups cumulatively raised $255 Mn between November 2 and 6, up 96% uptick from $130.3 Mn raised last week. However, deal count declined 38% week-on-week to 20\n\nOn the back of GIVA’s mega $103 Mn fundraise, ecommerce emerged as the most funded sector this week\n\nOmnivore emerged as the most active investor this week, backing altM and Two Point O Capital\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nStartup funding activity gathered steam in the first week of November. As per Inc42 data, 20 Indian startups cumulatively raised $255 Mn between November 2 and 6. This marks a 96% uptick from $130.3 Mn raised last week.\n\nHowever, deal count declined 38% to 20 as against 32 in the preceding week.\n\nFunding Galore: Indian Startup Funding Of The Week [Nov 2-6]\n\nDate\nName\nSector"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "line": 63,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Singh said enterprises, global capability centres and startups are moving from pilots to production, citing JioHotstar and Cars24, and that India is among Codex's largest and fastest-growing markets with significant developer use from tier-II cities [Inc42](https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/",
+          "id": "bd4eadb64696",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bd4eadb64696.txt",
+          "headline": "India becomes ChatGPT's largest market by weekly users",
+          "claim": "OpenAI India MD Prabhjeet Singh said India is now ChatGPT's largest market by weekly active users and the local base has doubled since January 2026. India is also among Codex's largest markets, with developer use from tier-II cities.",
+          "quote": "India has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026",
+          "published": "2026-11-03",
+          "context": "ecorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nIndia Becomes ChatGPT’s Largest Market Globally, User Base Doubles Since January\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nIndia Becomes ChatGPT’s Largest Market Globally, User Base Doubles Since January\n\n03 Nov'26\n| By Anjali Jain\n\nSUMMARY\n\nIndia has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026, OpenAI India MD Prabhjeet Singh said\n\nOpenAI is expanding local computing capacity and enterprise partnerships to support adoption, with data security, privacy, and returns on investment remaining key considerations for businesses\n\nThe company is developing Indian-language capabilities and Android-first products, preparing UPI-related announcements, and working with Razorpay to help Indian brands advertise on ChatGPT\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nIndia has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026, OpenAI India MD Prabhjeet Singh said.\n\nSpeaking to ET, Singh attributed "
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "line": 65,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "OpenAI's partnership with TCS's HyperVault data centre business starts at 100 MW and could scale to 1 GW, and its models are available through Amazon Bedrock for local inference that keeps request processing in India [Inc42](https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/",
+          "id": "bd4eadb64696",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bd4eadb64696.txt",
+          "headline": "India becomes ChatGPT's largest market by weekly users",
+          "claim": "OpenAI India MD Prabhjeet Singh said India is now ChatGPT's largest market by weekly active users and the local base has doubled since January 2026. India is also among Codex's largest markets, with developer use from tier-II cities.",
+          "quote": "India has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026",
+          "published": "2026-11-03",
+          "context": "ecorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nIndia Becomes ChatGPT’s Largest Market Globally, User Base Doubles Since January\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nIndia Becomes ChatGPT’s Largest Market Globally, User Base Doubles Since January\n\n03 Nov'26\n| By Anjali Jain\n\nSUMMARY\n\nIndia has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026, OpenAI India MD Prabhjeet Singh said\n\nOpenAI is expanding local computing capacity and enterprise partnerships to support adoption, with data security, privacy, and returns on investment remaining key considerations for businesses\n\nThe company is developing Indian-language capabilities and Android-first products, preparing UPI-related announcements, and working with Razorpay to help Indian brands advertise on ChatGPT\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nIndia has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026, OpenAI India MD Prabhjeet Singh said.\n\nSpeaking to ET, Singh attributed "
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "line": 67,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Ads are coming too: OpenAI has partnered with Razorpay so Indian brands can advertise on ChatGPT, with early brands including Tanishq, Fastrack, Traya, Tata Neu and Shaadi.com [Inc42](https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/",
+          "id": "bd4eadb64696",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bd4eadb64696.txt",
+          "headline": "India becomes ChatGPT's largest market by weekly users",
+          "claim": "OpenAI India MD Prabhjeet Singh said India is now ChatGPT's largest market by weekly active users and the local base has doubled since January 2026. India is also among Codex's largest markets, with developer use from tier-II cities.",
+          "quote": "India has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026",
+          "published": "2026-11-03",
+          "context": "ecorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nIndia Becomes ChatGPT’s Largest Market Globally, User Base Doubles Since January\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nIndia Becomes ChatGPT’s Largest Market Globally, User Base Doubles Since January\n\n03 Nov'26\n| By Anjali Jain\n\nSUMMARY\n\nIndia has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026, OpenAI India MD Prabhjeet Singh said\n\nOpenAI is expanding local computing capacity and enterprise partnerships to support adoption, with data security, privacy, and returns on investment remaining key considerations for businesses\n\nThe company is developing Indian-language capabilities and Android-first products, preparing UPI-related announcements, and working with Razorpay to help Indian brands advertise on ChatGPT\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nIndia has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026, OpenAI India MD Prabhjeet Singh said.\n\nSpeaking to ET, Singh attributed "
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "line": 69,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In personal finance, PowerUp claims more than 1.5 million users track mutual fund portfolios worth over Rs 2.5 lakh crore on its platform, and says its paid Elite service crossed 1,00,000 paid members in less than a year [YourStory](https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india).",
+      "evidence": [
+        {
+          "chip": "YourStory",
+          "url": "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india",
+          "id": "c4e747ef2346",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c4e747ef2346.txt",
+          "headline": "PowerUp Money raises $10M led by Flourish Ventures",
+          "claim": "PowerUp Money raised $10 million led by Flourish Ventures, with Peak XV Partners, Accel, Blume Ventures and others participating. It claims over 1.5 million users track mutual fund portfolios on its platform.",
+          "quote": "a wealthtech platform offering mutual fund advice and digital wealth management services, has raised $10 million in a funding round led by Flourish Ventures",
+          "published": "2026-11-03",
+          "context": " Condition\n\nCopyright © 2026 YourStory Media Pvt. Ltd. All rights reserved.\n\nBrands\n\nTopics\n\nResource Hub\n\nUpcoming Events\n\nDiscover\n\nAdvertise with Newsletter\n\nAbout UsCareersPrivacy PolicyTerms & Condition\n\nCopyright © 2026 YourStory Media Pvt. Ltd. All rights reserved.\n\nADVERTISEMENT\n\nPowerUp Money raises $10M to expand AI-led wealth management | YourStory\n\nADVERTISEMENT\n\nFunding\n\nPowerUp Money raises $10M to expand AI-led wealth management\n\nThe Bengaluru-based company plans to use a significant portion of the capital to develop its AI-powered wealth management platform and expand its managed advisory business.\n\nTeam YS17538 Stories\n\nTuesday November 03, 2026 , 3 min Read\n\nPowerUp Money, a wealthtech platform offering mutual fund advice and digital wealth management services, has raised $10 million in a funding round led by Flourish Ventures, an early-stage investment firm.\n\nExisting investors Peak XV Partners, Accel, Blume Ventures, Kae Capital, 8i Ventures and DeVC also participated. \n\nThe Bengaluru-based company plans to use a significant portion of the capital to develop its AI-powered wealth management platform and expand its managed advisory business.\n\nPowerUp claims more than 1.5 million users track mutual fund portfolios worth over Rs 2.5 lakh crore on its platform. Its paid subscription service, Elite, provides research-backed mutual fund advice and is said to have crossed 1,00,000 paid members in less than a year.\n\nThe company has now introduced Elite Prime, an AI-enabled digital wealth advisory service designed to pr"
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "line": 77,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**13th Protocol: An AI Hackathon 2026 (HackIndia)** - students, developers and AI enthusiasts from across India, free entry, in person at KCCITM Greater Noida on 28-29 Nov, a ₹60K prize pool, deadline 18 Nov 2026 at 23:00 IST [HackIndia](https://hackindia.org/2026/13th-protocol-an-ai-hackathon-2026).",
+      "evidence": [
+        {
+          "chip": "HackIndia",
+          "url": "https://hackindia.org/2026/13th-protocol-an-ai-hackathon-2026",
+          "id": "dbca49ed4f1e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/dbca49ed4f1e.txt",
+          "headline": "HackIndia 13th Protocol AI hackathon registration closes 18 November",
+          "claim": "HackIndia's 13th Protocol AI hackathon (in person, KCCITM Greater Noida, 28-29 Nov 2026) has free entry and registration closing 18 Nov 2026 at 23:00 IST.",
+          "quote": "Closes Nov 18, 2026 · 23:00 IST",
+          "published": "2026-11-09",
+          "context": "owth\n\nContact: +91 9910125804\n\nGeneral\n\nCompanies\n\nColleges\n\nBoard of Advisors\n\nBrand Ambassadors\n\nFAQ\n\nContact\n\nReport a Bug\n\nHackathons\n\nUpcoming Hackathons\n\nJudges\n\nMentors\n\nPartners\n\nParticipating Colleges\n\nResources\n\nAbout Us\n\nBranding\n\nLatest News\n\nGrowth\n\nSkills\n\nEcosystem\n\nForum\n\nIdeas\n\nPrompt Optimizer\n\nHow to earn XP\n\n© 2026 HackIndia. All rights reserved.\n\nPrivacy PolicyTerms of ServiceCode of ConductSitemap\n\nBuild 2.139 · 05 Nov 2026, 10:28 UTC\n\nHackathonsNewsInternshipsSkillsGrowth\n\n13th Protocol: An AI Hackathon 2026 | HackIndia | HackIndia\n\n13th Protocol: An AI Hackathon 2026\n\nRegistration openIn person · KCCITM, Greater Noida\n\nPrize pool\n\n₹60K\n\nRegistration closes in\n\n9days\n\nCloses Nov 18, 2026 · 23:00 IST\nRegister now →\n\nOverviewProblem statementsTracks & prizesJudgesVenue\n\nKey dates\nAll times IST\n\nRegistration opens\n\nNov 1, 2026 · 09:00 IST\n(done)\n\nRegistration closes\n\nNov 18, 2026 · 23:00 IST\n\nNext · in 9 days\n(next)\n\nHacking starts\n\nNov 28, 2026 · 08:00 IST\n\nHacking ends\n\nNov 29, 2026 · 12:00 IST\n\nResults\n\nAfter judging\n\nDates\n\nNov 28 – 29, 2026\n\nFormat\n\nIn person\n\nWhere\n\nKCCITM, Greater Noida\n\nTeam size\n\n2 – 4\n\nEntry fee\n\nFree\n\nRegistration closes\n\nNov 18, 2026\n\nRegistered\n\n272 teams\n\nSpots\n\n3000\n\nAdd to calendar ↓\n\nTechnologies\n\nAI/ML\n\nGenerative AI\n\nWeb3\n\nBlockchain\n\nCloud\n\nCybersecurity\n\nFinTech\n\nOpen Innovation\n\nFigures updated Nov 9, 2026 · 08:05 IST\n\nWho's competing\n\n272\n\nteams\n\n49"
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "line": 87,
+      "section": "A calibration check for Indian-language models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam's own tests found that rival decision models make 2.7 to 4.8 times as many errors in Indian languages as their confidence scores predict [Sarvam](https://www.sarvam.ai/blogs/sarvam-prism).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+          "id": "c9d66dd6f94b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c9d66dd6f94b.txt",
+          "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+          "claim": "Sarvam released Prism on 3 Nov 2026, a decision model built on Sarvam 105B; Sarvam reports it scores 71.8 at 44 ms on a B200 GPU among 25 decision models tested. Weights are on Hugging Face under Apache 2.0.",
+          "quote": "Prism’s weights are on Hugging Face under the Apache 2.0 licence.",
+          "published": "2026-11-03",
+          "context": " no mask needed\n\nOptions + answer: a thin stripMasked kernel, only these rows\n\nRows: the word doing the reading. Columns: the words it can see. Q = question, A and B = two options, Ans = answer token.\n\nMaking it fast\n\nPrism started at 664 ms per median request, running in 16-bit precision across two B200 GPUs. We converted the weights to FP8 so the model fits on a single GPU, ran all 128 experts in one grouped kernel, captured the forward pass as a CUDA Graph, folded the FP8 conversion into the expert kernels, and merged the fine-tuning adapter into the model weights. Together, these bring the median request to 44 ms, 15× faster than where we started, with no drop in accuracy.\n\nUsing Prism\n\nPrism’s weights are on Hugging Face under the Apache 2.0 licence. Prism runs in FP8 on one GPU with at least 120 GB of memory. It is also available on the Sarvam API at Sarvam Indus. Each request takes a state, a question and any number of options that fit within the context window, and returns a probability for each option. The documentation is available here.\n\nRead More\n\nOct 27, 2026·Announcement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 26, 2026·Research\n\nHow we built the knowledge fabric for enterprise agents\n\nOct 13, 2026·Research\n\nIntroducing Bulbul V4 Flash\n\nCurious what else we're building? Explore our APIs and start creating.\n\nCurious what else we're building?\n\nExplore our APIs and start"
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "line": 93,
+      "section": "An offline assistant on a Dhīr model",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The Dhīr models support English and 10 Indian languages and can run on mobile phones without internet, and ZenteiQ released the weights with technical documentation and evaluation tools [Swarajya](https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b).",
+      "evidence": [
+        {
+          "chip": "Swarajya",
+          "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b",
+          "id": "d0e56e43a87c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/d0e56e43a87c.txt",
+          "headline": "IndiaAI Mission unveils EKA-1, Dhir 2B and Dhir 5B models",
+          "claim": "Soket's EKA-1 (26.3 billion parameters) and ZenteiQ's Dhir 2B and 5B were unveiled in New Delhi before IT secretary S Krishnan. They are accessible via AIKosh, and ZenteiQ released weights under Apache 2.0.",
+          "quote": "Soket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.",
+          "published": "2026-11-04",
+          "context": " And 5B\n\nSwarajya Staff\n\nNov 04, 2026 | Updated 09:24 AM GMT+5:30\n\nSave & read from anywhere!\n\nBookmark stories for easy access on any device or the Swarajya app.\n\nSign In\n\nPrefer\n\nPrefer\n\nRepresentative Image (Pic Generated Via Google AI)\n\nIndia unveiled three indigenous artificial intelligence foundation models yesterday as part of the government's IndiaAI Mission, marking a significant step in building domestic AI capabilities.\n\nThe models—Soket's EKA-1 and ZenteiQ's Dhīr 2B and Dhīr 5B—were unveiled at an event in New Delhi in the presence of IT secretary S Krishnan.\n\nBoth startups were selected under the mission's IndiaAI Innovation Centre pillar to develop domestic foundation models.\n\nSoket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.\n\nEKA-1 targets mathematics, coding, reasoning and agentic use cases, while Dhīr models focus on smaller multilingual assistants that can operate in environments with limited connectivity.\n\nSoket Labs cofounder and CEO Abhishek Upperwal said the model was developed specifically for India's banking, financial services and cybersecurity landscape.\n\nDhīr 2B and Dhīr 5B, developed by ZenteiQ, are mixture-of-experts foundation models trained from scratch using Google Cloud Tensor Processing Units (TPUs).\n\nZenteiQ debuted Dhīr 2B and Dhīr 5B open-source multilingual models, which support English and 10 other Indian languages.\n\nThe Dhīr models support English and 10 Indian languages and can run on "
+        }
+      ]
+    },
+    {
+      "n": 32,
+      "line": 99,
+      "section": "A compliance check for AI money advice",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "YourStory notes that digital advice must remain suitable, transparent and compliant as platforms grow, and that SEBI issued an updated Master Circular for Investment Advisers in February [YourStory](https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india).",
+      "evidence": [
+        {
+          "chip": "YourStory",
+          "url": "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india",
+          "id": "c4e747ef2346",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c4e747ef2346.txt",
+          "headline": "PowerUp Money raises $10M led by Flourish Ventures",
+          "claim": "PowerUp Money raised $10 million led by Flourish Ventures, with Peak XV Partners, Accel, Blume Ventures and others participating. It claims over 1.5 million users track mutual fund portfolios on its platform.",
+          "quote": "a wealthtech platform offering mutual fund advice and digital wealth management services, has raised $10 million in a funding round led by Flourish Ventures",
+          "published": "2026-11-03",
+          "context": " Condition\n\nCopyright © 2026 YourStory Media Pvt. Ltd. All rights reserved.\n\nBrands\n\nTopics\n\nResource Hub\n\nUpcoming Events\n\nDiscover\n\nAdvertise with Newsletter\n\nAbout UsCareersPrivacy PolicyTerms & Condition\n\nCopyright © 2026 YourStory Media Pvt. Ltd. All rights reserved.\n\nADVERTISEMENT\n\nPowerUp Money raises $10M to expand AI-led wealth management | YourStory\n\nADVERTISEMENT\n\nFunding\n\nPowerUp Money raises $10M to expand AI-led wealth management\n\nThe Bengaluru-based company plans to use a significant portion of the capital to develop its AI-powered wealth management platform and expand its managed advisory business.\n\nTeam YS17538 Stories\n\nTuesday November 03, 2026 , 3 min Read\n\nPowerUp Money, a wealthtech platform offering mutual fund advice and digital wealth management services, has raised $10 million in a funding round led by Flourish Ventures, an early-stage investment firm.\n\nExisting investors Peak XV Partners, Accel, Blume Ventures, Kae Capital, 8i Ventures and DeVC also participated. \n\nThe Bengaluru-based company plans to use a significant portion of the capital to develop its AI-powered wealth management platform and expand its managed advisory business.\n\nPowerUp claims more than 1.5 million users track mutual fund portfolios worth over Rs 2.5 lakh crore on its platform. Its paid subscription service, Elite, provides research-backed mutual fund advice and is said to have crossed 1,00,000 paid members in less than a year.\n\nThe company has now introduced Elite Prime, an AI-enabled digital wealth advisory service designed to pr"
+        }
+      ]
+    }
+  ],
+  "unlinked": [],
+  "how_to_answer": "Write factcheck-<edition>.json as {\"verdicts\": [{\"n\": N, \"verdict\": \"pass|fix|reject\", \"reason\": \"...\", \"replacement\": \"full corrected sentence incl. its chips (fix only)\"}]}. pass = every name, number, date and causal claim in the sentence is supported by the saved page(s); fix = supportable with a correction; reject = not supported by the cited page."
+}

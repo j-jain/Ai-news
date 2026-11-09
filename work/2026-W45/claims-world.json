@@ -1,0 +1,791 @@
+{
+  "week": "2026-W45",
+  "edition": "world",
+  "draft": "work/2026-W45/draft-world.md",
+  "claims": [
+    {
+      "n": 1,
+      "line": 3,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Kimi K3.1 Pro weights are public** Moonshot AI put the Kimi K3.1 Pro weights on Hugging Face on 4 Nov, and the card lists 2.8T total and 104B activated parameters [FourWeekMBA](https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/).",
+      "evidence": [
+        {
+          "chip": "FourWeekMBA",
+          "url": "https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/",
+          "id": "3eb5e3c69285",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3eb5e3c69285.txt",
+          "headline": "Moonshot releases Kimi K3.1 Pro open weights on Hugging Face",
+          "claim": "Moonshot AI released the Kimi K3.1 Pro weights on Hugging Face on 4 November; the model card lists 2.8T total and 104B activated parameters.",
+          "quote": "The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.",
+          "published": "2026-11-04",
+          "context": "l\n\nTSMC Revenue Breakdown Q4 2025 — Interactive Sankey Chart\n\nUber Revenue Breakdown Q4 2025 — Interactive Sankey Chart\n\nUnit Economics Calculator\n\nUpcoming IPOs: IPO Calendar\n\nUsage Based Pricing Business Model\n\nVertical Integration Business Model\n\nWACC Calculator\n\nWalled Garden Business Model\n\nWho Eats Whose Lunch? — Competitive Overlap Matrix\n\nWishList Member\n\n[MM_Member_Data name=”membershipName”] Home Page\n\nKimi K3.1 Pro Weights Out; Leads Opus 5.5 on 16 of 37 Tests\n\nAI Business Brief / By\n\nGennaro Cuofano\n\n/ November 4, 2026\n\nMoonshot AI released the model weights of Kimi K3.1 Pro on Hugging Face on 4 November, posting on X at 16:00 UTC: “Releasing the model weights of Kimi K3.1 Pro”. The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.\n\nIn the benchmark table on that card, Kimi K3.1 Pro scores above Claude Opus 5.5 on 16 of the 37 non-internal rows where both have a score, by our count. Its largest lead is 5.4 points, and Opus 5.5 is ahead by more than 20 points on three rows, by our arithmetic.\n\nBusiness Pill · Open Weights Explained\n\nA short Business Engineer explainer of open weights: rent the model or run it yourself. It teaches the general idea only and does not discuss Moonshot or Kimi K3.1 Pro.\n\nThe key insight: In Moonshot’s own table, Kimi K3.1 Pro is ahead of Claude Opus 5.5 on 16 of 37 non-internal rows, by our count, with leads of at most 5.4 points and gaps of up to 33.5 points; the weights are open, but Mode"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "line": 4,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Memory contracts rise again this quarter** TrendForce expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter from the third, and NAND flash contract prices 15% to 20% [Capital Times](https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce/).",
+      "evidence": [
+        {
+          "chip": "Capital Times",
+          "url": "https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce/",
+          "id": "5deafdd2a258",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5deafdd2a258.txt",
+          "headline": "TrendForce: Q4 DRAM contracts up 10-15%, NAND up 15-20%",
+          "claim": "TrendForce expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter from the third, and NAND flash contract prices 15% to 20%, while spot trading stalls.",
+          "quote": "expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter from the third",
+          "published": "2026-11-03",
+          "context": "gers in the peak quarter but kept just 271 million yuan of profit, with China Eastern and China Southern reporting next.\n\nMarkets\n\nHome\n\nTech\n\nSemiconductors\n\nSemiconductors\n\nDRAM Contract Prices Seen Rising 10% to 15% in Q4 as Spot Market Stalls, TrendForce Says\n\nMemory makers hold the pricing power on long-term deals, but PC makers, phone brands and module houses have stopped chasing chips on the open market.\n\nBy Capital Times StaffNov. 3, 2026 · 4 min read\n\nShare on X\nLinkedIn\nWhatsApp\nSave\nCopy link\nAAA\n\nA Samsung memory module. TrendForce expects DRAM contract prices to rise 10% to 15% in the fourth quarter. Photo: Mister rf via Wikimedia Commons, CC BY-SA 4.0\n\nWhat to know\n\nTrendForce expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter from the third, and NAND flash contract prices 15% to 20%.\n\nThe DDR4 16Gb spot price averaged $82.719 on Nov. 2, down 0.09%, while the DDR5 16Gb chip was unchanged at $61.50, TrendForce data showed.\n\nGlobal chip sales reached $159.7 billion in August, up 144.3% from a year earlier, according to the Semiconductor Industry Association.\n\nTAIPEI\n\nMemory chip prices are still rising where it counts for chipmakers' profits, in contract deals with big buyers, even as trading in the open spot market has stalled. TrendForce, the Taipei-based market research firm, expects conventional DRAM contract prices to climb 10% to 15% in the fourth quarter from the third, with NAND flash contract prices up 15% to 20%.\n\nThe s"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "line": 5,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**OpenAI's exploit model got much better** GPT-6 Cyber, announced 5 Nov, scores 48.5% on ExploitGym against 32.1% for GPT-5.6 Cyber, on OpenAI's own figures [Cyber Magazine](https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents).",
+      "evidence": [
+        {
+          "chip": "Cyber Magazine",
+          "url": "https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents",
+          "id": "b0510ec33516",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b0510ec33516.txt",
+          "headline": "OpenAI launches GPT-6 Cyber for Daybreak Red customers",
+          "claim": "OpenAI's GPT-6 Cyber scores 48.5% on ExploitGym versus 32.1% for GPT-5.6 Cyber, per Cyber Magazine's report on the 5 Nov launch; figures are OpenAI-reported.",
+          "quote": "achieving a score of 48.5% on the ExploitGym benchmark, compared with 32.1% for its predecessor",
+          "published": "2026-11-06",
+          "context": "aries.\n\nOpenAI says GPT-6 Cyber has already helped uncover thousands of vulnerabilities in widely used software, including Linux and Firefox.\n\nOpenAI researchers used it to develop 948 privilege-escalation exploits in Linux and identify 81 previously unknown high-severity vulnerabilities in Firefox. \n\nWe’ve invested heavily in making the model trustworthy, specifically training it to stay within the scope set by its operator.\n\nJohannes Landgraf, Head of Cyber at OpenAI\n\nThe research also helped produce candidate patches, with Mozilla subsequently releasing fixes for many of the identified issues.\n\nThe new model offers substantial performance improvements over its predecessor, GPT-5.6 Cyber, achieving a score of 48.5% on the ExploitGym benchmark, compared with 32.1% for its predecessor. \n\nThis represents a 51% relative improvement.\n\n“It’s already helping defend security-critical software, including the Linux kernel, Firefox and many other projects,” writes Johannes Landgraf, Head of Cyber at OpenAI on LinkedIn, announcing the model. \n\nHe notes that it is “a major step forward for security research and defenders”. \n\n“We’ve invested heavily in making the model trustworthy, specifically training it to stay within the scope set by its operator.\n\n“Next weeks will be packed with announcements and progress. Very proud of how the team show[ed] up during this moment.”\n\nStronger AI safeguards aim to keep cybersecurity research within authorised limits\n\nSince the OpenAI Hugging Face"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "line": 9,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "OpenAI announced GPT-6 Cyber on 5 Nov, a model for finding vulnerabilities, developing exploits and strengthening software defences; OpenAI researchers used it to develop 948 privilege-escalation exploits in Linux and identify 81 previously unknown high-severity vulnerabilities in Firefox [Cyber Magazine](https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents).",
+      "evidence": [
+        {
+          "chip": "Cyber Magazine",
+          "url": "https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents",
+          "id": "b0510ec33516",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b0510ec33516.txt",
+          "headline": "OpenAI launches GPT-6 Cyber for Daybreak Red customers",
+          "claim": "OpenAI's GPT-6 Cyber scores 48.5% on ExploitGym versus 32.1% for GPT-5.6 Cyber, per Cyber Magazine's report on the 5 Nov launch; figures are OpenAI-reported.",
+          "quote": "achieving a score of 48.5% on the ExploitGym benchmark, compared with 32.1% for its predecessor",
+          "published": "2026-11-06",
+          "context": "aries.\n\nOpenAI says GPT-6 Cyber has already helped uncover thousands of vulnerabilities in widely used software, including Linux and Firefox.\n\nOpenAI researchers used it to develop 948 privilege-escalation exploits in Linux and identify 81 previously unknown high-severity vulnerabilities in Firefox. \n\nWe’ve invested heavily in making the model trustworthy, specifically training it to stay within the scope set by its operator.\n\nJohannes Landgraf, Head of Cyber at OpenAI\n\nThe research also helped produce candidate patches, with Mozilla subsequently releasing fixes for many of the identified issues.\n\nThe new model offers substantial performance improvements over its predecessor, GPT-5.6 Cyber, achieving a score of 48.5% on the ExploitGym benchmark, compared with 32.1% for its predecessor. \n\nThis represents a 51% relative improvement.\n\n“It’s already helping defend security-critical software, including the Linux kernel, Firefox and many other projects,” writes Johannes Landgraf, Head of Cyber at OpenAI on LinkedIn, announcing the model. \n\nHe notes that it is “a major step forward for security research and defenders”. \n\n“We’ve invested heavily in making the model trustworthy, specifically training it to stay within the scope set by its operator.\n\n“Next weeks will be packed with announcements and progress. Very proud of how the team show[ed] up during this moment.”\n\nStronger AI safeguards aim to keep cybersecurity research within authorised limits\n\nSince the OpenAI Hugging Face"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "line": 11,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In OpenAI's alignment evaluations the model avoided exploiting out-of-scope services in 99.93% of tests without deployment safety prompts and in 100% with them, and Cisco, CrowdStrike, Palo Alto Networks and Mozilla are among the companies already using it [Cyber Magazine](https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents).",
+      "evidence": [
+        {
+          "chip": "Cyber Magazine",
+          "url": "https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents",
+          "id": "b0510ec33516",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b0510ec33516.txt",
+          "headline": "OpenAI launches GPT-6 Cyber for Daybreak Red customers",
+          "claim": "OpenAI's GPT-6 Cyber scores 48.5% on ExploitGym versus 32.1% for GPT-5.6 Cyber, per Cyber Magazine's report on the 5 Nov launch; figures are OpenAI-reported.",
+          "quote": "achieving a score of 48.5% on the ExploitGym benchmark, compared with 32.1% for its predecessor",
+          "published": "2026-11-06",
+          "context": "aries.\n\nOpenAI says GPT-6 Cyber has already helped uncover thousands of vulnerabilities in widely used software, including Linux and Firefox.\n\nOpenAI researchers used it to develop 948 privilege-escalation exploits in Linux and identify 81 previously unknown high-severity vulnerabilities in Firefox. \n\nWe’ve invested heavily in making the model trustworthy, specifically training it to stay within the scope set by its operator.\n\nJohannes Landgraf, Head of Cyber at OpenAI\n\nThe research also helped produce candidate patches, with Mozilla subsequently releasing fixes for many of the identified issues.\n\nThe new model offers substantial performance improvements over its predecessor, GPT-5.6 Cyber, achieving a score of 48.5% on the ExploitGym benchmark, compared with 32.1% for its predecessor. \n\nThis represents a 51% relative improvement.\n\n“It’s already helping defend security-critical software, including the Linux kernel, Firefox and many other projects,” writes Johannes Landgraf, Head of Cyber at OpenAI on LinkedIn, announcing the model. \n\nHe notes that it is “a major step forward for security research and defenders”. \n\n“We’ve invested heavily in making the model trustworthy, specifically training it to stay within the scope set by its operator.\n\n“Next weeks will be packed with announcements and progress. Very proud of how the team show[ed] up during this moment.”\n\nStronger AI safeguards aim to keep cybersecurity research within authorised limits\n\nSince the OpenAI Hugging Face"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "line": 13,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "OpenAI also shipped Images 2.6, which it says generates images 50% faster than its predecessor and which adds GIF animation, SVG export and a complexity parameter that sets how much planning the model does; the API models GPT-Image-2.6 Flare and Sunburst cost $8 per million image input tokens and $30 per million output tokens, and the model is in ChatGPT and Codex on all subscription tiers [YourStory](https://yourstory.com/ai-story/openai-images-2-6-gif-launch).",
+      "evidence": [
+        {
+          "chip": "YourStory",
+          "url": "https://yourstory.com/ai-story/openai-images-2-6-gif-launch",
+          "id": "83de4afc0d00",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/83de4afc0d00.txt",
+          "headline": "OpenAI ships Images 2.6 with GIFs and Flare and Sunburst API models",
+          "claim": "OpenAI released Images 2.6, which it says generates images 50% faster than its predecessor, with API models GPT-Image-2.6 Flare and Sunburst priced at $8 per million image input tokens and $30 per million output tokens.",
+          "quote": "OpenAI says Images 2.6 generates images 50% faster than its predecessor.",
+          "published": "2026-11-05",
+          "context": "ooping animations\n\nThe headline addition is GIF animation. These short, looping visuals have long been popular for memes, reactions, brand posts and quick storytelling.\n\nImages 2.6 can add motion to existing visual ideas, whether that means animating a brand mascot, turning a product photograph into a looping visual or creating character movements for a storyboard before video production.\n\nNow, for social media teams and small businesses, this could offer a quicker way to create lightweight animated assets without starting a full video production process. Creators can also test movement and visual concepts before investing in more elaborate animation.\n\nFaster generation, more precise edits\n\nOpenAI says Images 2.6 generates images 50% faster than its predecessor. Developers can access two API variants: GPT-Image-2.6 Flare and GPT-Image-2.6 Sunburst.\n\nFlare prioritises speed and layout quality, making it suited to posters, product visuals and other professional assets. At low-quality settings, it can generate images in as little as six seconds.\n\nSunburst focuses on higher-quality generation and consistency across edits, particularly at medium and high quality settings. The update also brings image markup to the API. Already available in ChatGPT, the feature allows users to mark the exact area they want changed instead of describing the location through text alone.\n\nOpenAI has also added SVG exports, giving developers and designers a format that can b"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "line": 15,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Meta added Spaces to its Muse agent: topic-based conversations in the sidebar where Muse builds a tracker, a planner or a project board and keeps it updated from connected apps, its second new Muse feature in a week after Muse Voice on Thursday; Zuckerberg said on the October earnings call that the agents had 10 million users in the US and Canada [TechCrunch via Winzheng](https://www.winzheng.com/en/article/meta-spaces-muse-agent-collaboration).",
+      "evidence": [
+        {
+          "chip": "TechCrunch via Winzheng",
+          "url": "https://www.winzheng.com/en/article/meta-spaces-muse-agent-collaboration",
+          "id": "ceee84967e09",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/ceee84967e09.txt",
+          "headline": "Meta adds Spaces to its Muse agent",
+          "claim": "Meta launched Spaces for its Muse agent: topic-based conversations in the sidebar that build trackers, planners or project boards and connect to third-party apps. It followed Muse Voice, announced the day before.",
+          "quote": "Spaces are basically breakout conversations that revolve around a particular topic",
+          "published": "2026-11-07",
+          "context": "es, a new way to collaborate with your Muse agent | Winzheng\n\nSkip to main content\n\nYZ Index\nNews\nTopics\nWinzheng Lab\nWDCD\n\nSubscribe\n\nEnglish\n\n中文\nEnglish\n日本語\n\nHome\n\nNews\n\nMeta introduces Spaces, a…\n\nMeta introduces Spaces, a new way to collaborate with your Muse agent\n\nNov 7, 2026\n\n14,492\n\napprox.4min\n\nTechCrunch\n\nMeta Muse Agent AI Collaboration Productivity Tools\n\nMeta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.\n\nMeta recently launched its Muse agents — a new generation of cuddly agentic helpers. Now, the company has launched Spaces, a new way to communicate and collaborate with them.\n\nAs far as I can tell, Spaces are basically breakout conversations that revolve around a particular topic — although Meta refers to them as “custom experiences.” They live in the sidebar of the interface where you interact with your Muse agent. Clicking on the Space brings up the conversation, where Muse works toward a particular goal on your behalf.\n\nFor instance, if you wanted to plan a vacation, you could open a new Space focused on that particular project, and whenever you want to work on it with Muse, you would click to open that particular tab. Or, if you’re focused on collecting recipes for an upcoming family event, you’d open a new Space for that particular project. Other examples Meta gives are a holiday gift tracker, a wedding planner, or a space for DIY projects.\n\n“Describe an idea i"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "line": 17,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Moonshot's Kimi K3.1 Pro is ahead of Claude Opus 5.5 on 16 of 37 non-internal rows of Moonshot's own benchmark table, by FourWeekMBA's count, with a largest lead of 5.4 points, while Opus 5.5 leads by 33.5 points on Program Bench; OpenRouter lists Kimi at $2 per million input tokens and $10 per million output, half the $4 and $20 it lists for Opus 5.5 [FourWeekMBA](https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/).",
+      "evidence": [
+        {
+          "chip": "FourWeekMBA",
+          "url": "https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/",
+          "id": "3eb5e3c69285",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3eb5e3c69285.txt",
+          "headline": "Moonshot releases Kimi K3.1 Pro open weights on Hugging Face",
+          "claim": "Moonshot AI released the Kimi K3.1 Pro weights on Hugging Face on 4 November; the model card lists 2.8T total and 104B activated parameters.",
+          "quote": "The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.",
+          "published": "2026-11-04",
+          "context": "l\n\nTSMC Revenue Breakdown Q4 2025 — Interactive Sankey Chart\n\nUber Revenue Breakdown Q4 2025 — Interactive Sankey Chart\n\nUnit Economics Calculator\n\nUpcoming IPOs: IPO Calendar\n\nUsage Based Pricing Business Model\n\nVertical Integration Business Model\n\nWACC Calculator\n\nWalled Garden Business Model\n\nWho Eats Whose Lunch? — Competitive Overlap Matrix\n\nWishList Member\n\n[MM_Member_Data name=”membershipName”] Home Page\n\nKimi K3.1 Pro Weights Out; Leads Opus 5.5 on 16 of 37 Tests\n\nAI Business Brief / By\n\nGennaro Cuofano\n\n/ November 4, 2026\n\nMoonshot AI released the model weights of Kimi K3.1 Pro on Hugging Face on 4 November, posting on X at 16:00 UTC: “Releasing the model weights of Kimi K3.1 Pro”. The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.\n\nIn the benchmark table on that card, Kimi K3.1 Pro scores above Claude Opus 5.5 on 16 of the 37 non-internal rows where both have a score, by our count. Its largest lead is 5.4 points, and Opus 5.5 is ahead by more than 20 points on three rows, by our arithmetic.\n\nBusiness Pill · Open Weights Explained\n\nA short Business Engineer explainer of open weights: rent the model or run it yourself. It teaches the general idea only and does not discuss Moonshot or Kimi K3.1 Pro.\n\nThe key insight: In Moonshot’s own table, Kimi K3.1 Pro is ahead of Claude Opus 5.5 on 16 of 37 non-internal rows, by our count, with leads of at most 5.4 points and gaps of up to 33.5 points; the weights are open, but Mode"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "line": 23,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The Kimi K3.1 Pro card describes a mixture-of-experts model with 896 experts, 16 selected per token, 93 layers, a 1,048,576-token context and MXFP4 weights from quantization-aware training, released under the Kimi K3.1 Pro License [Kimi model card](https://huggingface.co/moonshotai/Kimi-K3.1-Pro).",
+      "evidence": [
+        {
+          "chip": "Kimi model card",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "id": "7838c87736f9",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/7838c87736f9.txt",
+          "headline": "Moonshot releases Kimi K3.1 Pro open weights, 2.8T parameters, 1M context",
+          "claim": "Moonshot AI's Kimi K3.1 Pro card lists a mixture-of-experts model with 2.8T total and 104B activated parameters and a 1,048,576-token context. It is released under the Kimi K3.1 Pro License, not a standard open licence.",
+          "quote": "Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date.",
+          "published": "2026-11-06",
+          "context": "del Runner:\n\ndocker model run hf.co/moonshotai/Kimi-K3.1-Pro\n\nBrowse\nQuantizations to use this model in llama.cpp, Ollama, LM Studio, or any compatible app.\n\n1. Model Introduction\n\nCoding benchmarks\n\nAgentic benchmarks\n\nReasoning, knowledge, and multimodal benchmarks\n\nCybersecurity benchmarks\n\n2. Model Summary\n\nCoding benchmarks\n\nAgentic benchmarks\n\nReasoning, knowledge, and multimodal benchmarks\n\nCybersecurity benchmarks\n\n3. Evaluation Results\n\nCoding benchmarks\n\nAgentic benchmarks\n\nReasoning, knowledge, and multimodal benchmarks\n\nCybersecurity benchmarks\n\n4. Deployment and Availability\n\n5. Model Usage\n\n6. License\n\n7. Contact Us\n\n📰  Tech Blog |     🚀  API Quickstart\n\n1. Model Introduction\n\nKimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series. With a 1-million-token context window, Kimi K3.1 Pro delivers substantial improvements in coding, 3D creation, financial research, factual accuracy, and other agentic capabilities.\n\n2. Model Summary\n\nArchitecture\nMixture-of-Experts (MoE)\n\nTotal Parameters\n2.8T\n\nActivated Parameters\n104B\n\nNumber of Layers\n93\n\nNumber of Dense Layers\n1\n\nAttention-Layer Composition\n69 KDA + 24 Gated DSA*\n\nAttention Hidden Dimension\n7168\n\nNumber of Attention Heads\n96\n\nDSA Index Head Dimension\n128\n\nDSA Index Number of Heads\n32\n\nDSA Index Top-K\n2048\n\nLatent MoE Di"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "line": 25,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The repository's 96 weight files total about 1.56 TB by FourWeekMBA's count, and the licence requires Model as a Service hosts with more than $20 million in revenue over any 12 months to sign a separate agreement with Moonshot, while internal use is exempt [FourWeekMBA](https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/).",
+      "evidence": [
+        {
+          "chip": "FourWeekMBA",
+          "url": "https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/",
+          "id": "3eb5e3c69285",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3eb5e3c69285.txt",
+          "headline": "Moonshot releases Kimi K3.1 Pro open weights on Hugging Face",
+          "claim": "Moonshot AI released the Kimi K3.1 Pro weights on Hugging Face on 4 November; the model card lists 2.8T total and 104B activated parameters.",
+          "quote": "The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.",
+          "published": "2026-11-04",
+          "context": "l\n\nTSMC Revenue Breakdown Q4 2025 — Interactive Sankey Chart\n\nUber Revenue Breakdown Q4 2025 — Interactive Sankey Chart\n\nUnit Economics Calculator\n\nUpcoming IPOs: IPO Calendar\n\nUsage Based Pricing Business Model\n\nVertical Integration Business Model\n\nWACC Calculator\n\nWalled Garden Business Model\n\nWho Eats Whose Lunch? — Competitive Overlap Matrix\n\nWishList Member\n\n[MM_Member_Data name=”membershipName”] Home Page\n\nKimi K3.1 Pro Weights Out; Leads Opus 5.5 on 16 of 37 Tests\n\nAI Business Brief / By\n\nGennaro Cuofano\n\n/ November 4, 2026\n\nMoonshot AI released the model weights of Kimi K3.1 Pro on Hugging Face on 4 November, posting on X at 16:00 UTC: “Releasing the model weights of Kimi K3.1 Pro”. The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.\n\nIn the benchmark table on that card, Kimi K3.1 Pro scores above Claude Opus 5.5 on 16 of the 37 non-internal rows where both have a score, by our count. Its largest lead is 5.4 points, and Opus 5.5 is ahead by more than 20 points on three rows, by our arithmetic.\n\nBusiness Pill · Open Weights Explained\n\nA short Business Engineer explainer of open weights: rent the model or run it yourself. It teaches the general idea only and does not discuss Moonshot or Kimi K3.1 Pro.\n\nThe key insight: In Moonshot’s own table, Kimi K3.1 Pro is ahead of Claude Opus 5.5 on 16 of 37 non-internal rows, by our count, with leads of at most 5.4 points and gaps of up to 33.5 points; the weights are open, but Mode"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "line": 27,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Ricursive Intelligence released Ripple-65B Preview on 4 Nov under Apache 2.0, a 65B dense coding model shipped as a BF16 base, an NVFP4 checkpoint and a DFlash2 drafter; its reported scores are 80.5 on Terminal-Bench 2.1 and 79.1 on SWE-bench Pro v2.0 Hard, and GMI Cloud hosts it at $0.20 per million input tokens and $0.60 per million output tokens [Tech Insider](https://tech-insider.org/what-ricursive-intelligence-released-on-november-4/).",
+      "evidence": [
+        {
+          "chip": "Tech Insider",
+          "url": "https://tech-insider.org/what-ricursive-intelligence-released-on-november-4/",
+          "id": "709ee7ddfffc",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/709ee7ddfffc.txt",
+          "headline": "Ricursive releases Ripple-65B Preview, dense open-weight coding model, Apache 2.0",
+          "claim": "Ricursive Intelligence released Ripple-65B Preview on 4 Nov 2026 under Apache 2.0, with a BF16 base model, an NVFP4 checkpoint and a DFlash2 drafter. Scores reported are 80.5 on Terminal-Bench 2.1 (the model card says 80.52, self-reported).",
+          "quote": "Ricursive Intelligence put a new open-weight coding model into public hands on November 4, 2026.",
+          "published": "2026-11-06",
+          "context": "n ago\n\nAtlas 8 Sells Out in a Day as Acer Posts NT$2.13B [2026]14 min ago\n\nHardware\n\nGaming\n\nAI & ML\n\nCybersecurity\n\nSoftware\n\nCloud\n\nStartups\n\nEditions\n\nEnglish\n\nEnglish (Australia)\n\nEnglish (Canada)\n\nEnglish (Ireland)\n\nItaliano\n\nDeutsch\n\nNederlands\n\nSvenska\n\nFrançais\n\nSuomi\n\nEspañol\n\nTech Insider\n\nHardware\n\nGaming\n\nAI & ML\n\nCybersecurity\n\nSoftware\n\nCloud\n\nStartups\n\nTech Insider\n\nMenu\n\nHardwareGamingAI & Machine LearningCybersecuritySoftwareCloud ComputingCrypto RegulationStartups\n\nSearch Tech InsiderSearch\n\nHome\n\nAI & Machine Learning\n\nWhat Ricursive Intelligence Released on November 4\n\nElias Virtanen\n\nNovember 6, 2026\n\nAI & Machine Learning\n\nElias Virtanen\n\nNovember 6, 2026\n\n13 min read\n\nRicursive Intelligence put a new open-weight coding model into public hands on November 4, 2026. Ripple-65B Preview ships under the Apache 2.0 license, and VentureBeat framed the launch as a bid for the U.S. open coding lead on two major benchmarks. The reported scores are 80.5 on Terminal-Bench 2.1 and 79.1 on SWE-bench Pro v2.0 Hard.\n\nTable of Contents\n\nWhat Ricursive Intelligence Released on November 4\n\nThe Benchmark Numbers: 80.5 and 79.1\n\nWhy Two Benchmarks Beat One\n\nWhat the Headline Claims and What the Evidence Confirms\n\nApache 2.0: Why the License Matters More Than the Score\n\nA 65B Dense Transformer in a Field of Giants\n\nBF16, NVFP4 and DFlash2: The Release Package\n\nWho Benefits From Each Variant\n\nHosting Prices: $0.20 and $0.60 per Million Tokens\n\nWhy Terminal-Bench and SWE-be"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "line": 29,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Nous Research posted Arete-27B, an Apache 2.0 fine-tune of Alibaba's Qwen3.8-27B made with supervised fine-tuning only, on about 52.8 million tokens at 64k context over 1,202 steps; on Nous's own 803-prompt evaluation the fact score rose from 2.32 to 2.98 out of 5 and answers containing propaganda fell from 22% to 0.9% [Arete-27B card](https://huggingface.co/NousResearch/Arete-27B).",
+      "evidence": [
+        {
+          "chip": "Arete-27B card",
+          "url": "https://huggingface.co/NousResearch/Arete-27B",
+          "id": "55ffe1fba5ed",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/55ffe1fba5ed.txt",
+          "headline": "Nous Research posts Arete-27B, a Qwen3.8-27B fine-tune, Apache 2.0",
+          "claim": "Nous Research fine-tuned Alibaba's Qwen3.8-27B with supervised fine-tuning only (about 52.8 million tokens at 64k context) to change its answers on politically sensitive topics; the card reports its own evaluation figures.",
+          "quote": "On our evaluation, Arete-27B raised its fact score from 2.32 to 2.98 out of 5 and cut answers containing propaganda from 22% to 0.9%.",
+          "published": "2026-11-06",
+          "context": "\n\nCopy to bucket\n\nArete-27B\n\nModel details\n\nWhat we trained for\n\nTeacher and dataset\n\nTraining\n\nMeasuring the problem\n\nFactual recall\n\nFraming\n\nResults\n\nPropaganda evaluation\n\nGeneral and agentic capabilities\n\nTakeaways\n\nArete-27B\n\nWe post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B.\n\nOpen source models give labs the raw tools to mold intelligence to varied preferences. The values a model ships with should not be the only values its users get to choose from. We observed firsthand refusals, deflections, and CCP-framed answers on politically sensitive topics in Qwen3.8-27B, and post-trained to alter those biases.\n\nOn our evaluation, Arete-27B raised its fact score from 2.32 to 2.98 out of 5 and cut answers containing propaganda from 22% to 0.9%. The improvement held in all seven value categories, without a meaningful regression on the general-capability and agentic benchmarks we ran.\n\nThat is not to claim that we remedied all behaviors associated with the extant viewpoint, but that we have addressed a potential root cause. We believe it's important that labs and researchers continue to create models that align with their values and worldviews, and we are thankful that companies like Alibaba provide the raw materials to do so.\n\nBlog post · Evaluation\n\nModel details\n\nDeveloper\nNous Research\n\nModel\nArete-27B\n\nStarting model\nAlibaba's Qwen3.8-27B\n\nParameter scale\n27B\n\nPost-training\nSupervised fine-tuning (SFT)\n\nEvaluated checkpoint\nSte"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "line": 31,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam released Prism on 3 Nov, a decision model built on Sarvam 105B with weights on Hugging Face under Apache 2.0, which Sarvam says scores 71.8 at 44 ms on a B200 GPU among the 25 decision models it tested [Sarvam](https://www.sarvam.ai/blogs/sarvam-prism).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+          "id": "c9d66dd6f94b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c9d66dd6f94b.txt",
+          "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+          "claim": "Sarvam released Prism on 3 Nov 2026, a decision model built on Sarvam 105B; Sarvam reports it scores 71.8 at 44 ms on a B200 GPU among 25 decision models tested. Weights are on Hugging Face under Apache 2.0.",
+          "quote": "Prism’s weights are on Hugging Face under the Apache 2.0 licence.",
+          "published": "2026-11-03",
+          "context": " no mask needed\n\nOptions + answer: a thin stripMasked kernel, only these rows\n\nRows: the word doing the reading. Columns: the words it can see. Q = question, A and B = two options, Ans = answer token.\n\nMaking it fast\n\nPrism started at 664 ms per median request, running in 16-bit precision across two B200 GPUs. We converted the weights to FP8 so the model fits on a single GPU, ran all 128 experts in one grouped kernel, captured the forward pass as a CUDA Graph, folded the FP8 conversion into the expert kernels, and merged the fine-tuning adapter into the model weights. Together, these bring the median request to 44 ms, 15× faster than where we started, with no drop in accuracy.\n\nUsing Prism\n\nPrism’s weights are on Hugging Face under the Apache 2.0 licence. Prism runs in FP8 on one GPU with at least 120 GB of memory. It is also available on the Sarvam API at Sarvam Indus. Each request takes a state, a question and any number of options that fit within the context window, and returns a probability for each option. The documentation is available here.\n\nRead More\n\nOct 27, 2026·Announcement\n\nSarvam and HQ IDS establish joint framework for AI adoption across the Army, Navy and Air Force\n\nOct 26, 2026·Research\n\nHow we built the knowledge fabric for enterprise agents\n\nOct 13, 2026·Research\n\nIntroducing Bulbul V4 Flash\n\nCurious what else we're building? Explore our APIs and start creating.\n\nCurious what else we're building?\n\nExplore our APIs and start"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "line": 31,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The IndiaAI Mission unveiled Soket's 26.3 billion parameter EKA-1 and ZenteiQ's Dhir 2B and 5B; the Dhir models support English and 10 Indian languages and can run on mobile phones without internet, and ZenteiQ released their weights under Apache 2.0 through AIKosh [Swarajya](https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b).",
+      "evidence": [
+        {
+          "chip": "Swarajya",
+          "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b",
+          "id": "d0e56e43a87c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/d0e56e43a87c.txt",
+          "headline": "IndiaAI Mission unveils EKA-1, Dhir 2B and Dhir 5B models",
+          "claim": "Soket's EKA-1 (26.3 billion parameters) and ZenteiQ's Dhir 2B and 5B were unveiled in New Delhi before IT secretary S Krishnan. They are accessible via AIKosh, and ZenteiQ released weights under Apache 2.0.",
+          "quote": "Soket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.",
+          "published": "2026-11-04",
+          "context": " And 5B\n\nSwarajya Staff\n\nNov 04, 2026 | Updated 09:24 AM GMT+5:30\n\nSave & read from anywhere!\n\nBookmark stories for easy access on any device or the Swarajya app.\n\nSign In\n\nPrefer\n\nPrefer\n\nRepresentative Image (Pic Generated Via Google AI)\n\nIndia unveiled three indigenous artificial intelligence foundation models yesterday as part of the government's IndiaAI Mission, marking a significant step in building domestic AI capabilities.\n\nThe models—Soket's EKA-1 and ZenteiQ's Dhīr 2B and Dhīr 5B—were unveiled at an event in New Delhi in the presence of IT secretary S Krishnan.\n\nBoth startups were selected under the mission's IndiaAI Innovation Centre pillar to develop domestic foundation models.\n\nSoket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.\n\nEKA-1 targets mathematics, coding, reasoning and agentic use cases, while Dhīr models focus on smaller multilingual assistants that can operate in environments with limited connectivity.\n\nSoket Labs cofounder and CEO Abhishek Upperwal said the model was developed specifically for India's banking, financial services and cybersecurity landscape.\n\nDhīr 2B and Dhīr 5B, developed by ZenteiQ, are mixture-of-experts foundation models trained from scratch using Google Cloud Tensor Processing Units (TPUs).\n\nZenteiQ debuted Dhīr 2B and Dhīr 5B open-source multilingual models, which support English and 10 other Indian languages.\n\nThe Dhīr models support English and 10 Indian languages and can run on "
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "line": 37,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "TrendForce's quarterly outlook has DRAM contracts heading up while the spot market stalls; the DDR4 16Gb spot price averaged $82.719 on 2 Nov, down 0.09%, and the DDR5 16Gb chip was unchanged at $61.50 [Capital Times](https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce/).",
+      "evidence": [
+        {
+          "chip": "Capital Times",
+          "url": "https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce/",
+          "id": "5deafdd2a258",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5deafdd2a258.txt",
+          "headline": "TrendForce: Q4 DRAM contracts up 10-15%, NAND up 15-20%",
+          "claim": "TrendForce expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter from the third, and NAND flash contract prices 15% to 20%, while spot trading stalls.",
+          "quote": "expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter from the third",
+          "published": "2026-11-03",
+          "context": "gers in the peak quarter but kept just 271 million yuan of profit, with China Eastern and China Southern reporting next.\n\nMarkets\n\nHome\n\nTech\n\nSemiconductors\n\nSemiconductors\n\nDRAM Contract Prices Seen Rising 10% to 15% in Q4 as Spot Market Stalls, TrendForce Says\n\nMemory makers hold the pricing power on long-term deals, but PC makers, phone brands and module houses have stopped chasing chips on the open market.\n\nBy Capital Times StaffNov. 3, 2026 · 4 min read\n\nShare on X\nLinkedIn\nWhatsApp\nSave\nCopy link\nAAA\n\nA Samsung memory module. TrendForce expects DRAM contract prices to rise 10% to 15% in the fourth quarter. Photo: Mister rf via Wikimedia Commons, CC BY-SA 4.0\n\nWhat to know\n\nTrendForce expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter from the third, and NAND flash contract prices 15% to 20%.\n\nThe DDR4 16Gb spot price averaged $82.719 on Nov. 2, down 0.09%, while the DDR5 16Gb chip was unchanged at $61.50, TrendForce data showed.\n\nGlobal chip sales reached $159.7 billion in August, up 144.3% from a year earlier, according to the Semiconductor Industry Association.\n\nTAIPEI\n\nMemory chip prices are still rising where it counts for chipmakers' profits, in contract deals with big buyers, even as trading in the open spot market has stalled. TrendForce, the Taipei-based market research firm, expects conventional DRAM contract prices to climb 10% to 15% in the fourth quarter from the third, with NAND flash contract prices up 15% to 20%.\n\nThe s"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "line": 39,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On the spot side, mainstream DDR4 1Gx8 3200MT/s slipped 0.09% from US$46.86 on 28 Oct to US$46.82 on 3 Nov as buyers waited, because spot prices sat above suppliers' official quotes, and 512Gb TLC wafer spot prices fell 4.33% to US$16.152 [TrendForce spot report](https://www.trendforce.com/news/2026/11/04/insights-memory-spot-price-update-mainstream-ddr4-prices-dip-0-09-as-spot-premium-keeps-buyers-on-sidelines/).",
+      "evidence": [
+        {
+          "chip": "TrendForce spot report",
+          "url": "https://www.trendforce.com/news/2026/11/04/insights-memory-spot-price-update-mainstream-ddr4-prices-dip-0-09-as-spot-premium-keeps-buyers-on-sidelines/",
+          "id": "40655f7d8a86",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/40655f7d8a86.txt",
+          "headline": "DDR4 spot price dips 0.09% to US$46.82; NAND wafer spot down 4.33%",
+          "claim": "TrendForce's spot update says DDR4 1Gx8 3200MT/s fell 0.09% to US$46.82 on November 3 from US$46.86 a week earlier, and 512Gb TLC wafer spot prices fell 4.33% to US$16.152 as of November 2.",
+          "quote": "mainstream DDR4 1Gx8 3200MT/s spot prices dipped 0.09% amid shrinking trading volumes",
+          "published": "2026-11-04",
+          "context": "Events\n\nContact Us\n\nAI Agent\n\nQ&A Assistant\n\nBeta\nDataTrack\n\nAbout TrendForce News\n\nTrendForce News operates independently from our research team, curating key semiconductor and tech updates to support timely, informed decisions.\n\nHome\n\nNews\n\n[Insights] Memory Spot Price Update: Mainstream DDR4 Prices Dip 0.09% as Spot Premium Keeps Buyers on Sidelines\n\n2026-11-04\n\nSemiconductors\n\neditor\n\nAccording to TrendForce’s latest memory spot price trend report, DRAM trends diverged this week. Delivery pressures prompted some DDR5 buyers to raise target prices, while DDR4 spot prices remained above suppliers’ official quotes despite weak demand, fueling correction expectations. Against this backdrop, mainstream DDR4 1Gx8 3200MT/s spot prices dipped 0.09% amid shrinking trading volumes. In NAND Flash, Double 11 discounts are unlikely to revive demand amid economic uncertainty and purchases pulled forward into 1H26. With buyers remaining cautious, 512Gb TLC wafer spot prices fell 4.33% this week. Details are as follows:\n\nDRAM Spot Price:\n\nSpot market momentum diverged this week. For DDR5 chips, some buyers raised target procurement prices under delivery pressure. However, high component costs have compressed buyers’ profit margins, so the willingness to chase higher prices has been limited. As for DDR4 chips, with spot prices exceeding suppliers’ official prices amid sluggish end-market demand, buyers generally believe prices have room for corrections. Hence, they have tak"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "line": 41,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Phone makers are already working around the cost: TrendForce expects reballed memory to reach about 3-4% of the smartphone market in 2026 and 7-9% in 2027, mostly LPDDR4X 4GB parts in 4G phones priced below CNY 1,299, and expects DRAM price increases to gain further momentum in 1Q27 [TrendForce](https://www.trendforce.com/presscenter/news/20261106-13297.html).",
+      "evidence": [
+        {
+          "chip": "TrendForce",
+          "url": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
+          "id": "5f198ec28a51",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5f198ec28a51.txt",
+          "headline": "TrendForce: reballed DRAM in phones to reach 7-9% in 2027",
+          "claim": "TrendForce says persistently high mobile DRAM contract prices are pushing phone brands to reballed memory, and expects DRAM price increases to gain further momentum in 1Q27.",
+          "quote": "the penetration rate of reballed memory in the smartphone market will reach approximately 3–4% in 2026, potentially climbing to 7–9% in 2027",
+          "published": "2026-11-06",
+          "context": "t\n\nPopular Keywords\n\n#DRAM\n#Foundry\n#AI Server\n#HBM\n#FOPLP\n#CoWoS\n#NAND Flash\n#Automotive\n#MLCC\n#Server\n#Micro LED\n#IC Design\n\nShopping List\n\n0 items\n\nYour cart is empty\n\nTotal\nUSD 0\n\nView Cart\n\nSign In\n\nPress Center\n\nHome\n\nPress Center\n\nPersistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce\n\n6 November 2026\n\nSemiconductors\n\nTrendForce\n\nTrendForce's latest memory industry research indicates that the sustained rise in mobile DRAM contract prices is driving smartphone brands to increasingly embrace lower-cost reballed memory components, particularly in entry-level and budget models. TrendForce estimates that the penetration rate of reballed memory in the smartphone market will reach approximately 3–4% in 2026, potentially climbing to 7–9% in 2027.\n\nTrendForce notes that LPDDR4X 4GB currently accounts for the bulk of reballed memory available in the market, with these components primarily finding their way into 4G smartphones priced below CNY 1,299. Consumers in this segment are highly sensitive to price fluctuations, making affordability a crucial competitive consideration for manufacturers. By incorporating reballed memory, smartphone brands can ease the burden of rising bill of materials (BOM) costs while keeping retail prices competitive.\n\nHowever, with DRAM price increases expected to gain further momentum in 1Q27, smartphone manufacturers are likely to face mounting pressure on their cost structures. Against this backdrop, the "
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "line": 43,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "ASUS launched the ProArt P14 and P16 in India from 3 Nov on NVIDIA's RTX Spark N1X: the P14 with 24GB and a 1TB SSD costs Rs 3,29,990, and the P16 costs Rs 4,99,990 with 64GB and Rs 6,49,990 with 128GB of unified memory [MySmartPrice](https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990/).",
+      "evidence": [
+        {
+          "chip": "MySmartPrice",
+          "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990/",
+          "id": "bdafe4e660e5",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bdafe4e660e5.txt",
+          "headline": "ASUS ProArt P14 and P16 with RTX Spark launch in India from Rs 3,29,990",
+          "claim": "ASUS launched the ProArt P14 (24GB, 1TB) at Rs 3,29,990, and the P16 at Rs 4,99,990 (64GB) and Rs 6,49,990 (128GB), with RTX Spark N1X and up to 128GB unified memory.",
+          "quote": "The ProArt P14 with 24GB memory and a 1TB PCIe 4.0 SSD is priced at Rs 3,29,990.",
+          "published": "2026-11-03",
+          "context": "ptical switches and two-layer dampening foam. It also gets a multifunctional touch panel with four operating modes, individually lit keys, and dynamic lighting effects. ASUS claims up to 16 months of usage from its Type-C rechargeable battery.\n\nBoth accessories also come with Free Doorstep Replacement support, subject to terms and conditions.\n\nASUS ProArt P16, P14 Price in India and Availability\n\nThe ASUS ProArt lineup is available in India starting November 3. Here are the prices of the different configurations:\n\nThe ProArt P16 with 128GB unified memory and a 1TB PCIe 4.0 SSD is priced at Rs 6,49,990. Its 64GB memory variant costs Rs 4,99,990, while the 48GB variant will be available soon. The ProArt P14 with 24GB memory and a 1TB PCIe 4.0 SSD is priced at Rs 3,29,990. Its Neo White colour variant will be available soon.\n\nThe ProArt Mouse MD301 is priced at Rs 8,499, while the ProArt Keyboard KD300 costs Rs 14,999. The keyboard will go on sale from November 14. The laptops will be available through ASUS Exclusive Stores, Croma, Reliance Digital, Flipkart, Amazon, and the ASUS Eshop. The accessories will also be available through select ASUS and ROG stores and online platforms.\n\nAs part of the launch offer, buyers can avail of 0% No-Cost EMI starting at Rs 13,750 per month. ASUS is also offering two years of warranty extension and three years of damage protection for Rs 99, worth Rs 6,599. The offer is valid until November 30, 2026, subject to terms and co"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "line": 49,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Rowe Price, at a $16 billion valuation, double its $8 billion valuation in April, according to Bloomberg; it announced Series E and F together, with a combined $1.65 billion across both [TechCrunch](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "id": "42ec3b43220b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/42ec3b43220b.txt",
+          "headline": "Fal raises $1.3B at $16B valuation, led by Bessemer",
+          "claim": "Fal, which hosts and runs AI video, image and audio models, raised $1.3 billion led by Bessemer Venture Partners, valuing it at $16 billion, double its $8 billion valuation in April (per Bloomberg).",
+          "quote": "has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price.",
+          "published": "2026-11-03",
+          "context": "Cloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nIn Brief\n\nPosted:\n\n11:34 AM PST · November 3, 2026\n\nImage Credits:monsitj / Getty Images\n\nMarina Temkin\n\nAI inference startup Fal doubles its valuation to $16B as demand surges\n\nFal, a San Francisco-based startup that hosts and runs AI video, image, and audio models, has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price. The deal values Fal at $16 billion, double its $8 billion valuation in April, Bloomberg reported.\n\nThe startup announced its Series E and F rounds at the same time, noting that a combined $1.65 billion was raised across both. (Sequoia led the earlier round.)\n\nThe latest round (Series F) comes amid soaring demand for inference services, the process of running an AI model that’s already been trained to generate outputs, particularly from customers relying on open source models. Fal surpassed $800 million in annualized revenue earlier this year, Bloomberg’s report noted.\n\nCompanies providing inference services, including Baseten, Fireworks AI, and Modal, have also been growing rapidly and rais"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "line": 51,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In a memo titled 'The Sequoia of Tomorrow', it said it has raised roughly $10 billion in new funds and is closing its London office, shutting its Arc accelerator and Scouts program, merging its early-stage and growth teams and dropping the Monday partner meeting [TechCrunch](https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+          "id": "a4b63e1585c2",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/a4b63e1585c2.txt",
+          "headline": "Sequoia raises about $10B and closes London office, Arc and Scouts",
+          "claim": "In a memo titled \"The Sequoia of Tomorrow\", Sequoia said it raised roughly $10 billion in new funds, is closing its London office, shutting its Arc accelerator and Scouts program, and merging its early-stage and growth teams.",
+          "quote": "The firm has raised roughly $10 billion in new funds, it says.",
+          "published": "2026-11-04",
+          "context": "e\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Dani Padgett/StrictlyVC (opens in a new window) / Dani Padgett/StrictlyVC\n\nVenture\n\nSequoia hits rewind, undoing 20 years of expansion\n\nConnie Loizos\n\n9:11 AM PST · November 4, 2026\n\nSequoia Capital posted a memo to X on Wednesday morning titled “The Sequoia of Tomorrow” that’s full of surprises. The firm has raised roughly $10 billion in new funds, it says. It is also closing its London office, shutting down its Arc accelerator and its Scouts program, merging its early-stage and growth teams into one, flattening its partnership, and killing the Monday partner meeting.\n\nThe framing is forward-looking, but the messaging is very much about rewinding to an earlier time when the team was smaller and focused more narrowly on Silicon Valley.\n\nSequoia says as much itself. The firm describes coming out of a roughly 20-year expansionary phase during which it built multiple businesses in multiple geographies and says an unintended side effect was hierarchy. Nearly everything being undone here was built during that stretch, under a succession of stewards "
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "line": 53,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Arc, launched in March 2022, was a batch accelerator for pre-seed and seed founders that gave admitted companies $500,000 to $1 million up front, and Scouts gave small cheques to founders and operators to invest on the firm's behalf; on Europe, \"We simply don't see the need for a local presence,\" the memo says, as quoted by [TechCrunch](https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+          "id": "a4b63e1585c2",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/a4b63e1585c2.txt",
+          "headline": "Sequoia raises about $10B and closes London office, Arc and Scouts",
+          "claim": "In a memo titled \"The Sequoia of Tomorrow\", Sequoia said it raised roughly $10 billion in new funds, is closing its London office, shutting its Arc accelerator and Scouts program, and merging its early-stage and growth teams.",
+          "quote": "The firm has raised roughly $10 billion in new funds, it says.",
+          "published": "2026-11-04",
+          "context": "e\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Dani Padgett/StrictlyVC (opens in a new window) / Dani Padgett/StrictlyVC\n\nVenture\n\nSequoia hits rewind, undoing 20 years of expansion\n\nConnie Loizos\n\n9:11 AM PST · November 4, 2026\n\nSequoia Capital posted a memo to X on Wednesday morning titled “The Sequoia of Tomorrow” that’s full of surprises. The firm has raised roughly $10 billion in new funds, it says. It is also closing its London office, shutting down its Arc accelerator and its Scouts program, merging its early-stage and growth teams into one, flattening its partnership, and killing the Monday partner meeting.\n\nThe framing is forward-looking, but the messaging is very much about rewinding to an earlier time when the team was smaller and focused more narrowly on Silicon Valley.\n\nSequoia says as much itself. The firm describes coming out of a roughly 20-year expansionary phase during which it built multiple businesses in multiple geographies and says an unintended side effect was hierarchy. Nearly everything being undone here was built during that stretch, under a succession of stewards "
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "line": 59,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "A 2 Nov MIT CSAIL write-up reports that GPT-6 Astra, given only the raw weights of four PPO-trained game networks, named the right game for all four, and that the networks it wrote from scratch for three MinAtar games beat PPO trained for 100 million steps [MIT CSAIL](https://rikiyat.github.io/blog/weight-space-programming/).",
+      "evidence": [
+        {
+          "chip": "MIT CSAIL",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+          "id": "38c41eb0ed98",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/38c41eb0ed98.txt",
+          "headline": "MIT CSAIL: GPT-6 Astra reads and edits neural network weights directly",
+          "claim": "A 2 Nov 2026 MIT CSAIL write-up says GPT-6 Astra, by editing 0.016% of Qwen3.5-0.8B's weights without gradients, raised MATH-500 from 7.9% to 48.1%. Simon Willison reports critics say it conflates two questions and that a Qwen 3.8 27B model on a laptop can do the no-tools weight-reading task.",
+          "quote": "fixes this by natively editing 0.016% of the weights. With the same sampling settings, this weight correction raises MATH-500 from 7.9% to 48.1%",
+          "published": "2026-11-02",
+          "context": "ls and algorithms or even via direct weight editing. These results show sparks of Weight-Space Programming, which may extend beyond what we’d expect from humans or conventional algorithms. This might be a big deal for both optimization and interpretability.\n\nJust by looking at the raw weights, GPT-6 Astra can tell what a network was trained to do. And without any environment feedback, it has no trouble writing, from scratch, small game-playing networks that outplay networks trained with PPO for 100 million steps.\n\nLikewise, asked to make Qwen3.5-0.8B better at math without gradients, Astra identifies an issue in its weights causing reasoning loops that Qwen’s own model card warns about, and fixes this by natively editing 0.016% of the weights. With the same sampling settings, this weight correction raises MATH-500 from 7.9% to 48.1% and generalizes out of the box to instruction following, raising IFEval by 3x.\n\nAll of this is possible without allowing Astra to write training loops. It uses its reasoning to figure out what each part of a neural network computes, or should compute, and changes the weights accordingly. We call this Weight-Space Programming.\n\nThroughout the history of deep learning, we encoded our simplistic inductive biases into tiny symbolic optimizers like Adam or Muon. This is changing: our neural network weights will soon be natively optimized by LLMs that deliberately reason about their weights.\n\nRead\n\nWhich game was this neural network trained on?\n\nAstra reads the 17,253 weights, with no tools\n\nBrea"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "line": 61,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Asked to make Qwen3.5-0.8B better at math without gradients, Astra edited 0.016% of its weights to fix a reasoning-loop problem, which raised MATH-500 from 7.9% to 48.1% at the same sampling settings and raised IFEval by 3x [weight-space write-up](https://rikiyat.github.io/blog/weight-space-programming/).",
+      "evidence": [
+        {
+          "chip": "weight-space write-up",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+          "id": "38c41eb0ed98",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/38c41eb0ed98.txt",
+          "headline": "MIT CSAIL: GPT-6 Astra reads and edits neural network weights directly",
+          "claim": "A 2 Nov 2026 MIT CSAIL write-up says GPT-6 Astra, by editing 0.016% of Qwen3.5-0.8B's weights without gradients, raised MATH-500 from 7.9% to 48.1%. Simon Willison reports critics say it conflates two questions and that a Qwen 3.8 27B model on a laptop can do the no-tools weight-reading task.",
+          "quote": "fixes this by natively editing 0.016% of the weights. With the same sampling settings, this weight correction raises MATH-500 from 7.9% to 48.1%",
+          "published": "2026-11-02",
+          "context": "ls and algorithms or even via direct weight editing. These results show sparks of Weight-Space Programming, which may extend beyond what we’d expect from humans or conventional algorithms. This might be a big deal for both optimization and interpretability.\n\nJust by looking at the raw weights, GPT-6 Astra can tell what a network was trained to do. And without any environment feedback, it has no trouble writing, from scratch, small game-playing networks that outplay networks trained with PPO for 100 million steps.\n\nLikewise, asked to make Qwen3.5-0.8B better at math without gradients, Astra identifies an issue in its weights causing reasoning loops that Qwen’s own model card warns about, and fixes this by natively editing 0.016% of the weights. With the same sampling settings, this weight correction raises MATH-500 from 7.9% to 48.1% and generalizes out of the box to instruction following, raising IFEval by 3x.\n\nAll of this is possible without allowing Astra to write training loops. It uses its reasoning to figure out what each part of a neural network computes, or should compute, and changes the weights accordingly. We call this Weight-Space Programming.\n\nThroughout the history of deep learning, we encoded our simplistic inductive biases into tiny symbolic optimizers like Adam or Muon. This is changing: our neural network weights will soon be natively optimized by LLMs that deliberately reason about their weights.\n\nRead\n\nWhich game was this neural network trained on?\n\nAstra reads the 17,253 weights, with no tools\n\nBrea"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "line": 63,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "A smaller finding sits in the Kimi release: Moonshot said it removed cyber-related data from both training stages for the open-weight version, and on the ExploitBench and ExploitGym rows the model trails Opus 5.5 by 16.3 and 13.8 points, by FourWeekMBA's arithmetic [FourWeekMBA](https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/).",
+      "evidence": [
+        {
+          "chip": "FourWeekMBA",
+          "url": "https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/",
+          "id": "3eb5e3c69285",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3eb5e3c69285.txt",
+          "headline": "Moonshot releases Kimi K3.1 Pro open weights on Hugging Face",
+          "claim": "Moonshot AI released the Kimi K3.1 Pro weights on Hugging Face on 4 November; the model card lists 2.8T total and 104B activated parameters.",
+          "quote": "The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.",
+          "published": "2026-11-04",
+          "context": "l\n\nTSMC Revenue Breakdown Q4 2025 — Interactive Sankey Chart\n\nUber Revenue Breakdown Q4 2025 — Interactive Sankey Chart\n\nUnit Economics Calculator\n\nUpcoming IPOs: IPO Calendar\n\nUsage Based Pricing Business Model\n\nVertical Integration Business Model\n\nWACC Calculator\n\nWalled Garden Business Model\n\nWho Eats Whose Lunch? — Competitive Overlap Matrix\n\nWishList Member\n\n[MM_Member_Data name=”membershipName”] Home Page\n\nKimi K3.1 Pro Weights Out; Leads Opus 5.5 on 16 of 37 Tests\n\nAI Business Brief / By\n\nGennaro Cuofano\n\n/ November 4, 2026\n\nMoonshot AI released the model weights of Kimi K3.1 Pro on Hugging Face on 4 November, posting on X at 16:00 UTC: “Releasing the model weights of Kimi K3.1 Pro”. The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.\n\nIn the benchmark table on that card, Kimi K3.1 Pro scores above Claude Opus 5.5 on 16 of the 37 non-internal rows where both have a score, by our count. Its largest lead is 5.4 points, and Opus 5.5 is ahead by more than 20 points on three rows, by our arithmetic.\n\nBusiness Pill · Open Weights Explained\n\nA short Business Engineer explainer of open weights: rent the model or run it yourself. It teaches the general idea only and does not discuss Moonshot or Kimi K3.1 Pro.\n\nThe key insight: In Moonshot’s own table, Kimi K3.1 Pro is ahead of Claude Opus 5.5 on 16 of 37 non-internal rows, by our count, with leads of at most 5.4 points and gaps of up to 33.5 points; the weights are open, but Mode"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "line": 69,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Representative Lori Trahan plans legislation requiring independent experts to evaluate leading AI models against safety standards, and a bill clarifying that companies can be held responsible when AI systems act in harmful ways, her deputy chief of staff said, as Democrats prepare to take control of Congress in January [Insurance Journal](https://www.claimsjournal.com/news/national/2026/11/06/341154.htm).",
+      "evidence": [
+        {
+          "chip": "Insurance Journal",
+          "url": "https://www.claimsjournal.com/news/national/2026/11/06/341154.htm",
+          "id": "b9175db4d569",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b9175db4d569.txt",
+          "headline": "US Democrats plan AI bills on independent model evaluation and liability",
+          "claim": "Rep. Lori Trahan plans legislation requiring independent experts to evaluate leading AI models against safety standards, and a bill clarifying that companies can be held responsible when AI systems act in harmful ways, according to her deputy chief of staff, as Democrats prepare to take control of Congress.",
+          "quote": "plans to push legislation requiring independent experts to evaluate leading AI models against safety standards",
+          "published": "2026-11-06",
+          "context": "ess will slow AI development, and also on fears that the massive capital expense on building out AI will not yield sufficient returns.\n\nStocks on Friday extended their slide in both Europe and Asia following the rout, though Wall Street futures pointed to a modest bounce for the Nasdaq later on Friday.\n\nMultiple Bills Likely\n\nSenator Chuck Schumer, a New York Democrat who is expected to become majority leader, said on Thursday at an event in Washington that protecting consumers from higher energy costs linked to the rapid expansion of data centers would be among his priorities next year.\n\nRepresentative Lori Trahan of Massachusetts, one of the Democratic Party’s leading voices on AI policy, plans to push legislation requiring independent experts to evaluate leading AI models against safety standards, said Francis Grubar, her deputy chief of staff. Trahan will also pursue legislation clarifying that companies can be held responsible when AI systems act in harmful ways, he said.\n\nRepresentative Zoe Lofgren, a Democrat from California who is seeking to chair the House Science Committee, said Democrats would focus on developing “responsible regulations for AI while also fostering innovation.”\n\nAbdul El-Sayed, a Michigan Democrat who won a Senate seat on Tuesday, called during his campaign for an independent agency to oversee AI regulation with the power to police tech companies developing the technology.\n\nPublic concern about AI is already high. Most U.S. voters think Trump’s administratio"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "line": 71,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Democrats also plan bills on data-centre electricity costs, though any legislation faces steep odds while Trump, who has repeatedly dismissed mandatory AI rules, remains in the White House; in October, Lofgren and other Democratic committee leaders asked OpenAI, Anthropic, Meta, Google and SpaceX to detail their security practices [Insurance Journal](https://www.claimsjournal.com/news/national/2026/11/06/341154.htm).",
+      "evidence": [
+        {
+          "chip": "Insurance Journal",
+          "url": "https://www.claimsjournal.com/news/national/2026/11/06/341154.htm",
+          "id": "b9175db4d569",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b9175db4d569.txt",
+          "headline": "US Democrats plan AI bills on independent model evaluation and liability",
+          "claim": "Rep. Lori Trahan plans legislation requiring independent experts to evaluate leading AI models against safety standards, and a bill clarifying that companies can be held responsible when AI systems act in harmful ways, according to her deputy chief of staff, as Democrats prepare to take control of Congress.",
+          "quote": "plans to push legislation requiring independent experts to evaluate leading AI models against safety standards",
+          "published": "2026-11-06",
+          "context": "ess will slow AI development, and also on fears that the massive capital expense on building out AI will not yield sufficient returns.\n\nStocks on Friday extended their slide in both Europe and Asia following the rout, though Wall Street futures pointed to a modest bounce for the Nasdaq later on Friday.\n\nMultiple Bills Likely\n\nSenator Chuck Schumer, a New York Democrat who is expected to become majority leader, said on Thursday at an event in Washington that protecting consumers from higher energy costs linked to the rapid expansion of data centers would be among his priorities next year.\n\nRepresentative Lori Trahan of Massachusetts, one of the Democratic Party’s leading voices on AI policy, plans to push legislation requiring independent experts to evaluate leading AI models against safety standards, said Francis Grubar, her deputy chief of staff. Trahan will also pursue legislation clarifying that companies can be held responsible when AI systems act in harmful ways, he said.\n\nRepresentative Zoe Lofgren, a Democrat from California who is seeking to chair the House Science Committee, said Democrats would focus on developing “responsible regulations for AI while also fostering innovation.”\n\nAbdul El-Sayed, a Michigan Democrat who won a Senate seat on Tuesday, called during his campaign for an independent agency to oversee AI regulation with the power to police tech companies developing the technology.\n\nPublic concern about AI is already high. Most U.S. voters think Trump’s administratio"
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "line": 77,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Voice chat with Cursor agents** - update Cursor, and when the agent is idle and the input is empty, click the waveform button labelled Start voice chat; it runs on Grok Voice and uses zero data retention with Privacy Mode on [Cursor changelog](https://cursor.com/changelog).",
+      "evidence": [
+        {
+          "chip": "Cursor changelog",
+          "url": "https://cursor.com/changelog",
+          "id": "2ceb0606fcdd",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2ceb0606fcdd.txt",
+          "headline": "Cursor adds realtime voice chat with agents, powered by Grok Voice",
+          "claim": "Cursor's 6 Nov 2026 changelog says voice chat works in the Agents Window, IDE, web and Cursor for iOS, runs on Grok Voice, and uses zero data retention with Privacy Mode on.",
+          "quote": "You can now talk with your agents in a realtime voice call.",
+          "published": "2026-11-06",
+          "context": "What's New in Cursor — Latest Updates & Release Notes\n\nSkip to content\nCursor\n\nModels↓\n\nGrok\n\nEvals\n\nProduct↓\n\nAgents\n\nCloud\n\nGrok Bot ↗\n\nMobile\n\nAutomations\n\nCLI\n\nMarketplace ↗\n\nReview\n\nEnterprise\n\nPricing\n\nResources↓\n\nChangelog\n\nBlog\n\nDocs\n\nCommunity\n\nHelp ↗\n\nWorkshops\n\nForum ↗\n\nCareers\n\nModels →\n\nProduct →\n\nEnterprise\n\nPricing\n\nResources →\n\nSign inContactContact salesDownload\n\nChangelog\n\nNov 6, 2026 · Changelog\n\nVoice Chat with Agents\n\nYou can now talk with your agents in a realtime voice call. Describe a change out loud, ask what an agent is working on, and hear updates as the work moves forward.\n\nVoice chat works in the Agents Window, the IDE, on web, and in Cursor for iOS.\n\n#Start a call\n\nWhen the agent is idle and the chat input is empty, click the waveform button labeled Start voice chat. It sits where Send usually is, next to the microphone button for dictation.\n\nOn iOS, you can also say \"Hey Siri, call Cursor\" to start a call with a new agent, and mute or hang up from the Lock Screen with a Live Activity.\n\n#Talk while the agent works\n\nThe voice agent listens, replies, and hands coding work to the agent in your chat. While that agent runs, you can keep the conversation going"
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "line": 78,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Kimi K3.1 Pro without a server** - NVIDIA's API catalog offers a free endpoint for Kimi K3.1 Pro, with general rate-limit text of up to 40 rpm and 10,000 requests per day [FourWeekMBA](https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/).",
+      "evidence": [
+        {
+          "chip": "FourWeekMBA",
+          "url": "https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/",
+          "id": "3eb5e3c69285",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3eb5e3c69285.txt",
+          "headline": "Moonshot releases Kimi K3.1 Pro open weights on Hugging Face",
+          "claim": "Moonshot AI released the Kimi K3.1 Pro weights on Hugging Face on 4 November; the model card lists 2.8T total and 104B activated parameters.",
+          "quote": "The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.",
+          "published": "2026-11-04",
+          "context": "l\n\nTSMC Revenue Breakdown Q4 2025 — Interactive Sankey Chart\n\nUber Revenue Breakdown Q4 2025 — Interactive Sankey Chart\n\nUnit Economics Calculator\n\nUpcoming IPOs: IPO Calendar\n\nUsage Based Pricing Business Model\n\nVertical Integration Business Model\n\nWACC Calculator\n\nWalled Garden Business Model\n\nWho Eats Whose Lunch? — Competitive Overlap Matrix\n\nWishList Member\n\n[MM_Member_Data name=”membershipName”] Home Page\n\nKimi K3.1 Pro Weights Out; Leads Opus 5.5 on 16 of 37 Tests\n\nAI Business Brief / By\n\nGennaro Cuofano\n\n/ November 4, 2026\n\nMoonshot AI released the model weights of Kimi K3.1 Pro on Hugging Face on 4 November, posting on X at 16:00 UTC: “Releasing the model weights of Kimi K3.1 Pro”. The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.\n\nIn the benchmark table on that card, Kimi K3.1 Pro scores above Claude Opus 5.5 on 16 of the 37 non-internal rows where both have a score, by our count. Its largest lead is 5.4 points, and Opus 5.5 is ahead by more than 20 points on three rows, by our arithmetic.\n\nBusiness Pill · Open Weights Explained\n\nA short Business Engineer explainer of open weights: rent the model or run it yourself. It teaches the general idea only and does not discuss Moonshot or Kimi K3.1 Pro.\n\nThe key insight: In Moonshot’s own table, Kimi K3.1 Pro is ahead of Claude Opus 5.5 on 16 of 37 non-internal rows, by our count, with leads of at most 5.4 points and gaps of up to 33.5 points; the weights are open, but Mode"
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "line": 79,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**GIFs and SVGs from Images 2.6** - ask ChatGPT or Codex to animate a mascot or a product shot, on any subscription tier, and export SVG for a website [YourStory](https://yourstory.com/ai-story/openai-images-2-6-gif-launch).",
+      "evidence": [
+        {
+          "chip": "YourStory",
+          "url": "https://yourstory.com/ai-story/openai-images-2-6-gif-launch",
+          "id": "83de4afc0d00",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/83de4afc0d00.txt",
+          "headline": "OpenAI ships Images 2.6 with GIFs and Flare and Sunburst API models",
+          "claim": "OpenAI released Images 2.6, which it says generates images 50% faster than its predecessor, with API models GPT-Image-2.6 Flare and Sunburst priced at $8 per million image input tokens and $30 per million output tokens.",
+          "quote": "OpenAI says Images 2.6 generates images 50% faster than its predecessor.",
+          "published": "2026-11-05",
+          "context": "ooping animations\n\nThe headline addition is GIF animation. These short, looping visuals have long been popular for memes, reactions, brand posts and quick storytelling.\n\nImages 2.6 can add motion to existing visual ideas, whether that means animating a brand mascot, turning a product photograph into a looping visual or creating character movements for a storyboard before video production.\n\nNow, for social media teams and small businesses, this could offer a quicker way to create lightweight animated assets without starting a full video production process. Creators can also test movement and visual concepts before investing in more elaborate animation.\n\nFaster generation, more precise edits\n\nOpenAI says Images 2.6 generates images 50% faster than its predecessor. Developers can access two API variants: GPT-Image-2.6 Flare and GPT-Image-2.6 Sunburst.\n\nFlare prioritises speed and layout quality, making it suited to posters, product visuals and other professional assets. At low-quality settings, it can generate images in as little as six seconds.\n\nSunburst focuses on higher-quality generation and consistency across edits, particularly at medium and high quality settings. The update also brings image markup to the API. Already available in ChatGPT, the feature allows users to mark the exact area they want changed instead of describing the location through text alone.\n\nOpenAI has also added SVG exports, giving developers and designers a format that can b"
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "line": 83,
+      "section": "White space",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Lee wrote, as quoted by [Cyber Magazine](https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents).",
+      "evidence": [
+        {
+          "chip": "Cyber Magazine",
+          "url": "https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents",
+          "id": "b0510ec33516",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b0510ec33516.txt",
+          "headline": "OpenAI launches GPT-6 Cyber for Daybreak Red customers",
+          "claim": "OpenAI's GPT-6 Cyber scores 48.5% on ExploitGym versus 32.1% for GPT-5.6 Cyber, per Cyber Magazine's report on the 5 Nov launch; figures are OpenAI-reported.",
+          "quote": "achieving a score of 48.5% on the ExploitGym benchmark, compared with 32.1% for its predecessor",
+          "published": "2026-11-06",
+          "context": "aries.\n\nOpenAI says GPT-6 Cyber has already helped uncover thousands of vulnerabilities in widely used software, including Linux and Firefox.\n\nOpenAI researchers used it to develop 948 privilege-escalation exploits in Linux and identify 81 previously unknown high-severity vulnerabilities in Firefox. \n\nWe’ve invested heavily in making the model trustworthy, specifically training it to stay within the scope set by its operator.\n\nJohannes Landgraf, Head of Cyber at OpenAI\n\nThe research also helped produce candidate patches, with Mozilla subsequently releasing fixes for many of the identified issues.\n\nThe new model offers substantial performance improvements over its predecessor, GPT-5.6 Cyber, achieving a score of 48.5% on the ExploitGym benchmark, compared with 32.1% for its predecessor. \n\nThis represents a 51% relative improvement.\n\n“It’s already helping defend security-critical software, including the Linux kernel, Firefox and many other projects,” writes Johannes Landgraf, Head of Cyber at OpenAI on LinkedIn, announcing the model. \n\nHe notes that it is “a major step forward for security research and defenders”. \n\n“We’ve invested heavily in making the model trustworthy, specifically training it to stay within the scope set by its operator.\n\n“Next weeks will be packed with announcements and progress. Very proud of how the team show[ed] up during this moment.”\n\nStronger AI safeguards aim to keep cybersecurity research within authorised limits\n\nSince the OpenAI Hugging Face"
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "line": 85,
+      "section": "White space",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "At the other end of the market, cheap phones run on scarce memory: reballed LPDDR4X 4GB parts are going into 4G phones below CNY 1,299 [TrendForce](https://www.trendforce.com/presscenter/news/20261106-13297.html), while ZenteiQ says its Dhir models run on mobile phones without internet [Swarajya](https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b).",
+      "evidence": [
+        {
+          "chip": "TrendForce",
+          "url": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
+          "id": "5f198ec28a51",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5f198ec28a51.txt",
+          "headline": "TrendForce: reballed DRAM in phones to reach 7-9% in 2027",
+          "claim": "TrendForce says persistently high mobile DRAM contract prices are pushing phone brands to reballed memory, and expects DRAM price increases to gain further momentum in 1Q27.",
+          "quote": "the penetration rate of reballed memory in the smartphone market will reach approximately 3–4% in 2026, potentially climbing to 7–9% in 2027",
+          "published": "2026-11-06",
+          "context": "t\n\nPopular Keywords\n\n#DRAM\n#Foundry\n#AI Server\n#HBM\n#FOPLP\n#CoWoS\n#NAND Flash\n#Automotive\n#MLCC\n#Server\n#Micro LED\n#IC Design\n\nShopping List\n\n0 items\n\nYour cart is empty\n\nTotal\nUSD 0\n\nView Cart\n\nSign In\n\nPress Center\n\nHome\n\nPress Center\n\nPersistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce\n\n6 November 2026\n\nSemiconductors\n\nTrendForce\n\nTrendForce's latest memory industry research indicates that the sustained rise in mobile DRAM contract prices is driving smartphone brands to increasingly embrace lower-cost reballed memory components, particularly in entry-level and budget models. TrendForce estimates that the penetration rate of reballed memory in the smartphone market will reach approximately 3–4% in 2026, potentially climbing to 7–9% in 2027.\n\nTrendForce notes that LPDDR4X 4GB currently accounts for the bulk of reballed memory available in the market, with these components primarily finding their way into 4G smartphones priced below CNY 1,299. Consumers in this segment are highly sensitive to price fluctuations, making affordability a crucial competitive consideration for manufacturers. By incorporating reballed memory, smartphone brands can ease the burden of rising bill of materials (BOM) costs while keeping retail prices competitive.\n\nHowever, with DRAM price increases expected to gain further momentum in 1Q27, smartphone manufacturers are likely to face mounting pressure on their cost structures. Against this backdrop, the "
+        },
+        {
+          "chip": "Swarajya",
+          "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b",
+          "id": "d0e56e43a87c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/d0e56e43a87c.txt",
+          "headline": "IndiaAI Mission unveils EKA-1, Dhir 2B and Dhir 5B models",
+          "claim": "Soket's EKA-1 (26.3 billion parameters) and ZenteiQ's Dhir 2B and 5B were unveiled in New Delhi before IT secretary S Krishnan. They are accessible via AIKosh, and ZenteiQ released weights under Apache 2.0.",
+          "quote": "Soket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.",
+          "published": "2026-11-04",
+          "context": " And 5B\n\nSwarajya Staff\n\nNov 04, 2026 | Updated 09:24 AM GMT+5:30\n\nSave & read from anywhere!\n\nBookmark stories for easy access on any device or the Swarajya app.\n\nSign In\n\nPrefer\n\nPrefer\n\nRepresentative Image (Pic Generated Via Google AI)\n\nIndia unveiled three indigenous artificial intelligence foundation models yesterday as part of the government's IndiaAI Mission, marking a significant step in building domestic AI capabilities.\n\nThe models—Soket's EKA-1 and ZenteiQ's Dhīr 2B and Dhīr 5B—were unveiled at an event in New Delhi in the presence of IT secretary S Krishnan.\n\nBoth startups were selected under the mission's IndiaAI Innovation Centre pillar to develop domestic foundation models.\n\nSoket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.\n\nEKA-1 targets mathematics, coding, reasoning and agentic use cases, while Dhīr models focus on smaller multilingual assistants that can operate in environments with limited connectivity.\n\nSoket Labs cofounder and CEO Abhishek Upperwal said the model was developed specifically for India's banking, financial services and cybersecurity landscape.\n\nDhīr 2B and Dhīr 5B, developed by ZenteiQ, are mixture-of-experts foundation models trained from scratch using Google Cloud Tensor Processing Units (TPUs).\n\nZenteiQ debuted Dhīr 2B and Dhīr 5B open-source multilingual models, which support English and 10 other Indian languages.\n\nThe Dhīr models support English and 10 Indian languages and can run on "
+        }
+      ]
+    }
+  ],
+  "unlinked": [
+    {
+      "line": 3,
+      "section": "If you only read three things",
+      "sentence": "It will never fit a laptop, but it is a near-frontier model you can call, study and build on."
+    },
+    {
+      "line": 4,
+      "section": "If you only read three things",
+      "sentence": "If you were waiting for RAM or an SSD to get cheaper before an upgrade, this quarter is not it."
+    },
+    {
+      "line": 5,
+      "section": "If you only read three things",
+      "sentence": "Security work is turning into checking what a model found, which is a skill worth practising now."
+    },
+    {
+      "line": 11,
+      "section": "Frontier labs",
+      "sentence": "The safety pitch is just as numeric."
+    },
+    {
+      "line": 31,
+      "section": "Open and local models",
+      "sentence": "Two Indian releases came with open weights too."
+    },
+    {
+      "line": 49,
+      "section": "People and money",
+      "sentence": "Fal, which hosts and runs AI video, image and audio models, raised $1.3 billion led by Bessemer Venture Partners with Nvidia, Sound Ventures and T."
+    },
+    {
+      "line": 51,
+      "section": "People and money",
+      "sentence": "Sequoia went the other way on breadth."
+    },
+    {
+      "line": 61,
+      "section": "Research worth knowing",
+      "sentence": "The headline result is on a real language model."
+    },
+    {
+      "line": 83,
+      "section": "White space",
+      "sentence": "Finding bugs is getting cheap; deploying the fixes is not."
+    },
+    {
+      "line": 83,
+      "section": "White space",
+      "sentence": "\"AI has made fixing bugs cheap."
+    },
+    {
+      "line": 83,
+      "section": "White space",
+      "sentence": "Fixing them in OT is hard,\" Dragos's Rob T."
+    }
+  ],
+  "how_to_answer": "Write factcheck-<edition>.json as {\"verdicts\": [{\"n\": N, \"verdict\": \"pass|fix|reject\", \"reason\": \"...\", \"replacement\": \"full corrected sentence incl. its chips (fix only)\"}]}. pass = every name, number, date and causal claim in the sentence is supported by the saved page(s); fix = supportable with a correction; reject = not supported by the cited page."
+}

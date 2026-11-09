@@ -1,0 +1,850 @@
+{
+  "week": "2026-W45",
+  "window_start": "2026-11-02",
+  "window_end": "2026-11-08",
+  "generated_at": "2026-11-09T08:07:38+05:30",
+  "counts": {
+    "candidates": 31,
+    "verified": 24,
+    "dropped": 7,
+    "pages_fetched": 118,
+    "india": 9,
+    "world": 18,
+    "tier_b": 0,
+    "followups": 0
+  },
+  "items": [
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "follow_up_of": null,
+      "opportunity": null,
+      "headline": "OpenAI launches GPT-6 Cyber for Daybreak Red customers",
+      "url": "https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents",
+      "quote": "achieving a score of 48.5% on the ExploitGym benchmark, compared with 32.1% for its predecessor",
+      "claim": "OpenAI's GPT-6 Cyber scores 48.5% on ExploitGym versus 32.1% for GPT-5.6 Cyber, per Cyber Magazine's report on the 5 Nov launch; figures are OpenAI-reported.",
+      "why_it_matters": "Shows how fast AI exploit-finding is improving; security tooling and bug-bounty work will change, though access is restricted to approved customers.",
+      "published": "2026-11-06",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Cyber Magazine",
+      "significance": 4,
+      "secondary_urls": [
+        "https://thenewstack.io/openai-gpt6-cyber-exploits/"
+      ],
+      "id": "b0510ec33516",
+      "fetch_tier": "A",
+      "page_file": "pages/b0510ec33516.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "GPT-6 Cyber: OpenAI’s Frontier of “Aligned” Security Agents | Cyber Magazine",
+      "is_followup": false,
+      "canonical_url": "https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents",
+      "story_key": "6d90255db4fa",
+      "editions": [
+        "world"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "follow_up_of": null,
+      "opportunity": null,
+      "headline": "Moonshot releases Kimi K3.1 Pro open weights on Hugging Face",
+      "url": "https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/",
+      "quote": "The model card lists 2.8T total parameters, 104B activated, and a context length of 1,048,576 tokens.",
+      "claim": "Moonshot AI released the Kimi K3.1 Pro weights on Hugging Face on 4 November; the model card lists 2.8T total and 104B activated parameters.",
+      "why_it_matters": "A near-frontier open-weight model, though at roughly 1.56 TB it needs a multi-GPU server; hosted API is the realistic route for students.",
+      "published": "2026-11-04",
+      "published_evidence": "meta article:published_time",
+      "source_type": "secondary",
+      "source_name": "FourWeekMBA",
+      "significance": 4,
+      "secondary_urls": [
+        "https://www.vktr.com/ai-platforms/kimi-k31-pro-nears-top-proprietary-models-as-moonshot-limits-its-cyber-skills/"
+      ],
+      "id": "3eb5e3c69285",
+      "fetch_tier": "A",
+      "page_file": "pages/3eb5e3c69285.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Kimi K3.1 Pro Weights Out; Leads Opus 5.5 on 16 of 37 Tests - FourWeekMBA",
+      "is_followup": false,
+      "canonical_url": "https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests",
+      "story_key": "708945160e84",
+      "editions": [
+        "world"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "follow_up_of": null,
+      "opportunity": null,
+      "headline": "OpenAI ships Images 2.6 with GIFs and Flare and Sunburst API models",
+      "url": "https://yourstory.com/ai-story/openai-images-2-6-gif-launch",
+      "quote": "OpenAI says Images 2.6 generates images 50% faster than its predecessor.",
+      "claim": "OpenAI released Images 2.6, which it says generates images 50% faster than its predecessor, with API models GPT-Image-2.6 Flare and Sunburst priced at $8 per million image input tokens and $30 per million output tokens.",
+      "why_it_matters": "Cheaper, faster image generation in the API and free-tier ChatGPT is handy for app prototypes and demos.",
+      "published": "2026-11-05",
+      "published_evidence": "text: Thursday November 05, 2026",
+      "source_type": "press",
+      "source_name": "YourStory",
+      "significance": 3,
+      "secondary_urls": [],
+      "id": "83de4afc0d00",
+      "fetch_tier": "A",
+      "page_file": "pages/83de4afc0d00.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "OpenAI launches Images 2.6 so you can turn AI prompts into GIFs | YourStory",
+      "is_followup": false,
+      "canonical_url": "https://yourstory.com/ai-story/openai-images-2-6-gif-launch",
+      "story_key": "e92f9014e6df",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "follow_up_of": null,
+      "opportunity": null,
+      "headline": "Meta adds Spaces to its Muse agent",
+      "url": "https://www.winzheng.com/en/article/meta-spaces-muse-agent-collaboration",
+      "quote": "Spaces are basically breakout conversations that revolve around a particular topic",
+      "claim": "Meta launched Spaces for its Muse agent: topic-based conversations in the sidebar that build trackers, planners or project boards and connect to third-party apps. It followed Muse Voice, announced the day before.",
+      "why_it_matters": "Shows where consumer agents are heading: persistent project workspaces connected to apps, a pattern worth copying in your own agent projects.",
+      "published": "2026-11-07",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TechCrunch (via Winzheng)",
+      "significance": 2,
+      "secondary_urls": [
+        "https://techcrunch.com/category/artificial-intelligence/"
+      ],
+      "id": "ceee84967e09",
+      "fetch_tier": "A",
+      "page_file": "pages/ceee84967e09.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent | Winzheng",
+      "is_followup": false,
+      "canonical_url": "https://www.winzheng.com/en/article/meta-spaces-muse-agent-collaboration",
+      "story_key": "7dd0b0ee1076",
+      "editions": [
+        "world"
+      ],
+      "score": 2.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "hardware-prices",
+      "edition": "world",
+      "headline": "TrendForce: Q4 DRAM contracts up 10-15%, NAND up 15-20%",
+      "url": "https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce/",
+      "quote": "expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter from the third",
+      "claim": "TrendForce expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter from the third, and NAND flash contract prices 15% to 20%, while spot trading stalls.",
+      "why_it_matters": "RAM and SSD upgrades for the Inspiron's empty slot will stay expensive; waiting is unlikely to be cheaper soon.",
+      "published": "2026-11-03",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Capital Times",
+      "significance": 4,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "5deafdd2a258",
+      "fetch_tier": "A",
+      "page_file": "pages/5deafdd2a258.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "DRAM Prices: TrendForce Sees 10-15% Q4 Rise as Spot Trade Stalls | Capital Times",
+      "is_followup": false,
+      "canonical_url": "https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce",
+      "story_key": "7dd4c9f376dd",
+      "editions": [
+        "world"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "hardware-prices",
+      "edition": "world",
+      "headline": "DDR4 spot price dips 0.09% to US$46.82; NAND wafer spot down 4.33%",
+      "url": "https://www.trendforce.com/news/2026/11/04/insights-memory-spot-price-update-mainstream-ddr4-prices-dip-0-09-as-spot-premium-keeps-buyers-on-sidelines/",
+      "quote": "mainstream DDR4 1Gx8 3200MT/s spot prices dipped 0.09% amid shrinking trading volumes",
+      "claim": "TrendForce's spot update says DDR4 1Gx8 3200MT/s fell 0.09% to US$46.82 on November 3 from US$46.86 a week earlier, and 512Gb TLC wafer spot prices fell 4.33% to US$16.152 as of November 2.",
+      "why_it_matters": "Spot softness hasn't reached retail yet, but it shows buyers are resisting further hikes.",
+      "published": "2026-11-04",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "primary",
+      "source_name": "TrendForce",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "40655f7d8a86",
+      "fetch_tier": "A",
+      "page_file": "pages/40655f7d8a86.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "[Insights] Memory Spot Price Update: Mainstream DDR4 Prices Dip 0.09% as Spot Premium Keeps Buyers on Sidelines",
+      "is_followup": false,
+      "canonical_url": "https://www.trendforce.com/news/2026/11/04/insights-memory-spot-price-update-mainstream-ddr4-prices-dip-0-09-as-spot-premium-keeps-buyers-on-sidelines",
+      "story_key": "3634451f74a0",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "hardware-prices",
+      "edition": "both",
+      "headline": "ASUS ProArt P14 and P16 with RTX Spark launch in India from Rs 3,29,990",
+      "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990/",
+      "quote": "The ProArt P14 with 24GB memory and a 1TB PCIe 4.0 SSD is priced at Rs 3,29,990.",
+      "claim": "ASUS launched the ProArt P14 (24GB, 1TB) at Rs 3,29,990, and the P16 at Rs 4,99,990 (64GB) and Rs 6,49,990 (128GB), with RTX Spark N1X and up to 128GB unified memory.",
+      "why_it_matters": "First RTX Spark laptops in India sit well above the Rs 2.5 lakh budget, though they show unified-memory machines for local AI.",
+      "published": "2026-11-03",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "MySmartPrice",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "bdafe4e660e5",
+      "fetch_tier": "A",
+      "page_file": "pages/bdafe4e660e5.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "ASUS ProArt P16 and P14 Laptops Launched in India With NVIDIA RTX Spark N1X; Prices Start at Rs 3,29,990youtube [#16]",
+      "is_followup": false,
+      "canonical_url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990",
+      "story_key": "9a2f10bb2a88",
+      "editions": [
+        "india",
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india",
+        "world"
+      ]
+    },
+    {
+      "beat": "hardware-prices",
+      "edition": "world",
+      "headline": "TrendForce: reballed DRAM in phones to reach 7-9% in 2027",
+      "url": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
+      "quote": "the penetration rate of reballed memory in the smartphone market will reach approximately 3–4% in 2026, potentially climbing to 7–9% in 2027",
+      "claim": "TrendForce says persistently high mobile DRAM contract prices are pushing phone brands to reballed memory, and expects DRAM price increases to gain further momentum in 1Q27.",
+      "why_it_matters": "Memory costs are pushing budget phone makers to cheaper parts; expect spec cuts or higher prices in entry devices.",
+      "published": "2026-11-06",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "primary",
+      "source_name": "TrendForce",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "5f198ec28a51",
+      "fetch_tier": "A",
+      "page_file": "pages/5f198ec28a51.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce",
+      "is_followup": false,
+      "canonical_url": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
+      "story_key": "8339b9b91789",
+      "editions": [
+        "world"
+      ],
+      "score": 3.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "both",
+      "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+      "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+      "quote": "Prism’s weights are on Hugging Face under the Apache 2.0 licence.",
+      "claim": "Sarvam released Prism on 3 Nov 2026, a decision model built on Sarvam 105B; Sarvam reports it scores 71.8 at 44 ms on a B200 GPU among 25 decision models tested. Weights are on Hugging Face under Apache 2.0.",
+      "why_it_matters": "An Apache-licensed Indian model you can download and run on one large GPU, with vendor-reported benchmarks to test yourself.",
+      "published": "2026-11-03",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "primary",
+      "source_name": "Sarvam AI",
+      "significance": 4,
+      "secondary_urls": [
+        "https://www.unite.ai/sarvam-ai-releases-open-weight-prism-decision-model/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "c9d66dd6f94b",
+      "fetch_tier": "A",
+      "page_file": "pages/c9d66dd6f94b.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Sarvam Prism: a decision model built on Sarvam 105B | Sarvam AI",
+      "is_followup": false,
+      "canonical_url": "https://www.sarvam.ai/blogs/sarvam-prism",
+      "story_key": "e0558d5e87ed",
+      "editions": [
+        "india",
+        "world"
+      ],
+      "score": 5.0,
+      "used_in": [
+        "india",
+        "world"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "both",
+      "headline": "IndiaAI Mission unveils EKA-1, Dhir 2B and Dhir 5B models",
+      "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b",
+      "quote": "Soket's 26.3 billion parameter EKA-1 model has been trained on nearly 7.5 trillion tokens and supports all 22 scheduled Indian languages as well as English.",
+      "claim": "Soket's EKA-1 (26.3 billion parameters) and ZenteiQ's Dhir 2B and 5B were unveiled in New Delhi before IT secretary S Krishnan. They are accessible via AIKosh, and ZenteiQ released weights under Apache 2.0.",
+      "why_it_matters": "Government-backed Indian models with downloadable weights on AIKosh give you free bases for Indic-language projects.",
+      "published": "2026-11-04",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "press",
+      "source_name": "Swarajya",
+      "significance": 4,
+      "secondary_urls": [
+        "https://www.nationpathindia.com/technology/indiaai-mission-releases-eka-1-dhir-indigenous-ai-models-2026",
+        "https://www.gktoday.in/indiaai-mission-unveils-eka-1-and-dhir-foundation-models/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "d0e56e43a87c",
+      "fetch_tier": "A",
+      "page_file": "pages/d0e56e43a87c.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "IndiaAI Mission Unveils Three Indigenous AI Models As Soket Launches EKA-1 And ZenteiQ Releases Dhīr 2B And 5BArtboard 2 Copy 6Artboard 2 Copy 10Artboard 2 Copy 7Artboard 2 Copy 9",
+      "is_followup": false,
+      "canonical_url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b",
+      "story_key": "3535e8e56dea",
+      "editions": [
+        "india",
+        "world"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "india",
+        "world"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "india",
+      "headline": "IndiaAI cuts minimum bid to 512 units in 10,000-GPU tender",
+      "url": "https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender",
+      "quote": "The revised tender timetable sets November 13, 2026, as the bid submission deadline, with technical bids scheduled to open on November 14.",
+      "claim": "The IndiaAI procurement round now needs 512 compute units at one Indian data centre, down from 1,000, and seeks up to 10,000 additional units. Bids are due 13 Nov 2026 and technical bids open 14 Nov.",
+      "why_it_matters": "More mid-size providers can join the subsidised GPU pool, which may widen cheap compute for student and startup projects.",
+      "published": "2026-11-05",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Lapaas Voice",
+      "significance": 3,
+      "secondary_urls": [
+        "https://www.medianama.com/2026/10/223-meity-ai-compute-providers-gpus-indiaai-mission/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "56956080aacf",
+      "fetch_tier": "A",
+      "page_file": "pages/56956080aacf.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "IndiaAI Mission Cuts Minimum Compute Capacity Requirement to 512 Units for New 10,000-GPU Tender - Lapaas Voice",
+      "is_followup": false,
+      "canonical_url": "https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender",
+      "story_key": "f139c960adcb",
+      "editions": [
+        "india"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "India becomes ChatGPT's largest market by weekly users",
+      "url": "https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/",
+      "quote": "India has become ChatGPT’s largest market globally by weekly active users, with its local user base doubling since January 2026",
+      "claim": "OpenAI India MD Prabhjeet Singh said India is now ChatGPT's largest market by weekly active users and the local base has doubled since January 2026. India is also among Codex's largest markets, with developer use from tier-II cities.",
+      "why_it_matters": "Tools and free tiers get tuned for India first, and Indian developers are a core Codex audience.",
+      "published": "2026-11-03",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Inc42",
+      "significance": 5,
+      "secondary_urls": [
+        "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-3-november-2026/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "bd4eadb64696",
+      "fetch_tier": "A",
+      "page_file": "pages/bd4eadb64696.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "India Becomes ChatGPT’s Largest Market Globally",
+      "is_followup": false,
+      "canonical_url": "https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january",
+      "story_key": "7050e5420b65",
+      "editions": [
+        "india"
+      ],
+      "score": 5.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "PowerUp Money raises $10M led by Flourish Ventures",
+      "url": "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india",
+      "quote": "a wealthtech platform offering mutual fund advice and digital wealth management services, has raised $10 million in a funding round led by Flourish Ventures",
+      "claim": "PowerUp Money raised $10 million led by Flourish Ventures, with Peak XV Partners, Accel, Blume Ventures and others participating. It claims over 1.5 million users track mutual fund portfolios on its platform.",
+      "why_it_matters": "Shows funded demand for AI-led finance products in India, a domain where student builders can find problems.",
+      "published": "2026-11-03",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "press",
+      "source_name": "YourStory",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "c4e747ef2346",
+      "fetch_tier": "A",
+      "page_file": "pages/c4e747ef2346.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "PowerUp Money raises $10M to expand AI-led wealth management | YourStory",
+      "is_followup": false,
+      "canonical_url": "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india",
+      "story_key": "a13ed37c18b2",
+      "editions": [
+        "india"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "Indian startups raised $255 Mn across 20 deals this week",
+      "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
+      "quote": "Twenty startups cumulatively raised $255 Mn between November 2 and 6, up 96% uptick from $130.3 Mn raised last week.",
+      "claim": "Inc42's weekly tally says 20 Indian startups raised $255 Mn between Nov 2 and 6, with deal count down 38% week-on-week.",
+      "why_it_matters": "Funding is concentrated in fewer, larger deals, so seed-stage AI roles may be tighter.",
+      "published": "2026-11-07",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Inc42",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "2ddfe0cfb1ec",
+      "fetch_tier": "A",
+      "page_file": "pages/2ddfe0cfb1ec.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week",
+      "is_followup": false,
+      "canonical_url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week",
+      "story_key": "362d21fa84ad",
+      "editions": [
+        "india"
+      ],
+      "score": 2.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "Venomics AI raises $2.7 Mn pre-seed for venom drug discovery",
+      "url": "https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/",
+      "quote": "Biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale Invest and South Park Commons",
+      "claim": "Venomics AI raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed round co-led by Speciale Invest and South Park Commons, per Inc42.",
+      "why_it_matters": "AI-for-biology is getting early Indian funding, relevant if you want research-flavoured startup work.",
+      "published": "2026-11-05",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Inc42",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "3bc61c0ce969",
+      "fetch_tier": "A",
+      "page_file": "pages/3bc61c0ce969.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine",
+      "is_followup": false,
+      "canonical_url": "https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine",
+      "story_key": "842fdd0df7b9",
+      "editions": [
+        "india"
+      ],
+      "score": 2.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "open-local",
+      "edition": "world",
+      "headline": "Moonshot releases Kimi K3.1 Pro open weights, 2.8T parameters, 1M context",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "quote": "Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date.",
+      "claim": "Moonshot AI's Kimi K3.1 Pro card lists a mixture-of-experts model with 2.8T total and 104B activated parameters and a 1,048,576-token context. It is released under the Kimi K3.1 Pro License, not a standard open licence.",
+      "why_it_matters": "Far too large for any laptop; useful as an API or a licence/benchmark reference, and a sign of where open weights are heading.",
+      "published": "2026-11-06",
+      "published_evidence": "time datetime",
+      "source_type": "primary",
+      "source_name": "Hugging Face (Moonshot AI)",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "7838c87736f9",
+      "fetch_tier": "A",
+      "page_file": "pages/7838c87736f9.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "moonshotai/Kimi-K3.1-Pro · Hugging Face",
+      "is_followup": false,
+      "canonical_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "story_key": "f6a778cfad30",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "open-local",
+      "edition": "world",
+      "headline": "Ricursive releases Ripple-65B Preview, dense open-weight coding model, Apache 2.0",
+      "url": "https://tech-insider.org/what-ricursive-intelligence-released-on-november-4/",
+      "quote": "Ricursive Intelligence put a new open-weight coding model into public hands on November 4, 2026.",
+      "claim": "Ricursive Intelligence released Ripple-65B Preview on 4 Nov 2026 under Apache 2.0, with a BF16 base model, an NVFP4 checkpoint and a DFlash2 drafter. Scores reported are 80.5 on Terminal-Bench 2.1 (the model card says 80.52, self-reported).",
+      "why_it_matters": "An Apache 2.0 65B dense coder with an NVFP4 build is a candidate for a local workstation or rented GPU; check independent benchmarks first.",
+      "published": "2026-11-06",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Tech Insider",
+      "significance": 3,
+      "secondary_urls": [
+        "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "709ee7ddfffc",
+      "fetch_tier": "A",
+      "page_file": "pages/709ee7ddfffc.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "What Ricursive Intelligence Released on November 4",
+      "is_followup": false,
+      "canonical_url": "https://tech-insider.org/what-ricursive-intelligence-released-on-november-4",
+      "story_key": "d34e06b7070f",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "open-local",
+      "edition": "world",
+      "headline": "Nous Research posts Arete-27B, a Qwen3.8-27B fine-tune, Apache 2.0",
+      "url": "https://huggingface.co/NousResearch/Arete-27B",
+      "quote": "On our evaluation, Arete-27B raised its fact score from 2.32 to 2.98 out of 5 and cut answers containing propaganda from 22% to 0.9%.",
+      "claim": "Nous Research fine-tuned Alibaba's Qwen3.8-27B with supervised fine-tuning only (about 52.8 million tokens at 64k context) to change its answers on politically sensitive topics; the card reports its own evaluation figures.",
+      "why_it_matters": "A worked example of a small, SFT-only fine-tune with a published dataset and method, at a 27B size people actually run locally.",
+      "published": "2026-11-06",
+      "published_evidence": "time datetime",
+      "source_type": "primary",
+      "source_name": "Hugging Face (Nous Research)",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "55ffe1fba5ed",
+      "fetch_tier": "A",
+      "page_file": "pages/55ffe1fba5ed.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "NousResearch/Arete-27B · Hugging Face",
+      "is_followup": false,
+      "canonical_url": "https://huggingface.co/NousResearch/Arete-27B",
+      "story_key": "3fa6efce3237",
+      "editions": [
+        "world"
+      ],
+      "score": 3.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "opportunities",
+      "edition": "india",
+      "headline": "HackIndia 13th Protocol AI hackathon registration closes 18 November",
+      "url": "https://hackindia.org/2026/13th-protocol-an-ai-hackathon-2026",
+      "quote": "Closes Nov 18, 2026 · 23:00 IST",
+      "claim": "HackIndia's 13th Protocol AI hackathon (in person, KCCITM Greater Noida, 28-29 Nov 2026) has free entry and registration closing 18 Nov 2026 at 23:00 IST.",
+      "why_it_matters": "A free overnight AI build near Delhi, easy from Sonipat, but the organiser is a hackathon circuit; check terms first.",
+      "published": "2026-11-09",
+      "published_evidence": "text: Figures updated Nov 9, 2026",
+      "source_type": "primary",
+      "source_name": "HackIndia",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": {
+        "title": "13th Protocol: An AI Hackathon 2026",
+        "org": "HackIndia",
+        "type": "hackathon",
+        "audience": "Students, developers, innovators and AI enthusiasts from across India",
+        "deadline": "2026-11-18",
+        "apply_url": "https://hackindia.org/2026/13th-protocol-an-ai-hackathon-2026",
+        "eligibility_quote": "Closes Nov 18, 2026 · 23:00 IST",
+        "note": "In person, 28-29 Nov 2026; entry fee Free per the page.",
+        "eligibility_verified": true
+      },
+      "id": "dbca49ed4f1e",
+      "fetch_tier": "A",
+      "page_file": "pages/dbca49ed4f1e.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "13th Protocol: An AI Hackathon 2026 | HackIndia | HackIndia",
+      "is_followup": false,
+      "canonical_url": "https://hackindia.org/2026/13th-protocol-an-ai-hackathon-2026",
+      "story_key": "31ce47b79838",
+      "editions": [
+        "india"
+      ],
+      "score": 3.0,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Fal raises $1.3B at $16B valuation, led by Bessemer",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "quote": "has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price.",
+      "claim": "Fal, which hosts and runs AI video, image and audio models, raised $1.3 billion led by Bessemer Venture Partners, valuing it at $16 billion, double its $8 billion valuation in April (per Bloomberg).",
+      "why_it_matters": "Inference and media-model hosting is drawing very large cheques; infrastructure for serving models is a growing area to build or get hired in.",
+      "published": "2026-11-03",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TechCrunch",
+      "significance": 4,
+      "secondary_urls": [
+        "https://techfundingnews.com/fal-1-3b-series-f-16b-valuation-ai-inference/",
+        "https://tech.eu/2026/11/06/fal-doubles-valuation-to-16b-station-f-unveils-2026-future-40-and-estonia-approves-24-7-robotic-pharmacies/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "42ec3b43220b",
+      "fetch_tier": "A",
+      "page_file": "pages/42ec3b43220b.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges | TechCrunch",
+      "is_followup": false,
+      "canonical_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "story_key": "960a898686dc",
+      "editions": [
+        "world"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Sequoia raises about $10B and closes London office, Arc and Scouts",
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "quote": "The firm has raised roughly $10 billion in new funds, it says.",
+      "claim": "In a memo titled \"The Sequoia of Tomorrow\", Sequoia said it raised roughly $10 billion in new funds, is closing its London office, shutting its Arc accelerator and Scouts program, and merging its early-stage and growth teams.",
+      "why_it_matters": "Two routes for young founders to reach Sequoia (Scouts, Arc) are gone; early-stage funding is concentrating in fewer, larger bets.",
+      "published": "2026-11-04",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TechCrunch",
+      "significance": 3,
+      "secondary_urls": [
+        "https://thenextweb.com/news/sequoia-closes-london-office-arc-scouts-lixandru-europe"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "a4b63e1585c2",
+      "fetch_tier": "A",
+      "page_file": "pages/a4b63e1585c2.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Sequoia hits rewind, undoing 20 years of expansion | TechCrunch",
+      "is_followup": false,
+      "canonical_url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion",
+      "story_key": "50053bc79183",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "research-policy-trythis",
+      "edition": "world",
+      "headline": "MIT CSAIL: GPT-6 Astra reads and edits neural network weights directly",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "quote": "fixes this by natively editing 0.016% of the weights. With the same sampling settings, this weight correction raises MATH-500 from 7.9% to 48.1%",
+      "claim": "A 2 Nov 2026 MIT CSAIL write-up says GPT-6 Astra, by editing 0.016% of Qwen3.5-0.8B's weights without gradients, raised MATH-500 from 7.9% to 48.1%. Simon Willison reports critics say it conflates two questions and that a Qwen 3.8 27B model on a laptop can do the no-tools weight-reading task.",
+      "why_it_matters": "A reproducible interpretability experiment: the prompts are public, and you can try the weight-reading task on a local model with LM Studio.",
+      "published": "2026-11-02",
+      "published_evidence": "meta article:published_time",
+      "source_type": "primary",
+      "source_name": "Takehi et al. (MIT CSAIL)",
+      "significance": 3,
+      "secondary_urls": [
+        "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "38c41eb0ed98",
+      "fetch_tier": "A",
+      "page_file": "pages/38c41eb0ed98.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+      "is_followup": false,
+      "canonical_url": "https://rikiyat.github.io/blog/weight-space-programming",
+      "story_key": "cbac4b6643f4",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "research-policy-trythis",
+      "edition": "world",
+      "headline": "US Democrats plan AI bills on independent model evaluation and liability",
+      "url": "https://www.claimsjournal.com/news/national/2026/11/06/341154.htm",
+      "quote": "plans to push legislation requiring independent experts to evaluate leading AI models against safety standards",
+      "claim": "Rep. Lori Trahan plans legislation requiring independent experts to evaluate leading AI models against safety standards, and a bill clarifying that companies can be held responsible when AI systems act in harmful ways, according to her deputy chief of staff, as Democrats prepare to take control of Congress.",
+      "why_it_matters": "Signals the direction of US AI rules in 2027; third-party evaluation work is a growing field to learn.",
+      "published": "2026-11-06",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Insurance Journal",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "b9175db4d569",
+      "fetch_tier": "A",
+      "page_file": "pages/b9175db4d569.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Democrats Planning Flood of AI Bills When They Take Control of Congress",
+      "is_followup": false,
+      "canonical_url": "https://www.claimsjournal.com/news/national/2026/11/06/341154.htm",
+      "story_key": "dcb62877cf32",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "research-policy-trythis",
+      "edition": "world",
+      "headline": "Cursor adds realtime voice chat with agents, powered by Grok Voice",
+      "url": "https://cursor.com/changelog",
+      "quote": "You can now talk with your agents in a realtime voice call.",
+      "claim": "Cursor's 6 Nov 2026 changelog says voice chat works in the Agents Window, IDE, web and Cursor for iOS, runs on Grok Voice, and uses zero data retention with Privacy Mode on.",
+      "why_it_matters": "You can direct and check on coding agents by voice, handy when away from the keyboard; start it with the waveform button.",
+      "published": "2026-11-06",
+      "published_evidence": "time datetime",
+      "source_type": "primary",
+      "source_name": "Cursor",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "2ceb0606fcdd",
+      "fetch_tier": "A",
+      "page_file": "pages/2ceb0606fcdd.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "What's New in Cursor — Latest Updates & Release Notes",
+      "is_followup": false,
+      "canonical_url": "https://cursor.com/changelog",
+      "story_key": "3d2803c5401f",
+      "editions": [
+        "world"
+      ],
+      "score": 3.0,
+      "used_in": [
+        "world"
+      ]
+    }
+  ]
+}

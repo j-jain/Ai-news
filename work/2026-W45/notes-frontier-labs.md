@@ -1,0 +1,5 @@
+# notes frontier-labs W45
+Searches (8): Anthropic Nov 2026; OpenAI Nov 2026; Gemini Nov 2026; GPT-6 Cyber; Kimi K3.1 Pro; Images 2.6; Meta Spaces; DeepSeek/Qwen/Grok/Mistral (extended).
+Not fetched/usable: openai.com/news (403, no Tier B tried; budget); The New Stack GPT-6 Cyber page saved but body empty (subscribe-form only), listed as secondary only. Primary lab pages (OpenAI blog, Moonshot blog, HF card) not fetched; all four items are press/secondary, so none suit "read three things".
+Seen, skipped: Anthropic index showed nothing dated 2-8 Nov (latest Oct 27; Claude Code game-recreation rule only via ThursdAI). DeepSeek Harness Creator Mode, Cognition SWE-2 Flash, Tencent Hy4, Apple Siri App Intents 27.3 beta, OpenAI 948 Linux exploits (all via ThursdAI index only, not fetched). OpenAI $11B raise at $1.25T was "reportedly" (rumour). DeepSeek deepseek-v4-flash-0731 and Mistral Large 4 from aggregators only, unverified. Google/DeepMind and xAI/Qwen/Mistral seeds yielded nothing dated in window.
+Odd: no injected instructions seen. Meta item cites a Winzheng republication of TechCrunch.

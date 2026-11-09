@@ -1,0 +1,102 @@
+---
+layout: issue
+title: "World: Kimi K3.1 Pro opens its weights, DRAM keeps climbing, OpenAI ships GPT-6 Cyber"
+edition: world
+week: "2026-W45"
+date: 2026-11-09
+window: "2026-11-02 to 2026-11-08"
+summary: "A 2.8T open-weight Kimi, a security-only GPT-6, DRAM contracts heading up 10-15%, Fal at $16B and Sequoia shutting Scouts and Arc."
+sources_fetched: 0
+items_dropped: 0
+---
+## If you only read three things
+
+- **Kimi K3.1 Pro weights are public** Moonshot AI put the Kimi K3.1 Pro weights on Hugging Face on 4 Nov, and the card lists 2.8T total and 104B activated parameters [FourWeekMBA](https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/). It will never fit a laptop, but it is a near-frontier model you can call, study and build on.
+- **Memory contracts rise again this quarter** TrendForce expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter from the third, and NAND flash contract prices 15% to 20% [Capital Times](https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce/). If you were waiting for RAM or an SSD to get cheaper before an upgrade, this quarter is not it.
+- **OpenAI's exploit model got much better** GPT-6 Cyber, announced 5 Nov, scores 48.5% on ExploitGym against 32.1% for GPT-5.6 Cyber, on OpenAI's own figures [Cyber Magazine](https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents). Security work is turning into checking what a model found, which is a skill worth practising now.
+
+## Frontier labs
+
+OpenAI announced GPT-6 Cyber on 5 Nov, a model for finding vulnerabilities, developing exploits and strengthening software defences; OpenAI researchers used it to develop 948 privilege-escalation exploits in Linux and identify 81 previously unknown high-severity vulnerabilities in Firefox [Cyber Magazine](https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents).
+
+The safety pitch is just as numeric. In OpenAI's alignment evaluations the model avoided exploiting out-of-scope services in 99.93% of tests without deployment safety prompts and in 100% with them, and Cisco, CrowdStrike, Palo Alto Networks and Mozilla are among the companies already using it [Cyber Magazine](https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents).
+
+OpenAI also shipped Images 2.6, which it says generates images 50% faster than its predecessor and which adds GIF animation, SVG export and a complexity parameter that sets how much planning the model does; the API models GPT-Image-2.6 Flare and Sunburst cost $8 per million image input tokens and $30 per million output tokens, and the model is in ChatGPT and Codex on all subscription tiers [YourStory](https://yourstory.com/ai-story/openai-images-2-6-gif-launch).
+
+Meta added Spaces to its Muse agent: topic-based conversations in the sidebar where Muse builds a tracker, a planner or a project board and keeps it updated from connected apps, its second new Muse feature in a week after Muse Voice on Thursday; Zuckerberg said on the October earnings call that the agents had 10 million users in the US and Canada [TechCrunch via Winzheng](https://www.winzheng.com/en/article/meta-spaces-muse-agent-collaboration).
+
+Moonshot's Kimi K3.1 Pro is ahead of Claude Opus 5.5 on 16 of 37 non-internal rows of Moonshot's own benchmark table, by FourWeekMBA's count, with a largest lead of 5.4 points, while Opus 5.5 leads by 33.5 points on Program Bench; OpenRouter lists Kimi at $2 per million input tokens and $10 per million output, half the $4 and $20 it lists for Opus 5.5 [FourWeekMBA](https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/).
+
+**My read:** Every capability number in this section is the vendor's own, so treat them as claims to test rather than rankings. The more useful signal is that the most capable cyber model is gated while a near-frontier generalist is downloadable.
+
+## Open and local models
+
+The Kimi K3.1 Pro card describes a mixture-of-experts model with 896 experts, 16 selected per token, 93 layers, a 1,048,576-token context and MXFP4 weights from quantization-aware training, released under the Kimi K3.1 Pro License [Kimi model card](https://huggingface.co/moonshotai/Kimi-K3.1-Pro).
+
+The repository's 96 weight files total about 1.56 TB by FourWeekMBA's count, and the licence requires Model as a Service hosts with more than $20 million in revenue over any 12 months to sign a separate agreement with Moonshot, while internal use is exempt [FourWeekMBA](https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/).
+
+Ricursive Intelligence released Ripple-65B Preview on 4 Nov under Apache 2.0, a 65B dense coding model shipped as a BF16 base, an NVFP4 checkpoint and a DFlash2 drafter; its reported scores are 80.5 on Terminal-Bench 2.1 and 79.1 on SWE-bench Pro v2.0 Hard, and GMI Cloud hosts it at $0.20 per million input tokens and $0.60 per million output tokens [Tech Insider](https://tech-insider.org/what-ricursive-intelligence-released-on-november-4/).
+
+Nous Research posted Arete-27B, an Apache 2.0 fine-tune of Alibaba's Qwen3.8-27B made with supervised fine-tuning only, on about 52.8 million tokens at 64k context over 1,202 steps; on Nous's own 803-prompt evaluation the fact score rose from 2.32 to 2.98 out of 5 and answers containing propaganda fell from 22% to 0.9% [Arete-27B card](https://huggingface.co/NousResearch/Arete-27B).
+
+Two Indian releases came with open weights too. Sarvam released Prism on 3 Nov, a decision model built on Sarvam 105B with weights on Hugging Face under Apache 2.0, which Sarvam says scores 71.8 at 44 ms on a B200 GPU among the 25 decision models it tested [Sarvam](https://www.sarvam.ai/blogs/sarvam-prism). The IndiaAI Mission unveiled Soket's 26.3 billion parameter EKA-1 and ZenteiQ's Dhir 2B and 5B; the Dhir models support English and 10 Indian languages and can run on mobile phones without internet, and ZenteiQ released their weights under Apache 2.0 through AIKosh [Swarajya](https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b).
+
+**My read:** There is no 'What runs on what' table this week, because none of these cards states the memory a model needs and I will not guess it. Arete is the one to open anyway: its card publishes the full training recipe at a size people do run locally.
+
+## Hardware and prices
+
+TrendForce's quarterly outlook has DRAM contracts heading up while the spot market stalls; the DDR4 16Gb spot price averaged $82.719 on 2 Nov, down 0.09%, and the DDR5 16Gb chip was unchanged at $61.50 [Capital Times](https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce/).
+
+On the spot side, mainstream DDR4 1Gx8 3200MT/s slipped 0.09% from US$46.86 on 28 Oct to US$46.82 on 3 Nov as buyers waited, because spot prices sat above suppliers' official quotes, and 512Gb TLC wafer spot prices fell 4.33% to US$16.152 [TrendForce spot report](https://www.trendforce.com/news/2026/11/04/insights-memory-spot-price-update-mainstream-ddr4-prices-dip-0-09-as-spot-premium-keeps-buyers-on-sidelines/).
+
+Phone makers are already working around the cost: TrendForce expects reballed memory to reach about 3-4% of the smartphone market in 2026 and 7-9% in 2027, mostly LPDDR4X 4GB parts in 4G phones priced below CNY 1,299, and expects DRAM price increases to gain further momentum in 1Q27 [TrendForce](https://www.trendforce.com/presscenter/news/20261106-13297.html).
+
+ASUS launched the ProArt P14 and P16 in India from 3 Nov on NVIDIA's RTX Spark N1X: the P14 with 24GB and a 1TB SSD costs Rs 3,29,990, and the P16 costs Rs 4,99,990 with 64GB and Rs 6,49,990 with 128GB of unified memory [MySmartPrice](https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990/).
+
+**My read:** Contracts up and spot flat means the parts market is waiting to see who blinks, and nothing here says retail RAM gets cheaper soon. Buy an upgrade when you need it, not on the hope of a dip.
+
+## People and money
+
+Fal, which hosts and runs AI video, image and audio models, raised $1.3 billion led by Bessemer Venture Partners with Nvidia, Sound Ventures and T. Rowe Price, at a $16 billion valuation, double its $8 billion valuation in April, according to Bloomberg; it announced Series E and F together, with a combined $1.65 billion across both [TechCrunch](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/).
+
+Sequoia went the other way on breadth. In a memo titled 'The Sequoia of Tomorrow', it said it has raised roughly $10 billion in new funds and is closing its London office, shutting its Arc accelerator and Scouts program, merging its early-stage and growth teams and dropping the Monday partner meeting [TechCrunch](https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/).
+
+Arc, launched in March 2022, was a batch accelerator for pre-seed and seed founders that gave admitted companies $500,000 to $1 million up front, and Scouts gave small cheques to founders and operators to invest on the firm's behalf; on Europe, "We simply don't see the need for a local presence," the memo says, as quoted by [TechCrunch](https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/).
+
+**My read:** The two Sequoia doors closest to young founders are shut, while money pours into the companies that serve models. For a student founder that argues for showing traction first and for looking hard at inference infrastructure as a place to intern.
+
+## Research worth knowing
+
+A 2 Nov MIT CSAIL write-up reports that GPT-6 Astra, given only the raw weights of four PPO-trained game networks, named the right game for all four, and that the networks it wrote from scratch for three MinAtar games beat PPO trained for 100 million steps [MIT CSAIL](https://rikiyat.github.io/blog/weight-space-programming/).
+
+The headline result is on a real language model. Asked to make Qwen3.5-0.8B better at math without gradients, Astra edited 0.016% of its weights to fix a reasoning-loop problem, which raised MATH-500 from 7.9% to 48.1% at the same sampling settings and raised IFEval by 3x [weight-space write-up](https://rikiyat.github.io/blog/weight-space-programming/).
+
+A smaller finding sits in the Kimi release: Moonshot said it removed cyber-related data from both training stages for the open-weight version, and on the ExploitBench and ExploitGym rows the model trails Opus 5.5 by 16.3 and 13.8 points, by FourWeekMBA's arithmetic [FourWeekMBA](https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/).
+
+**My read:** The weight-editing result is a lab blog post with no independent replication yet, so read it as a direction, not a method. The Kimi numbers are a rare public hint that removing training data does remove a capability.
+
+## Policy and safety
+
+Representative Lori Trahan plans legislation requiring independent experts to evaluate leading AI models against safety standards, and a bill clarifying that companies can be held responsible when AI systems act in harmful ways, her deputy chief of staff said, as Democrats prepare to take control of Congress in January [Insurance Journal](https://www.claimsjournal.com/news/national/2026/11/06/341154.htm).
+
+Democrats also plan bills on data-centre electricity costs, though any legislation faces steep odds while Trump, who has repeatedly dismissed mandatory AI rules, remains in the White House; in October, Lofgren and other Democratic committee leaders asked OpenAI, Anthropic, Meta, Google and SpaceX to detail their security practices [Insurance Journal](https://www.claimsjournal.com/news/national/2026/11/06/341154.htm).
+
+**My read:** Independent evaluation written into US law would make eval work a real job category, which is a better bet for a CS student than another chatbot wrapper.
+
+## Try this week
+
+- **Voice chat with Cursor agents** - update Cursor, and when the agent is idle and the input is empty, click the waveform button labelled Start voice chat; it runs on Grok Voice and uses zero data retention with Privacy Mode on [Cursor changelog](https://cursor.com/changelog).
+- **Kimi K3.1 Pro without a server** - NVIDIA's API catalog offers a free endpoint for Kimi K3.1 Pro, with general rate-limit text of up to 40 rpm and 10,000 requests per day [FourWeekMBA](https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/).
+- **GIFs and SVGs from Images 2.6** - ask ChatGPT or Codex to animate a mascot or a product shot, on any subscription tier, and export SVG for a website [YourStory](https://yourstory.com/ai-story/openai-images-2-6-gif-launch).
+
+## White space
+
+Finding bugs is getting cheap; deploying the fixes is not. "AI has made fixing bugs cheap. Fixing them in OT is hard," Dragos's Rob T. Lee wrote, as quoted by [Cyber Magazine](https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents).
+
+At the other end of the market, cheap phones run on scarce memory: reballed LPDDR4X 4GB parts are going into 4G phones below CNY 1,299 [TrendForce](https://www.trendforce.com/presscenter/news/20261106-13297.html), while ZenteiQ says its Dhir models run on mobile phones without internet [Swarajya](https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b).
+
+**My read:** Nobody has a good tool for staging, testing and rolling out patches in slow industrial systems once a model has found the bug, and that gap only widens as exploit models improve. The second gap is useful offline Indic assistants for 4GB phones, a target small enough for a semester project and large enough to matter.
+
+## Sources and verification
+
+This issue cites 118 pages fetched between 2026-11-02 and 2026-11-09; every link above opens the page its sentence came from. Dropped: 7 items, all already covered in an earlier week - Gnani AI internship challenge, Code for a Billion hackathon, Science Academies SRFP 2027, ETH Zurich summer research fellowship, Purdue SURF 2027, Scale AI Summer 2027 ML research internship, Claude Code background MCP tasks. Links that answered 403 or timed out when re-checked: none. Full logs: [verified.json](https://github.com/j-jain/Ai-news/blob/main/work/2026-W45/verified.json), [fact-check](https://github.com/j-jain/Ai-news/blob/main/work/2026-W45/factcheck-world.json), [dropped](https://github.com/j-jain/Ai-news/blob/main/work/2026-W45/dropped.json).

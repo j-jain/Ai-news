@@ -1,0 +1,164 @@
+{
+  "verdicts": [
+    {
+      "n": 1,
+      "verdict": "pass",
+      "reason": "Inc42 reports Singh's WAU-largest-market claim, doubling since Jan 2026, Indian-language and Android-first work."
+    },
+    {
+      "n": 2,
+      "verdict": "pass",
+      "reason": "Sarvam blog dated 3 Nov: built on Sarvam 105B, 71.8 at 44 ms on B200 across 25 models, Apache 2.0 weights on Hugging Face."
+    },
+    {
+      "n": 3,
+      "verdict": "pass",
+      "reason": "Swarajya: EKA-1 (26.3B) and Dhir 2B/5B unveiled in New Delhi before S Krishnan; ZenteiQ weights Apache 2.0 via AIKosh."
+    },
+    {
+      "n": 4,
+      "verdict": "pass",
+      "reason": "'How it works' section states LoRA fine-tune, single forward pass, scoring head, no token-by-token generation."
+    },
+    {
+      "n": 5,
+      "verdict": "pass",
+      "reason": "Table and method text match: 37-benchmark Jev index, AA recreation, internal Indian benchmark; 82.5 vs 82.6; mammoth-1 75.2 at 284 ms."
+    },
+    {
+      "n": 6,
+      "verdict": "pass",
+      "reason": "Page: 'We ran Prism and 24 other decision models through three indices ourselves... timed every model we could... B200... bundled inference code'."
+    },
+    {
+      "n": 7,
+      "verdict": "pass",
+      "reason": "Page: Indian languages Prism predicts 5.4%, makes 4.4%; others 2.7 to 4.8 times as many errors."
+    },
+    {
+      "n": 8,
+      "verdict": "pass",
+      "reason": "Agent trace section: ~half a second on single GPU, Haiku 5.5 median 2.5 s and $0.64 per 1,000 runs via API, 131,072 tokens."
+    },
+    {
+      "n": 9,
+      "verdict": "pass",
+      "reason": "Verbatim quote from the Sarvam page."
+    },
+    {
+      "n": 10,
+      "verdict": "pass",
+      "reason": "Swarajya states 7.5T tokens, 22 languages plus English, maths/coding/reasoning/agentic, Dhir MoE trained from scratch on Google Cloud TPUs."
+    },
+    {
+      "n": 11,
+      "verdict": "pass",
+      "reason": "Lapaas: 1,000 to 512 units at single Indian data centre, GPUs/TPUs/accelerators, C-DAC, up to 10,000 units, five-year service period."
+    },
+    {
+      "n": 12,
+      "verdict": "pass",
+      "reason": "Lapaas eligibility table matches entity types, Rs 120 crore turnover over the three FYs, Tier-III/Rated-3, ISO/IEC 27001, 60/100."
+    },
+    {
+      "n": 13,
+      "verdict": "pass",
+      "reason": "Lapaas: bids due 13 Nov, technical bids open 14 Nov, GeM rounds set pricing/quantities/locations, empanelment no guarantee."
+    },
+    {
+      "n": 14,
+      "verdict": "pass",
+      "reason": "Lapaas cites Aug 2026 MeitY update: 15 providers, four rounds, 237 projects, 93.18 lakh GPU hours; universities listed as intended users."
+    },
+    {
+      "n": 15,
+      "verdict": "pass",
+      "reason": "Swarajya: Krishnan said air-gapped enterprise deployment; subsidised compute and ancillary research support enabled development."
+    },
+    {
+      "n": 16,
+      "verdict": "pass",
+      "reason": "MySmartPrice prices match: P14 24GB/1TB Rs 3,29,990; P16 64GB Rs 4,99,990 and 128GB Rs 6,49,990."
+    },
+    {
+      "n": 17,
+      "verdict": "pass",
+      "reason": "MySmartPrice: P16 6,144-core GPU and 20-core CPU, available from 3 Nov, 0% EMI from Rs 13,750 valid until 30 Nov."
+    },
+    {
+      "n": 18,
+      "verdict": "pass",
+      "reason": "Inc42: 20 startups, $255 Mn Nov 2-6, up 96% from $130.3 Mn, deals down 38% from 32; ecommerce most funded on the back of GIVA's $103 Mn."
+    },
+    {
+      "n": 19,
+      "verdict": "pass",
+      "reason": "YourStory: $10M led by Flourish, listed existing investors, significant portion to AI-powered wealth platform."
+    },
+    {
+      "n": 20,
+      "verdict": "pass",
+      "reason": "YourStory describes Elite Prime suggesting allocation, SIPs, rebalancing, withdrawal strategies, plus AI wealth coach."
+    },
+    {
+      "n": 21,
+      "verdict": "pass",
+      "reason": "Inc42: Bengaluru, IISc spin-out, $2.7 Mn (~Rs 25.5 Cr) pre-seed co-led by Speciale Invest and South Park Commons, Operators Studio."
+    },
+    {
+      "n": 22,
+      "verdict": "pass",
+      "reason": "Inc42: expand Venom Atlas, AI and lab screening, team across venom biology, computational science, drug discovery."
+    },
+    {
+      "n": 23,
+      "verdict": "pass",
+      "reason": "Inc42 table lists AugurAI as the only AI-sector row, $212K, Campus Angels Network."
+    },
+    {
+      "n": 24,
+      "verdict": "pass",
+      "reason": "Inc42 'Other Development': SEBI greenlit Razorpay Rs 5,000-6,000 Cr IPO, ~Rs 47,000 Cr valuation, listing Jan-Mar 2027."
+    },
+    {
+      "n": 25,
+      "verdict": "pass",
+      "reason": "Inc42: pilots to production citing JioHotstar and Cars24; Codex largest/fastest-growing with tier-II developer use."
+    },
+    {
+      "n": 26,
+      "verdict": "pass",
+      "reason": "Inc42: TCS HyperVault 100 MW scaling to 1 GW; Amazon Bedrock local inference keeping processing in India."
+    },
+    {
+      "n": 27,
+      "verdict": "pass",
+      "reason": "Inc42: Razorpay partnership for ChatGPT ads; brands listed are a subset of the page's list."
+    },
+    {
+      "n": 28,
+      "verdict": "pass",
+      "reason": "YourStory: 1.5M users, Rs 2.5 lakh crore portfolios, Elite crossed 1,00,000 paid members in under a year (company claims)."
+    },
+    {
+      "n": 29,
+      "verdict": "pass",
+      "reason": "HackIndia page: in person at KCCITM Greater Noida, 28-29 Nov, free, Rs 60K pool, registration closes 18 Nov 2026 23:00 IST."
+    },
+    {
+      "n": 30,
+      "verdict": "pass",
+      "reason": "Sarvam page: other models make 2.7 to 4.8 times as many Indian-language errors as confidence predicts."
+    },
+    {
+      "n": 31,
+      "verdict": "pass",
+      "reason": "Swarajya: English and 10 Indian languages, run on phones without internet, weights with documentation and evaluation tools."
+    },
+    {
+      "n": 32,
+      "verdict": "pass",
+      "reason": "YourStory paragraph states suitability/transparency/compliance and updated SEBI Master Circular in February."
+    }
+  ]
+}

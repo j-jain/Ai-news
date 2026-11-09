@@ -1,0 +1,136 @@
+{
+  "week": "2026-W45",
+  "edition": "world",
+  "checked": 21,
+  "dead": 0,
+  "warn": 0,
+  "removed_sentences": 0,
+  "results": [
+    {
+      "url": "https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://yourstory.com/ai-story/openai-images-2-6-gif-launch",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.winzheng.com/en/article/meta-spaces-muse-agent-collaboration",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://tech-insider.org/what-ricursive-intelligence-released-on-november-4/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://huggingface.co/NousResearch/Arete-27B",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.trendforce.com/news/2026/11/04/insights-memory-spot-price-update-mainstream-ddr4-prices-dip-0-09-as-spot-premium-keeps-buyers-on-sidelines/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.claimsjournal.com/news/national/2026/11/06/341154.htm",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://cursor.com/changelog",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W45/verified.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W45/factcheck-world.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W45/dropped.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    }
+  ]
+}

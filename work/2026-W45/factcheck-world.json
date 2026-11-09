@@ -1,0 +1,159 @@
+{
+  "verdicts": [
+    {
+      "n": 1,
+      "verdict": "pass",
+      "reason": "FourWeekMBA: weights on Hugging Face 4 Nov; card lists 2.8T total, 104B activated."
+    },
+    {
+      "n": 2,
+      "verdict": "pass",
+      "reason": "Capital Times quotes TrendForce: DRAM contracts +10-15% Q4 over Q3, NAND +15-20%."
+    },
+    {
+      "n": 3,
+      "verdict": "pass",
+      "reason": "Page: announced 5 Nov 2026; 48.5% vs 32.1% for GPT-5.6 Cyber, OpenAI's figures."
+    },
+    {
+      "n": 4,
+      "verdict": "pass",
+      "reason": "Page: announced 5 Nov to identify vulnerabilities, develop exploits, strengthen defences; 948 Linux exploits, 81 Firefox vulns."
+    },
+    {
+      "n": 5,
+      "verdict": "pass",
+      "reason": "Page: 99.93% without safety prompts, 100% with; Cisco, CrowdStrike, Palo Alto Networks, Mozilla named as users."
+    },
+    {
+      "n": 6,
+      "verdict": "pass",
+      "reason": "Page supports 50% faster, GIF, SVG export, complexity parameter, Flare/Sunburst $8/$30, ChatGPT and Codex all tiers."
+    },
+    {
+      "n": 7,
+      "verdict": "pass",
+      "reason": "Page: Spaces in sidebar, tracker/planner/project board, connected apps keep it updated; second Muse feature in a week after Muse Voice on Thursday; 10M users in US and Canada per October call."
+    },
+    {
+      "n": 8,
+      "verdict": "pass",
+      "reason": "Page: 16 of 37 non-internal rows, largest lead 5.4, 33.5 on Program Bench; OpenRouter $2/$10 vs $4/$20."
+    },
+    {
+      "n": 9,
+      "verdict": "pass",
+      "reason": "Card lists MoE, 896 experts, 16 per token, 93 layers, 1,048,576 context, MXFP4 QAT weights, Kimi K3.1 Pro License."
+    },
+    {
+      "n": 10,
+      "verdict": "pass",
+      "reason": "Page: 96 weight files ~1.56 TB by its count; MaaS hosts over $20M revenue in any 12 months need separate agreement; internal use exempt."
+    },
+    {
+      "n": 11,
+      "verdict": "pass",
+      "reason": "Page: 4 Nov, Apache 2.0, 65B dense, BF16/NVFP4/DFlash2, 80.5 and 79.1, GMI Cloud $0.20/$0.60."
+    },
+    {
+      "n": 12,
+      "verdict": "pass",
+      "reason": "Card: Qwen3.8-27B SFT, Apache 2.0, ~52.8M tokens at 64k, 1,202 steps, 803 prompts, 2.32->2.98, 22%->0.9%."
+    },
+    {
+      "n": 13,
+      "verdict": "pass",
+      "reason": "Sarvam blog dated 3 Nov: built on Sarvam 105B, Apache 2.0 on HF, 71.8 at 44 ms on B200 among 25 models tested."
+    },
+    {
+      "n": 14,
+      "verdict": "pass",
+      "reason": "Swarajya: EKA-1 26.3B; Dhir support English and 10 Indian languages, run on phones offline; ZenteiQ released weights under Apache 2.0 via AIKosh."
+    },
+    {
+      "n": 15,
+      "verdict": "pass",
+      "reason": "Capital Times: DDR4 16Gb spot averaged $82.719 on 2 Nov, down 0.09%; DDR5 16Gb unchanged at $61.50."
+    },
+    {
+      "n": 16,
+      "verdict": "pass",
+      "reason": "TrendForce: $46.86 (28 Oct) to $46.82 (3 Nov), -0.09%, spot above official quotes; 512Gb TLC wafer -4.33% to $16.152."
+    },
+    {
+      "n": 17,
+      "verdict": "pass",
+      "reason": "TrendForce: 3-4% in 2026, 7-9% in 2027, LPDDR4X 4GB in 4G phones below CNY 1,299, 1Q27 momentum."
+    },
+    {
+      "n": 18,
+      "verdict": "pass",
+      "reason": "Page: available from 3 Nov, RTX Spark N1X, P14 24GB/1TB Rs 3,29,990, P16 64GB Rs 4,99,990, 128GB Rs 6,49,990."
+    },
+    {
+      "n": 19,
+      "verdict": "pass",
+      "reason": "Sentence-split fragment; TechCrunch supports $16B, double $8B in April per Bloomberg, Series E and F combined $1.65B."
+    },
+    {
+      "n": 20,
+      "verdict": "pass",
+      "reason": "TechCrunch: memo 'The Sequoia of Tomorrow', ~$10B, London, Arc, Scouts, merged teams, Monday meeting killed."
+    },
+    {
+      "n": 21,
+      "verdict": "pass",
+      "reason": "TechCrunch: Arc March 2022, pre-seed/seed batch, $500K-$1M up front; Scouts small checks; memo quote on local presence."
+    },
+    {
+      "n": 22,
+      "verdict": "pass",
+      "reason": "Page dated 2 Nov, MIT CSAIL; all four PPO game networks named correctly from raw weights; from-scratch MinAtar networks beat PPO 100M steps in all three."
+    },
+    {
+      "n": 23,
+      "verdict": "pass",
+      "reason": "Page: no gradients, reasoning-loop fix editing 0.016% of weights, MATH-500 7.9%->48.1% same sampling, IFEval 3x."
+    },
+    {
+      "n": 24,
+      "verdict": "pass",
+      "reason": "FourWeekMBA quotes Moonshot blog removing cyber data from both training stages; trails by 16.3 and 13.8 on ExploitBench/ExploitGym."
+    },
+    {
+      "n": 25,
+      "verdict": "pass",
+      "reason": "Page: Trahan plans per deputy chief of staff Francis Grubar; Democrats take control of Congress in January."
+    },
+    {
+      "n": 26,
+      "verdict": "pass",
+      "reason": "Page: data-centre electricity bills, steep odds under Trump, October letter from Lofgren et al. to OpenAI, Anthropic, Meta, Google, SpaceX."
+    },
+    {
+      "n": 27,
+      "verdict": "pass",
+      "reason": "Changelog: waveform button 'Start voice chat' when idle and input empty, Grok Voice, zero retention with Privacy Mode, update Cursor."
+    },
+    {
+      "n": 28,
+      "verdict": "pass",
+      "reason": "FourWeekMBA: NVIDIA API catalog free endpoint; general rate-limit text up to 40 rpm and 10,000 requests per day."
+    },
+    {
+      "n": 29,
+      "verdict": "pass",
+      "reason": "YourStory: GIF animation of mascots/product photos, SVG exports for websites, ChatGPT and Codex all subscription tiers."
+    },
+    {
+      "n": 30,
+      "verdict": "pass",
+      "reason": "Sentence-split fragment; Cyber Magazine quotes Rob T. Lee of Dragos: 'AI has made fixing bugs cheap. Fixing them in OT is hard'."
+    },
+    {
+      "n": 31,
+      "verdict": "pass",
+      "reason": "TrendForce: LPDDR4X 4GB reballed parts in 4G phones below CNY 1,299; Swarajya: Dhir runs on mobile phones without internet."
+    }
+  ]
+}

@@ -544,5 +544,173 @@
     "headline": "CEPO splits coordinator and executor prompts to improve multi-agent prompt optimization",
     "first_seen": "2026-W44",
     "edition": "world"
+  },
+  "bdafe4e660e5": {
+    "story_key": "9a2f10bb2a88",
+    "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-news/asus-proart-p16-and-p14-laptops-launched-in-india-with-nvidia-rtx-spark-n1x-prices-start-at-rs-329990/",
+    "headline": "ASUS ProArt P14 and P16 with RTX Spark launch in India from Rs 3,29,990",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "c9d66dd6f94b": {
+    "story_key": "e0558d5e87ed",
+    "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+    "headline": "Sarvam releases open-weight Prism decision model on Sarvam 105B",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "d0e56e43a87c": {
+    "story_key": "3535e8e56dea",
+    "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b",
+    "headline": "IndiaAI Mission unveils EKA-1, Dhir 2B and Dhir 5B models",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "56956080aacf": {
+    "story_key": "f139c960adcb",
+    "url": "https://lapaasvoice.com/indiaai-mission-cuts-minimum-compute-capacity-requirement-to-512-units-for-new-10000-gpu-tender",
+    "headline": "IndiaAI cuts minimum bid to 512 units in 10,000-GPU tender",
+    "first_seen": "2026-W45",
+    "edition": "india"
+  },
+  "bd4eadb64696": {
+    "story_key": "7050e5420b65",
+    "url": "https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/",
+    "headline": "India becomes ChatGPT's largest market by weekly users",
+    "first_seen": "2026-W45",
+    "edition": "india"
+  },
+  "c4e747ef2346": {
+    "story_key": "a13ed37c18b2",
+    "url": "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india",
+    "headline": "PowerUp Money raises $10M led by Flourish Ventures",
+    "first_seen": "2026-W45",
+    "edition": "india"
+  },
+  "2ddfe0cfb1ec": {
+    "story_key": "362d21fa84ad",
+    "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
+    "headline": "Indian startups raised $255 Mn across 20 deals this week",
+    "first_seen": "2026-W45",
+    "edition": "india"
+  },
+  "3bc61c0ce969": {
+    "story_key": "842fdd0df7b9",
+    "url": "https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/",
+    "headline": "Venomics AI raises $2.7 Mn pre-seed for venom drug discovery",
+    "first_seen": "2026-W45",
+    "edition": "india"
+  },
+  "dbca49ed4f1e": {
+    "story_key": "31ce47b79838",
+    "url": "https://hackindia.org/2026/13th-protocol-an-ai-hackathon-2026",
+    "headline": "HackIndia 13th Protocol AI hackathon registration closes 18 November",
+    "first_seen": "2026-W45",
+    "edition": "india"
+  },
+  "b0510ec33516": {
+    "story_key": "6d90255db4fa",
+    "url": "https://cybermagazine.com/news/gpt-6-cyber-openais-frontier-of-aligned-security-agents",
+    "headline": "OpenAI launches GPT-6 Cyber for Daybreak Red customers",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "3eb5e3c69285": {
+    "story_key": "708945160e84",
+    "url": "https://fourweekmba.com/ai-kimi-k3-1-pro-weights-out-leads-opus-5-5-on-16-of-37-tests/",
+    "headline": "Moonshot releases Kimi K3.1 Pro open weights on Hugging Face",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "83de4afc0d00": {
+    "story_key": "e92f9014e6df",
+    "url": "https://yourstory.com/ai-story/openai-images-2-6-gif-launch",
+    "headline": "OpenAI ships Images 2.6 with GIFs and Flare and Sunburst API models",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "ceee84967e09": {
+    "story_key": "7dd0b0ee1076",
+    "url": "https://www.winzheng.com/en/article/meta-spaces-muse-agent-collaboration",
+    "headline": "Meta adds Spaces to its Muse agent",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "5deafdd2a258": {
+    "story_key": "7dd4c9f376dd",
+    "url": "https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce/",
+    "headline": "TrendForce: Q4 DRAM contracts up 10-15%, NAND up 15-20%",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "40655f7d8a86": {
+    "story_key": "3634451f74a0",
+    "url": "https://www.trendforce.com/news/2026/11/04/insights-memory-spot-price-update-mainstream-ddr4-prices-dip-0-09-as-spot-premium-keeps-buyers-on-sidelines/",
+    "headline": "DDR4 spot price dips 0.09% to US$46.82; NAND wafer spot down 4.33%",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "5f198ec28a51": {
+    "story_key": "8339b9b91789",
+    "url": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
+    "headline": "TrendForce: reballed DRAM in phones to reach 7-9% in 2027",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "7838c87736f9": {
+    "story_key": "f6a778cfad30",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "headline": "Moonshot releases Kimi K3.1 Pro open weights, 2.8T parameters, 1M context",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "709ee7ddfffc": {
+    "story_key": "d34e06b7070f",
+    "url": "https://tech-insider.org/what-ricursive-intelligence-released-on-november-4/",
+    "headline": "Ricursive releases Ripple-65B Preview, dense open-weight coding model, Apache 2.0",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "55ffe1fba5ed": {
+    "story_key": "3fa6efce3237",
+    "url": "https://huggingface.co/NousResearch/Arete-27B",
+    "headline": "Nous Research posts Arete-27B, a Qwen3.8-27B fine-tune, Apache 2.0",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "42ec3b43220b": {
+    "story_key": "960a898686dc",
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "headline": "Fal raises $1.3B at $16B valuation, led by Bessemer",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "a4b63e1585c2": {
+    "story_key": "50053bc79183",
+    "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+    "headline": "Sequoia raises about $10B and closes London office, Arc and Scouts",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "38c41eb0ed98": {
+    "story_key": "cbac4b6643f4",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "headline": "MIT CSAIL: GPT-6 Astra reads and edits neural network weights directly",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "b9175db4d569": {
+    "story_key": "dcb62877cf32",
+    "url": "https://www.claimsjournal.com/news/national/2026/11/06/341154.htm",
+    "headline": "US Democrats plan AI bills on independent model evaluation and liability",
+    "first_seen": "2026-W45",
+    "edition": "world"
+  },
+  "2ceb0606fcdd": {
+    "story_key": "3d2803c5401f",
+    "url": "https://cursor.com/changelog",
+    "headline": "Cursor adds realtime voice chat with agents, powered by Grok Voice",
+    "first_seen": "2026-W45",
+    "edition": "world"
   }
 }
