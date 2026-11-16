@@ -1,0 +1,1085 @@
+{
+  "week": "2026-W46",
+  "edition": "india",
+  "draft": "work/2026-W46/draft-india.md",
+  "claims": [
+    {
+      "n": 1,
+      "line": 3,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**OpenAI now processes Indian requests locally.** OpenAI will run API requests from Indian business customers on servers inside India, keeping both the data and the computation in the country, according to [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "line": 4,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Bharat Semi raises $24M for sensors.** The New Delhi chip startup raised a $24 million seed round led by Info Edge Group, South Park Commons and Indus Bridge Ventures to build AI-enabled image sensors [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "line": 5,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Sarvam hires Google Cloud's India head.** Sarvam named Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, as President, Chief Business Officer and board member on 9 Nov [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+          "id": "75d2c9e1a2cd",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/75d2c9e1a2cd.txt",
+          "headline": "Sarvam names ex-Google Cloud India head Sashikumar Sreedharan President and CBO",
+          "claim": "Sarvam announced on 9 Nov 2026 that Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, joins as President, Chief Business Officer and board member. Sarvam says over 100 enterprises and government institutions are building with its full-stack offering.",
+          "quote": "Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering.",
+          "published": "2026-11-09",
+          "context": "ss Officer and a member of our board of directors. Sashi will lead our business across enterprises and government, and expand our work with digital native companies, developers and partners. He will also be responsible for Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations functions for the company.\n\nSashi joins us from Google Cloud, where he most recently served as Managing Director for India. He brings more than three decades of experience building and leading technology businesses. Previously, he led Microsoft India’s enterprise business as Managing Director for over five years.\n\nSashi joins us as our work with customers grows in scale and scope. Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering. The next phase of Sarvam is about advancing our research, developing products loved by people around the world, and building a company that can operate at a much greater scale.\n\nEvery enterprise should own its AI. The data, the models and the agents stay inside the enterprise, and so does the value they create. We see a symbiotic relationship between frontier research and enterprise value creation. The demands of industry push our research further, and breakthroughs in research become the foundation for new industries.\n\n“India should be a maker of the intelligence the world runs on. For me, joining Sarvam is a commitment to that opportunity. I look forward to working with the team and our c"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "line": 9,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam's big news this week was a hire, not a model: on 9 Nov it named Sashikumar Sreedharan President and Chief Business Officer and gave him a seat on its board [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+          "id": "75d2c9e1a2cd",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/75d2c9e1a2cd.txt",
+          "headline": "Sarvam names ex-Google Cloud India head Sashikumar Sreedharan President and CBO",
+          "claim": "Sarvam announced on 9 Nov 2026 that Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, joins as President, Chief Business Officer and board member. Sarvam says over 100 enterprises and government institutions are building with its full-stack offering.",
+          "quote": "Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering.",
+          "published": "2026-11-09",
+          "context": "ss Officer and a member of our board of directors. Sashi will lead our business across enterprises and government, and expand our work with digital native companies, developers and partners. He will also be responsible for Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations functions for the company.\n\nSashi joins us from Google Cloud, where he most recently served as Managing Director for India. He brings more than three decades of experience building and leading technology businesses. Previously, he led Microsoft India’s enterprise business as Managing Director for over five years.\n\nSashi joins us as our work with customers grows in scale and scope. Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering. The next phase of Sarvam is about advancing our research, developing products loved by people around the world, and building a company that can operate at a much greater scale.\n\nEvery enterprise should own its AI. The data, the models and the agents stay inside the enterprise, and so does the value they create. We see a symbiotic relationship between frontier research and enterprise value creation. The demands of industry push our research further, and breakthroughs in research become the foundation for new industries.\n\n“India should be a maker of the intelligence the world runs on. For me, joining Sarvam is a commitment to that opportunity. I look forward to working with the team and our c"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "line": 11,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "He comes from Google Cloud, where he was most recently Managing Director for India, and before that he led Microsoft India's enterprise business as Managing Director for over five years, per the same post [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+          "id": "75d2c9e1a2cd",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/75d2c9e1a2cd.txt",
+          "headline": "Sarvam names ex-Google Cloud India head Sashikumar Sreedharan President and CBO",
+          "claim": "Sarvam announced on 9 Nov 2026 that Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, joins as President, Chief Business Officer and board member. Sarvam says over 100 enterprises and government institutions are building with its full-stack offering.",
+          "quote": "Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering.",
+          "published": "2026-11-09",
+          "context": "ss Officer and a member of our board of directors. Sashi will lead our business across enterprises and government, and expand our work with digital native companies, developers and partners. He will also be responsible for Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations functions for the company.\n\nSashi joins us from Google Cloud, where he most recently served as Managing Director for India. He brings more than three decades of experience building and leading technology businesses. Previously, he led Microsoft India’s enterprise business as Managing Director for over five years.\n\nSashi joins us as our work with customers grows in scale and scope. Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering. The next phase of Sarvam is about advancing our research, developing products loved by people around the world, and building a company that can operate at a much greater scale.\n\nEvery enterprise should own its AI. The data, the models and the agents stay inside the enterprise, and so does the value they create. We see a symbiotic relationship between frontier research and enterprise value creation. The demands of industry push our research further, and breakthroughs in research become the foundation for new industries.\n\n“India should be a maker of the intelligence the world runs on. For me, joining Sarvam is a commitment to that opportunity. I look forward to working with the team and our c"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "line": 13,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam says he will lead its business across enterprises and government and will also run Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+          "id": "75d2c9e1a2cd",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/75d2c9e1a2cd.txt",
+          "headline": "Sarvam names ex-Google Cloud India head Sashikumar Sreedharan President and CBO",
+          "claim": "Sarvam announced on 9 Nov 2026 that Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, joins as President, Chief Business Officer and board member. Sarvam says over 100 enterprises and government institutions are building with its full-stack offering.",
+          "quote": "Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering.",
+          "published": "2026-11-09",
+          "context": "ss Officer and a member of our board of directors. Sashi will lead our business across enterprises and government, and expand our work with digital native companies, developers and partners. He will also be responsible for Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations functions for the company.\n\nSashi joins us from Google Cloud, where he most recently served as Managing Director for India. He brings more than three decades of experience building and leading technology businesses. Previously, he led Microsoft India’s enterprise business as Managing Director for over five years.\n\nSashi joins us as our work with customers grows in scale and scope. Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering. The next phase of Sarvam is about advancing our research, developing products loved by people around the world, and building a company that can operate at a much greater scale.\n\nEvery enterprise should own its AI. The data, the models and the agents stay inside the enterprise, and so does the value they create. We see a symbiotic relationship between frontier research and enterprise value creation. The demands of industry push our research further, and breakthroughs in research become the foundation for new industries.\n\n“India should be a maker of the intelligence the world runs on. For me, joining Sarvam is a commitment to that opportunity. I look forward to working with the team and our c"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "line": 15,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The company also put a number on its customer base: over 100 enterprises and government institutions are building with its full-stack offering, the post says [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+          "id": "75d2c9e1a2cd",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/75d2c9e1a2cd.txt",
+          "headline": "Sarvam names ex-Google Cloud India head Sashikumar Sreedharan President and CBO",
+          "claim": "Sarvam announced on 9 Nov 2026 that Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, joins as President, Chief Business Officer and board member. Sarvam says over 100 enterprises and government institutions are building with its full-stack offering.",
+          "quote": "Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering.",
+          "published": "2026-11-09",
+          "context": "ss Officer and a member of our board of directors. Sashi will lead our business across enterprises and government, and expand our work with digital native companies, developers and partners. He will also be responsible for Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations functions for the company.\n\nSashi joins us from Google Cloud, where he most recently served as Managing Director for India. He brings more than three decades of experience building and leading technology businesses. Previously, he led Microsoft India’s enterprise business as Managing Director for over five years.\n\nSashi joins us as our work with customers grows in scale and scope. Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering. The next phase of Sarvam is about advancing our research, developing products loved by people around the world, and building a company that can operate at a much greater scale.\n\nEvery enterprise should own its AI. The data, the models and the agents stay inside the enterprise, and so does the value they create. We see a symbiotic relationship between frontier research and enterprise value creation. The demands of industry push our research further, and breakthroughs in research become the foundation for new industries.\n\n“India should be a maker of the intelligence the world runs on. For me, joining Sarvam is a commitment to that opportunity. I look forward to working with the team and our c"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "line": 17,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "\"India should be a maker of the intelligence the world runs on\", Sreedharan said in the announcement on [Sarvam's blog](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).",
+      "evidence": [
+        {
+          "chip": "Sarvam's blog",
+          "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+          "id": "75d2c9e1a2cd",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/75d2c9e1a2cd.txt",
+          "headline": "Sarvam names ex-Google Cloud India head Sashikumar Sreedharan President and CBO",
+          "claim": "Sarvam announced on 9 Nov 2026 that Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, joins as President, Chief Business Officer and board member. Sarvam says over 100 enterprises and government institutions are building with its full-stack offering.",
+          "quote": "Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering.",
+          "published": "2026-11-09",
+          "context": "ss Officer and a member of our board of directors. Sashi will lead our business across enterprises and government, and expand our work with digital native companies, developers and partners. He will also be responsible for Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations functions for the company.\n\nSashi joins us from Google Cloud, where he most recently served as Managing Director for India. He brings more than three decades of experience building and leading technology businesses. Previously, he led Microsoft India’s enterprise business as Managing Director for over five years.\n\nSashi joins us as our work with customers grows in scale and scope. Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering. The next phase of Sarvam is about advancing our research, developing products loved by people around the world, and building a company that can operate at a much greater scale.\n\nEvery enterprise should own its AI. The data, the models and the agents stay inside the enterprise, and so does the value they create. We see a symbiotic relationship between frontier research and enterprise value creation. The demands of industry push our research further, and breakthroughs in research become the foundation for new industries.\n\n“India should be a maker of the intelligence the world runs on. For me, joining Sarvam is a commitment to that opportunity. I look forward to working with the team and our c"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "line": 19,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The post frames the sales pitch as enterprises owning their AI, with the data, the models and the agents staying inside the enterprise [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+          "id": "75d2c9e1a2cd",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/75d2c9e1a2cd.txt",
+          "headline": "Sarvam names ex-Google Cloud India head Sashikumar Sreedharan President and CBO",
+          "claim": "Sarvam announced on 9 Nov 2026 that Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, joins as President, Chief Business Officer and board member. Sarvam says over 100 enterprises and government institutions are building with its full-stack offering.",
+          "quote": "Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering.",
+          "published": "2026-11-09",
+          "context": "ss Officer and a member of our board of directors. Sashi will lead our business across enterprises and government, and expand our work with digital native companies, developers and partners. He will also be responsible for Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations functions for the company.\n\nSashi joins us from Google Cloud, where he most recently served as Managing Director for India. He brings more than three decades of experience building and leading technology businesses. Previously, he led Microsoft India’s enterprise business as Managing Director for over five years.\n\nSashi joins us as our work with customers grows in scale and scope. Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering. The next phase of Sarvam is about advancing our research, developing products loved by people around the world, and building a company that can operate at a much greater scale.\n\nEvery enterprise should own its AI. The data, the models and the agents stay inside the enterprise, and so does the value they create. We see a symbiotic relationship between frontier research and enterprise value creation. The demands of industry push our research further, and breakthroughs in research become the foundation for new industries.\n\n“India should be a maker of the intelligence the world runs on. For me, joining Sarvam is a commitment to that opportunity. I look forward to working with the team and our c"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "line": 21,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam's changelog for 9 Nov added a beta endpoint, POST /voices/watermark/detect, which checks whether an uploaded clip carries the Sarvam STFT watermark embedded by Instant Voice Cloning [Sarvam API docs](https://docs.sarvam.ai/changelog).",
+      "evidence": [
+        {
+          "chip": "Sarvam API docs",
+          "url": "https://docs.sarvam.ai/changelog",
+          "id": "6b94d7948351",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6b94d7948351.txt",
+          "headline": "Sarvam adds watermark detection endpoint for Instant Voice Cloning",
+          "claim": "Sarvam's changelog for 9 Nov 2026 lists a beta endpoint POST /voices/watermark/detect that checks whether a clip carries the Sarvam STFT watermark; max 10 MB upload, rate limited to 5 requests per minute, consumes no credits.",
+          "quote": "Instant Voice Cloning (beta) now exposes POST /voices/watermark/detect.",
+          "published": "2026-11-11",
+          "context": "arrow the timeline to a single product - Model APIs, Voice Agents, Document AI, Content Studio, or Cowork.\n\nSubscribe to updates: append .rss, .atom, or .json to this page’s URL - e.g. https://docs.sarvam.ai/changelog.rss.\n\nRequest a feature\n\nSelect filters\n\nNov 11, 2026\n\nExperiments for campaigns (Beta)\n\nYou can now run an experiment (beta) on an outbound campaign: split calls across two to five committed versions of the same agent and choose each version’s share of traffic. Use it to try a new greeting, prompt, or flow on real calls before you roll it out to everyone — including a cautious 90/10 rollout. See Experiments.\n\nVoice Agents\n\nNov 9, 2026\n\nInstant Voice Cloning: detect watermark\n\nInstant Voice Cloning (beta) now exposes POST /voices/watermark/detect. Upload a clip to check whether it carries the Sarvam STFT watermark embedded by Instant Voice Cloning generation.\n\nMultipart file upload; max 10 MB; analysis capped at 120 seconds.\n\nResponse data.verdict is watermarked, not_detected, or inconclusive (short clips under about 5 seconds are usually inconclusive).\n\nAuth via api-subscription-key. Rate limited to 5 requests per minute. Consumes no credits.\n\nModel APIs\n\nNov 7, 2026\n\nLower price for DeepSeek V4.1 Flash 1017\n\ndeepseekv4.1-flash-1017 now costs ₹14 input, ₹0.25 cached input, and ₹55 output per 1M tokens, down from ₹25, ₹0.5, and ₹105. See Pricing.\n\nFor faster output, the interactive variant, deepseekv4.1-flash-1017-interactive, genera"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "line": 23,
+      "section": "Sarvam and the Indian labs",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "The detector takes a multipart upload of up to 10 MB, analyses at most 120 seconds, is rate limited to 5 requests per minute and consumes no credits [Sarvam changelog](https://docs.sarvam.ai/changelog).",
+      "evidence": [
+        {
+          "chip": "Sarvam changelog",
+          "url": "https://docs.sarvam.ai/changelog",
+          "id": "6b94d7948351",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6b94d7948351.txt",
+          "headline": "Sarvam adds watermark detection endpoint for Instant Voice Cloning",
+          "claim": "Sarvam's changelog for 9 Nov 2026 lists a beta endpoint POST /voices/watermark/detect that checks whether a clip carries the Sarvam STFT watermark; max 10 MB upload, rate limited to 5 requests per minute, consumes no credits.",
+          "quote": "Instant Voice Cloning (beta) now exposes POST /voices/watermark/detect.",
+          "published": "2026-11-11",
+          "context": "arrow the timeline to a single product - Model APIs, Voice Agents, Document AI, Content Studio, or Cowork.\n\nSubscribe to updates: append .rss, .atom, or .json to this page’s URL - e.g. https://docs.sarvam.ai/changelog.rss.\n\nRequest a feature\n\nSelect filters\n\nNov 11, 2026\n\nExperiments for campaigns (Beta)\n\nYou can now run an experiment (beta) on an outbound campaign: split calls across two to five committed versions of the same agent and choose each version’s share of traffic. Use it to try a new greeting, prompt, or flow on real calls before you roll it out to everyone — including a cautious 90/10 rollout. See Experiments.\n\nVoice Agents\n\nNov 9, 2026\n\nInstant Voice Cloning: detect watermark\n\nInstant Voice Cloning (beta) now exposes POST /voices/watermark/detect. Upload a clip to check whether it carries the Sarvam STFT watermark embedded by Instant Voice Cloning generation.\n\nMultipart file upload; max 10 MB; analysis capped at 120 seconds.\n\nResponse data.verdict is watermarked, not_detected, or inconclusive (short clips under about 5 seconds are usually inconclusive).\n\nAuth via api-subscription-key. Rate limited to 5 requests per minute. Consumes no credits.\n\nModel APIs\n\nNov 7, 2026\n\nLower price for DeepSeek V4.1 Flash 1017\n\ndeepseekv4.1-flash-1017 now costs ₹14 input, ₹0.25 cached input, and ₹55 output per 1M tokens, down from ₹25, ₹0.5, and ₹105. See Pricing.\n\nFor faster output, the interactive variant, deepseekv4.1-flash-1017-interactive, genera"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "line": 24,
+      "section": "Sarvam and the Indian labs",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "It answers watermarked, not_detected or inconclusive, and the docs warn that clips under about 5 seconds are usually inconclusive [Sarvam API docs](https://docs.sarvam.ai/changelog).",
+      "evidence": [
+        {
+          "chip": "Sarvam API docs",
+          "url": "https://docs.sarvam.ai/changelog",
+          "id": "6b94d7948351",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6b94d7948351.txt",
+          "headline": "Sarvam adds watermark detection endpoint for Instant Voice Cloning",
+          "claim": "Sarvam's changelog for 9 Nov 2026 lists a beta endpoint POST /voices/watermark/detect that checks whether a clip carries the Sarvam STFT watermark; max 10 MB upload, rate limited to 5 requests per minute, consumes no credits.",
+          "quote": "Instant Voice Cloning (beta) now exposes POST /voices/watermark/detect.",
+          "published": "2026-11-11",
+          "context": "arrow the timeline to a single product - Model APIs, Voice Agents, Document AI, Content Studio, or Cowork.\n\nSubscribe to updates: append .rss, .atom, or .json to this page’s URL - e.g. https://docs.sarvam.ai/changelog.rss.\n\nRequest a feature\n\nSelect filters\n\nNov 11, 2026\n\nExperiments for campaigns (Beta)\n\nYou can now run an experiment (beta) on an outbound campaign: split calls across two to five committed versions of the same agent and choose each version’s share of traffic. Use it to try a new greeting, prompt, or flow on real calls before you roll it out to everyone — including a cautious 90/10 rollout. See Experiments.\n\nVoice Agents\n\nNov 9, 2026\n\nInstant Voice Cloning: detect watermark\n\nInstant Voice Cloning (beta) now exposes POST /voices/watermark/detect. Upload a clip to check whether it carries the Sarvam STFT watermark embedded by Instant Voice Cloning generation.\n\nMultipart file upload; max 10 MB; analysis capped at 120 seconds.\n\nResponse data.verdict is watermarked, not_detected, or inconclusive (short clips under about 5 seconds are usually inconclusive).\n\nAuth via api-subscription-key. Rate limited to 5 requests per minute. Consumes no credits.\n\nModel APIs\n\nNov 7, 2026\n\nLower price for DeepSeek V4.1 Flash 1017\n\ndeepseekv4.1-flash-1017 now costs ₹14 input, ₹0.25 cached input, and ₹55 output per 1M tokens, down from ₹25, ₹0.5, and ₹105. See Pricing.\n\nFor faster output, the interactive variant, deepseekv4.1-flash-1017-interactive, genera"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "line": 25,
+      "section": "Sarvam and the Indian labs",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "On 11 Nov Sarvam added Experiments for campaigns (beta), which splits outbound calls across two to five committed versions of the same voice agent with a traffic share you choose, including a 90/10 rollout [Sarvam changelog](https://docs.sarvam.ai/changelog).",
+      "evidence": [
+        {
+          "chip": "Sarvam changelog",
+          "url": "https://docs.sarvam.ai/changelog",
+          "id": "6b94d7948351",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6b94d7948351.txt",
+          "headline": "Sarvam adds watermark detection endpoint for Instant Voice Cloning",
+          "claim": "Sarvam's changelog for 9 Nov 2026 lists a beta endpoint POST /voices/watermark/detect that checks whether a clip carries the Sarvam STFT watermark; max 10 MB upload, rate limited to 5 requests per minute, consumes no credits.",
+          "quote": "Instant Voice Cloning (beta) now exposes POST /voices/watermark/detect.",
+          "published": "2026-11-11",
+          "context": "arrow the timeline to a single product - Model APIs, Voice Agents, Document AI, Content Studio, or Cowork.\n\nSubscribe to updates: append .rss, .atom, or .json to this page’s URL - e.g. https://docs.sarvam.ai/changelog.rss.\n\nRequest a feature\n\nSelect filters\n\nNov 11, 2026\n\nExperiments for campaigns (Beta)\n\nYou can now run an experiment (beta) on an outbound campaign: split calls across two to five committed versions of the same agent and choose each version’s share of traffic. Use it to try a new greeting, prompt, or flow on real calls before you roll it out to everyone — including a cautious 90/10 rollout. See Experiments.\n\nVoice Agents\n\nNov 9, 2026\n\nInstant Voice Cloning: detect watermark\n\nInstant Voice Cloning (beta) now exposes POST /voices/watermark/detect. Upload a clip to check whether it carries the Sarvam STFT watermark embedded by Instant Voice Cloning generation.\n\nMultipart file upload; max 10 MB; analysis capped at 120 seconds.\n\nResponse data.verdict is watermarked, not_detected, or inconclusive (short clips under about 5 seconds are usually inconclusive).\n\nAuth via api-subscription-key. Rate limited to 5 requests per minute. Consumes no credits.\n\nModel APIs\n\nNov 7, 2026\n\nLower price for DeepSeek V4.1 Flash 1017\n\ndeepseekv4.1-flash-1017 now costs ₹14 input, ₹0.25 cached input, and ₹55 output per 1M tokens, down from ₹25, ₹0.5, and ₹105. See Pricing.\n\nFor faster output, the interactive variant, deepseekv4.1-flash-1017-interactive, genera"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "line": 27,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The experiments feature is A/B testing for phone bots: the changelog pitches it as a way to try a new greeting, prompt or flow on real calls before rolling it out to everyone [Sarvam API docs](https://docs.sarvam.ai/changelog).",
+      "evidence": [
+        {
+          "chip": "Sarvam API docs",
+          "url": "https://docs.sarvam.ai/changelog",
+          "id": "6b94d7948351",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6b94d7948351.txt",
+          "headline": "Sarvam adds watermark detection endpoint for Instant Voice Cloning",
+          "claim": "Sarvam's changelog for 9 Nov 2026 lists a beta endpoint POST /voices/watermark/detect that checks whether a clip carries the Sarvam STFT watermark; max 10 MB upload, rate limited to 5 requests per minute, consumes no credits.",
+          "quote": "Instant Voice Cloning (beta) now exposes POST /voices/watermark/detect.",
+          "published": "2026-11-11",
+          "context": "arrow the timeline to a single product - Model APIs, Voice Agents, Document AI, Content Studio, or Cowork.\n\nSubscribe to updates: append .rss, .atom, or .json to this page’s URL - e.g. https://docs.sarvam.ai/changelog.rss.\n\nRequest a feature\n\nSelect filters\n\nNov 11, 2026\n\nExperiments for campaigns (Beta)\n\nYou can now run an experiment (beta) on an outbound campaign: split calls across two to five committed versions of the same agent and choose each version’s share of traffic. Use it to try a new greeting, prompt, or flow on real calls before you roll it out to everyone — including a cautious 90/10 rollout. See Experiments.\n\nVoice Agents\n\nNov 9, 2026\n\nInstant Voice Cloning: detect watermark\n\nInstant Voice Cloning (beta) now exposes POST /voices/watermark/detect. Upload a clip to check whether it carries the Sarvam STFT watermark embedded by Instant Voice Cloning generation.\n\nMultipart file upload; max 10 MB; analysis capped at 120 seconds.\n\nResponse data.verdict is watermarked, not_detected, or inconclusive (short clips under about 5 seconds are usually inconclusive).\n\nAuth via api-subscription-key. Rate limited to 5 requests per minute. Consumes no credits.\n\nModel APIs\n\nNov 7, 2026\n\nLower price for DeepSeek V4.1 Flash 1017\n\ndeepseekv4.1-flash-1017 now costs ₹14 input, ₹0.25 cached input, and ₹55 output per 1M tokens, down from ₹25, ₹0.5, and ₹105. See Pricing.\n\nFor faster output, the interactive variant, deepseekv4.1-flash-1017-interactive, genera"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "line": 33,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The policy story of the week came from a company, not a ministry: OpenAI will run AI requests from Indian business customers on servers inside India under what it calls API inference residency [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "line": 35,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Both the data a company submits and the computation that produces the answer stay within the country, rather than going to data centres overseas, the report says [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "line": 37,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Rules on customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad for banks and other financial firms, per [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "line": 39,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Nitin Bawankule, who heads OpenAI's enterprise business in India, said local inference gives firms more control over where supported workloads run, the outlet reports [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "line": 41,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "What you actually get is narrow for now, and the report spells it out [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises):",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "line": 43,
+      "section": "Government, compute and policy",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "One model, GPT-6 Luna, for text work such as condensing long documents, drafting replies and analysing internal material [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "line": 44,
+      "section": "Government, compute and policy",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "To switch it on, a company creates a new API project, picks India as the region for both storage and processing, and connects through the dedicated India endpoint [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "line": 45,
+      "section": "Government, compute and policy",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "Text in and out of GPT-6 Luna works through the Responses and Chat Completions APIs [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "line": 47,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On compute, the report places the launch inside OpenAI's \"OpenAI for India\" programme and notes the company earlier teamed up with the Tata Group on domestic AI data centres [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "line": 49,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "India now sits alongside Australia and Japan among markets where OpenAI has widened in-country processing, and a comparable residency option is also offered through AWS Bedrock, per [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "line": 57,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Bharat Semi, a New Delhi semiconductor startup, raised $24 million in seed funding to build AI-enabled image sensors and wants customers in the United States and elsewhere [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "line": 59,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The all-equity round was led by Info Edge Group, South Park Commons and Indus Bridge Ventures, with Valour Capital, Micromax, Gaingels and individual investors joining, per [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "line": 61,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The product idea is to put image capture, processing and AI on a single chip, so visual data does not have to travel to separate processors [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "line": 63,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Co-founder Vrinda Kapoor said this could cut system costs by at least 70% compared with setups using a separate image sensor, image signal processor and system-on-chip [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "line": 65,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "\"Our aim here is to move from sensors to sense-making solutions\", Kapoor told [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "line": 67,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The fine print matters more than the headline number, and [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/) has plenty of it:",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "line": 69,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "The nearly five-year-old startup is pre-revenue, its sensors are still under development, and it targets initial commercial production in 2027 [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 32,
+      "line": 70,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "It says it has design wins with General Atomics and India's Kaynes Semicon [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 33,
+      "line": 71,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "First-generation sensors are in prototyping; second-generation ones with more AI are expected at the prototype stage by mid-2027 and in customers' hands by the end of 2027 [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 34,
+      "line": 72,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "Target markets are smart homes, industrial automation, surveillance and aerospace; Kapoor's examples were air conditioners that sense an empty room and drones that process visuals on board [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 35,
+      "line": 73,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "It has about 75 employees across India and the U.S., including 10 to 12 in its American operations in Santa Clara, plans around 20 in the U.S. by mid-2027 and has begun hiring engineers in Europe [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 36,
+      "line": 74,
+      "section": "Startups and money",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "It plans to stay fabless, and the new money will not fund its separate proposed fabrication facility [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 37,
+      "line": 76,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Its chief technology officer, Boyd Fowler, previously held the same role at image-sensor maker OmniVision, the report says [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    },
+    {
+      "n": 38,
+      "line": 84,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Adoption numbers were thin this week, and the one hard figure came from a vendor: Sarvam says over 100 enterprises and government institutions are building with its full-stack offering [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+          "id": "75d2c9e1a2cd",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/75d2c9e1a2cd.txt",
+          "headline": "Sarvam names ex-Google Cloud India head Sashikumar Sreedharan President and CBO",
+          "claim": "Sarvam announced on 9 Nov 2026 that Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, joins as President, Chief Business Officer and board member. Sarvam says over 100 enterprises and government institutions are building with its full-stack offering.",
+          "quote": "Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering.",
+          "published": "2026-11-09",
+          "context": "ss Officer and a member of our board of directors. Sashi will lead our business across enterprises and government, and expand our work with digital native companies, developers and partners. He will also be responsible for Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations functions for the company.\n\nSashi joins us from Google Cloud, where he most recently served as Managing Director for India. He brings more than three decades of experience building and leading technology businesses. Previously, he led Microsoft India’s enterprise business as Managing Director for over five years.\n\nSashi joins us as our work with customers grows in scale and scope. Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering. The next phase of Sarvam is about advancing our research, developing products loved by people around the world, and building a company that can operate at a much greater scale.\n\nEvery enterprise should own its AI. The data, the models and the agents stay inside the enterprise, and so does the value they create. We see a symbiotic relationship between frontier research and enterprise value creation. The demands of industry push our research further, and breakthroughs in research become the foundation for new industries.\n\n“India should be a maker of the intelligence the world runs on. For me, joining Sarvam is a commitment to that opportunity. I look forward to working with the team and our c"
+        }
+      ]
+    },
+    {
+      "n": 39,
+      "line": 86,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "IT Voice reports that banks and financial firms had been cautious about AI for serious work because of in-country rules, and that local processing lets them use it for routine tasks without sending data across the border [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 40,
+      "line": 88,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Bawankule also said local inference should give Indian developers and startups more room to build products for domestic and enterprise needs, per [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 41,
+      "line": 90,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On the voice side, Sarvam's new campaign experiments are built for outbound calls, letting a team test a new greeting or flow on real calls with a cautious 90/10 split before a full rollout [Sarvam changelog](https://docs.sarvam.ai/changelog).",
+      "evidence": [
+        {
+          "chip": "Sarvam changelog",
+          "url": "https://docs.sarvam.ai/changelog",
+          "id": "6b94d7948351",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6b94d7948351.txt",
+          "headline": "Sarvam adds watermark detection endpoint for Instant Voice Cloning",
+          "claim": "Sarvam's changelog for 9 Nov 2026 lists a beta endpoint POST /voices/watermark/detect that checks whether a clip carries the Sarvam STFT watermark; max 10 MB upload, rate limited to 5 requests per minute, consumes no credits.",
+          "quote": "Instant Voice Cloning (beta) now exposes POST /voices/watermark/detect.",
+          "published": "2026-11-11",
+          "context": "arrow the timeline to a single product - Model APIs, Voice Agents, Document AI, Content Studio, or Cowork.\n\nSubscribe to updates: append .rss, .atom, or .json to this page’s URL - e.g. https://docs.sarvam.ai/changelog.rss.\n\nRequest a feature\n\nSelect filters\n\nNov 11, 2026\n\nExperiments for campaigns (Beta)\n\nYou can now run an experiment (beta) on an outbound campaign: split calls across two to five committed versions of the same agent and choose each version’s share of traffic. Use it to try a new greeting, prompt, or flow on real calls before you roll it out to everyone — including a cautious 90/10 rollout. See Experiments.\n\nVoice Agents\n\nNov 9, 2026\n\nInstant Voice Cloning: detect watermark\n\nInstant Voice Cloning (beta) now exposes POST /voices/watermark/detect. Upload a clip to check whether it carries the Sarvam STFT watermark embedded by Instant Voice Cloning generation.\n\nMultipart file upload; max 10 MB; analysis capped at 120 seconds.\n\nResponse data.verdict is watermarked, not_detected, or inconclusive (short clips under about 5 seconds are usually inconclusive).\n\nAuth via api-subscription-key. Rate limited to 5 requests per minute. Consumes no credits.\n\nModel APIs\n\nNov 7, 2026\n\nLower price for DeepSeek V4.1 Flash 1017\n\ndeepseekv4.1-flash-1017 now costs ₹14 input, ₹0.25 cached input, and ₹55 output per 1M tokens, down from ₹25, ₹0.5, and ₹105. See Pricing.\n\nFor faster output, the interactive variant, deepseekv4.1-flash-1017-interactive, genera"
+        }
+      ]
+    },
+    {
+      "n": 42,
+      "line": 98,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Sarvam Voice Agents MCP webinar** - for developers building voice agents on Sarvam, 18 Nov at 4 PM IST, registration linked from Sarvam's site [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+          "id": "75d2c9e1a2cd",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/75d2c9e1a2cd.txt",
+          "headline": "Sarvam names ex-Google Cloud India head Sashikumar Sreedharan President and CBO",
+          "claim": "Sarvam announced on 9 Nov 2026 that Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, joins as President, Chief Business Officer and board member. Sarvam says over 100 enterprises and government institutions are building with its full-stack offering.",
+          "quote": "Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering.",
+          "published": "2026-11-09",
+          "context": "ss Officer and a member of our board of directors. Sashi will lead our business across enterprises and government, and expand our work with digital native companies, developers and partners. He will also be responsible for Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations functions for the company.\n\nSashi joins us from Google Cloud, where he most recently served as Managing Director for India. He brings more than three decades of experience building and leading technology businesses. Previously, he led Microsoft India’s enterprise business as Managing Director for over five years.\n\nSashi joins us as our work with customers grows in scale and scope. Today, over 100 enterprises and government institutions are building with Sarvam’s full-stack offering. The next phase of Sarvam is about advancing our research, developing products loved by people around the world, and building a company that can operate at a much greater scale.\n\nEvery enterprise should own its AI. The data, the models and the agents stay inside the enterprise, and so does the value they create. We see a symbiotic relationship between frontier research and enterprise value creation. The demands of industry push our research further, and breakthroughs in research become the foundation for new industries.\n\n“India should be a maker of the intelligence the world runs on. For me, joining Sarvam is a commitment to that opportunity. I look forward to working with the team and our c"
+        }
+      ]
+    },
+    {
+      "n": 43,
+      "line": 104,
+      "section": "Ideas for India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "**Deepfake checks for voice KYC.** The gap: Sarvam's new detector checks for the Sarvam STFT watermark from its own Instant Voice Cloning, and clips under about 5 seconds usually come back inconclusive [Sarvam API docs](https://docs.sarvam.ai/changelog).",
+      "evidence": [
+        {
+          "chip": "Sarvam API docs",
+          "url": "https://docs.sarvam.ai/changelog",
+          "id": "6b94d7948351",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6b94d7948351.txt",
+          "headline": "Sarvam adds watermark detection endpoint for Instant Voice Cloning",
+          "claim": "Sarvam's changelog for 9 Nov 2026 lists a beta endpoint POST /voices/watermark/detect that checks whether a clip carries the Sarvam STFT watermark; max 10 MB upload, rate limited to 5 requests per minute, consumes no credits.",
+          "quote": "Instant Voice Cloning (beta) now exposes POST /voices/watermark/detect.",
+          "published": "2026-11-11",
+          "context": "arrow the timeline to a single product - Model APIs, Voice Agents, Document AI, Content Studio, or Cowork.\n\nSubscribe to updates: append .rss, .atom, or .json to this page’s URL - e.g. https://docs.sarvam.ai/changelog.rss.\n\nRequest a feature\n\nSelect filters\n\nNov 11, 2026\n\nExperiments for campaigns (Beta)\n\nYou can now run an experiment (beta) on an outbound campaign: split calls across two to five committed versions of the same agent and choose each version’s share of traffic. Use it to try a new greeting, prompt, or flow on real calls before you roll it out to everyone — including a cautious 90/10 rollout. See Experiments.\n\nVoice Agents\n\nNov 9, 2026\n\nInstant Voice Cloning: detect watermark\n\nInstant Voice Cloning (beta) now exposes POST /voices/watermark/detect. Upload a clip to check whether it carries the Sarvam STFT watermark embedded by Instant Voice Cloning generation.\n\nMultipart file upload; max 10 MB; analysis capped at 120 seconds.\n\nResponse data.verdict is watermarked, not_detected, or inconclusive (short clips under about 5 seconds are usually inconclusive).\n\nAuth via api-subscription-key. Rate limited to 5 requests per minute. Consumes no credits.\n\nModel APIs\n\nNov 7, 2026\n\nLower price for DeepSeek V4.1 Flash 1017\n\ndeepseekv4.1-flash-1017 now costs ₹14 input, ₹0.25 cached input, and ₹55 output per 1M tokens, down from ₹25, ₹0.5, and ₹105. See Pricing.\n\nFor faster output, the interactive variant, deepseekv4.1-flash-1017-interactive, genera"
+        }
+      ]
+    },
+    {
+      "n": 44,
+      "line": 108,
+      "section": "Ideas for India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "**A residency checker for bank AI pilots.** The gap: OpenAI's India residency covers one model, GPT-6 Luna, and needs a new API project set to India for both storage and processing [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).",
+      "evidence": [
+        {
+          "chip": "IT Voice",
+          "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+          "id": "1a5b2c9d1c1c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1a5b2c9d1c1c.txt",
+          "headline": "OpenAI starts processing Indian business API requests inside India",
+          "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+          "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+          "published": "2026-11-14",
+          "context": "Home\n\nIndustry\n\nStartups\n\nGaming\n\nSoftware\n\nHealth Tech\n\nFinTech\n\nAgritech\n\nNews\n\nGadgets\n\nPC & Laptops\n\nArtificial Intelligence\n\nVisual Reality (AR, VR, MR)\n\nChannel\n\nInterview\n\nChannel Partners\n\nBusiness Leaders\n\nTech Experts\n\ne-Publishing\n\nIT Voice Newspaper\n\nIT Voice Latest Magazine\n\nIT Voice Yearbook 2025\n\nYearbook 2025 distribution Highlights\n\nITVoice Yearbook 2026\n\nIT Talks\n\nTech Shorts\n\nTech News Bulletin\n\nQuiz\n\nFacebook\n\nTwitter\n\nYoutube\n\nLinkedin\n\nInstagram\n\nEnvelope\n\nRss\n\nCopyright 2023, IT Voice Media Pvt. Ltd.\n\nAll Rights Reserved\n\nClose\n\nNovember 14, 2026\n\nNews/Technology News\n\n1 min read\n\nOpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises\n\nOpenAI will now run AI requests from Indian business customers on servers inside India. Under the new arrangement, which it calls API inference residency, both the data a company submits and the computation that produces the answer stay within the country’s borders, rather than being routed to data centres overseas.\n\nRemoving a compliance roadblock\n\nMany Indian organisations, particularly banks and other financial firms, have been cautious about deploying AI for serious work. Rules governing customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad. With both the handling of requests and the model’s calculations now happening locally, those firms can use AI for routine tasks without sending data across the"
+        }
+      ]
+    },
+    {
+      "n": 45,
+      "line": 112,
+      "section": "Ideas for India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "**Tiny vision models for on-sensor AI.** The gap: Bharat Semi's first-generation sensors are only in prototyping, and its pitch is AI on the same chip as the camera [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "id": "fc91828979fb",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc91828979fb.txt",
+          "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+          "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+          "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+          "published": "2026-11-15",
+          "context": "r maker OmniVision.\n\nBharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is empty and adjust automatically and drones that could process visual information — even with the absence of more expensive computing hardware elsewhere in the system.\n\nThe startup’s first-generation sensors are already in prototyping, while its second-generation sensors, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027, Kapoor said. Moreover, the startup plans to get those newer sensors into customers’ hands by the end of 2027.\n\nThe all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors. Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market.\n\nBharat Semi has about 75 employees across India and the U.S., including 10 to 12 in its American operations, which span engineering and business development in Santa Clara. The startup plans to increase its U.S. headcount to around 20 by mid-2027, Kapoor said. It has also begun hiring engineers in Europe.\n\n“It’s a story of can we build a global technology company out of India,” Kapoor said.\n\nIn 2024, Bharat Semi announced plans for a semiconductor fabrication p"
+        }
+      ]
+    }
+  ],
+  "unlinked": [
+    {
+      "line": 3,
+      "section": "If you only read three things",
+      "sentence": "Banks that could not send data abroad can now build on it, which means more Indian fintech AI projects and the internships that come with them."
+    },
+    {
+      "line": 4,
+      "section": "If you only read three things",
+      "sentence": "Indian money is going into edge AI hardware, not only apps, and that opens design and firmware roles for CS students."
+    },
+    {
+      "line": 5,
+      "section": "If you only read three things",
+      "sentence": "India's best-known model lab is staffing up to sell, which tells you where its next hires will sit."
+    },
+    {
+      "line": 13,
+      "section": "Sarvam and the Indian labs",
+      "sentence": "His remit is wide."
+    },
+    {
+      "line": 21,
+      "section": "Sarvam and the Indian labs",
+      "sentence": "The developer side moved too."
+    },
+    {
+      "line": 37,
+      "section": "Government, compute and policy",
+      "sentence": "The compliance angle is the point."
+    },
+    {
+      "line": 84,
+      "section": "AI in the wild in India",
+      "sentence": "That is a company counting its own customers, so treat it as reach, not usage."
+    },
+    {
+      "line": 86,
+      "section": "AI in the wild in India",
+      "sentence": "The sector most likely to move is banking."
+    }
+  ],
+  "how_to_answer": "Write factcheck-<edition>.json as {\"verdicts\": [{\"n\": N, \"verdict\": \"pass|fix|reject\", \"reason\": \"...\", \"replacement\": \"full corrected sentence incl. its chips (fix only)\"}]}. pass = every name, number, date and causal claim in the sentence is supported by the saved page(s); fix = supportable with a correction; reject = not supported by the cited page."
+}

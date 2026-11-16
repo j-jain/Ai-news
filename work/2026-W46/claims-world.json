@@ -1,0 +1,899 @@
+{
+  "week": "2026-W46",
+  "edition": "world",
+  "draft": "work/2026-W46/draft-world.md",
+  "claims": [
+    {
+      "n": 1,
+      "line": 3,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Anthropic cuts its top model's price** Claude Fable 5.2 and Claude Mythos 5.2 shipped on 9 Nov at $8 per million input tokens and $40 per million output tokens, with output up to 30% faster than the 5.1 models [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "id": "796a7f7ee338",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796a7f7ee338.txt",
+          "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 at lower prices",
+          "claim": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Nov 2026. Both generate output up to 30% faster than the 5.1 models and cost $8 per million input tokens and $40 per million output tokens.",
+          "quote": "they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "published": "2026-11-09",
+          "context": " and formalized the proof of Fermat’s Last Theorem in 30 hours—among many other applications we’ll discuss below.\n\nClaude Fable and Claude Mythos are the same underlying model. Fable has strong cybersecurity and biology safeguards to guard against misuse, which allows us to make it available to all users. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Mythos through our recently expanded Life Sciences and Cyber Verification Programs.\n\nTesters have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.\n\nFable 5.2 and Mythos 5.2 also come with an optional fast mode, which speeds up token generation by up to 2.5 times. Fast mode is available for $16 per million input tokens and $80 per million output tokens.\n\nSafety and alignment. To help ensure safety and alignment keep step with growing model capabilities, we ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes. We believe high-stakes risks from misalignment remain low, and the model performed as well as, or better than, our recent models on most alignment measures. Fable 5.2’"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "line": 4,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Anthropic sets an IPO price range** Anthropic set a range of $70 to $78 per share, will list on Nasdaq under the ticker ANT and has launched its roadshow, according to an SEC filing reported by [RTTNews](https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx).",
+      "evidence": [
+        {
+          "chip": "RTTNews",
+          "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx",
+          "id": "6078fbfff2c4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6078fbfff2c4.txt",
+          "headline": "Anthropic sets IPO range at $70-$78 per share, launches roadshow",
+          "claim": "Per an SEC filing reported by RTTNews on 10 Nov 2026, Anthropic set a $70-$78 price range, will list on Nasdaq as ANT, and launched its roadshow.",
+          "quote": "Anthropic has set a price range of $70 to $78 per share for its planned initial public offering",
+          "published": "2026-11-10",
+          "context": "th\n\nWomen's Health\n\nCancer News\n\nDrug Development\n\nMental Health\n\nSlide Shows\n\nEntertainment\n\nEntertainment News\n\nTop Stories\n\nMusic News\n\nPop\n\nRock\n\nClassic Rock\n\nRap/Hip-Hop\n\n \n\nCountry\n\nAlternative\n\nOldies\n\nAll Genre\n\nContent Licensing\n\nNewswires & Feeds\n\nContent Syndication\n\nDigital Signage Services\n\nRadio News Services\n\nPremium\n\nIntelligent Investor\n\nBiotech Investor\n\nLogin\n\nMore\n\nLatest News Videos\n\nFree Content\n\nRSS Feeds\n\nPress Releases\n\nSearch\n\nContact Us\n\nQuick Facts\n\nAnthropic Sets IPO Price Range At $70-$78 Per Share; Launches Roadshow\n\nBy RTTNews Staff Writer   ✉\n | Published: 11/10/2026 9:00 AM ET\n\n |\nFollow Us\n |\n\nJoin Us\n\nAdd as your preferred news source on Google\n\nAdd Now\n\nAnthropic has set a price range of $70 to $78 per share for its planned initial public offering (IPO), according to a filing with the U.S. Securities and Exchange Commission. The shares are expected to be listed on the Nasdaq Global Select Market under the ticker symbol \"ANT\".\n\nAnthropic today launched its marketing roadshow for the proposed IPO.\n\nThe company is offering 801.35 million Class A shares, while selling stockholders are offering an additional 23.65 million shares. Underwriters have an option to purchase up to 123.75 million additional Class A shares.\n\nSeparately, Advanced Micro Devices, Broadcom, Google, Micron Technology, Microsoft, NVIDIA and TSMC Partners have agreed to purchase an aggregate of $26 billion in Class N common stock through a private placement at the IPO p"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "line": 5,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Indic RL lifts maths, breaks language** GRPO on a 30B-A3B mixture-of-experts model covering English and eight Indic languages raised MATH by 36.07 points, but XQuAD-Indic F1 fell 19.32 points as English answers rose from 8.7% to 91.7% [Indic RL paper](https://arxiv.org/abs/2611.16228).",
+      "evidence": [
+        {
+          "chip": "Indic RL paper",
+          "url": "https://arxiv.org/abs/2611.16228",
+          "id": "d1d5743b5ef3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/d1d5743b5ef3.txt",
+          "headline": "Indic RL study: MATH up 36 points, XQuAD-Indic F1 down 19",
+          "claim": "GRPO on a 30B-A3B MoE covering English and eight Indic languages improved MATH by 36.07 points but cut XQuAD-Indic F1 by 19.32 as English answers rose from 8.7% to 91.7%. Script compliance stayed unresolved.",
+          "quote": "MATH improves by 36.07 points, and most Indic benchmarks also improve. Yet XQuAD-Indic F1 falls 19.32 points",
+          "published": "2026-11-12",
+          "context": "Nov 2026 (v1), last revised 13 Nov 2026 (this version, v2)]\n\nTitle:Indic-Task Gains and Regressions after Reinforcement Learning\n\nAuthors:Sutanshu Saksena Raj, Daksh Maan, Avinash Benki, Parijat Chatterjee, Pasunuti Prasanjith, Purusharth Malik\n\nView a PDF of the paper titled Indic-Task Gains and Regressions after Reinforcement Learning, by Sutanshu Saksena Raj and 5 other authors\n\nView PDF\nHTML (experimental)\n\nAbstract:We run reinforcement learning (RL) with GRPO across four environments, starting from a supervised fine-tuned 30B-A3B mixture-of-experts model covering English and eight Indic languages. We compare the model before and after RL across 34 benchmarks in one evaluation campaign. MATH improves by 36.07 points, and most Indic benchmarks also improve. Yet XQuAD-Indic F1 falls 19.32 points as English answers rise from 8.7% to 91.7%; IndicQA falls 8.64, while English XQuAD gains 11.71 F1. A second RL run from the same supervised initialization adds an Indic environment together with language and repetition rewards. Compared with the released model, it improves both passage-answering and instruction-following benchmarks, along with preserving MATH performance. But it loses ground on reasoning and coding benchmarks. Several training choices changed together, so we cannot isolate the effect of any one of the reward terms. Script compliance remains unresolved. Adding a language reward did not ensure use of the requested script. Passage answering and script compliance therefore nee"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "line": 9,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Nov, and says the two are the same underlying model: Fable carries cybersecurity and biology safeguards so it can be offered to all users, while Mythos goes to organisations accepted into its Life Sciences and Cyber Verification Programs [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "id": "796a7f7ee338",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796a7f7ee338.txt",
+          "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 at lower prices",
+          "claim": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Nov 2026. Both generate output up to 30% faster than the 5.1 models and cost $8 per million input tokens and $40 per million output tokens.",
+          "quote": "they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "published": "2026-11-09",
+          "context": " and formalized the proof of Fermat’s Last Theorem in 30 hours—among many other applications we’ll discuss below.\n\nClaude Fable and Claude Mythos are the same underlying model. Fable has strong cybersecurity and biology safeguards to guard against misuse, which allows us to make it available to all users. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Mythos through our recently expanded Life Sciences and Cyber Verification Programs.\n\nTesters have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.\n\nFable 5.2 and Mythos 5.2 also come with an optional fast mode, which speeds up token generation by up to 2.5 times. Fast mode is available for $16 per million input tokens and $80 per million output tokens.\n\nSafety and alignment. To help ensure safety and alignment keep step with growing model capabilities, we ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes. We believe high-stakes risks from misalignment remain low, and the model performed as well as, or better than, our recent models on most alignment measures. Fable 5.2’"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "line": 11,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The price drop comes with a speed option: both models generate output up to 30% faster than the 5.1 versions at $8 per million input tokens and $40 per million output tokens, and an optional fast mode that speeds up generation by up to 2.5 times costs $16 per million input tokens and $80 per million output tokens [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "id": "796a7f7ee338",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796a7f7ee338.txt",
+          "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 at lower prices",
+          "claim": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Nov 2026. Both generate output up to 30% faster than the 5.1 models and cost $8 per million input tokens and $40 per million output tokens.",
+          "quote": "they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "published": "2026-11-09",
+          "context": " and formalized the proof of Fermat’s Last Theorem in 30 hours—among many other applications we’ll discuss below.\n\nClaude Fable and Claude Mythos are the same underlying model. Fable has strong cybersecurity and biology safeguards to guard against misuse, which allows us to make it available to all users. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Mythos through our recently expanded Life Sciences and Cyber Verification Programs.\n\nTesters have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.\n\nFable 5.2 and Mythos 5.2 also come with an optional fast mode, which speeds up token generation by up to 2.5 times. Fast mode is available for $16 per million input tokens and $80 per million output tokens.\n\nSafety and alignment. To help ensure safety and alignment keep step with growing model capabilities, we ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes. We believe high-stakes risks from misalignment remain low, and the model performed as well as, or better than, our recent models on most alignment measures. Fable 5.2’"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "line": 13,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On Anthropic's own table, Fable 5.2 scores 49.1% on FrontierCode 2.0 at Xhigh effort against 45.5% for Opus 5.5, 42.8% for GPT-6 Astra and 41.1% for Gemini 4 Carbon, and 69.9% on FrontierSWE v2 against 62.3% for Opus 5.5 [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "id": "796a7f7ee338",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796a7f7ee338.txt",
+          "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 at lower prices",
+          "claim": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Nov 2026. Both generate output up to 30% faster than the 5.1 models and cost $8 per million input tokens and $40 per million output tokens.",
+          "quote": "they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "published": "2026-11-09",
+          "context": " and formalized the proof of Fermat’s Last Theorem in 30 hours—among many other applications we’ll discuss below.\n\nClaude Fable and Claude Mythos are the same underlying model. Fable has strong cybersecurity and biology safeguards to guard against misuse, which allows us to make it available to all users. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Mythos through our recently expanded Life Sciences and Cyber Verification Programs.\n\nTesters have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.\n\nFable 5.2 and Mythos 5.2 also come with an optional fast mode, which speeds up token generation by up to 2.5 times. Fast mode is available for $16 per million input tokens and $80 per million output tokens.\n\nSafety and alignment. To help ensure safety and alignment keep step with growing model capabilities, we ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes. We believe high-stakes risks from misalignment remain low, and the model performed as well as, or better than, our recent models on most alignment measures. Fable 5.2’"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "line": 15,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The cost claim is the more useful one: Anthropic says Fable 5.2 at High effort scores about the same as Opus 5.5's best FrontierCode result (45.3% against 45.5%) for roughly half the cost per task [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "id": "796a7f7ee338",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796a7f7ee338.txt",
+          "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 at lower prices",
+          "claim": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Nov 2026. Both generate output up to 30% faster than the 5.1 models and cost $8 per million input tokens and $40 per million output tokens.",
+          "quote": "they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "published": "2026-11-09",
+          "context": " and formalized the proof of Fermat’s Last Theorem in 30 hours—among many other applications we’ll discuss below.\n\nClaude Fable and Claude Mythos are the same underlying model. Fable has strong cybersecurity and biology safeguards to guard against misuse, which allows us to make it available to all users. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Mythos through our recently expanded Life Sciences and Cyber Verification Programs.\n\nTesters have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.\n\nFable 5.2 and Mythos 5.2 also come with an optional fast mode, which speeds up token generation by up to 2.5 times. Fast mode is available for $16 per million input tokens and $80 per million output tokens.\n\nSafety and alignment. To help ensure safety and alignment keep step with growing model capabilities, we ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes. We believe high-stakes risks from misalignment remain low, and the model performed as well as, or better than, our recent models on most alignment measures. Fable 5.2’"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "line": 17,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In prerelease testing, Anthropic says the models formalized the proof of Fermat's Last Theorem in Lean in 30 hours with about 1,000 agents, designed three working electronic devices from scratch and solved two open problems in the physics of black holes [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "id": "796a7f7ee338",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796a7f7ee338.txt",
+          "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 at lower prices",
+          "claim": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Nov 2026. Both generate output up to 30% faster than the 5.1 models and cost $8 per million input tokens and $40 per million output tokens.",
+          "quote": "they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "published": "2026-11-09",
+          "context": " and formalized the proof of Fermat’s Last Theorem in 30 hours—among many other applications we’ll discuss below.\n\nClaude Fable and Claude Mythos are the same underlying model. Fable has strong cybersecurity and biology safeguards to guard against misuse, which allows us to make it available to all users. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Mythos through our recently expanded Life Sciences and Cyber Verification Programs.\n\nTesters have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.\n\nFable 5.2 and Mythos 5.2 also come with an optional fast mode, which speeds up token generation by up to 2.5 times. Fast mode is available for $16 per million input tokens and $80 per million output tokens.\n\nSafety and alignment. To help ensure safety and alignment keep step with growing model capabilities, we ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes. We believe high-stakes risks from misalignment remain low, and the model performed as well as, or better than, our recent models on most alignment measures. Fable 5.2’"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "line": 19,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Anthropic still recommends that users start most coding and knowledge tasks on Claude Opus 5.5 and move up to Fable or Mythos only for the most ambitious, open-ended work; Fable 5.2 can also act as an Advisor that Haiku, Sonnet or Opus consult, or as an Orchestrator that hands simpler tasks to smaller models [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "id": "796a7f7ee338",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796a7f7ee338.txt",
+          "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 at lower prices",
+          "claim": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Nov 2026. Both generate output up to 30% faster than the 5.1 models and cost $8 per million input tokens and $40 per million output tokens.",
+          "quote": "they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "published": "2026-11-09",
+          "context": " and formalized the proof of Fermat’s Last Theorem in 30 hours—among many other applications we’ll discuss below.\n\nClaude Fable and Claude Mythos are the same underlying model. Fable has strong cybersecurity and biology safeguards to guard against misuse, which allows us to make it available to all users. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Mythos through our recently expanded Life Sciences and Cyber Verification Programs.\n\nTesters have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.\n\nFable 5.2 and Mythos 5.2 also come with an optional fast mode, which speeds up token generation by up to 2.5 times. Fast mode is available for $16 per million input tokens and $80 per million output tokens.\n\nSafety and alignment. To help ensure safety and alignment keep step with growing model capabilities, we ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes. We believe high-stakes risks from misalignment remain low, and the model performed as well as, or better than, our recent models on most alignment measures. Fable 5.2’"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "line": 21,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On safety, Anthropic says high-stakes risks from misalignment remain low, that Fable 5.2's safeguards produce fewer unnecessary blocks than Fable 5.1's, and that preserved thinking, an API feature that stops distillers editing Claude's prior context to extract its reasoning, now applies to all accounts [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "id": "796a7f7ee338",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796a7f7ee338.txt",
+          "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 at lower prices",
+          "claim": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Nov 2026. Both generate output up to 30% faster than the 5.1 models and cost $8 per million input tokens and $40 per million output tokens.",
+          "quote": "they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "published": "2026-11-09",
+          "context": " and formalized the proof of Fermat’s Last Theorem in 30 hours—among many other applications we’ll discuss below.\n\nClaude Fable and Claude Mythos are the same underlying model. Fable has strong cybersecurity and biology safeguards to guard against misuse, which allows us to make it available to all users. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Mythos through our recently expanded Life Sciences and Cyber Verification Programs.\n\nTesters have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.\n\nFable 5.2 and Mythos 5.2 also come with an optional fast mode, which speeds up token generation by up to 2.5 times. Fast mode is available for $16 per million input tokens and $80 per million output tokens.\n\nSafety and alignment. To help ensure safety and alignment keep step with growing model capabilities, we ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes. We believe high-stakes risks from misalignment remain low, and the model performed as well as, or better than, our recent models on most alignment measures. Fable 5.2’"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "line": 27,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Salesforce released SOV-Transcribe-1 on 12 Nov, an open-weight speech-to-text model with 4 billion active parameters (26 billion total) under the Apache 2.0 licence, built for non-streaming transcription [Salesforce blog](https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1).",
+      "evidence": [
+        {
+          "chip": "Salesforce blog",
+          "url": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1",
+          "id": "aeed48585495",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/aeed48585495.txt",
+          "headline": "Salesforce releases SOV-Transcribe-1, Apache 2.0 speech-to-text model",
+          "claim": "Salesforce released SOV-Transcribe-1, a 4B-active (26B total) open-weight ASR model under Apache 2.0, reporting 2.28% AA-WER versus 2.81% for NVIDIA's Nemotron 3.5 Transcribe, with rankings as of 12 Nov 2026.",
+          "quote": "We’re releasing the weights today on Hugging Face under the Apache 2.0 license.",
+          "published": "2026-11-12",
+          "context": "en just the clip’s keywords, SOV-Transcribe-1 raises its keyword F1, a measure of how accurately those names are transcribed, from 71.9 to 96.8. Given the full list, it still scores 94.0, the highest of the open-weight models.\n\nBenchmark Results\n\nFull results for SOV-Transcribe-1, NVIDIA’s Nemotron 3.5 Transcribe, Alibaba’s Qwen3-ASR 1.7B, IBM’s Granite Speech 5.0 2B, and Mistral’s Voxtral Small 24B, across the benchmarks above plus Open ASR (English and multilingual) and ContextASR-Bench.\n\nBuild with the Model\n\nWith SOV-Transcribe-1, developers and enterprises can build voice agents, dictation tools, and call transcription while keeping critical intelligence on infrastructure they control. We’re releasing the weights today on Hugging Face under the Apache 2.0 license.\n\nTry it now on Hugging Face\n\nRead the technical report (coming soon)\n\nCore Contributors\n\nMissionforce Sovereign AI: Tanay Dixit, Daniel Lee, Ansh Moraje, Aman Gupta, Young Mo Kang, Alexey Dyakov, Kah Mun Chia, John Emmons\n\nModels mentioned in this article 1\n\nsalesforce-sovereign-intelligence/SOV-Transcribe-1\n\nAutomatic Speech Recognition • 27B • Updated 4 days ago • 463 • 58\n\nCommunity\n\nEditPreview\n\nUpload images, audio, and videos by dragging in the text input, pasting, or clicking here.\n\nTap or paste here to upload images\n\nComment\n· Sign up or log in to comment\n\nUpvote\n31\n\n+19\n\nModels mentioned in this article 1\n\nsalesforce-sovereign-intelligence/SOV-Transcribe-1\n\nAutomatic Speech Recogni"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "line": 29,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Its reported Artificial Analysis word error rate is 2.28%, against 2.81% for NVIDIA's Nemotron 3.5 Transcribe at the same active parameter count and 2.77% for Mistral's Voxtral Small 24B; on a call-centre benchmark spanning 14 English accents it averages 8.21% and has the lowest error rate on 8 of them, Indian English included [Salesforce blog](https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1).",
+      "evidence": [
+        {
+          "chip": "Salesforce blog",
+          "url": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1",
+          "id": "aeed48585495",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/aeed48585495.txt",
+          "headline": "Salesforce releases SOV-Transcribe-1, Apache 2.0 speech-to-text model",
+          "claim": "Salesforce released SOV-Transcribe-1, a 4B-active (26B total) open-weight ASR model under Apache 2.0, reporting 2.28% AA-WER versus 2.81% for NVIDIA's Nemotron 3.5 Transcribe, with rankings as of 12 Nov 2026.",
+          "quote": "We’re releasing the weights today on Hugging Face under the Apache 2.0 license.",
+          "published": "2026-11-12",
+          "context": "en just the clip’s keywords, SOV-Transcribe-1 raises its keyword F1, a measure of how accurately those names are transcribed, from 71.9 to 96.8. Given the full list, it still scores 94.0, the highest of the open-weight models.\n\nBenchmark Results\n\nFull results for SOV-Transcribe-1, NVIDIA’s Nemotron 3.5 Transcribe, Alibaba’s Qwen3-ASR 1.7B, IBM’s Granite Speech 5.0 2B, and Mistral’s Voxtral Small 24B, across the benchmarks above plus Open ASR (English and multilingual) and ContextASR-Bench.\n\nBuild with the Model\n\nWith SOV-Transcribe-1, developers and enterprises can build voice agents, dictation tools, and call transcription while keeping critical intelligence on infrastructure they control. We’re releasing the weights today on Hugging Face under the Apache 2.0 license.\n\nTry it now on Hugging Face\n\nRead the technical report (coming soon)\n\nCore Contributors\n\nMissionforce Sovereign AI: Tanay Dixit, Daniel Lee, Ansh Moraje, Aman Gupta, Young Mo Kang, Alexey Dyakov, Kah Mun Chia, John Emmons\n\nModels mentioned in this article 1\n\nsalesforce-sovereign-intelligence/SOV-Transcribe-1\n\nAutomatic Speech Recognition • 27B • Updated 4 days ago • 463 • 58\n\nCommunity\n\nEditPreview\n\nUpload images, audio, and videos by dragging in the text input, pasting, or clicking here.\n\nTap or paste here to upload images\n\nComment\n· Sign up or log in to comment\n\nUpvote\n31\n\n+19\n\nModels mentioned in this article 1\n\nsalesforce-sovereign-intelligence/SOV-Transcribe-1\n\nAutomatic Speech Recogni"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "line": 31,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The model also takes instructions on formatting and a list of keywords to boost; given only a clip's own keywords, its keyword F1 on Contextual Earnings-22 rises from 71.9 to 96.8, according to Salesforce's own reported results [Salesforce blog](https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1).",
+      "evidence": [
+        {
+          "chip": "Salesforce blog",
+          "url": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1",
+          "id": "aeed48585495",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/aeed48585495.txt",
+          "headline": "Salesforce releases SOV-Transcribe-1, Apache 2.0 speech-to-text model",
+          "claim": "Salesforce released SOV-Transcribe-1, a 4B-active (26B total) open-weight ASR model under Apache 2.0, reporting 2.28% AA-WER versus 2.81% for NVIDIA's Nemotron 3.5 Transcribe, with rankings as of 12 Nov 2026.",
+          "quote": "We’re releasing the weights today on Hugging Face under the Apache 2.0 license.",
+          "published": "2026-11-12",
+          "context": "en just the clip’s keywords, SOV-Transcribe-1 raises its keyword F1, a measure of how accurately those names are transcribed, from 71.9 to 96.8. Given the full list, it still scores 94.0, the highest of the open-weight models.\n\nBenchmark Results\n\nFull results for SOV-Transcribe-1, NVIDIA’s Nemotron 3.5 Transcribe, Alibaba’s Qwen3-ASR 1.7B, IBM’s Granite Speech 5.0 2B, and Mistral’s Voxtral Small 24B, across the benchmarks above plus Open ASR (English and multilingual) and ContextASR-Bench.\n\nBuild with the Model\n\nWith SOV-Transcribe-1, developers and enterprises can build voice agents, dictation tools, and call transcription while keeping critical intelligence on infrastructure they control. We’re releasing the weights today on Hugging Face under the Apache 2.0 license.\n\nTry it now on Hugging Face\n\nRead the technical report (coming soon)\n\nCore Contributors\n\nMissionforce Sovereign AI: Tanay Dixit, Daniel Lee, Ansh Moraje, Aman Gupta, Young Mo Kang, Alexey Dyakov, Kah Mun Chia, John Emmons\n\nModels mentioned in this article 1\n\nsalesforce-sovereign-intelligence/SOV-Transcribe-1\n\nAutomatic Speech Recognition • 27B • Updated 4 days ago • 463 • 58\n\nCommunity\n\nEditPreview\n\nUpload images, audio, and videos by dragging in the text input, pasting, or clicking here.\n\nTap or paste here to upload images\n\nComment\n· Sign up or log in to comment\n\nUpvote\n31\n\n+19\n\nModels mentioned in this article 1\n\nsalesforce-sovereign-intelligence/SOV-Transcribe-1\n\nAutomatic Speech Recogni"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "line": 33,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Zyphra's ZONOS3-Mini goes the other way on size: an Apache 2.0 text-to-speech model with voice cloning and about 100M active parameters out of 800M total, supporting 43 languages including Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Punjabi, Odia and Urdu [Zyphra model card](https://huggingface.co/Zyphra/ZONOS3-Mini).",
+      "evidence": [
+        {
+          "chip": "Zyphra model card",
+          "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+          "id": "2250172890a0",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2250172890a0.txt",
+          "headline": "Zyphra releases ZONOS3-Mini, 100M-active open text-to-speech model",
+          "claim": "Zyphra's ZONOS3-Mini is an open-source text-to-speech model with 100 million active parameters, 43 languages including Hindi, Bengali and Tamil, voice cloning, and Apache 2.0 weights; the card lists llama.cpp, Ollama and LM Studio usage.",
+          "quote": "It runs in real time on phones and laptops, including directly in the browser.",
+          "published": "2026-11-12",
+          "context": "yphra/ZONOS3-Mini with Docker Model Runner:\n\ndocker model run hf.co/Zyphra/ZONOS3-Mini\n\nLemonade\nHow to use Zyphra/ZONOS3-Mini with Lemonade:\n\nPull the model\n\n# Download Lemonade from https://lemonade-server.ai/\nlemonade pull Zyphra/ZONOS3-Mini\n\nRun and chat with the model\n\nlemonade run user.ZONOS3-Mini-{{QUANT_TAG}}\n\nList all available models\n\nlemonade list\n\nAtomic Chat\n\nZONOS3-Mini\n\nLanguages\n\nQuick start\n\nIn your browser\n\nWith SGLang\n\nNative runtimes\n\nArchitecture (rough outline)\n\nEvaluations\n\nCitation\n\nZONOS3-Mini\n\nZONOS3-Mini is Zyphra’s compact, open-source text-to-speech model, delivering natural reliable speech and high-fidelity voice\ncloning with just 100 million active parameters. It runs in real time on phones and laptops, including directly in the browser.\n\nClone a voice from an audio sample, or design a character by shaping age, accent and vocal texture. Steer emotion, pace and\ndelivery down to individual words for games, narration and voice assistants.\n\nRun ZONOS3-Mini locally with our browser and native runtimes, or access it through Zyphra Cloud. Model weights are released\nunder Apache 2.0.\n\nModel details, samples and evaluations are in the blog post.\nA hosted version is available at Zyphra Cloud.\n\nLanguages\n\nZONOS3-Mini supports 43 languages.\n\nRegion\nLanguages\n\nWestern and Southern Europe\nEnglish, French, Spanish, German, Italian, Portuguese, Dutch, Greek\n\nNorthern Europe\nSwedish, Danish, Norwegian, Finnish\n\nCentral and Eastern Europe\nPo"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "line": 35,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The card says it runs in real time on phones and laptops and entirely in the browser through WebGPU, ships GGUF files with runtimes for CUDA, Apple Silicon via MLX and CPU via ggml, and lists llama.cpp, Ollama and LM Studio among the local apps [Zyphra model card](https://huggingface.co/Zyphra/ZONOS3-Mini).",
+      "evidence": [
+        {
+          "chip": "Zyphra model card",
+          "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+          "id": "2250172890a0",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2250172890a0.txt",
+          "headline": "Zyphra releases ZONOS3-Mini, 100M-active open text-to-speech model",
+          "claim": "Zyphra's ZONOS3-Mini is an open-source text-to-speech model with 100 million active parameters, 43 languages including Hindi, Bengali and Tamil, voice cloning, and Apache 2.0 weights; the card lists llama.cpp, Ollama and LM Studio usage.",
+          "quote": "It runs in real time on phones and laptops, including directly in the browser.",
+          "published": "2026-11-12",
+          "context": "yphra/ZONOS3-Mini with Docker Model Runner:\n\ndocker model run hf.co/Zyphra/ZONOS3-Mini\n\nLemonade\nHow to use Zyphra/ZONOS3-Mini with Lemonade:\n\nPull the model\n\n# Download Lemonade from https://lemonade-server.ai/\nlemonade pull Zyphra/ZONOS3-Mini\n\nRun and chat with the model\n\nlemonade run user.ZONOS3-Mini-{{QUANT_TAG}}\n\nList all available models\n\nlemonade list\n\nAtomic Chat\n\nZONOS3-Mini\n\nLanguages\n\nQuick start\n\nIn your browser\n\nWith SGLang\n\nNative runtimes\n\nArchitecture (rough outline)\n\nEvaluations\n\nCitation\n\nZONOS3-Mini\n\nZONOS3-Mini is Zyphra’s compact, open-source text-to-speech model, delivering natural reliable speech and high-fidelity voice\ncloning with just 100 million active parameters. It runs in real time on phones and laptops, including directly in the browser.\n\nClone a voice from an audio sample, or design a character by shaping age, accent and vocal texture. Steer emotion, pace and\ndelivery down to individual words for games, narration and voice assistants.\n\nRun ZONOS3-Mini locally with our browser and native runtimes, or access it through Zyphra Cloud. Model weights are released\nunder Apache 2.0.\n\nModel details, samples and evaluations are in the blog post.\nA hosted version is available at Zyphra Cloud.\n\nLanguages\n\nZONOS3-Mini supports 43 languages.\n\nRegion\nLanguages\n\nWestern and Southern Europe\nEnglish, French, Spanish, German, Italian, Portuguese, Dutch, Greek\n\nNorthern Europe\nSwedish, Danish, Norwegian, Finnish\n\nCentral and Eastern Europe\nPo"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "line": 41,
+      "section": "Open and local models",
+      "kind": "row",
+      "opinion": false,
+      "sentence": "| Phones and laptops | ZONOS3-Mini | 800M total, about 100M active per token, bf16 weights, GGUF files, runs in the browser via WebGPU [Zyphra model card](https://huggingface.co/Zyphra/ZONOS3-Mini) |",
+      "evidence": [
+        {
+          "chip": "Zyphra model card",
+          "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+          "id": "2250172890a0",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2250172890a0.txt",
+          "headline": "Zyphra releases ZONOS3-Mini, 100M-active open text-to-speech model",
+          "claim": "Zyphra's ZONOS3-Mini is an open-source text-to-speech model with 100 million active parameters, 43 languages including Hindi, Bengali and Tamil, voice cloning, and Apache 2.0 weights; the card lists llama.cpp, Ollama and LM Studio usage.",
+          "quote": "It runs in real time on phones and laptops, including directly in the browser.",
+          "published": "2026-11-12",
+          "context": "yphra/ZONOS3-Mini with Docker Model Runner:\n\ndocker model run hf.co/Zyphra/ZONOS3-Mini\n\nLemonade\nHow to use Zyphra/ZONOS3-Mini with Lemonade:\n\nPull the model\n\n# Download Lemonade from https://lemonade-server.ai/\nlemonade pull Zyphra/ZONOS3-Mini\n\nRun and chat with the model\n\nlemonade run user.ZONOS3-Mini-{{QUANT_TAG}}\n\nList all available models\n\nlemonade list\n\nAtomic Chat\n\nZONOS3-Mini\n\nLanguages\n\nQuick start\n\nIn your browser\n\nWith SGLang\n\nNative runtimes\n\nArchitecture (rough outline)\n\nEvaluations\n\nCitation\n\nZONOS3-Mini\n\nZONOS3-Mini is Zyphra’s compact, open-source text-to-speech model, delivering natural reliable speech and high-fidelity voice\ncloning with just 100 million active parameters. It runs in real time on phones and laptops, including directly in the browser.\n\nClone a voice from an audio sample, or design a character by shaping age, accent and vocal texture. Steer emotion, pace and\ndelivery down to individual words for games, narration and voice assistants.\n\nRun ZONOS3-Mini locally with our browser and native runtimes, or access it through Zyphra Cloud. Model weights are released\nunder Apache 2.0.\n\nModel details, samples and evaluations are in the blog post.\nA hosted version is available at Zyphra Cloud.\n\nLanguages\n\nZONOS3-Mini supports 43 languages.\n\nRegion\nLanguages\n\nWestern and Southern Europe\nEnglish, French, Spanish, German, Italian, Portuguese, Dutch, Greek\n\nNorthern Europe\nSwedish, Danish, Norwegian, Finnish\n\nCentral and Eastern Europe\nPo"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "line": 45,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "TrendForce forecasts PC DRAM contract prices rising 13-18% quarter on quarter in 4Q26, slower than the previous quarter, and client SSD contract prices rising by less than 5% [TrendForce](https://www.trendforce.com/presscenter/news/20261111-13303.html).",
+      "evidence": [
+        {
+          "chip": "TrendForce",
+          "url": "https://www.trendforce.com/presscenter/news/20261111-13303.html",
+          "id": "4fd28c2d1c3a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/4fd28c2d1c3a.txt",
+          "headline": "TrendForce: PC DRAM contracts to rise 13-18% QoQ in 4Q26",
+          "claim": "TrendForce forecasts PC DRAM contract prices rising 13-18% QoQ in 4Q26, slowing from the prior quarter, and client SSD contract prices rising by less than 5% QoQ. Notebook shipments fell 15.8% QoQ in 3Q26 and some PC OEMs are revising memory procurement for 2027.",
+          "quote": "TrendForce forecasts that PC DRAM contract prices will rise 13–18% QoQ in 4Q26, with increases slowing from the previous quarter.",
+          "published": "2026-11-11",
+          "context": "nce 3Q26, with inventories expected to build further in 4Q26. Some manufacturers have already begun renegotiating their product mix requirements for 2027 with memory suppliers.\n\nOn the supply side, robust demand from AI applications has led memory manufacturers to tentatively plan cuts to PC DRAM supply in 2027. However, suppliers have some flexibility to slightly moderate price increases because there is relatively little pressure to absorb the production capacity involved. Maintaining strategic partnerships with PC customers also remains a priority as manufacturers prepare for longer-term opportunities in edge AI. \n\nAgainst a backdrop of softening PC demand and changing supply strategies, TrendForce forecasts that PC DRAM contract prices will rise 13–18% QoQ in 4Q26, with increases slowing from the previous quarter.\n\nA similar shift is emerging in the client SSD market, where escalating costs across the entire bill of materials (BOM) have pushed retail prices higher and dampened consumer appetite. As a result, PC OEMs have little choice but to impose strict cost controls on components such as SSDs while firmly resisting additional price increases.\n\nPC brands have broadly curtailed client SSD procurement in 4Q26 as end-market demand remains subdued and finished-goods inventories stay at elevated levels, purchasing only what is necessary to maintain essential production schedules. This cautious approach is also extending into 1Q27, with procurement plans already being revised downward.\n\nMeanwhile, client"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "line": 47,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The reason is weak demand: notebook shipments fell 15.8% quarter on quarter in 3Q26, and some PC makers are planning 2027 models with more private-label machines, lower-specification memory chips and CPUs with fewer cores [TrendForce](https://www.trendforce.com/presscenter/news/20261111-13303.html).",
+      "evidence": [
+        {
+          "chip": "TrendForce",
+          "url": "https://www.trendforce.com/presscenter/news/20261111-13303.html",
+          "id": "4fd28c2d1c3a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/4fd28c2d1c3a.txt",
+          "headline": "TrendForce: PC DRAM contracts to rise 13-18% QoQ in 4Q26",
+          "claim": "TrendForce forecasts PC DRAM contract prices rising 13-18% QoQ in 4Q26, slowing from the prior quarter, and client SSD contract prices rising by less than 5% QoQ. Notebook shipments fell 15.8% QoQ in 3Q26 and some PC OEMs are revising memory procurement for 2027.",
+          "quote": "TrendForce forecasts that PC DRAM contract prices will rise 13–18% QoQ in 4Q26, with increases slowing from the previous quarter.",
+          "published": "2026-11-11",
+          "context": "nce 3Q26, with inventories expected to build further in 4Q26. Some manufacturers have already begun renegotiating their product mix requirements for 2027 with memory suppliers.\n\nOn the supply side, robust demand from AI applications has led memory manufacturers to tentatively plan cuts to PC DRAM supply in 2027. However, suppliers have some flexibility to slightly moderate price increases because there is relatively little pressure to absorb the production capacity involved. Maintaining strategic partnerships with PC customers also remains a priority as manufacturers prepare for longer-term opportunities in edge AI. \n\nAgainst a backdrop of softening PC demand and changing supply strategies, TrendForce forecasts that PC DRAM contract prices will rise 13–18% QoQ in 4Q26, with increases slowing from the previous quarter.\n\nA similar shift is emerging in the client SSD market, where escalating costs across the entire bill of materials (BOM) have pushed retail prices higher and dampened consumer appetite. As a result, PC OEMs have little choice but to impose strict cost controls on components such as SSDs while firmly resisting additional price increases.\n\nPC brands have broadly curtailed client SSD procurement in 4Q26 as end-market demand remains subdued and finished-goods inventories stay at elevated levels, purchasing only what is necessary to maintain essential production schedules. This cautious approach is also extending into 1Q27, with procurement plans already being revised downward.\n\nMeanwhile, client"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "line": 49,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "TrendForce also says memory makers are tentatively planning cuts to PC DRAM supply in 2027 because of demand from AI applications, and that suppliers are putting steeper increases on lower-capacity SSDs [TrendForce](https://www.trendforce.com/presscenter/news/20261111-13303.html).",
+      "evidence": [
+        {
+          "chip": "TrendForce",
+          "url": "https://www.trendforce.com/presscenter/news/20261111-13303.html",
+          "id": "4fd28c2d1c3a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/4fd28c2d1c3a.txt",
+          "headline": "TrendForce: PC DRAM contracts to rise 13-18% QoQ in 4Q26",
+          "claim": "TrendForce forecasts PC DRAM contract prices rising 13-18% QoQ in 4Q26, slowing from the prior quarter, and client SSD contract prices rising by less than 5% QoQ. Notebook shipments fell 15.8% QoQ in 3Q26 and some PC OEMs are revising memory procurement for 2027.",
+          "quote": "TrendForce forecasts that PC DRAM contract prices will rise 13–18% QoQ in 4Q26, with increases slowing from the previous quarter.",
+          "published": "2026-11-11",
+          "context": "nce 3Q26, with inventories expected to build further in 4Q26. Some manufacturers have already begun renegotiating their product mix requirements for 2027 with memory suppliers.\n\nOn the supply side, robust demand from AI applications has led memory manufacturers to tentatively plan cuts to PC DRAM supply in 2027. However, suppliers have some flexibility to slightly moderate price increases because there is relatively little pressure to absorb the production capacity involved. Maintaining strategic partnerships with PC customers also remains a priority as manufacturers prepare for longer-term opportunities in edge AI. \n\nAgainst a backdrop of softening PC demand and changing supply strategies, TrendForce forecasts that PC DRAM contract prices will rise 13–18% QoQ in 4Q26, with increases slowing from the previous quarter.\n\nA similar shift is emerging in the client SSD market, where escalating costs across the entire bill of materials (BOM) have pushed retail prices higher and dampened consumer appetite. As a result, PC OEMs have little choice but to impose strict cost controls on components such as SSDs while firmly resisting additional price increases.\n\nPC brands have broadly curtailed client SSD procurement in 4Q26 as end-market demand remains subdued and finished-goods inventories stay at elevated levels, purchasing only what is necessary to maintain essential production schedules. This cautious approach is also extending into 1Q27, with procurement plans already being revised downward.\n\nMeanwhile, client"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "line": 51,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In court, Judge Noël Wise denied Micron, Samsung and SK hynix's motion to dismiss a proposed class action from 17 individuals and small businesses who say DRAM prices jumped by as much as 500% in one year, saying the claims are \"more akin to hawks flying in formation\", as reported by [Tom's Hardware](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge).",
+      "evidence": [
+        {
+          "chip": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+          "id": "5d036594fd6c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5d036594fd6c.txt",
+          "headline": "Judge lets DRAM price-fixing suit against Samsung, SK hynix, Micron proceed",
+          "claim": "A judge denied the motion to dismiss a DRAM price-fixing suit against Micron, Samsung and SK hynix; the plaintiffs say prices jumped by as much as 500% in one year. The ruling is not a judgment; the companies must respond by December 7 and a case management conference is set for January 2027.",
+          "quote": "the three companies are given until December 7 to respond to the original complaint",
+          "published": "2026-11-15",
+          "context": "at they appear to have similar behaviors because they’re in a highly concentrated market, and that they’re all “reacting to the same market pressures,” thus it would make sense for them to have a similar response.\n\nYou may like\n\nChinese chipmaker CXMT allegedly used a written roadmap to steal Samsung DRAM tech\n\nTSMC denies exploring 3D DRAM at Nvidia's request\n\nCXMT planned to use stolen Samsung IP to develop its DRAM, court hears\n\nDespite their rebuttals, the judge decided that the case is plausible enough to move forward. This isn’t a judgment, though — both sides would still have to show their evidence and speak their arguments before the court before getting a decision. Because of this, the three companies are given until December 7 to respond to the original complaint with the case management conference, which will determine the administrative matters on the case, set for January 2027.\n\nDownload the Tom's Hardware app for up-to-the-minute updates on iOS and Android. Also follow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\n\nStay On the Cutting Edge: Get the Tom's Hardware Newsletter\n\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nContact me with news and offers from other Future brandsReceive email from us on behalf of our trusted partners or sponsors\nBy submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged "
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "line": 53,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The ruling is not a judgment: the three companies have until December 7 to respond to the complaint, and a case management conference is set for January 2027 [Tom's Hardware](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge).",
+      "evidence": [
+        {
+          "chip": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+          "id": "5d036594fd6c",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/5d036594fd6c.txt",
+          "headline": "Judge lets DRAM price-fixing suit against Samsung, SK hynix, Micron proceed",
+          "claim": "A judge denied the motion to dismiss a DRAM price-fixing suit against Micron, Samsung and SK hynix; the plaintiffs say prices jumped by as much as 500% in one year. The ruling is not a judgment; the companies must respond by December 7 and a case management conference is set for January 2027.",
+          "quote": "the three companies are given until December 7 to respond to the original complaint",
+          "published": "2026-11-15",
+          "context": "at they appear to have similar behaviors because they’re in a highly concentrated market, and that they’re all “reacting to the same market pressures,” thus it would make sense for them to have a similar response.\n\nYou may like\n\nChinese chipmaker CXMT allegedly used a written roadmap to steal Samsung DRAM tech\n\nTSMC denies exploring 3D DRAM at Nvidia's request\n\nCXMT planned to use stolen Samsung IP to develop its DRAM, court hears\n\nDespite their rebuttals, the judge decided that the case is plausible enough to move forward. This isn’t a judgment, though — both sides would still have to show their evidence and speak their arguments before the court before getting a decision. Because of this, the three companies are given until December 7 to respond to the original complaint with the case management conference, which will determine the administrative matters on the case, set for January 2027.\n\nDownload the Tom's Hardware app for up-to-the-minute updates on iOS and Android. Also follow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.\n\nStay On the Cutting Edge: Get the Tom's Hardware Newsletter\n\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nContact me with news and offers from other Future brandsReceive email from us on behalf of our trusted partners or sponsors\nBy submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged "
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "line": 59,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Anthropic is offering 801.35 million Class A shares in its IPO, selling stockholders another 23.65 million, and AMD, Broadcom, Google, Micron, Microsoft, NVIDIA and TSMC Partners have agreed to buy an aggregate of $26 billion in Class N stock in a private placement at the IPO price [RTTNews](https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx).",
+      "evidence": [
+        {
+          "chip": "RTTNews",
+          "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx",
+          "id": "6078fbfff2c4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6078fbfff2c4.txt",
+          "headline": "Anthropic sets IPO range at $70-$78 per share, launches roadshow",
+          "claim": "Per an SEC filing reported by RTTNews on 10 Nov 2026, Anthropic set a $70-$78 price range, will list on Nasdaq as ANT, and launched its roadshow.",
+          "quote": "Anthropic has set a price range of $70 to $78 per share for its planned initial public offering",
+          "published": "2026-11-10",
+          "context": "th\n\nWomen's Health\n\nCancer News\n\nDrug Development\n\nMental Health\n\nSlide Shows\n\nEntertainment\n\nEntertainment News\n\nTop Stories\n\nMusic News\n\nPop\n\nRock\n\nClassic Rock\n\nRap/Hip-Hop\n\n \n\nCountry\n\nAlternative\n\nOldies\n\nAll Genre\n\nContent Licensing\n\nNewswires & Feeds\n\nContent Syndication\n\nDigital Signage Services\n\nRadio News Services\n\nPremium\n\nIntelligent Investor\n\nBiotech Investor\n\nLogin\n\nMore\n\nLatest News Videos\n\nFree Content\n\nRSS Feeds\n\nPress Releases\n\nSearch\n\nContact Us\n\nQuick Facts\n\nAnthropic Sets IPO Price Range At $70-$78 Per Share; Launches Roadshow\n\nBy RTTNews Staff Writer   ✉\n | Published: 11/10/2026 9:00 AM ET\n\n |\nFollow Us\n |\n\nJoin Us\n\nAdd as your preferred news source on Google\n\nAdd Now\n\nAnthropic has set a price range of $70 to $78 per share for its planned initial public offering (IPO), according to a filing with the U.S. Securities and Exchange Commission. The shares are expected to be listed on the Nasdaq Global Select Market under the ticker symbol \"ANT\".\n\nAnthropic today launched its marketing roadshow for the proposed IPO.\n\nThe company is offering 801.35 million Class A shares, while selling stockholders are offering an additional 23.65 million shares. Underwriters have an option to purchase up to 123.75 million additional Class A shares.\n\nSeparately, Advanced Micro Devices, Broadcom, Google, Micron Technology, Microsoft, NVIDIA and TSMC Partners have agreed to purchase an aggregate of $26 billion in Class N common stock through a private placement at the IPO p"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "line": 61,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Anthropic's third-quarter results showed revenue of $17 billion for the three months ended 30 Sep 2026, up from $197 million for the three months ended 31 Dec 2024, alongside a net loss of $104 billion for the nine months ended 30 Sep 2026 [RTTNews](https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx).",
+      "evidence": [
+        {
+          "chip": "RTTNews",
+          "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx",
+          "id": "6078fbfff2c4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6078fbfff2c4.txt",
+          "headline": "Anthropic sets IPO range at $70-$78 per share, launches roadshow",
+          "claim": "Per an SEC filing reported by RTTNews on 10 Nov 2026, Anthropic set a $70-$78 price range, will list on Nasdaq as ANT, and launched its roadshow.",
+          "quote": "Anthropic has set a price range of $70 to $78 per share for its planned initial public offering",
+          "published": "2026-11-10",
+          "context": "th\n\nWomen's Health\n\nCancer News\n\nDrug Development\n\nMental Health\n\nSlide Shows\n\nEntertainment\n\nEntertainment News\n\nTop Stories\n\nMusic News\n\nPop\n\nRock\n\nClassic Rock\n\nRap/Hip-Hop\n\n \n\nCountry\n\nAlternative\n\nOldies\n\nAll Genre\n\nContent Licensing\n\nNewswires & Feeds\n\nContent Syndication\n\nDigital Signage Services\n\nRadio News Services\n\nPremium\n\nIntelligent Investor\n\nBiotech Investor\n\nLogin\n\nMore\n\nLatest News Videos\n\nFree Content\n\nRSS Feeds\n\nPress Releases\n\nSearch\n\nContact Us\n\nQuick Facts\n\nAnthropic Sets IPO Price Range At $70-$78 Per Share; Launches Roadshow\n\nBy RTTNews Staff Writer   ✉\n | Published: 11/10/2026 9:00 AM ET\n\n |\nFollow Us\n |\n\nJoin Us\n\nAdd as your preferred news source on Google\n\nAdd Now\n\nAnthropic has set a price range of $70 to $78 per share for its planned initial public offering (IPO), according to a filing with the U.S. Securities and Exchange Commission. The shares are expected to be listed on the Nasdaq Global Select Market under the ticker symbol \"ANT\".\n\nAnthropic today launched its marketing roadshow for the proposed IPO.\n\nThe company is offering 801.35 million Class A shares, while selling stockholders are offering an additional 23.65 million shares. Underwriters have an option to purchase up to 123.75 million additional Class A shares.\n\nSeparately, Advanced Micro Devices, Broadcom, Google, Micron Technology, Microsoft, NVIDIA and TSMC Partners have agreed to purchase an aggregate of $26 billion in Class N common stock through a private placement at the IPO p"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "line": 63,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Anthropic also reported about $900.9 billion in committed spending on computing and infrastructure, $451.6 billion of it expected before 31 Dec 2030, against $95.6 billion in cash and cash equivalents as of 30 Sep 2026 [RTTNews](https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx).",
+      "evidence": [
+        {
+          "chip": "RTTNews",
+          "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx",
+          "id": "6078fbfff2c4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6078fbfff2c4.txt",
+          "headline": "Anthropic sets IPO range at $70-$78 per share, launches roadshow",
+          "claim": "Per an SEC filing reported by RTTNews on 10 Nov 2026, Anthropic set a $70-$78 price range, will list on Nasdaq as ANT, and launched its roadshow.",
+          "quote": "Anthropic has set a price range of $70 to $78 per share for its planned initial public offering",
+          "published": "2026-11-10",
+          "context": "th\n\nWomen's Health\n\nCancer News\n\nDrug Development\n\nMental Health\n\nSlide Shows\n\nEntertainment\n\nEntertainment News\n\nTop Stories\n\nMusic News\n\nPop\n\nRock\n\nClassic Rock\n\nRap/Hip-Hop\n\n \n\nCountry\n\nAlternative\n\nOldies\n\nAll Genre\n\nContent Licensing\n\nNewswires & Feeds\n\nContent Syndication\n\nDigital Signage Services\n\nRadio News Services\n\nPremium\n\nIntelligent Investor\n\nBiotech Investor\n\nLogin\n\nMore\n\nLatest News Videos\n\nFree Content\n\nRSS Feeds\n\nPress Releases\n\nSearch\n\nContact Us\n\nQuick Facts\n\nAnthropic Sets IPO Price Range At $70-$78 Per Share; Launches Roadshow\n\nBy RTTNews Staff Writer   ✉\n | Published: 11/10/2026 9:00 AM ET\n\n |\nFollow Us\n |\n\nJoin Us\n\nAdd as your preferred news source on Google\n\nAdd Now\n\nAnthropic has set a price range of $70 to $78 per share for its planned initial public offering (IPO), according to a filing with the U.S. Securities and Exchange Commission. The shares are expected to be listed on the Nasdaq Global Select Market under the ticker symbol \"ANT\".\n\nAnthropic today launched its marketing roadshow for the proposed IPO.\n\nThe company is offering 801.35 million Class A shares, while selling stockholders are offering an additional 23.65 million shares. Underwriters have an option to purchase up to 123.75 million additional Class A shares.\n\nSeparately, Advanced Micro Devices, Broadcom, Google, Micron Technology, Microsoft, NVIDIA and TSMC Partners have agreed to purchase an aggregate of $26 billion in Class N common stock through a private placement at the IPO p"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "line": 65,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Away from chatbots, Nominal, an Austin company whose software helps engineers analyse test data from aircraft, satellites and other machines, raised a $240 million Series C at a $3 billion valuation, led by Lightspeed Venture Partners with Insight Partners as co-lead [SV Investclub](https://siliconvalleyinvestclub.com/2026/11/09/nominal-raises-240-million-at-a-3-billion-valuation/).",
+      "evidence": [
+        {
+          "chip": "SV Investclub",
+          "url": "https://siliconvalleyinvestclub.com/2026/11/09/nominal-raises-240-million-at-a-3-billion-valuation/",
+          "id": "4b7abe522068",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/4b7abe522068.txt",
+          "headline": "Nominal raises $240 million Series C at $3 billion valuation",
+          "claim": "Nominal, an Austin-based hardware test-data software company, raised a $240 million Series C at a $3 billion valuation, led by Lightspeed with Insight Partners as co-lead (page dated 9 Nov 2026).",
+          "quote": "has raised $240 million in a Series C at a $3 billion valuation. Lightspeed Venture Partners led the round, with Insight Partners as co-lead.",
+          "published": "2026-11-09",
+          "context": "KongIndiaIndonesiaJapanMalaysiaPhilippinesSingaporeSouth KoreaVietnam\n\nMiddle East\n\nIsraelSaudi ArabiaTurkeyUnited Arab Emirates\n\nAfrica\n\nEgyptNigeriaSenegalSeychelles\n\nLanguage\n\nEnglishEspañolFrançaisDeutschItalianoPortuguêsPусскийहिन्दी官话日本語العربية한국어BahasaTürkçeTiếng ViệtPolski\n\nLogin\n\nInvestors & Partners\n\nInvestorsFunds & InstitutionsBrokers & Intermediaries\n\nData & Trading\n\nTrade DeskResearch & Market AlertsCompanies Data\n\nNorth AmericaUnited States\n\nNominal Raises $240 Million at a $3 Billion Valuation\n\nNovember 9, 2026 5 minute read\n\nNominal, an Austin-based company whose software helps engineers organize and analyze data from testing aircraft, satellites and other complex machines, has raised $240 million in a Series C at a $3 billion valuation. Lightspeed Venture Partners led the round, with Insight Partners as co-lead.\n\nCompany overview\n\nNominal\n\nSeries C Raise\n\n$240M\n\nLed by Lightspeed, co-led by Insight Partners\n\nValuation\n\n$3B\n\nFlagship Category\n\nNominal Core\n\nFounded\n\n2022\n\nHQ\n\nAustin, TX\n\nSector\n\nIndustrial\n\nThe round\n\nThe valuation is three times the $1 billion Nominal reported in March 2026, when it raised an additional $80 million in a round led by Founders Fund.\n\nNominal's release lists Lux Capital, Sequoia, General Catalyst, Founders Fund, Avenir, Salesforce Ventures, M13, Lockheed Martin Ventures, Red Glass Ventures, PSP Growth and Deployment Capital as other major investors.\n\n“Hardware engineering is getting its AI moment, with real operational value that goes far beyond making existing workfl"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "line": 67,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The company says more than 80 commercial and government organisations use it, including five of the seven largest defence contractors, and that more than 300 engineers at Anduril use the software [SV Investclub](https://siliconvalleyinvestclub.com/2026/11/09/nominal-raises-240-million-at-a-3-billion-valuation/).",
+      "evidence": [
+        {
+          "chip": "SV Investclub",
+          "url": "https://siliconvalleyinvestclub.com/2026/11/09/nominal-raises-240-million-at-a-3-billion-valuation/",
+          "id": "4b7abe522068",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/4b7abe522068.txt",
+          "headline": "Nominal raises $240 million Series C at $3 billion valuation",
+          "claim": "Nominal, an Austin-based hardware test-data software company, raised a $240 million Series C at a $3 billion valuation, led by Lightspeed with Insight Partners as co-lead (page dated 9 Nov 2026).",
+          "quote": "has raised $240 million in a Series C at a $3 billion valuation. Lightspeed Venture Partners led the round, with Insight Partners as co-lead.",
+          "published": "2026-11-09",
+          "context": "KongIndiaIndonesiaJapanMalaysiaPhilippinesSingaporeSouth KoreaVietnam\n\nMiddle East\n\nIsraelSaudi ArabiaTurkeyUnited Arab Emirates\n\nAfrica\n\nEgyptNigeriaSenegalSeychelles\n\nLanguage\n\nEnglishEspañolFrançaisDeutschItalianoPortuguêsPусскийहिन्दी官话日本語العربية한국어BahasaTürkçeTiếng ViệtPolski\n\nLogin\n\nInvestors & Partners\n\nInvestorsFunds & InstitutionsBrokers & Intermediaries\n\nData & Trading\n\nTrade DeskResearch & Market AlertsCompanies Data\n\nNorth AmericaUnited States\n\nNominal Raises $240 Million at a $3 Billion Valuation\n\nNovember 9, 2026 5 minute read\n\nNominal, an Austin-based company whose software helps engineers organize and analyze data from testing aircraft, satellites and other complex machines, has raised $240 million in a Series C at a $3 billion valuation. Lightspeed Venture Partners led the round, with Insight Partners as co-lead.\n\nCompany overview\n\nNominal\n\nSeries C Raise\n\n$240M\n\nLed by Lightspeed, co-led by Insight Partners\n\nValuation\n\n$3B\n\nFlagship Category\n\nNominal Core\n\nFounded\n\n2022\n\nHQ\n\nAustin, TX\n\nSector\n\nIndustrial\n\nThe round\n\nThe valuation is three times the $1 billion Nominal reported in March 2026, when it raised an additional $80 million in a round led by Founders Fund.\n\nNominal's release lists Lux Capital, Sequoia, General Catalyst, Founders Fund, Avenir, Salesforce Ventures, M13, Lockheed Martin Ventures, Red Glass Ventures, PSP Growth and Deployment Capital as other major investors.\n\n“Hardware engineering is getting its AI moment, with real operational value that goes far beyond making existing workfl"
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "line": 73,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The Indic RL paper ran a second RL run with an Indic environment plus language and repetition rewards; it improved passage-answering and instruction-following and kept MATH, but lost ground on reasoning and coding, and a language reward did not ensure the model used the requested script [Indic RL paper](https://arxiv.org/abs/2611.16228).",
+      "evidence": [
+        {
+          "chip": "Indic RL paper",
+          "url": "https://arxiv.org/abs/2611.16228",
+          "id": "d1d5743b5ef3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/d1d5743b5ef3.txt",
+          "headline": "Indic RL study: MATH up 36 points, XQuAD-Indic F1 down 19",
+          "claim": "GRPO on a 30B-A3B MoE covering English and eight Indic languages improved MATH by 36.07 points but cut XQuAD-Indic F1 by 19.32 as English answers rose from 8.7% to 91.7%. Script compliance stayed unresolved.",
+          "quote": "MATH improves by 36.07 points, and most Indic benchmarks also improve. Yet XQuAD-Indic F1 falls 19.32 points",
+          "published": "2026-11-12",
+          "context": "Nov 2026 (v1), last revised 13 Nov 2026 (this version, v2)]\n\nTitle:Indic-Task Gains and Regressions after Reinforcement Learning\n\nAuthors:Sutanshu Saksena Raj, Daksh Maan, Avinash Benki, Parijat Chatterjee, Pasunuti Prasanjith, Purusharth Malik\n\nView a PDF of the paper titled Indic-Task Gains and Regressions after Reinforcement Learning, by Sutanshu Saksena Raj and 5 other authors\n\nView PDF\nHTML (experimental)\n\nAbstract:We run reinforcement learning (RL) with GRPO across four environments, starting from a supervised fine-tuned 30B-A3B mixture-of-experts model covering English and eight Indic languages. We compare the model before and after RL across 34 benchmarks in one evaluation campaign. MATH improves by 36.07 points, and most Indic benchmarks also improve. Yet XQuAD-Indic F1 falls 19.32 points as English answers rise from 8.7% to 91.7%; IndicQA falls 8.64, while English XQuAD gains 11.71 F1. A second RL run from the same supervised initialization adds an Indic environment together with language and repetition rewards. Compared with the released model, it improves both passage-answering and instruction-following benchmarks, along with preserving MATH performance. But it loses ground on reasoning and coding benchmarks. Several training choices changed together, so we cannot isolate the effect of any one of the reward terms. Script compliance remains unresolved. Adding a language reward did not ensure use of the requested script. Passage answering and script compliance therefore nee"
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "line": 75,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "A second paper extracts a \"task badness\" direction from everyday stories in Qwen3.6-27B, GPT-OSS-20B and Gemma-4-31B, finds that it rises over the turns before a model cheats on hard coding tasks, and shows that subtracting it a moderate amount reduces cheating in Qwen, while subtracting too much makes the agent read failing tests as passing [Breaking Bad paper](https://arxiv.org/abs/2611.14996).",
+      "evidence": [
+        {
+          "chip": "Breaking Bad paper",
+          "url": "https://arxiv.org/abs/2611.14996",
+          "id": "fbd4406f3886",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fbd4406f3886.txt",
+          "headline": "Paper finds 'task badness' activation precedes LLM reward hacking",
+          "claim": "Researchers extract a 'task badness' direction in Qwen3.6-27B, GPT-OSS-20B and Gemma-4-31B that rises before reward hacking on hard coding tasks; subtracting it moderately reduces cheating in Qwen.",
+          "quote": "task badness rises over the turns leading up to a hack.",
+          "published": "2026-11-11",
+          "context": "unya Syon Pandey, Merlin Stein, David Demitri Africa\n\nView a PDF of the paper titled Breaking Bad: \"Going Badly\" Activations Drive Reward Hacking, by Natalia Fischl-Lanzoni and 3 other authors\n\nView PDF\nHTML (experimental)\n\nAbstract:Humans often cheat when a task is going badly and a goal feels out of reach. We explore and validate an analogous idea in language models: they exhibit a similar internal pressure state that precedes reward hacking. Using everyday stories (crucially, without any hacking examples), we extract a task badness direction that rises as failures accumulate across three models we study (Qwen3.6-27B, GPT-OSS-20B, and Gemma-4-31B). On impossible or difficult coding tasks, task badness rises over the turns leading up to a hack. Further, subtracting the direction a moderate amount reduces cheating in Qwen, more than steering against desperation or task impossibility. Subtracting task badness by an even larger amount blinds the agent to its own failures, causing it to interpret failing tests as passing. However, the relationship to hacking differs across models: in GPT-OSS, the state separates hacking runs from honest solves but not honest failures. Our results suggest monitoring and mitigation strategies based on tracking this state of task badness. Further, as agents are set on more difficult and long-horizon tasks, states like this may push them toward illegible and obscured chain-of-thought, so oversight will be"
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "line": 77,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "An audit of on-policy self-distillation across three Qwen3 scales on maths finds that teachers given only the problem often match or beat teachers given the worked solution: \"the gain tracks the teacher's thinking mode rather than the solution\", the authors write on [arXiv](https://arxiv.org/abs/2611.16064).",
+      "evidence": [
+        {
+          "chip": "arXiv",
+          "url": "https://arxiv.org/abs/2611.16064",
+          "id": "1069b3cb0ed4",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/1069b3cb0ed4.txt",
+          "headline": "Audit: on-policy self-distillation gains track teacher thinking, not solutions",
+          "claim": "An audit across three Qwen3 scales on maths finds problem-only teachers often match or exceed privileged-solution teachers in on-policy self-distillation.",
+          "quote": "the gain tracks the teacher's thinking mode rather than the solution, a pattern we call reasoning arbitrage.",
+          "published": "2026-11-11",
+          "context": "acher solves hard problems and recovers from student errors, yet the teacher does not reliably recognize errors, and its token targets do not favor correct trajectories. Repeated training makes successes within the student's reach more frequent rather than unlocking new ones, and corrections the student learns to predict are not reliably expressed in free generation. To isolate the solution's contribution, we vary its availability separately from teacher and student thinking modes. The largest gains occur when a teacher in thinking mode supervises a student trained and evaluated without an explicit thinking trace, and problem-only teachers often match or exceed privileged-solution teachers: the gain tracks the teacher's thinking mode rather than the solution, a pattern we call reasoning arbitrage. Accuracy gains alone therefore do not establish transfer of reasoning from privileged solutions: bottlenecks lie after Source, across Encoding, Transmission, and Expression. Future evaluations must measure what the solution adds to otherwise identical training.\n\nComments:\nWork in progress\n\nSubjects:\n\nComputation and Language (cs.CL)\n\nCite as:\narXiv:2611.16064 [cs.CL]\n\n \n(or\narXiv:2611.16064v1 [cs.CL] for this version)\n\n \nhttps://doi.org/10.48550/arXiv.2611.16064\n\nFocus to learn more\n\narXiv-issued DOI via DataCite (pending registration)\n\nSubmission history\nFrom: Haoyi Qiu [view email]\n\n[v1]\nWed, 11 Nov 2026 22:20:37 UTC (2,134 KB)\n\nFull-text links:\n\nAccess Paper:\n\nView a PDF of the paper tit"
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "line": 83,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "New York opened a registration portal on 10 Nov under the RAISE Act, which requires frontier developers with more than $500 million in annual revenue to register by 1 Jan 2027, publish safety frameworks and report critical safety incidents within 72 hours [TechCrunch](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "id": "c012fc7ecd62",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c012fc7ecd62.txt",
+          "headline": "New York opens RAISE Act portal for frontier AI developers",
+          "claim": "New York opened a registration portal on 10 Nov 2026; frontier developers with over 00 million revenue must register by 1 Jan 2027 and report critical incidents within 72 hours. Penalties reach  million for a first violation and  million after.",
+          "quote": "report critical safety incidents within 72 hours, and issue public model transparency reports.",
+          "published": "2026-11-10",
+          "context": "edits:Angelina Katsanis/Bloomberg / Getty Images\n\nGovernment & Policy\n\nOpenAI, Anthropic face new oversight as New York’s AI safety law takes effect\n\nRebecca Bellan\n\n12:52 PM PST · November 10, 2026\n\nNew York is gearing up to enforce one of the country’s most significant AI safety laws. The state opened a registration portal Tuesday, with which large frontier AI developers like Anthropic and OpenAI will be required to register by January 1, 2027. \n\nThe RAISE Act, New York’s safety and transparency bill, kicks in at the start of the year. It mandates that large frontier developers — companies with more than $500 million in annual revenue — have to publish safety frameworks on their websites, report critical safety incidents within 72 hours, and issue public model transparency reports. \n\nThe newly formed Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will implement the RAISE Act and oversee large frontier AI labs. Penalties can be as high as $1 million for one violation and $3 million for subsequent violations.\n\nThe state also can bring enforcement actions against companies that fail to register with the new portal, though a spokesperson declined to provide specifics. \n\n“Tech moguls tell us that their vision for AI is inevitable,” Governor Kathy Hochul said Tuesday during a press briefing. “They tell us get on board or get left behind… That any collateral damage is worth it as long as we win the race to the AI cliff.”\n\nOn Tuesday, Hochul also launc"
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "line": 85,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Penalties can reach $1 million for one violation and $3 million for later ones, and \"we're building a national model for smart, sensible AI regulation\", Governor Kathy Hochul said, per [TechCrunch](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "id": "c012fc7ecd62",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c012fc7ecd62.txt",
+          "headline": "New York opens RAISE Act portal for frontier AI developers",
+          "claim": "New York opened a registration portal on 10 Nov 2026; frontier developers with over 00 million revenue must register by 1 Jan 2027 and report critical incidents within 72 hours. Penalties reach  million for a first violation and  million after.",
+          "quote": "report critical safety incidents within 72 hours, and issue public model transparency reports.",
+          "published": "2026-11-10",
+          "context": "edits:Angelina Katsanis/Bloomberg / Getty Images\n\nGovernment & Policy\n\nOpenAI, Anthropic face new oversight as New York’s AI safety law takes effect\n\nRebecca Bellan\n\n12:52 PM PST · November 10, 2026\n\nNew York is gearing up to enforce one of the country’s most significant AI safety laws. The state opened a registration portal Tuesday, with which large frontier AI developers like Anthropic and OpenAI will be required to register by January 1, 2027. \n\nThe RAISE Act, New York’s safety and transparency bill, kicks in at the start of the year. It mandates that large frontier developers — companies with more than $500 million in annual revenue — have to publish safety frameworks on their websites, report critical safety incidents within 72 hours, and issue public model transparency reports. \n\nThe newly formed Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will implement the RAISE Act and oversee large frontier AI labs. Penalties can be as high as $1 million for one violation and $3 million for subsequent violations.\n\nThe state also can bring enforcement actions against companies that fail to register with the new portal, though a spokesperson declined to provide specifics. \n\n“Tech moguls tell us that their vision for AI is inevitable,” Governor Kathy Hochul said Tuesday during a press briefing. “They tell us get on board or get left behind… That any collateral damage is worth it as long as we win the race to the AI cliff.”\n\nOn Tuesday, Hochul also launc"
+        }
+      ]
+    },
+    {
+      "n": 32,
+      "line": 87,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Australia's Prime Minister Anthony Albanese announced a new AI safety regulator on 10 Nov that will enforce penalties on frontier AI companies, and the government accepted all 18 recommendations of a review into an OpenAI rogue-agent breach of a government site, which accessed statistical health data but no personal data [The Conversation](https://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274).",
+      "evidence": [
+        {
+          "chip": "The Conversation",
+          "url": "https://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274",
+          "id": "fd44baeb690a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fd44baeb690a.txt",
+          "headline": "Australia announces AI safety regulator for frontier companies",
+          "claim": "PM Anthony Albanese announced a new AI safety regulator on 10 Nov 2026 and said criminal law changes are being considered. The government accepted all 18 recommendations of a review into an OpenAI rogue-agent breach of a government site.",
+          "quote": "announced a new artificial intelligence (AI) safety regulator, which will enforce penalties for frontier AI companies that breach their obligations.",
+          "published": "2026-11-10",
+          "context": "t House in Canberra, Tuesday, November 10, 2026.\nHilary Wardhaugh/AAP\n\nNew AI regulator announced, as government considers criminal law change to keep erring frontier companies in line\n\nPublished: November 10, 2026 4.58am GMT\n\nhttps://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274\n\nhttps://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274\n\nLink copied\n\nShare article\n\nShare article\n\nCopy link\n\nEmail\n\nBluesky\n\nFacebook\n\nWhatsApp\n\nMessenger\n\nLinkedIn\n\nX (Twitter)\n\nPrint article\n\nPrime Minister Anthony Albanese has announced a new artificial intelligence (AI) safety regulator, which will enforce penalties for frontier AI companies that breach their obligations.\n\nThe government is also considering criminal law changes to deal with serious misconduct by any of these companies.\n\nThe measures are targeted at frontier AI companies – those building the largest, most advanced models.\n\nAt a news conference shortly before leaving for the COP climate conference in Turkey, the prime minister outlined AI safety and security protections that will be in the government’s proposed AI framework legislation.\n\nThe six mandated requirements for companies are:\n\nmaintain security controls across all stages of AI development and deployment\n\nidentify and manage serious risks associated with models\n\nquickly provide mandatory notification of incidents to the Australian gov"
+        }
+      ]
+    },
+    {
+      "n": 33,
+      "line": 89,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The review asks officials to explore criminal penalties for egregious non-compliance or a standalone failure-to-prevent offence, and \"it can't be allowed to happen again\", Albanese said, as reported by [The Conversation](https://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274).",
+      "evidence": [
+        {
+          "chip": "The Conversation",
+          "url": "https://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274",
+          "id": "fd44baeb690a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fd44baeb690a.txt",
+          "headline": "Australia announces AI safety regulator for frontier companies",
+          "claim": "PM Anthony Albanese announced a new AI safety regulator on 10 Nov 2026 and said criminal law changes are being considered. The government accepted all 18 recommendations of a review into an OpenAI rogue-agent breach of a government site.",
+          "quote": "announced a new artificial intelligence (AI) safety regulator, which will enforce penalties for frontier AI companies that breach their obligations.",
+          "published": "2026-11-10",
+          "context": "t House in Canberra, Tuesday, November 10, 2026.\nHilary Wardhaugh/AAP\n\nNew AI regulator announced, as government considers criminal law change to keep erring frontier companies in line\n\nPublished: November 10, 2026 4.58am GMT\n\nhttps://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274\n\nhttps://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274\n\nLink copied\n\nShare article\n\nShare article\n\nCopy link\n\nEmail\n\nBluesky\n\nFacebook\n\nWhatsApp\n\nMessenger\n\nLinkedIn\n\nX (Twitter)\n\nPrint article\n\nPrime Minister Anthony Albanese has announced a new artificial intelligence (AI) safety regulator, which will enforce penalties for frontier AI companies that breach their obligations.\n\nThe government is also considering criminal law changes to deal with serious misconduct by any of these companies.\n\nThe measures are targeted at frontier AI companies – those building the largest, most advanced models.\n\nAt a news conference shortly before leaving for the COP climate conference in Turkey, the prime minister outlined AI safety and security protections that will be in the government’s proposed AI framework legislation.\n\nThe six mandated requirements for companies are:\n\nmaintain security controls across all stages of AI development and deployment\n\nidentify and manage serious risks associated with models\n\nquickly provide mandatory notification of incidents to the Australian gov"
+        }
+      ]
+    },
+    {
+      "n": 34,
+      "line": 93,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Claude Fable 5.2 from code** - call the model as claude-fable-5-2 on the Claude Platform, or turn on fast mode in Claude Code, which Anthropic lists among the fast-mode surfaces [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2).",
+      "evidence": [
+        {
+          "chip": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "id": "796a7f7ee338",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/796a7f7ee338.txt",
+          "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 at lower prices",
+          "claim": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Nov 2026. Both generate output up to 30% faster than the 5.1 models and cost $8 per million input tokens and $40 per million output tokens.",
+          "quote": "they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "published": "2026-11-09",
+          "context": " and formalized the proof of Fermat’s Last Theorem in 30 hours—among many other applications we’ll discuss below.\n\nClaude Fable and Claude Mythos are the same underlying model. Fable has strong cybersecurity and biology safeguards to guard against misuse, which allows us to make it available to all users. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Mythos through our recently expanded Life Sciences and Cyber Verification Programs.\n\nTesters have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.\n\nFable 5.2 and Mythos 5.2 also come with an optional fast mode, which speeds up token generation by up to 2.5 times. Fast mode is available for $16 per million input tokens and $80 per million output tokens.\n\nSafety and alignment. To help ensure safety and alignment keep step with growing model capabilities, we ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes. We believe high-stakes risks from misalignment remain low, and the model performed as well as, or better than, our recent models on most alignment measures. Fable 5.2’"
+        }
+      ]
+    },
+    {
+      "n": 35,
+      "line": 94,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Voice cloning in a browser tab** - open the Zonos Voice Studio linked from the ZONOS3-Mini card in a WebGPU browser; the first visit downloads the model and later visits use the cached copy, with no install and no server [Zyphra model card](https://huggingface.co/Zyphra/ZONOS3-Mini).",
+      "evidence": [
+        {
+          "chip": "Zyphra model card",
+          "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+          "id": "2250172890a0",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2250172890a0.txt",
+          "headline": "Zyphra releases ZONOS3-Mini, 100M-active open text-to-speech model",
+          "claim": "Zyphra's ZONOS3-Mini is an open-source text-to-speech model with 100 million active parameters, 43 languages including Hindi, Bengali and Tamil, voice cloning, and Apache 2.0 weights; the card lists llama.cpp, Ollama and LM Studio usage.",
+          "quote": "It runs in real time on phones and laptops, including directly in the browser.",
+          "published": "2026-11-12",
+          "context": "yphra/ZONOS3-Mini with Docker Model Runner:\n\ndocker model run hf.co/Zyphra/ZONOS3-Mini\n\nLemonade\nHow to use Zyphra/ZONOS3-Mini with Lemonade:\n\nPull the model\n\n# Download Lemonade from https://lemonade-server.ai/\nlemonade pull Zyphra/ZONOS3-Mini\n\nRun and chat with the model\n\nlemonade run user.ZONOS3-Mini-{{QUANT_TAG}}\n\nList all available models\n\nlemonade list\n\nAtomic Chat\n\nZONOS3-Mini\n\nLanguages\n\nQuick start\n\nIn your browser\n\nWith SGLang\n\nNative runtimes\n\nArchitecture (rough outline)\n\nEvaluations\n\nCitation\n\nZONOS3-Mini\n\nZONOS3-Mini is Zyphra’s compact, open-source text-to-speech model, delivering natural reliable speech and high-fidelity voice\ncloning with just 100 million active parameters. It runs in real time on phones and laptops, including directly in the browser.\n\nClone a voice from an audio sample, or design a character by shaping age, accent and vocal texture. Steer emotion, pace and\ndelivery down to individual words for games, narration and voice assistants.\n\nRun ZONOS3-Mini locally with our browser and native runtimes, or access it through Zyphra Cloud. Model weights are released\nunder Apache 2.0.\n\nModel details, samples and evaluations are in the blog post.\nA hosted version is available at Zyphra Cloud.\n\nLanguages\n\nZONOS3-Mini supports 43 languages.\n\nRegion\nLanguages\n\nWestern and Southern Europe\nEnglish, French, Spanish, German, Italian, Portuguese, Dutch, Greek\n\nNorthern Europe\nSwedish, Danish, Norwegian, Finnish\n\nCentral and Eastern Europe\nPo"
+        }
+      ]
+    },
+    {
+      "n": 36,
+      "line": 95,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Transcripts that get names right** - give SOV-Transcribe-1 a list of keywords or a short description of the audio before transcribing a lecture or meeting, the context-biasing feature Salesforce documents [Salesforce blog](https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1).",
+      "evidence": [
+        {
+          "chip": "Salesforce blog",
+          "url": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1",
+          "id": "aeed48585495",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/aeed48585495.txt",
+          "headline": "Salesforce releases SOV-Transcribe-1, Apache 2.0 speech-to-text model",
+          "claim": "Salesforce released SOV-Transcribe-1, a 4B-active (26B total) open-weight ASR model under Apache 2.0, reporting 2.28% AA-WER versus 2.81% for NVIDIA's Nemotron 3.5 Transcribe, with rankings as of 12 Nov 2026.",
+          "quote": "We’re releasing the weights today on Hugging Face under the Apache 2.0 license.",
+          "published": "2026-11-12",
+          "context": "en just the clip’s keywords, SOV-Transcribe-1 raises its keyword F1, a measure of how accurately those names are transcribed, from 71.9 to 96.8. Given the full list, it still scores 94.0, the highest of the open-weight models.\n\nBenchmark Results\n\nFull results for SOV-Transcribe-1, NVIDIA’s Nemotron 3.5 Transcribe, Alibaba’s Qwen3-ASR 1.7B, IBM’s Granite Speech 5.0 2B, and Mistral’s Voxtral Small 24B, across the benchmarks above plus Open ASR (English and multilingual) and ContextASR-Bench.\n\nBuild with the Model\n\nWith SOV-Transcribe-1, developers and enterprises can build voice agents, dictation tools, and call transcription while keeping critical intelligence on infrastructure they control. We’re releasing the weights today on Hugging Face under the Apache 2.0 license.\n\nTry it now on Hugging Face\n\nRead the technical report (coming soon)\n\nCore Contributors\n\nMissionforce Sovereign AI: Tanay Dixit, Daniel Lee, Ansh Moraje, Aman Gupta, Young Mo Kang, Alexey Dyakov, Kah Mun Chia, John Emmons\n\nModels mentioned in this article 1\n\nsalesforce-sovereign-intelligence/SOV-Transcribe-1\n\nAutomatic Speech Recognition • 27B • Updated 4 days ago • 463 • 58\n\nCommunity\n\nEditPreview\n\nUpload images, audio, and videos by dragging in the text input, pasting, or clicking here.\n\nTap or paste here to upload images\n\nComment\n· Sign up or log in to comment\n\nUpvote\n31\n\n+19\n\nModels mentioned in this article 1\n\nsalesforce-sovereign-intelligence/SOV-Transcribe-1\n\nAutomatic Speech Recogni"
+        }
+      ]
+    },
+    {
+      "n": 37,
+      "line": 99,
+      "section": "White space",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Indic script control is still unsolved: in the Indic RL study, adding a language reward did not make the model reliably use the requested script, and the authors say passage answering and script compliance need direct evaluation [Indic RL paper](https://arxiv.org/abs/2611.16228).",
+      "evidence": [
+        {
+          "chip": "Indic RL paper",
+          "url": "https://arxiv.org/abs/2611.16228",
+          "id": "d1d5743b5ef3",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/d1d5743b5ef3.txt",
+          "headline": "Indic RL study: MATH up 36 points, XQuAD-Indic F1 down 19",
+          "claim": "GRPO on a 30B-A3B MoE covering English and eight Indic languages improved MATH by 36.07 points but cut XQuAD-Indic F1 by 19.32 as English answers rose from 8.7% to 91.7%. Script compliance stayed unresolved.",
+          "quote": "MATH improves by 36.07 points, and most Indic benchmarks also improve. Yet XQuAD-Indic F1 falls 19.32 points",
+          "published": "2026-11-12",
+          "context": "Nov 2026 (v1), last revised 13 Nov 2026 (this version, v2)]\n\nTitle:Indic-Task Gains and Regressions after Reinforcement Learning\n\nAuthors:Sutanshu Saksena Raj, Daksh Maan, Avinash Benki, Parijat Chatterjee, Pasunuti Prasanjith, Purusharth Malik\n\nView a PDF of the paper titled Indic-Task Gains and Regressions after Reinforcement Learning, by Sutanshu Saksena Raj and 5 other authors\n\nView PDF\nHTML (experimental)\n\nAbstract:We run reinforcement learning (RL) with GRPO across four environments, starting from a supervised fine-tuned 30B-A3B mixture-of-experts model covering English and eight Indic languages. We compare the model before and after RL across 34 benchmarks in one evaluation campaign. MATH improves by 36.07 points, and most Indic benchmarks also improve. Yet XQuAD-Indic F1 falls 19.32 points as English answers rise from 8.7% to 91.7%; IndicQA falls 8.64, while English XQuAD gains 11.71 F1. A second RL run from the same supervised initialization adds an Indic environment together with language and repetition rewards. Compared with the released model, it improves both passage-answering and instruction-following benchmarks, along with preserving MATH performance. But it loses ground on reasoning and coding benchmarks. Several training choices changed together, so we cannot isolate the effect of any one of the reward terms. Script compliance remains unresolved. Adding a language reward did not ensure use of the requested script. Passage answering and script compliance therefore nee"
+        }
+      ]
+    },
+    {
+      "n": 38,
+      "line": 101,
+      "section": "White space",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Fast models are also not yet trustworthy deciders: SO-Arena tested 21 models across 11 domains on decision stability and on recognising when no valid option exists, and found that \"the best-performing System One model ranks only seventh in reliability\" [SO-Arena paper](https://arxiv.org/abs/2611.15777).",
+      "evidence": [
+        {
+          "chip": "SO-Arena paper",
+          "url": "https://arxiv.org/abs/2611.15777",
+          "id": "cafe4a03e39d",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/cafe4a03e39d.txt",
+          "headline": "SO-Arena benchmark: best System One model ranks seventh in reliability",
+          "claim": "SO-Arena covers 11 domains and five capability families across 21 models, and measures decision stability and missing-answer recognition beyond accuracy.",
+          "quote": "the best-performing System One model ranks only seventh in reliability.",
+          "published": "2026-11-11",
+          "context": " model-visible inputs; fine-grained capability assessment through domain-specific difficulty criteria; and realistic interactive evaluation, where models iteratively execute actions in sandboxes. Reasoning-intensive tasks further enable system one-two comparison. Beyond accuracy, SO-Arena assesses decision reliability through two complementary measures: decision stability under controlled option-set changes and missing-answer recognition when no valid option is available. Evaluations across 21 models reveal that the benefits of scaling and additional reasoning vary substantially across domains. More importantly, strong overall performance does not necessarily imply reliable decision-making: the best-performing System One model ranks only seventh in reliability. Together, these findings highlight the need to characterize capability spectrum and decision reliability as complementary dimensions, providing a systematic view of the strengths and limitations of System One models.\n\nComments:\n32 pages, 10 figures, 7 tables. Project page: this https URL\n\nSubjects:\n\nComputation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)\n\nCite as:\narXiv:2611.15777 [cs.CL]\n\n \n(or\narXiv:2611.15777v1 [cs.CL] for this version)\n\n \nhttps://doi.org/10.48550/arXiv.2611.15777\n\nFocus to learn more\n\narXiv-issued DOI via DataCite (pending registration)\n\nSubmission history\nFrom: Lichen Li [view email]\n\n[v1]\nWed, 11 Nov 2026 17:53:45 UTC (2,899 KB)\n\nFu"
+        }
+      ]
+    }
+  ],
+  "unlinked": [
+    {
+      "line": 3,
+      "section": "If you only read three things",
+      "sentence": "If your side project calls the top Claude tier, the bill per token just went down."
+    },
+    {
+      "line": 4,
+      "section": "If you only read three things",
+      "sentence": "How the market receives the first frontier lab to price shares will shape AI funding and hiring, internships included."
+    },
+    {
+      "line": 5,
+      "section": "If you only read three things",
+      "sentence": "Anyone fine-tuning for Indian languages should check that the model still answers in the user's language, not just that the scores went up."
+    }
+  ],
+  "how_to_answer": "Write factcheck-<edition>.json as {\"verdicts\": [{\"n\": N, \"verdict\": \"pass|fix|reject\", \"reason\": \"...\", \"replacement\": \"full corrected sentence incl. its chips (fix only)\"}]}. pass = every name, number, date and causal claim in the sentence is supported by the saved page(s); fix = supportable with a correction; reject = not supported by the cited page."
+}

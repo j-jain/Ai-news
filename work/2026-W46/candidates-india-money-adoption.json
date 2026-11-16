@@ -1,0 +1,50 @@
+[
+  {
+    "beat": "india-money-adoption",
+    "edition": "india",
+    "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "quote": "The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures",
+    "claim": "Indian semiconductor startup Bharat Semi raised $24 million in seed funding to develop AI-enabled image sensors, in a round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.",
+    "why_it_matters": "Shows Indian money going into AI hardware at the edge, not only apps and models.",
+    "published": "2026-11-15",
+    "published_evidence": "meta article:published_time",
+    "source_type": "press",
+    "source_name": "TechCrunch",
+    "significance": 3,
+    "secondary_urls": [
+      "https://www.business-standard.com/companies/start-ups/bharat-semi-raises-24-million-to-develop-intelligent-sensors-for-ai-126111500449_1.html"
+    ],
+    "follow_up_of": null,
+    "opportunity": null,
+    "id": "fc91828979fb",
+    "fetch_tier": "A",
+    "page_file": "pages/fc91828979fb.txt",
+    "quote_verified": "script",
+    "verify_note": "",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market | TechCrunch"
+  },
+  {
+    "beat": "india-money-adoption",
+    "edition": "india",
+    "headline": "OpenAI starts processing Indian business API requests inside India",
+    "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+    "quote": "OpenAI will now run AI requests from Indian business customers on servers inside India.",
+    "claim": "OpenAI will now run AI requests from Indian business customers on servers inside India under what it calls API inference residency, keeping both data and computation in the country.",
+    "why_it_matters": "Banks and regulated firms that could not send data abroad can now use OpenAI APIs, so more India-based AI jobs and projects open up.",
+    "published": "2026-11-14",
+    "published_evidence": "time datetime",
+    "source_type": "press",
+    "source_name": "IT Voice",
+    "significance": 4,
+    "secondary_urls": [],
+    "follow_up_of": null,
+    "opportunity": null,
+    "id": "1a5b2c9d1c1c",
+    "fetch_tier": "A",
+    "page_file": "pages/1a5b2c9d1c1c.txt",
+    "quote_verified": "script",
+    "verify_note": "",
+    "title": "OpenAI Brings AI Processing Inside India, Easing a Key Hurdle for Banks and Enterprises – IT VoiceOpenAI Brings AI Processing to India for Banks and Enterprises"
+  }
+]

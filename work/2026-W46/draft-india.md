@@ -1,0 +1,129 @@
+---
+layout: issue
+title: "India: OpenAI runs inference inside India, Bharat Semi raises $24M seed"
+edition: india
+week: "2026-W46"
+date: 2026-11-16
+window: "2026-11-09 to 2026-11-15"
+summary: "OpenAI keeps Indian API requests on Indian servers, Bharat Semi raises a $24M seed for AI image sensors, and Sarvam hires a President."
+sources_fetched: 0
+items_dropped: 0
+---
+## If you only read three things
+
+- **OpenAI now processes Indian requests locally.** OpenAI will run API requests from Indian business customers on servers inside India, keeping both the data and the computation in the country, according to [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises). Banks that could not send data abroad can now build on it, which means more Indian fintech AI projects and the internships that come with them.
+- **Bharat Semi raises $24M for sensors.** The New Delhi chip startup raised a $24 million seed round led by Info Edge Group, South Park Commons and Indus Bridge Ventures to build AI-enabled image sensors [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/). Indian money is going into edge AI hardware, not only apps, and that opens design and firmware roles for CS students.
+- **Sarvam hires Google Cloud's India head.** Sarvam named Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, as President, Chief Business Officer and board member on 9 Nov [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/). India's best-known model lab is staffing up to sell, which tells you where its next hires will sit.
+
+## Sarvam and the Indian labs
+
+Sarvam's big news this week was a hire, not a model: on 9 Nov it named Sashikumar Sreedharan President and Chief Business Officer and gave him a seat on its board [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).
+
+He comes from Google Cloud, where he was most recently Managing Director for India, and before that he led Microsoft India's enterprise business as Managing Director for over five years, per the same post [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).
+
+His remit is wide. Sarvam says he will lead its business across enterprises and government and will also run Marketing, Finance, Forward Deployed Engineering, Service Delivery and Commercial Operations [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).
+
+The company also put a number on its customer base: over 100 enterprises and government institutions are building with its full-stack offering, the post says [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).
+
+"India should be a maker of the intelligence the world runs on", Sreedharan said in the announcement on [Sarvam's blog](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).
+
+The post frames the sales pitch as enterprises owning their AI, with the data, the models and the agents staying inside the enterprise [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).
+
+The developer side moved too. Sarvam's changelog for 9 Nov added a beta endpoint, POST /voices/watermark/detect, which checks whether an uploaded clip carries the Sarvam STFT watermark embedded by Instant Voice Cloning [Sarvam API docs](https://docs.sarvam.ai/changelog).
+
+- The detector takes a multipart upload of up to 10 MB, analyses at most 120 seconds, is rate limited to 5 requests per minute and consumes no credits [Sarvam changelog](https://docs.sarvam.ai/changelog).
+- It answers watermarked, not_detected or inconclusive, and the docs warn that clips under about 5 seconds are usually inconclusive [Sarvam API docs](https://docs.sarvam.ai/changelog).
+- On 11 Nov Sarvam added Experiments for campaigns (beta), which splits outbound calls across two to five committed versions of the same voice agent with a traffic share you choose, including a 90/10 rollout [Sarvam changelog](https://docs.sarvam.ai/changelog).
+
+The experiments feature is A/B testing for phone bots: the changelog pitches it as a way to try a new greeting, prompt or flow on real calls before rolling it out to everyone [Sarvam API docs](https://docs.sarvam.ai/changelog).
+
+**My read:** A credit-free watermark check plus A/B tests for voice agents is Sarvam building the boring plumbing enterprises ask for, which fits the sales hire. If you build on Sarvam's voice APIs, run the detector on your own test clips this week so you know what an inconclusive verdict looks like before a user hits one.
+
+## Government, compute and policy
+
+The policy story of the week came from a company, not a ministry: OpenAI will run AI requests from Indian business customers on servers inside India under what it calls API inference residency [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+
+Both the data a company submits and the computation that produces the answer stay within the country, rather than going to data centres overseas, the report says [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+
+The compliance angle is the point. Rules on customer information often require it to be stored and handled domestically, which ruled out tools that processed requests abroad for banks and other financial firms, per [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+
+Nitin Bawankule, who heads OpenAI's enterprise business in India, said local inference gives firms more control over where supported workloads run, the outlet reports [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+
+What you actually get is narrow for now, and the report spells it out [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises):
+
+- One model, GPT-6 Luna, for text work such as condensing long documents, drafting replies and analysing internal material [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+- To switch it on, a company creates a new API project, picks India as the region for both storage and processing, and connects through the dedicated India endpoint [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+- Text in and out of GPT-6 Luna works through the Responses and Chat Completions APIs [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+
+On compute, the report places the launch inside OpenAI's "OpenAI for India" programme and notes the company earlier teamed up with the Tata Group on domestic AI data centres [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+
+India now sits alongside Australia and Japan among markets where OpenAI has widened in-country processing, and a comparable residency option is also offered through AWS Bedrock, per [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+
+*Nothing verifiable this week from IndiaAI, MeitY or PIB inside the window; I looked at the IndiaAI news page and searched MeitY and PIB.*
+
+**My read:** This puts a US lab on the same data-stays-in-India footing that Sarvam's post pitches to enterprises, at least for text. Watch whether more models than GPT-6 Luna get the India endpoint, because one model is a pilot, not a platform.
+
+## Startups and money
+
+Bharat Semi, a New Delhi semiconductor startup, raised $24 million in seed funding to build AI-enabled image sensors and wants customers in the United States and elsewhere [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+
+The all-equity round was led by Info Edge Group, South Park Commons and Indus Bridge Ventures, with Valour Capital, Micromax, Gaingels and individual investors joining, per [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+
+The product idea is to put image capture, processing and AI on a single chip, so visual data does not have to travel to separate processors [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+
+Co-founder Vrinda Kapoor said this could cut system costs by at least 70% compared with setups using a separate image sensor, image signal processor and system-on-chip [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+
+"Our aim here is to move from sensors to sense-making solutions", Kapoor told [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+
+The fine print matters more than the headline number, and [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/) has plenty of it:
+
+- The nearly five-year-old startup is pre-revenue, its sensors are still under development, and it targets initial commercial production in 2027 [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+- It says it has design wins with General Atomics and India's Kaynes Semicon [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+- First-generation sensors are in prototyping; second-generation ones with more AI are expected at the prototype stage by mid-2027 and in customers' hands by the end of 2027 [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+- Target markets are smart homes, industrial automation, surveillance and aerospace; Kapoor's examples were air conditioners that sense an empty room and drones that process visuals on board [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+- It has about 75 employees across India and the U.S., including 10 to 12 in its American operations in Santa Clara, plans around 20 in the U.S. by mid-2027 and has begun hiring engineers in Europe [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+- It plans to stay fabless, and the new money will not fund its separate proposed fabrication facility [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+
+Its chief technology officer, Boyd Fowler, previously held the same role at image-sensor maker OmniVision, the report says [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+
+*Nothing verifiable this week on any other Indian AI funding round; I searched for rounds, Nikhil Kamath, Peak XV and Accel India and found nothing with a dated primary source in the window.*
+
+**My read:** A pre-revenue chip company raising a seed this size says investors will wait years for Indian hardware. For a software student the interesting word is programmable: someone has to write the models and tools that run on that sensor.
+
+## AI in the wild in India
+
+Adoption numbers were thin this week, and the one hard figure came from a vendor: Sarvam says over 100 enterprises and government institutions are building with its full-stack offering [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/). That is a company counting its own customers, so treat it as reach, not usage.
+
+The sector most likely to move is banking. IT Voice reports that banks and financial firms had been cautious about AI for serious work because of in-country rules, and that local processing lets them use it for routine tasks without sending data across the border [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+
+Bawankule also said local inference should give Indian developers and startups more room to build products for domestic and enterprise needs, per [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+
+On the voice side, Sarvam's new campaign experiments are built for outbound calls, letting a team test a new greeting or flow on real calls with a cautious 90/10 split before a full rollout [Sarvam changelog](https://docs.sarvam.ai/changelog).
+
+*Nothing verifiable this week on a bank, hospital, court or railway deployment with published numbers inside the window.*
+
+## Opportunities: open now
+
+{% include opportunities-top5.html %}
+
+- **Sarvam Voice Agents MCP webinar** - for developers building voice agents on Sarvam, 18 Nov at 4 PM IST, registration linked from Sarvam's site [Sarvam](https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/).
+
+*Nothing verifiable this week in new internships, fellowships or hackathons; the openings without a dated page or already covered are in the footer, and the tracker above carries the ones verified earlier.*
+
+## Ideas for India
+
+**Deepfake checks for voice KYC.** The gap: Sarvam's new detector checks for the Sarvam STFT watermark from its own Instant Voice Cloning, and clips under about 5 seconds usually come back inconclusive [Sarvam API docs](https://docs.sarvam.ai/changelog).
+
+**My read:** Lenders and fintechs doing voice verification would pay for one screen that runs incoming clips through every vendor detector available and flags the inconclusive ones for a human. This semester, build a small service that calls the Sarvam detector, logs verdicts against clip length, and shows where it gives up.
+
+**A residency checker for bank AI pilots.** The gap: OpenAI's India residency covers one model, GPT-6 Luna, and needs a new API project set to India for both storage and processing [IT Voice](https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises).
+
+**My read:** Compliance teams at banks and NBFCs will want proof that every call in a pilot went to the India endpoint, not a stray default. A proxy that routes, logs and reports the region per request is a two-month build and a real portfolio piece for fintech internships.
+
+**Tiny vision models for on-sensor AI.** The gap: Bharat Semi's first-generation sensors are only in prototyping, and its pitch is AI on the same chip as the camera [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/).
+
+**My read:** Room-occupancy and drone-vision models small enough for a sensor make a good semester project on any cheap camera board. Ship a benchmark of a few tiny detectors and you have something concrete to send to hardware startups that are hiring.
+
+## Sources and verification
+
+This issue cites 113 pages fetched between 2026-11-09 and 2026-11-16; every link above opens the page its sentence came from. Dropped for lack of proof: 10 items - already covered in an earlier week: Together AI Research Intern (Model Shaping), Scale AI Machine Learning Research Intern, Scale AI Doha software internship, and two Claude Code changelog entries (2.1.323 Code Mode, 2.1.325 sandboxed Bash); no date: Science Academies SRFP 2027, HackIndia 13th Protocol hackathon, ETH Zurich summer research fellowship, Purdue SURF 2027; outside the window: OpenAI's $11 billion first close (published 7 Nov). Links that answered 403 or timed out when re-checked: none of the links cited above. Full logs: [verified.json](https://github.com/j-jain/Ai-news/blob/main/work/2026-W46/verified.json), [fact-check](https://github.com/j-jain/Ai-news/blob/main/work/2026-W46/factcheck-india.json), [dropped](https://github.com/j-jain/Ai-news/blob/main/work/2026-W46/dropped.json).

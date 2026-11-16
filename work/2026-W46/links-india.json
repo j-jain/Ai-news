@@ -1,0 +1,52 @@
+{
+  "week": "2026-W46",
+  "edition": "india",
+  "checked": 7,
+  "dead": 0,
+  "warn": 0,
+  "removed_sentences": 0,
+  "results": [
+    {
+      "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://docs.sarvam.ai/changelog",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W46/verified.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W46/factcheck-india.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W46/dropped.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    }
+  ]
+}

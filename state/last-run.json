@@ -1,28 +1,28 @@
 {
-  "week": "2026-W45",
-  "run_date": "2026-11-09",
-  "window_start": "2026-11-02",
-  "window_end": "2026-11-08",
+  "week": "2026-W46",
+  "run_date": "2026-11-16",
+  "window_start": "2026-11-09",
+  "window_end": "2026-11-15",
   "editions": [
     "india",
     "world"
   ],
   "counts": {
-    "candidates": 31,
-    "verified": 24,
-    "dropped": 7,
-    "pages_fetched": 118,
-    "india": 9,
-    "world": 18,
+    "candidates": 30,
+    "verified": 17,
+    "dropped": 10,
+    "pages_fetched": 113,
+    "india": 4,
+    "world": 13,
     "tier_b": 0,
     "followups": 0
   },
   "published_files": [
-    "_issues/2026-W45-india.md",
-    "_issues/2026-W45-world.md"
+    "_issues/2026-W46-india.md",
+    "_issues/2026-W46-world.md"
   ],
   "urls": [
-    "https://j-jain.github.io/Ai-news/issues/2026-W45-india/",
-    "https://j-jain.github.io/Ai-news/issues/2026-W45-world/"
+    "https://j-jain.github.io/Ai-news/issues/2026-W46-india/",
+    "https://j-jain.github.io/Ai-news/issues/2026-W46-world/"
   ]
 }

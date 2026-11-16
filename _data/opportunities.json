@@ -1,18 +1,5 @@
 [
   {
-    "id": "7a46dc3eecb8",
-    "title": "Great Indian AI Internship Challenge",
-    "org": "Gnani AI",
-    "type": "competition",
-    "audience": "Currently enrolled students at an Indian college or university, 18 or older, solo or with one teammate",
-    "deadline": "2026-11-10",
-    "url": "https://www.gnani.ai/internship",
-    "verified_on": "2026-10-26",
-    "note": "The brief is open: build any working application on Gnani AI models or APIs (Prisma v2.5 speech-to-text, Timbre text-to-speech, Evon v3.3). The demo must be posted on LinkedIn or X with #GnaniAI and #GreatIndianAIInternshipChallenge before submitting. Teammates are interviewed and offered separately.",
-    "status": "open",
-    "first_seen": "2026-W43"
-  },
-  {
     "id": "20d3edc0d87d",
     "title": "Code for a Billion: Bharat Agentic-AI Hackathon 2026",
     "org": "Code for India",

@@ -712,5 +712,124 @@
     "headline": "Cursor adds realtime voice chat with agents, powered by Grok Voice",
     "first_seen": "2026-W45",
     "edition": "world"
+  },
+  "75d2c9e1a2cd": {
+    "story_key": "5e099923e8f3",
+    "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam/",
+    "headline": "Sarvam names ex-Google Cloud India head Sashikumar Sreedharan President and CBO",
+    "first_seen": "2026-W46",
+    "edition": "india"
+  },
+  "6b94d7948351": {
+    "story_key": "d46a4ed8b173",
+    "url": "https://docs.sarvam.ai/changelog",
+    "headline": "Sarvam adds watermark detection endpoint for Instant Voice Cloning",
+    "first_seen": "2026-W46",
+    "edition": "india"
+  },
+  "1a5b2c9d1c1c": {
+    "story_key": "1f0ab9d451b2",
+    "url": "https://www.itvoice.in/openai-brings-ai-processing-inside-india-easing-a-key-hurdle-for-banks-and-enterprises",
+    "headline": "OpenAI starts processing Indian business API requests inside India",
+    "first_seen": "2026-W46",
+    "edition": "india"
+  },
+  "fc91828979fb": {
+    "story_key": "259e836ce16b",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "headline": "Bharat Semi raises $24M seed for AI-enabled image sensors",
+    "first_seen": "2026-W46",
+    "edition": "india"
+  },
+  "796a7f7ee338": {
+    "story_key": "ffec5b2d2789",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 at lower prices",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "4fd28c2d1c3a": {
+    "story_key": "742a7b985c4d",
+    "url": "https://www.trendforce.com/presscenter/news/20261111-13303.html",
+    "headline": "TrendForce: PC DRAM contracts to rise 13-18% QoQ in 4Q26",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "5d036594fd6c": {
+    "story_key": "33922c154f5d",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+    "headline": "Judge lets DRAM price-fixing suit against Samsung, SK hynix, Micron proceed",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "aeed48585495": {
+    "story_key": "850b0e68e673",
+    "url": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1",
+    "headline": "Salesforce releases SOV-Transcribe-1, Apache 2.0 speech-to-text model",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "2250172890a0": {
+    "story_key": "9c293de5fa9f",
+    "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+    "headline": "Zyphra releases ZONOS3-Mini, 100M-active open text-to-speech model",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "6078fbfff2c4": {
+    "story_key": "54111fd1d9b2",
+    "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx",
+    "headline": "Anthropic sets IPO range at $70-$78 per share, launches roadshow",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "4b7abe522068": {
+    "story_key": "227b1e9d781a",
+    "url": "https://siliconvalleyinvestclub.com/2026/11/09/nominal-raises-240-million-at-a-3-billion-valuation/",
+    "headline": "Nominal raises $240 million Series C at $3 billion valuation",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "d1d5743b5ef3": {
+    "story_key": "12240827d8f2",
+    "url": "https://arxiv.org/abs/2611.16228",
+    "headline": "Indic RL study: MATH up 36 points, XQuAD-Indic F1 down 19",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "c012fc7ecd62": {
+    "story_key": "4d09aa52e3d0",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "headline": "New York opens RAISE Act portal for frontier AI developers",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "fbd4406f3886": {
+    "story_key": "e7b6048df914",
+    "url": "https://arxiv.org/abs/2611.14996",
+    "headline": "Paper finds 'task badness' activation precedes LLM reward hacking",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "1069b3cb0ed4": {
+    "story_key": "a2ad2ed06ec5",
+    "url": "https://arxiv.org/abs/2611.16064",
+    "headline": "Audit: on-policy self-distillation gains track teacher thinking, not solutions",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "fd44baeb690a": {
+    "story_key": "dec6588c8668",
+    "url": "https://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274",
+    "headline": "Australia announces AI safety regulator for frontier companies",
+    "first_seen": "2026-W46",
+    "edition": "world"
+  },
+  "cafe4a03e39d": {
+    "story_key": "4210c4db9a07",
+    "url": "https://arxiv.org/abs/2611.15777",
+    "headline": "SO-Arena benchmark: best System One model ranks seventh in reliability",
+    "first_seen": "2026-W46",
+    "edition": "world"
   }
 }
