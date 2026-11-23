@@ -1,0 +1,112 @@
+{
+  "week": "2026-W47",
+  "edition": "world",
+  "checked": 17,
+  "dead": 0,
+  "warn": 0,
+  "removed_sentences": 0,
+  "results": [
+    {
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://evertiq.com/news/2026-11-19-nand-flash-prices-set-to-fall-in-2027-as-chinese-cloud-firms-cut-orders",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://thenextweb.com/news/plural-1bn-fund-european-frontier-startups",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://techpolicy.press/britains-ai-assurance-approach-needs-a-second-act",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://www.faegredrinker.com/zh/insights/publications/2026/11/how-the-midterm-results-could-reshape-ai-and-data-center-regulations-and-more-developments",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "status": 200,
+      "verdict": "ok",
+      "note": "fetched successfully earlier this run"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W47/verified.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W47/factcheck-world.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    },
+    {
+      "url": "https://github.com/j-jain/Ai-news/blob/main/work/2026-W47/dropped.json",
+      "status": null,
+      "verdict": "ok",
+      "note": "repo file; exists once this run is published"
+    }
+  ]
+}

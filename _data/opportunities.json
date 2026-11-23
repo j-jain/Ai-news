@@ -1,31 +1,5 @@
 [
   {
-    "id": "20d3edc0d87d",
-    "title": "Code for a Billion: Bharat Agentic-AI Hackathon 2026",
-    "org": "Code for India",
-    "type": "hackathon",
-    "audience": "Students, professionals and indie developers, solo or in teams, anywhere (fully online)",
-    "deadline": "2026-11-15",
-    "url": "https://codeforindia.org/hackathon",
-    "verified_on": "2026-10-26",
-    "note": "Page: 'Submissions close' 15 Nov 2026; winners 5 Dec 2026. Ten impact areas (education, sanitation, waste, clean air, clean water, health, legal backlog, transport safety, livelihood, youth employment); 1M free smart-code tokens on AgentFoundry.me; projects are open-sourced (Apache-2.0 or MIT) to the Code for India GitHub organisation; prizes ₹1,50,000 / ₹1,00,000 / ₹50,000 per track.",
-    "status": "open",
-    "first_seen": "2026-W43"
-  },
-  {
-    "id": "dbca49ed4f1e",
-    "title": "13th Protocol: An AI Hackathon 2026",
-    "org": "HackIndia",
-    "type": "hackathon",
-    "audience": "Students, developers, innovators and AI enthusiasts from across India",
-    "deadline": "2026-11-18",
-    "url": "https://hackindia.org/2026/13th-protocol-an-ai-hackathon-2026",
-    "verified_on": "2026-11-09",
-    "note": "In person, 28-29 Nov 2026; entry fee Free per the page.",
-    "status": "open",
-    "first_seen": "2026-W45"
-  },
-  {
     "id": "f12af75ab217",
     "title": "Summer Research Fellowship Programme 2027",
     "org": "Indian Academy of Sciences (with INSA and NASI)",
@@ -63,6 +37,19 @@
     "note": "Window opens 1 Nov 2026 (not yet open when checked) and closes 16 Dec 2026 13:00 CET; apply through SiROP. Decisions by end of February 2027. In person for the full two months, 2 July to 27 August 2027; CHF 4,000 stipend, travel and visa expenses covered. Do not contact faculty directly.",
     "status": "open",
     "first_seen": "2026-W43"
+  },
+  {
+    "id": "ec0fdd5023f0",
+    "title": "CERN Summer Student Programme 2027",
+    "org": "CERN",
+    "type": "programme",
+    "audience": "Bachelor/Master students in Physics, Engineering, CS or Maths with at least 6 semesters completed",
+    "deadline": "rolling",
+    "url": "https://careers.cern/programmes/summer-studentship/",
+    "verified_on": "2026-11-23",
+    "note": "Deadline date not stated on the fetched page; listed as rolling until a dated deadline is confirmed.",
+    "status": "open",
+    "first_seen": "2026-W47"
   },
   {
     "id": "0f73c4f3e36b",

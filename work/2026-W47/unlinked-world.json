@@ -1,0 +1,18 @@
+{
+  "issues": [
+    {
+      "line": 26,
+      "sentence": "The repo gives one-line runs for llama.cpp, Ollama, LM Studio and Docker Model Runner.",
+      "problem": "Unsloth page gives one-line commands for llama.cpp, Ollama and Docker Model Runner; LM Studio appears only as a listed app with no command.",
+      "action": "rewrite",
+      "replacement": "The repo gives one-line runs for llama.cpp, Ollama and Docker Model Runner, and also lists LM Studio among its local apps."
+    },
+    {
+      "line": 68,
+      "sentence": "Its own card says it is materially below frontier capabilities.",
+      "problem": "Overgeneralised: the card says loss-of-control testing (agentic capability, strategic deception, sabotage) found the model materially below frontier capabilities, not that it is below frontier overall.",
+      "action": "rewrite",
+      "replacement": "Its own card says safety testing for agentic capability, strategic deception and sabotage found it materially below frontier capabilities."
+    }
+  ]
+}

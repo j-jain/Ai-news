@@ -831,5 +831,173 @@
     "headline": "SO-Arena benchmark: best System One model ranks seventh in reliability",
     "first_seen": "2026-W46",
     "edition": "world"
+  },
+  "76ba398d1d47": {
+    "story_key": "a34cba7e3443",
+    "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+    "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "0008cd326877": {
+    "story_key": "06dace1971e2",
+    "url": "https://www.sarvam.ai/blogs/sarvam-token-factory",
+    "headline": "Sarvam launches Token Factory inference platform in India",
+    "first_seen": "2026-W47",
+    "edition": "india"
+  },
+  "95abb25cb956": {
+    "story_key": "b20e38c785a3",
+    "url": "https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html",
+    "headline": "Sarvam says Token Factory uses no subsidised GPUs amid Chinese-model row",
+    "first_seen": "2026-W47",
+    "edition": "india"
+  },
+  "3bb219d57336": {
+    "story_key": "5f2476ee8fb8",
+    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+    "headline": "Soket AI raises $4 Mn from Bajaj Finserv and Pennant",
+    "first_seen": "2026-W47",
+    "edition": "india"
+  },
+  "6041acbe9a03": {
+    "story_key": "56a62abd842d",
+    "url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+    "headline": "CtrlS targets 4.4 GW data centre capacity by 2030",
+    "first_seen": "2026-W47",
+    "edition": "india"
+  },
+  "55dde3921be9": {
+    "story_key": "3906078b783a",
+    "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "headline": "Humyn Labs raises $47M Series A led by Accel",
+    "first_seen": "2026-W47",
+    "edition": "india"
+  },
+  "bad57a24605e": {
+    "story_key": "e15b48616195",
+    "url": "https://indianstartupnews.com/funding/iit-bhu-alumnus-anuruddh-mishras-august-ai-raises-12-million-to-take-on-us-healthcare-paperwork-12828862",
+    "headline": "August AI raises $12M from Accel and Peak XV",
+    "first_seen": "2026-W47",
+    "edition": "india"
+  },
+  "597e87224043": {
+    "story_key": "6f1b2a5fc7bc",
+    "url": "https://digitalterminal.in/ai/openai-offers-free-chatgpt-plus-access-to-indian-researchers-under-global-initiative",
+    "headline": "OpenAI brings free ChatGPT Plus for researchers to India",
+    "first_seen": "2026-W47",
+    "edition": "india"
+  },
+  "67088a0b4a71": {
+    "story_key": "58cba667d4d9",
+    "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/",
+    "headline": "Dreamteam raises $53M from Together Fund, Accel, Premji Invest",
+    "first_seen": "2026-W47",
+    "edition": "india"
+  },
+  "2773c380ad92": {
+    "story_key": "6f215e986b2d",
+    "url": "https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/",
+    "headline": "Disseqt AI raises $8M led by Gresham House Ventures",
+    "first_seen": "2026-W47",
+    "edition": "india"
+  },
+  "ec0fdd5023f0": {
+    "story_key": "7f7ead58b5aa",
+    "url": "https://careers.cern/programmes/summer-studentship/",
+    "headline": "CERN lists Summer Student Programme 2027 positions",
+    "first_seen": "2026-W47",
+    "edition": "india"
+  },
+  "46b42a1df925": {
+    "story_key": "1642b95f5468",
+    "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+    "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "efb2e84d9f4a": {
+    "story_key": "28a5974ea045",
+    "url": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
+    "headline": "TrendForce expects NAND contract prices to fall from 1Q27",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "fc5aa03309b6": {
+    "story_key": "290eacdd2ddc",
+    "url": "https://evertiq.com/news/2026-11-19-nand-flash-prices-set-to-fall-in-2027-as-chinese-cloud-firms-cut-orders",
+    "headline": "NAND spot prices fell about 20% in two weeks",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "99ccc673a30f": {
+    "story_key": "c7cb4c740dbf",
+    "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+    "headline": "Thinking Machines releases Inkling 2 Mini, Apache-2.0 looped MoE for local use",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "67c4c2c31439": {
+    "story_key": "7db0e26f2859",
+    "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+    "headline": "Unsloth publishes GGUF quantisations of Inkling 2 Mini",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "b4f1a99333cf": {
+    "story_key": "294bfa059463",
+    "url": "https://huggingface.co/tencent/Hy4-flash",
+    "headline": "Tencent publishes Hy4-flash weights: 220B total, 12B active, 1M context",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "b7121aa76176": {
+    "story_key": "b052041c65a9",
+    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "headline": "Anthropic prices IPO at $83 a share, raising $81.3 billion",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "9ed07376289e": {
+    "story_key": "0410ae7601e3",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+    "headline": "Nvidia Q3 revenue hits $115.8 billion, up 103%, under interim CEO",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "e602d8dddb6e": {
+    "story_key": "6511c43ecb5b",
+    "url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/",
+    "headline": "Anthropic opens at $111.50 on Nasdaq, closes first day at $97.17",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "e89c9f0a9a8b": {
+    "story_key": "680fe8ead28b",
+    "url": "https://thenextweb.com/news/plural-1bn-fund-european-frontier-startups",
+    "headline": "Plural raises €1bn third fund for European defence, energy and AI start-ups",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "c60558e98558": {
+    "story_key": "3243b32f1455",
+    "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+    "headline": "External sandbox pattern lets Claude Code, Codex and Pi run code in isolation",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "6eb1052b510f": {
+    "story_key": "0fc4298417ad",
+    "url": "https://techpolicy.press/britains-ai-assurance-approach-needs-a-second-act",
+    "headline": "UK AISI has no legal power to compel model access",
+    "first_seen": "2026-W47",
+    "edition": "world"
+  },
+  "c40f8b7e73b7": {
+    "story_key": "33d3add7715b",
+    "url": "https://www.faegredrinker.com/zh/insights/publications/2026/11/how-the-midterm-results-could-reshape-ai-and-data-center-regulations-and-more-developments",
+    "headline": "US midterm results may drive state data center and AI rules",
+    "first_seen": "2026-W47",
+    "edition": "world"
   }
 }

@@ -1,0 +1,1047 @@
+{
+  "week": "2026-W47",
+  "edition": "world",
+  "draft": "work/2026-W47/draft-world.md",
+  "claims": [
+    {
+      "n": 1,
+      "line": 3,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Anthropic's IPO is the largest ever** Anthropic priced at $83 a share and sold 980 million shares for $81.3 billion, beating SpaceX's $75 billion record, according to [TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "id": "b7121aa76176",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b7121aa76176.txt",
+          "headline": "Anthropic prices IPO at $83 a share, raising $81.3 billion",
+          "claim": "TechCrunch reports Anthropic priced its IPO at $83 per share, above the $70-$78 range, selling 980 million shares for $81.3 billion in proceeds, valued at roughly $1.5 trillion fully diluted.",
+          "quote": "generating $81.3 billion in proceeds and surpassing SpaceX’s $75 billion record to become the largest IPO in history by proceeds raised",
+          "published": "2026-11-18",
+          "context": "chCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Leon Neal / Getty Images\n\nAI\n\nAnthropic prices IPO at $83 a share, above projected range\n\nMarina Temkin\n\n2:11 PM PST · November 18, 2026\n\nAnthropic has priced its long-awaited IPO at $83 per share, above its initial range of $70 to $78, signaling strong investor appetite for one of the companies at the center of the AI boom, despite market jitters following the departure of Nvidia CEO Jensen Huang, which shook confidence in the industry. The Claude maker sold 980 million shares in the offering, up from the 825 million initially planned, generating $81.3 billion in proceeds and surpassing SpaceX’s $75 billion record to become the largest IPO in history by proceeds raised.\n\nAt the IPO price, Anthropic is valued at roughly $1.5 trillion on a fully diluted basis, a significant increase from the $965 billion the company reached in May when it raised $65 billion in its last private market round, but below the $2 trillion it was reportedly aiming for several months ago.\n\nAnthropic will begin its life as a public company on Thursday, trading on Nasdaq under the ticker symbol “ANT.” A strong first day of trading would signal that investors remain optimistic about AI adoption, despite recent volatility in AI-driven stocks.\n\nThe company’s performance is expected to set expectations for private AI companies, including Anthropic’s main rival OpenAI, which was last repo"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "line": 4,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**OpenAI's flagship API got 20% cheaper** GPT-6.2 Astra now costs $8 per million uncached input tokens and $40 per million output tokens, while GPT-6.2 Sol stays at $2 and $10 [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "line": 5,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**A 1M-context open model for laptops** Thinking Machines put Inkling 2 Mini on Hugging Face with 26.4B parameters, 3.4B active, an Apache 2.0 licence and a checkpoint of about 20GB [Inkling model card](https://huggingface.co/thinkingmachines/Inkling-2-Mini).",
+      "evidence": [
+        {
+          "chip": "Inkling model card",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "id": "99ccc673a30f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/99ccc673a30f.txt",
+          "headline": "Thinking Machines releases Inkling 2 Mini, Apache-2.0 looped MoE for local use",
+          "claim": "The Inkling 2 Mini card lists 26.4B parameters (3.4B active, 5.4B effective with three loop passes), a 1M-token context, a roughly 20GB checkpoint and an Apache-2.0 licence. It names Apple silicon with 32GB or more memory and DGX Spark as supported local hardware.",
+          "quote": "The model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.",
+          "published": "2026-11-19",
+          "context": "search, fine-tuning and integration into third-party products by downstream developers.\n\nLanguages: English, general multilingual support\n\nModel provider: Thinking Machines Lab, Inc.\n\nDate of release: November 20, 2026\n\nLicense: Apache 2.0\n\nModel Acceptable Use Policy\n\n2. Getting Started\n\nThe weights are available for download through Hugging Face here.\n\nDevelopers can also access the model using the Tinker fine-tuning platform, which provides API access.\n\nFor accessing our model via Tinker, you can get started by referring to the Tinker Cookbook here, and installing the tml-renderers package here.\n\nTinker playground also provides inference-only access to the model here.\n\nRequired hardware\n\nThe model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.\n\nGiven its small size, it is possible to run this checkpoint on local AI compute for inference. We support:\n\n1x NVIDIA DGX Spark\n\nApple silicon devices with 32GB or more memory (MacBooks, Mac minis and Studios)\n\nOther GPUs and platforms are possible, with 32GB or more of VRAM recommended\n\nRequired software\n\nInkling 2 Mini supports inference using the following frameworks, along with their dependency libraries:\n\nHugging Face\n\nSGLang\n\nvLLM\n\nTokenSpeed\n\nNVIDIA Dynamo\n\nUnsloth, including quantized GGUF versions\n\nllama.cpp, for quantized GGUF versions\n\nLlama App\n\nOn Apple Silicon\n\nOllama and Exo Labs\n\nInkling 2 Mini can also be post-trained with:\n\nMiles\n\nSkyRL\n\n3. Model Properties\n\nModel type\n\nM"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "line": 9,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on 17 Nov, bringing both to ChatGPT Work and Codex and lowering Astra's standard API rates by 20% [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "line": 9,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Astra is the flagship for spreadsheets, legal research and codebase changes, and Sol is the cheaper model for routine coding and multistep writing, and both have a 1.05 million-token context window and up to 128,000 output tokens, per [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20)'s account.",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "line": 11,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Requests above 272,000 input tokens double the input and cache rates and apply a 1.5-times multiplier to output, which lifts long-context Astra calls to $16 input and $60 output per million tokens [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "line": 11,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On the API, the Ultrafast tier starts at triple standard rates and rises to six times on 1 Mar 2027, per the same [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20) piece, and the API identifiers are gpt-6.2-astra and gpt-6.2-sol.",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "line": 13,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Artificial Analysis scored Astra 62 out of 100 on its Intelligence Index, behind Anthropic's Claude Fable 5.2 at 65, and found flat coding-agent performance for Astra and a drop for Sol, according to [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "line": 15,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "\"The worst model OpenAI has ever released\", developer Theo Browne said of 6.2 Astra, as quoted by [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "line": 17,
+      "section": "Frontier labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Anthropic launched Claude Fable 5.2 and Mythos 5.2 at the same $8 input and $40 output rates, and Google offers Gemini 4 Carbon at introductory rates equal to Sol's $2 and $10 [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "line": 23,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Its card describes a 24-layer decoder where the middle 12 layers run three times with shared weights, giving 5.4B effective active parameters per token, a context window of up to 1M tokens and text-plus-image input [Inkling model card](https://huggingface.co/thinkingmachines/Inkling-2-Mini).",
+      "evidence": [
+        {
+          "chip": "Inkling model card",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "id": "99ccc673a30f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/99ccc673a30f.txt",
+          "headline": "Thinking Machines releases Inkling 2 Mini, Apache-2.0 looped MoE for local use",
+          "claim": "The Inkling 2 Mini card lists 26.4B parameters (3.4B active, 5.4B effective with three loop passes), a 1M-token context, a roughly 20GB checkpoint and an Apache-2.0 licence. It names Apple silicon with 32GB or more memory and DGX Spark as supported local hardware.",
+          "quote": "The model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.",
+          "published": "2026-11-19",
+          "context": "search, fine-tuning and integration into third-party products by downstream developers.\n\nLanguages: English, general multilingual support\n\nModel provider: Thinking Machines Lab, Inc.\n\nDate of release: November 20, 2026\n\nLicense: Apache 2.0\n\nModel Acceptable Use Policy\n\n2. Getting Started\n\nThe weights are available for download through Hugging Face here.\n\nDevelopers can also access the model using the Tinker fine-tuning platform, which provides API access.\n\nFor accessing our model via Tinker, you can get started by referring to the Tinker Cookbook here, and installing the tml-renderers package here.\n\nTinker playground also provides inference-only access to the model here.\n\nRequired hardware\n\nThe model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.\n\nGiven its small size, it is possible to run this checkpoint on local AI compute for inference. We support:\n\n1x NVIDIA DGX Spark\n\nApple silicon devices with 32GB or more memory (MacBooks, Mac minis and Studios)\n\nOther GPUs and platforms are possible, with 32GB or more of VRAM recommended\n\nRequired software\n\nInkling 2 Mini supports inference using the following frameworks, along with their dependency libraries:\n\nHugging Face\n\nSGLang\n\nvLLM\n\nTokenSpeed\n\nNVIDIA Dynamo\n\nUnsloth, including quantized GGUF versions\n\nllama.cpp, for quantized GGUF versions\n\nLlama App\n\nOn Apple Silicon\n\nOllama and Exo Labs\n\nInkling 2 Mini can also be post-trained with:\n\nMiles\n\nSkyRL\n\n3. Model Properties\n\nModel type\n\nM"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "line": 25,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Unsloth published GGUF quantisations, with files from 7.76 GB for UD-IQ1_S up to 22.87 GB for UD-Q8_K_XL, and the same top token as the Q8 reference 97.9% of the time at UD-Q4_K_M [Unsloth GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF).",
+      "evidence": [
+        {
+          "chip": "Unsloth GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "id": "67c4c2c31439",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/67c4c2c31439.txt",
+          "headline": "Unsloth publishes GGUF quantisations of Inkling 2 Mini",
+          "claim": "Unsloth's GGUF repo for Inkling 2 Mini (Apache-2.0) shows how to run the UD-Q4_K_M quant with llama.cpp, Ollama and Docker Model Runner.",
+          "quote": "llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M",
+          "published": "2026-11-20",
+          "context": "ce Endpoints\n\nStorage Buckets\n\nLog In\n\nSign Up\n\nunsloth\n/\n\nInkling-2-Mini-GGUF\n\nLike 897\n\nFollow\nUnsloth 40.9k\n\nImage-Text-to-Text\n\nGGUF\n\nconversational\n\nMixture of Experts\n\nunsloth\n\nimatrix\n\nLicense: apache-2.0\n\nModel card Files Files and versions\nxet\nCommunity\n16\n\nDeploy\n\nCopy to bucket\n\nUse this model\n\nInstructions to use unsloth/Inkling-2-Mini-GGUF with libraries, inference providers, notebooks, and local apps. Follow these links to get started.\n\nNotebooks\n\nGoogle Colab\n\nKaggle\n\nLocal Apps Settings\n\nllama.cpp\nHow to use unsloth/Inkling-2-Mini-GGUF with llama.cpp:\n\nInstall (macOS, Linux)\n\ncurl -LsSf https://llama.app/install.sh | sh\n# Start a local OpenAI-compatible server with a web UI:\nllama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\nllama cli -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n\nInstall from WinGet (Windows)\n\nwinget install llama.cpp\n# Start a local OpenAI-compatible server with a web UI:\nllama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\nllama cli -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n\nBuild from source code\n\ngit clone https://github.com/ggml-org/llama.cpp.git\ncd llama.cpp\ncmake -B build\ncmake --build build -j --target llama-app\n# Start a local OpenAI-compatible server with a web UI:\n./build/bin/llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\n./build/bin/llama cli -hf unsloth"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "line": 27,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Tencent published Hy4-flash weights: 220B total parameters including 64B Engram parameters, 12B active per token, text and image input and up to 1M tokens of context [Tencent model card](https://huggingface.co/tencent/Hy4-flash).",
+      "evidence": [
+        {
+          "chip": "Tencent model card",
+          "url": "https://huggingface.co/tencent/Hy4-flash",
+          "id": "b4f1a99333cf",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b4f1a99333cf.txt",
+          "headline": "Tencent publishes Hy4-flash weights: 220B total, 12B active, 1M context",
+          "claim": "Tencent's Hy4-flash card describes a 220B-parameter model with 12B active per token, text and image input and up to 1M tokens of context. The licence shown is tencent-hy-license, not a standard open licence.",
+          "quote": "featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token.",
+          "published": "2026-11-20",
+          "context": "sformers\n\nOpenAI-compatible API\n\nDeployment\n\nDFly2 for Speculative Decoding\n\nQuantization\n\nInference Frameworks\n\nvLLM\n\nSGLang\n\nFinetuning\n\nLicense\n\nContact Us\n\n中文 ｜ English\n\n  \n\n  \n\n  \n\nOfficial Website  |  \nGitHub  |  \nGGUF\n\nTable of Contents\n\nModel Introduction\n\nPretrained model capability\n\nPracticality and Cost Efficiency\n\nOptimization Approach\n\nTask Performance and Cost\n\nUser Blind Evaluation\n\nAppendix: Benchmark results\n\nNews\n\nModel Links\n\nQuickstart\n\nTransformers\n\nOpenAI-compatible API\n\nDeployment\n\nDFly2 for Speculative Decoding\n\nQuantization\n\nInference Frameworks\n\nvLLM\n\nSGLang\n\nFinetuning\n\nLicense\n\nContact Us\n\nModel Introduction\n\nHy4 flash is our most cost-effective Hy model to date, featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token. It natively accepts text and image inputs, generates text, and supports a context window of up to 1M tokens.\n\nIts 42-layer language backbone consists of one dense feed-forward layer and 41 MoE layers, with identity Hyper-Connections (iHC) supporting inter-layer information flow. A vision encoder (adapted from SigLIP2-So400m-Patch16-Res512) is connected to the backbone through an MLP projector. In addition to the backbone, a built-in 5-layer drafter, DFly2 (0.85B parameters), reuses the target model's KV cache and sparse indices to support long-context speculative decoding at a low, constant cost.\n\nCompared with Hy4, Hy4 Flash introduces three notable architectural changes:\n\nHybrid attention"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "line": 29,
+      "section": "Open and local models",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam released Sarvam-105B-1711, an open-weight checkpoint whose blended price fell from $0.44 to $0.15 per million tokens, with weights in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU [Sarvam](https://www.sarvam.ai/blogs/sarvam-105b-1711).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+          "id": "76ba398d1d47",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/76ba398d1d47.txt",
+          "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+          "claim": "Sarvam released Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on B200 infrastructure; its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release, and blended price fell by two-thirds from $0.44.",
+          "quote": "its average across eight conversational agent benchmarks rose from 42.6 to 73.9",
+          "published": "2026-11-22",
+          "context": "ore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nIntroducing Sarvam-105B-1711\n\nNov 22, 202618 min read\nShare\n\nNov 22, 2026·18 min read\nShare\n\nToday, we're releasing Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B, trained on our upgraded B200 infrastructure. It is a Flash-Lite model built for high-volume work such as customer support, voice agents and agentic tasks. Compared with our February release, it follows instructions more reliably across long conversations, calls tools more accurately and handles Indian languages far better, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9. Our inference optimisations have also cut its blended price by two-thirds, from $0.44 to $0.15 per million tokens. The weights are on Hugging Face in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU.\n\nIt matches Gemini 3.5 Flash-Lite and Gemma 4 31B at a fraction of their price. Across the eight conversational agent benchmarks, Sarvam-105B-1711 averages 73.9 at a blended $0.15 per million tokens. Gemini 3.5 Flash-Lite averages 74.0 at $0.85, more than five times the price, and Gemma 4 31B averages 73.0 at $0.54, more than three times the price.\n\nThe largest gains since February are on conversational agentic skills. Instruction following rose from 32.5 to 82.5 on IFBench"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "line": 33,
+      "section": "Open and local models",
+      "kind": "row",
+      "opinion": false,
+      "sentence": "| 16 GB | Inkling 2 Mini UD-IQ3_XXS | 11.66 GB file, 94.7% same top token as Q8 [Unsloth GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) |",
+      "evidence": [
+        {
+          "chip": "Unsloth GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "id": "67c4c2c31439",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/67c4c2c31439.txt",
+          "headline": "Unsloth publishes GGUF quantisations of Inkling 2 Mini",
+          "claim": "Unsloth's GGUF repo for Inkling 2 Mini (Apache-2.0) shows how to run the UD-Q4_K_M quant with llama.cpp, Ollama and Docker Model Runner.",
+          "quote": "llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M",
+          "published": "2026-11-20",
+          "context": "ce Endpoints\n\nStorage Buckets\n\nLog In\n\nSign Up\n\nunsloth\n/\n\nInkling-2-Mini-GGUF\n\nLike 897\n\nFollow\nUnsloth 40.9k\n\nImage-Text-to-Text\n\nGGUF\n\nconversational\n\nMixture of Experts\n\nunsloth\n\nimatrix\n\nLicense: apache-2.0\n\nModel card Files Files and versions\nxet\nCommunity\n16\n\nDeploy\n\nCopy to bucket\n\nUse this model\n\nInstructions to use unsloth/Inkling-2-Mini-GGUF with libraries, inference providers, notebooks, and local apps. Follow these links to get started.\n\nNotebooks\n\nGoogle Colab\n\nKaggle\n\nLocal Apps Settings\n\nllama.cpp\nHow to use unsloth/Inkling-2-Mini-GGUF with llama.cpp:\n\nInstall (macOS, Linux)\n\ncurl -LsSf https://llama.app/install.sh | sh\n# Start a local OpenAI-compatible server with a web UI:\nllama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\nllama cli -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n\nInstall from WinGet (Windows)\n\nwinget install llama.cpp\n# Start a local OpenAI-compatible server with a web UI:\nllama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\nllama cli -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n\nBuild from source code\n\ngit clone https://github.com/ggml-org/llama.cpp.git\ncd llama.cpp\ncmake -B build\ncmake --build build -j --target llama-app\n# Start a local OpenAI-compatible server with a web UI:\n./build/bin/llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\n./build/bin/llama cli -hf unsloth"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "line": 34,
+      "section": "Open and local models",
+      "kind": "row",
+      "opinion": false,
+      "sentence": "| 24 GB | Inkling 2 Mini UD-Q4_K_M | 16.61 GB file, 97.9% same top token as Q8 [Unsloth GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) |",
+      "evidence": [
+        {
+          "chip": "Unsloth GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "id": "67c4c2c31439",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/67c4c2c31439.txt",
+          "headline": "Unsloth publishes GGUF quantisations of Inkling 2 Mini",
+          "claim": "Unsloth's GGUF repo for Inkling 2 Mini (Apache-2.0) shows how to run the UD-Q4_K_M quant with llama.cpp, Ollama and Docker Model Runner.",
+          "quote": "llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M",
+          "published": "2026-11-20",
+          "context": "ce Endpoints\n\nStorage Buckets\n\nLog In\n\nSign Up\n\nunsloth\n/\n\nInkling-2-Mini-GGUF\n\nLike 897\n\nFollow\nUnsloth 40.9k\n\nImage-Text-to-Text\n\nGGUF\n\nconversational\n\nMixture of Experts\n\nunsloth\n\nimatrix\n\nLicense: apache-2.0\n\nModel card Files Files and versions\nxet\nCommunity\n16\n\nDeploy\n\nCopy to bucket\n\nUse this model\n\nInstructions to use unsloth/Inkling-2-Mini-GGUF with libraries, inference providers, notebooks, and local apps. Follow these links to get started.\n\nNotebooks\n\nGoogle Colab\n\nKaggle\n\nLocal Apps Settings\n\nllama.cpp\nHow to use unsloth/Inkling-2-Mini-GGUF with llama.cpp:\n\nInstall (macOS, Linux)\n\ncurl -LsSf https://llama.app/install.sh | sh\n# Start a local OpenAI-compatible server with a web UI:\nllama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\nllama cli -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n\nInstall from WinGet (Windows)\n\nwinget install llama.cpp\n# Start a local OpenAI-compatible server with a web UI:\nllama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\nllama cli -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n\nBuild from source code\n\ngit clone https://github.com/ggml-org/llama.cpp.git\ncd llama.cpp\ncmake -B build\ncmake --build build -j --target llama-app\n# Start a local OpenAI-compatible server with a web UI:\n./build/bin/llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\n./build/bin/llama cli -hf unsloth"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "line": 35,
+      "section": "Open and local models",
+      "kind": "row",
+      "opinion": false,
+      "sentence": "| 32 GB | Inkling 2 Mini full checkpoint | about 20GB, NVFP4 and MXFP8, Apple silicon with 32GB or more [Inkling model card](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |",
+      "evidence": [
+        {
+          "chip": "Inkling model card",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "id": "99ccc673a30f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/99ccc673a30f.txt",
+          "headline": "Thinking Machines releases Inkling 2 Mini, Apache-2.0 looped MoE for local use",
+          "claim": "The Inkling 2 Mini card lists 26.4B parameters (3.4B active, 5.4B effective with three loop passes), a 1M-token context, a roughly 20GB checkpoint and an Apache-2.0 licence. It names Apple silicon with 32GB or more memory and DGX Spark as supported local hardware.",
+          "quote": "The model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.",
+          "published": "2026-11-19",
+          "context": "search, fine-tuning and integration into third-party products by downstream developers.\n\nLanguages: English, general multilingual support\n\nModel provider: Thinking Machines Lab, Inc.\n\nDate of release: November 20, 2026\n\nLicense: Apache 2.0\n\nModel Acceptable Use Policy\n\n2. Getting Started\n\nThe weights are available for download through Hugging Face here.\n\nDevelopers can also access the model using the Tinker fine-tuning platform, which provides API access.\n\nFor accessing our model via Tinker, you can get started by referring to the Tinker Cookbook here, and installing the tml-renderers package here.\n\nTinker playground also provides inference-only access to the model here.\n\nRequired hardware\n\nThe model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.\n\nGiven its small size, it is possible to run this checkpoint on local AI compute for inference. We support:\n\n1x NVIDIA DGX Spark\n\nApple silicon devices with 32GB or more memory (MacBooks, Mac minis and Studios)\n\nOther GPUs and platforms are possible, with 32GB or more of VRAM recommended\n\nRequired software\n\nInkling 2 Mini supports inference using the following frameworks, along with their dependency libraries:\n\nHugging Face\n\nSGLang\n\nvLLM\n\nTokenSpeed\n\nNVIDIA Dynamo\n\nUnsloth, including quantized GGUF versions\n\nllama.cpp, for quantized GGUF versions\n\nLlama App\n\nOn Apple Silicon\n\nOllama and Exo Labs\n\nInkling 2 Mini can also be post-trained with:\n\nMiles\n\nSkyRL\n\n3. Model Properties\n\nModel type\n\nM"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "line": 41,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "TrendForce forecasts NAND flash contract prices falling 0-5 percent quarter on quarter in early 2027, with all product categories in a downturn from the second quarter, as Chinese cloud operators cut enterprise SSD orders [The Register](https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116).",
+      "evidence": [
+        {
+          "chip": "The Register",
+          "url": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
+          "id": "efb2e84d9f4a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/efb2e84d9f4a.txt",
+          "headline": "TrendForce expects NAND contract prices to fall from 1Q27",
+          "claim": "TrendForce forecasts NAND flash contract prices to fall 0-5 percent QoQ in early 2027, with all product categories in a downturn from the second quarter, as Chinese cloud operators cut enterprise SSD orders.",
+          "quote": "TrendForce forecasts overall NAND flash contract prices falling by 0-5 percent quarter on quarter in early 2027",
+          "published": "2026-11-19",
+          "context": " as Raspberry Pi OS gets fresh lick of paint\n\nSeptember 23, 2026\n\nNAND flash prices could start falling next year as Chinese cloud operators cut enterprise SSD orders, helping push the market toward oversupply.\n\nTaiwan-based market intelligence firm TrendForce says Chinese cloud service providers are grappling with GPU shortages, high inventories, and fierce competition over AI token pricing.\n\nAs a result, they have reduced their total enterprise SSD orders for 2027 by a substantial amount. Although TrendForce doesn't specify any figures, it says the cutbacks in China are large enough to outweigh the additional demand coming from US-based cloud operators.\n\nREG AD\n\nBut don't get too excited: TrendForce forecasts overall NAND flash contract prices falling by 0-5 percent quarter on quarter in early 2027, with all product categories entering a downturn from the second quarter.\n\nREG AD\n\nFalling orders are only half the story. Manufacturers are also increasing output, while weaker consumer electronics sales could further depress demand.\n\nStrong demand for high-performance storage in the US continues to drive manufacturers to expand capacity and upgrade to newer process technologies. At the same time, the rising adoption of quad-level cell (QLC) technology and increasing number of layers in the NAND chips will further boost bit output, TrendForce observes.\n\nSome suppliers may go slower on their expansion plans in response to sluggish consumer demand, but the firm still expects global NAND flas"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "line": 41,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Cheaper NAND would not fix the separate DRAM squeeze, which has already raised PC prices in Europe by double-digit percentages, the same [Register](https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116) report adds.",
+      "evidence": [
+        {
+          "chip": "Register",
+          "url": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
+          "id": "efb2e84d9f4a",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/efb2e84d9f4a.txt",
+          "headline": "TrendForce expects NAND contract prices to fall from 1Q27",
+          "claim": "TrendForce forecasts NAND flash contract prices to fall 0-5 percent QoQ in early 2027, with all product categories in a downturn from the second quarter, as Chinese cloud operators cut enterprise SSD orders.",
+          "quote": "TrendForce forecasts overall NAND flash contract prices falling by 0-5 percent quarter on quarter in early 2027",
+          "published": "2026-11-19",
+          "context": " as Raspberry Pi OS gets fresh lick of paint\n\nSeptember 23, 2026\n\nNAND flash prices could start falling next year as Chinese cloud operators cut enterprise SSD orders, helping push the market toward oversupply.\n\nTaiwan-based market intelligence firm TrendForce says Chinese cloud service providers are grappling with GPU shortages, high inventories, and fierce competition over AI token pricing.\n\nAs a result, they have reduced their total enterprise SSD orders for 2027 by a substantial amount. Although TrendForce doesn't specify any figures, it says the cutbacks in China are large enough to outweigh the additional demand coming from US-based cloud operators.\n\nREG AD\n\nBut don't get too excited: TrendForce forecasts overall NAND flash contract prices falling by 0-5 percent quarter on quarter in early 2027, with all product categories entering a downturn from the second quarter.\n\nREG AD\n\nFalling orders are only half the story. Manufacturers are also increasing output, while weaker consumer electronics sales could further depress demand.\n\nStrong demand for high-performance storage in the US continues to drive manufacturers to expand capacity and upgrade to newer process technologies. At the same time, the rising adoption of quad-level cell (QLC) technology and increasing number of layers in the NAND chips will further boost bit output, TrendForce observes.\n\nSome suppliers may go slower on their expansion plans in response to sluggish consumer demand, but the firm still expects global NAND flas"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "line": 43,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "TrendForce lowered its forecast for 4Q26 NAND contract price increases to 8-13%, and spot prices have recently fallen by more than 20% as distributors clear inventory [Evertiq](https://evertiq.com/news/2026-11-19-nand-flash-prices-set-to-fall-in-2027-as-chinese-cloud-firms-cut-orders).",
+      "evidence": [
+        {
+          "chip": "Evertiq",
+          "url": "https://evertiq.com/news/2026-11-19-nand-flash-prices-set-to-fall-in-2027-as-chinese-cloud-firms-cut-orders",
+          "id": "fc5aa03309b6",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/fc5aa03309b6.txt",
+          "headline": "NAND spot prices fell about 20% in two weeks",
+          "claim": "TrendForce cut its 4Q26 NAND contract price increase forecast to 8-13%, and spot prices have recently fallen by more than 20% as distributors clear inventory.",
+          "quote": "TrendForce has lowered its forecast for contract price increases in the fourth quarter of 2026 to 8–13%",
+          "published": "2026-11-19",
+          "context": "ricing, and have cut their enterprise SSD orders for 2027 by more than the additional US demand.\n\nAt the same time, supply is growing quickly. TrendForce expects the industry’s capital expenditure to rise by 26.7% to USD 29.9 billion in 2027, as manufacturers expand capacity and move to more layers and a higher share of QLC. Global bit supply is expected to grow by 25–30%.\n\nConsumer electronics add to the pressure. Inventories of cheaper memory are expected to run out in 2027, pushing up device prices and weighing on shipments. To keep costs down, brands are also expected to cut the storage capacity in their devices, further reducing demand for NAND flash.\n\nThe weakening is already visible. TrendForce has lowered its forecast for contract price increases in the fourth quarter of 2026 to 8–13%, and spot prices have recently fallen by more than 20% as distributors try to clear inventory.\n\nHow deep the downturn goes depends on how quickly Chinese cloud providers work through their inventories, and on whether China’s restrictions on buying GPUs from abroad change. US policy after the mid-term elections also matters, according to TrendForce, particularly for major AI data centre projects planned for 2028 that are still awaiting approval.\n\nFrom manufacturing and design to supply chains and emerging technologies, the electronics industry never stands still. Meet the people driving it forward at the upcoming Evertiq Expo events. The next stop is Evertiq Expo Vienna on January 28, follow"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "line": 45,
+      "section": "Hardware and prices",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "At the top end, Nvidia says it ramped production and began shipping Vera Rubin NVL72, with racks running at CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius [Nvidia](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/).",
+      "evidence": [
+        {
+          "chip": "Nvidia",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+          "id": "9ed07376289e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/9ed07376289e.txt",
+          "headline": "Nvidia Q3 revenue hits $115.8 billion, up 103%, under interim CEO",
+          "claim": "Nvidia reported Q3 fiscal 2027 revenue of $115.8 billion, up 103% year on year, with Data Center revenue of $107.6 billion, on 17 Nov 2026; Colette Kress is interim CEO.",
+          "quote": "Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.",
+          "published": "2026-11-17",
+          "context": " NVL72, the most versatile and advanced computing platform ever built, has shipped\n\nSANTA CLARA, Calif., Nov. 17, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the third quarter ended October 25, 2026, of $115.8 billion, up 20% from the previous quarter and up 103% from a year ago. For the quarter, GAAP and non-GAAP gross margins were 74.8% and 74.9%, respectively. GAAP and non-GAAP earnings per diluted share were $2.70 and $2.68, respectively. \n\n“Our momentum is real. NVIDIA is an exceptional technology leader, powered by the relentless innovation of our people,” said Colette Kress, interim CEO and executive vice president and chief financial officer of NVIDIA. “Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.”\n\nIn September 2026, NVIDIA’s Board of Directors approved an increase of $150 billion to the company’s share repurchase authorization, without expiration. During the third quarter of fiscal 2027, NVIDIA returned $28.1 billion to shareholders in the form of shares repurchased and cash dividends. As of the end of the third quarter, the company had approximately $227.3 billion remaining under its share repurchase authorization.\n\nNVIDIA will pay its next quarterly cash dividend of $0.25 per share on December 23, 2026, to all shareholders of record on December 2, 2026.\n\nQ3 Fiscal 2027 Summary\n\nGAAP\n\n($ in billions, except earnings per share) Q3 FY27 Q2 FY27 Q3 FY26 Q/Q* Y/Y*\n\nRevenue $115.8 $96."
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "line": 51,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Anthropic priced its IPO at $83 per share, above its $70 to $78 range, valuing it at roughly $1.5 trillion on a fully diluted basis [TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "id": "b7121aa76176",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b7121aa76176.txt",
+          "headline": "Anthropic prices IPO at $83 a share, raising $81.3 billion",
+          "claim": "TechCrunch reports Anthropic priced its IPO at $83 per share, above the $70-$78 range, selling 980 million shares for $81.3 billion in proceeds, valued at roughly $1.5 trillion fully diluted.",
+          "quote": "generating $81.3 billion in proceeds and surpassing SpaceX’s $75 billion record to become the largest IPO in history by proceeds raised",
+          "published": "2026-11-18",
+          "context": "chCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Leon Neal / Getty Images\n\nAI\n\nAnthropic prices IPO at $83 a share, above projected range\n\nMarina Temkin\n\n2:11 PM PST · November 18, 2026\n\nAnthropic has priced its long-awaited IPO at $83 per share, above its initial range of $70 to $78, signaling strong investor appetite for one of the companies at the center of the AI boom, despite market jitters following the departure of Nvidia CEO Jensen Huang, which shook confidence in the industry. The Claude maker sold 980 million shares in the offering, up from the 825 million initially planned, generating $81.3 billion in proceeds and surpassing SpaceX’s $75 billion record to become the largest IPO in history by proceeds raised.\n\nAt the IPO price, Anthropic is valued at roughly $1.5 trillion on a fully diluted basis, a significant increase from the $965 billion the company reached in May when it raised $65 billion in its last private market round, but below the $2 trillion it was reportedly aiming for several months ago.\n\nAnthropic will begin its life as a public company on Thursday, trading on Nasdaq under the ticker symbol “ANT.” A strong first day of trading would signal that investors remain optimistic about AI adoption, despite recent volatility in AI-driven stocks.\n\nThe company’s performance is expected to set expectations for private AI companies, including Anthropic’s main rival OpenAI, which was last repo"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "line": 51,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Each of the seven co-founders sold nearly 3.4 million shares, about $282 million each, per the S-1 cited by [TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "id": "b7121aa76176",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b7121aa76176.txt",
+          "headline": "Anthropic prices IPO at $83 a share, raising $81.3 billion",
+          "claim": "TechCrunch reports Anthropic priced its IPO at $83 per share, above the $70-$78 range, selling 980 million shares for $81.3 billion in proceeds, valued at roughly $1.5 trillion fully diluted.",
+          "quote": "generating $81.3 billion in proceeds and surpassing SpaceX’s $75 billion record to become the largest IPO in history by proceeds raised",
+          "published": "2026-11-18",
+          "context": "chCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Leon Neal / Getty Images\n\nAI\n\nAnthropic prices IPO at $83 a share, above projected range\n\nMarina Temkin\n\n2:11 PM PST · November 18, 2026\n\nAnthropic has priced its long-awaited IPO at $83 per share, above its initial range of $70 to $78, signaling strong investor appetite for one of the companies at the center of the AI boom, despite market jitters following the departure of Nvidia CEO Jensen Huang, which shook confidence in the industry. The Claude maker sold 980 million shares in the offering, up from the 825 million initially planned, generating $81.3 billion in proceeds and surpassing SpaceX’s $75 billion record to become the largest IPO in history by proceeds raised.\n\nAt the IPO price, Anthropic is valued at roughly $1.5 trillion on a fully diluted basis, a significant increase from the $965 billion the company reached in May when it raised $65 billion in its last private market round, but below the $2 trillion it was reportedly aiming for several months ago.\n\nAnthropic will begin its life as a public company on Thursday, trading on Nasdaq under the ticker symbol “ANT.” A strong first day of trading would signal that investors remain optimistic about AI adoption, despite recent volatility in AI-driven stocks.\n\nThe company’s performance is expected to set expectations for private AI companies, including Anthropic’s main rival OpenAI, which was last repo"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "line": 53,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The stock opened on Nasdaq at $111.50 on 19 Nov and closed at $97.17, more than 17 percent above the IPO price [Boston Globe](https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/).",
+      "evidence": [
+        {
+          "chip": "Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/",
+          "id": "e602d8dddb6e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e602d8dddb6e.txt",
+          "headline": "Anthropic opens at $111.50 on Nasdaq, closes first day at $97.17",
+          "claim": "Anthropic began trading Thursday 19 Nov 2026 at $111.50 and closed at $97.17, more than 17 percent above the $83 IPO price.",
+          "quote": "Anthropic shares began trading at $111.50, spiking more than 30 percent above the initial public offering price, before closing at $97.17",
+          "published": "2026-11-19",
+          "context": "re\n\nMetroWeatherPoliticsSportsBusinessPuzzlesRhode IslandGlobe MagazineOpinionHealth careArtsLifestyleEducationCambridge & SomervilleMoney, Power, InequalitySpotlightTechnologyClimateCarsReal EstateEvents\n\nAnthropic begins trading in the biggest IPO on record despite the many fears surrounding AI\n\nThe Anthropic logo is displayed on the Nasdaq MarketSite tower as part of the Anthropic IPO in New York on Nov. 19.Andres Kudacki/AP Photo/Andres Kudacki\n\nNEW YORK — The artificial intelligence giant Anthropic opened for trading Thursday in the biggest public stock offering ever, despite investor fears of a possible AI bubble and public anxiety that the technology threatens lives and livelihoods.\n\nAnthropic shares began trading at $111.50, spiking more than 30 percent above the initial public offering price, before closing at $97.17, more than 17 percent higher than the IPO.\n\nA day earlier, the company priced its IPO at $83 per share, enough to value the entire business at $1.5 trillion, surpassing SpaceX as the largest IPO on record. At the start of trading, the valuation leaped as high as $2.01 trillion.\n\nThe initial price was surprisingly high given that investor worries had ratcheted up even more recently following the stunning ouster of AI’s chief promoter, the CEO of Nvidia, in a possible Chinese spying scandal. Anthropic had earlier set a much lower price range between $70 and $78 per share.\n\n“It’s a big win for the tech sector after a white-knuckle time with Nvidia,” said Dan Ives, a financial analyst at Yorkvi"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "line": 53,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "\"The pricing shows strong demand among investors\", analyst Dan Ives told the [Globe](https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/).",
+      "evidence": [
+        {
+          "chip": "Globe",
+          "url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/",
+          "id": "e602d8dddb6e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e602d8dddb6e.txt",
+          "headline": "Anthropic opens at $111.50 on Nasdaq, closes first day at $97.17",
+          "claim": "Anthropic began trading Thursday 19 Nov 2026 at $111.50 and closed at $97.17, more than 17 percent above the $83 IPO price.",
+          "quote": "Anthropic shares began trading at $111.50, spiking more than 30 percent above the initial public offering price, before closing at $97.17",
+          "published": "2026-11-19",
+          "context": "re\n\nMetroWeatherPoliticsSportsBusinessPuzzlesRhode IslandGlobe MagazineOpinionHealth careArtsLifestyleEducationCambridge & SomervilleMoney, Power, InequalitySpotlightTechnologyClimateCarsReal EstateEvents\n\nAnthropic begins trading in the biggest IPO on record despite the many fears surrounding AI\n\nThe Anthropic logo is displayed on the Nasdaq MarketSite tower as part of the Anthropic IPO in New York on Nov. 19.Andres Kudacki/AP Photo/Andres Kudacki\n\nNEW YORK — The artificial intelligence giant Anthropic opened for trading Thursday in the biggest public stock offering ever, despite investor fears of a possible AI bubble and public anxiety that the technology threatens lives and livelihoods.\n\nAnthropic shares began trading at $111.50, spiking more than 30 percent above the initial public offering price, before closing at $97.17, more than 17 percent higher than the IPO.\n\nA day earlier, the company priced its IPO at $83 per share, enough to value the entire business at $1.5 trillion, surpassing SpaceX as the largest IPO on record. At the start of trading, the valuation leaped as high as $2.01 trillion.\n\nThe initial price was surprisingly high given that investor worries had ratcheted up even more recently following the stunning ouster of AI’s chief promoter, the CEO of Nvidia, in a possible Chinese spying scandal. Anthropic had earlier set a much lower price range between $70 and $78 per share.\n\n“It’s a big win for the tech sector after a white-knuckle time with Nvidia,” said Dan Ives, a financial analyst at Yorkvi"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "line": 55,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Nvidia reported third-quarter revenue of $115.8 billion, up 103% from a year ago, with Data Center revenue of $107.6 billion [Nvidia](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/).",
+      "evidence": [
+        {
+          "chip": "Nvidia",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+          "id": "9ed07376289e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/9ed07376289e.txt",
+          "headline": "Nvidia Q3 revenue hits $115.8 billion, up 103%, under interim CEO",
+          "claim": "Nvidia reported Q3 fiscal 2027 revenue of $115.8 billion, up 103% year on year, with Data Center revenue of $107.6 billion, on 17 Nov 2026; Colette Kress is interim CEO.",
+          "quote": "Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.",
+          "published": "2026-11-17",
+          "context": " NVL72, the most versatile and advanced computing platform ever built, has shipped\n\nSANTA CLARA, Calif., Nov. 17, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the third quarter ended October 25, 2026, of $115.8 billion, up 20% from the previous quarter and up 103% from a year ago. For the quarter, GAAP and non-GAAP gross margins were 74.8% and 74.9%, respectively. GAAP and non-GAAP earnings per diluted share were $2.70 and $2.68, respectively. \n\n“Our momentum is real. NVIDIA is an exceptional technology leader, powered by the relentless innovation of our people,” said Colette Kress, interim CEO and executive vice president and chief financial officer of NVIDIA. “Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.”\n\nIn September 2026, NVIDIA’s Board of Directors approved an increase of $150 billion to the company’s share repurchase authorization, without expiration. During the third quarter of fiscal 2027, NVIDIA returned $28.1 billion to shareholders in the form of shares repurchased and cash dividends. As of the end of the third quarter, the company had approximately $227.3 billion remaining under its share repurchase authorization.\n\nNVIDIA will pay its next quarterly cash dividend of $0.25 per share on December 23, 2026, to all shareholders of record on December 2, 2026.\n\nQ3 Fiscal 2027 Summary\n\nGAAP\n\n($ in billions, except earnings per share) Q3 FY27 Q2 FY27 Q3 FY26 Q/Q* Y/Y*\n\nRevenue $115.8 $96."
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "line": 55,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "\"Our momentum is real\", said Colette Kress, interim CEO and CFO, in the [Nvidia](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/) release.",
+      "evidence": [
+        {
+          "chip": "Nvidia",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+          "id": "9ed07376289e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/9ed07376289e.txt",
+          "headline": "Nvidia Q3 revenue hits $115.8 billion, up 103%, under interim CEO",
+          "claim": "Nvidia reported Q3 fiscal 2027 revenue of $115.8 billion, up 103% year on year, with Data Center revenue of $107.6 billion, on 17 Nov 2026; Colette Kress is interim CEO.",
+          "quote": "Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.",
+          "published": "2026-11-17",
+          "context": " NVL72, the most versatile and advanced computing platform ever built, has shipped\n\nSANTA CLARA, Calif., Nov. 17, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the third quarter ended October 25, 2026, of $115.8 billion, up 20% from the previous quarter and up 103% from a year ago. For the quarter, GAAP and non-GAAP gross margins were 74.8% and 74.9%, respectively. GAAP and non-GAAP earnings per diluted share were $2.70 and $2.68, respectively. \n\n“Our momentum is real. NVIDIA is an exceptional technology leader, powered by the relentless innovation of our people,” said Colette Kress, interim CEO and executive vice president and chief financial officer of NVIDIA. “Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.”\n\nIn September 2026, NVIDIA’s Board of Directors approved an increase of $150 billion to the company’s share repurchase authorization, without expiration. During the third quarter of fiscal 2027, NVIDIA returned $28.1 billion to shareholders in the form of shares repurchased and cash dividends. As of the end of the third quarter, the company had approximately $227.3 billion remaining under its share repurchase authorization.\n\nNVIDIA will pay its next quarterly cash dividend of $0.25 per share on December 23, 2026, to all shareholders of record on December 2, 2026.\n\nQ3 Fiscal 2027 Summary\n\nGAAP\n\n($ in billions, except earnings per share) Q3 FY27 Q2 FY27 Q3 FY26 Q/Q* Y/Y*\n\nRevenue $115.8 $96."
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "line": 57,
+      "section": "People and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In Europe, London-based Plural raised €1bn ($1.1bn), about two-thirds for its third early-stage fund and the rest for an opportunities fund, to back start-ups in energy, AI infrastructure, defence and health [TNW](https://thenextweb.com/news/plural-1bn-fund-european-frontier-startups).",
+      "evidence": [
+        {
+          "chip": "TNW",
+          "url": "https://thenextweb.com/news/plural-1bn-fund-european-frontier-startups",
+          "id": "e89c9f0a9a8b",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/e89c9f0a9a8b.txt",
+          "headline": "Plural raises €1bn third fund for European defence, energy and AI start-ups",
+          "claim": "Plural raised €1bn ($1.1bn), two-thirds for a third early-stage fund and the rest for an opportunities fund; it will back start-ups in energy, AI infrastructure, defence and health.",
+          "quote": "Plural, the London-based venture firm run by former founders, has raised €1bn ($1.1bn).",
+          "published": "2026-11-16",
+          "context": "ews\nNews\n\nLatest\n\nDeep tech\n\nSustainability\n\nEcosystems\n\nData and security\n\nFintech and ecommerce\n\nFuture of work\n\nMore\n\nStartups and technology\n\nInvestors and funding\n\nGovernment and policy\n\nCorporates and innovation\n\nInvestors and funding\n\nPlural raises €1bn for European start-ups in defence, energy and AI\n\nThe London firm’s third fund doubles its last one. Two-thirds goes into new early-stage bets and the rest into its breakout companies, from Helsing to Proxima Fusion.\n\nNovember 16, 2026 - 1:43 pm GMT\n\nAdd as a preferred source\nRead more TNW news\n\nPlural’s six partners: Ian Hogarth, Taavet Hinrikus, Khaled Helioui, Carina Namih, Sten Tamkivi and Pierre-Dimitri Gore-Coty\n\nCredit: Plural\n\nPlural, the London-based venture firm run by former founders, has raised €1bn ($1.1bn). It will back European start-ups in energy, AI infrastructure, defence and health. It is the firm’s largest raise yet, almost four times its €260m first fund in 2022. Its second fund, in 2024, was €500m.\n\nPlural announced the money on Monday on its website and in a press release. About two-thirds goes into its third early-stage fund. The rest goes into a new “opportunities” fund for its existing companies, partners Khaled Helioui and Carina Namih told TechCrunch.\n\n“We’re convinced these frontier founders are capable of building Europe’s first trillion-dollar company, and we want to be backing them from day one,” Helioui said in the release.\n\nBigger cheques, same number of bets\n\nPlural says e"
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "line": 63,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam's 105B update is a clean result on consistency: the model solves 69.5% of Tau2 customer-service tasks in all four of four tries, against 63.9% for Gemini 3.5 Flash-Lite and 62.1% for Gemma 4 31B [Sarvam](https://www.sarvam.ai/blogs/sarvam-105b-1711).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+          "id": "76ba398d1d47",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/76ba398d1d47.txt",
+          "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+          "claim": "Sarvam released Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on B200 infrastructure; its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release, and blended price fell by two-thirds from $0.44.",
+          "quote": "its average across eight conversational agent benchmarks rose from 42.6 to 73.9",
+          "published": "2026-11-22",
+          "context": "ore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nIntroducing Sarvam-105B-1711\n\nNov 22, 202618 min read\nShare\n\nNov 22, 2026·18 min read\nShare\n\nToday, we're releasing Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B, trained on our upgraded B200 infrastructure. It is a Flash-Lite model built for high-volume work such as customer support, voice agents and agentic tasks. Compared with our February release, it follows instructions more reliably across long conversations, calls tools more accurately and handles Indian languages far better, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9. Our inference optimisations have also cut its blended price by two-thirds, from $0.44 to $0.15 per million tokens. The weights are on Hugging Face in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU.\n\nIt matches Gemini 3.5 Flash-Lite and Gemma 4 31B at a fraction of their price. Across the eight conversational agent benchmarks, Sarvam-105B-1711 averages 73.9 at a blended $0.15 per million tokens. Gemini 3.5 Flash-Lite averages 74.0 at $0.85, more than five times the price, and Gemma 4 31B averages 73.0 at $0.54, more than three times the price.\n\nThe largest gains since February are on conversational agentic skills. Instruction following rose from 32.5 to 82.5 on IFBench"
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "line": 65,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Tencent reports that Hy4-flash's mix of hybrid attention, LatentMoE and n-gram embeddings cuts its KV cache to 1/24 of Hy3 and 1/6 of Hy4, and that reinforcement learning cut average end-to-end output tokens by 50% [Tencent model card](https://huggingface.co/tencent/Hy4-flash).",
+      "evidence": [
+        {
+          "chip": "Tencent model card",
+          "url": "https://huggingface.co/tencent/Hy4-flash",
+          "id": "b4f1a99333cf",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/b4f1a99333cf.txt",
+          "headline": "Tencent publishes Hy4-flash weights: 220B total, 12B active, 1M context",
+          "claim": "Tencent's Hy4-flash card describes a 220B-parameter model with 12B active per token, text and image input and up to 1M tokens of context. The licence shown is tencent-hy-license, not a standard open licence.",
+          "quote": "featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token.",
+          "published": "2026-11-20",
+          "context": "sformers\n\nOpenAI-compatible API\n\nDeployment\n\nDFly2 for Speculative Decoding\n\nQuantization\n\nInference Frameworks\n\nvLLM\n\nSGLang\n\nFinetuning\n\nLicense\n\nContact Us\n\n中文 ｜ English\n\n  \n\n  \n\n  \n\nOfficial Website  |  \nGitHub  |  \nGGUF\n\nTable of Contents\n\nModel Introduction\n\nPretrained model capability\n\nPracticality and Cost Efficiency\n\nOptimization Approach\n\nTask Performance and Cost\n\nUser Blind Evaluation\n\nAppendix: Benchmark results\n\nNews\n\nModel Links\n\nQuickstart\n\nTransformers\n\nOpenAI-compatible API\n\nDeployment\n\nDFly2 for Speculative Decoding\n\nQuantization\n\nInference Frameworks\n\nvLLM\n\nSGLang\n\nFinetuning\n\nLicense\n\nContact Us\n\nModel Introduction\n\nHy4 flash is our most cost-effective Hy model to date, featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token. It natively accepts text and image inputs, generates text, and supports a context window of up to 1M tokens.\n\nIts 42-layer language backbone consists of one dense feed-forward layer and 41 MoE layers, with identity Hyper-Connections (iHC) supporting inter-layer information flow. A vision encoder (adapted from SigLIP2-So400m-Patch16-Res512) is connected to the backbone through an MLP projector. In addition to the backbone, a built-in 5-layer drafter, DFly2 (0.85B parameters), reuses the target model's KV cache and sparse indices to support long-context speculative decoding at a low, constant cost.\n\nCompared with Hy4, Hy4 Flash introduces three notable architectural changes:\n\nHybrid attention"
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "line": 67,
+      "section": "Research worth knowing",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Inkling 2 Mini shows the looped-layer trick in an open model: each extra pass through the shared middle layers adds about 1.0B effective active parameters without adding weights [Inkling model card](https://huggingface.co/thinkingmachines/Inkling-2-Mini).",
+      "evidence": [
+        {
+          "chip": "Inkling model card",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "id": "99ccc673a30f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/99ccc673a30f.txt",
+          "headline": "Thinking Machines releases Inkling 2 Mini, Apache-2.0 looped MoE for local use",
+          "claim": "The Inkling 2 Mini card lists 26.4B parameters (3.4B active, 5.4B effective with three loop passes), a 1M-token context, a roughly 20GB checkpoint and an Apache-2.0 licence. It names Apple silicon with 32GB or more memory and DGX Spark as supported local hardware.",
+          "quote": "The model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.",
+          "published": "2026-11-19",
+          "context": "search, fine-tuning and integration into third-party products by downstream developers.\n\nLanguages: English, general multilingual support\n\nModel provider: Thinking Machines Lab, Inc.\n\nDate of release: November 20, 2026\n\nLicense: Apache 2.0\n\nModel Acceptable Use Policy\n\n2. Getting Started\n\nThe weights are available for download through Hugging Face here.\n\nDevelopers can also access the model using the Tinker fine-tuning platform, which provides API access.\n\nFor accessing our model via Tinker, you can get started by referring to the Tinker Cookbook here, and installing the tml-renderers package here.\n\nTinker playground also provides inference-only access to the model here.\n\nRequired hardware\n\nThe model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.\n\nGiven its small size, it is possible to run this checkpoint on local AI compute for inference. We support:\n\n1x NVIDIA DGX Spark\n\nApple silicon devices with 32GB or more memory (MacBooks, Mac minis and Studios)\n\nOther GPUs and platforms are possible, with 32GB or more of VRAM recommended\n\nRequired software\n\nInkling 2 Mini supports inference using the following frameworks, along with their dependency libraries:\n\nHugging Face\n\nSGLang\n\nvLLM\n\nTokenSpeed\n\nNVIDIA Dynamo\n\nUnsloth, including quantized GGUF versions\n\nllama.cpp, for quantized GGUF versions\n\nLlama App\n\nOn Apple Silicon\n\nOllama and Exo Labs\n\nInkling 2 Mini can also be post-trained with:\n\nMiles\n\nSkyRL\n\n3. Model Properties\n\nModel type\n\nM"
+        }
+      ]
+    },
+    {
+      "n": 32,
+      "line": 71,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The UK AI Security Institute has no legal power to compel labs to share models, and a commentary in [Tech Policy Press](https://techpolicy.press/britains-ai-assurance-approach-needs-a-second-act) cites Politico reporting that the White House asked labs to withhold new models from AISI until US reviews finished.",
+      "evidence": [
+        {
+          "chip": "Tech Policy Press",
+          "url": "https://techpolicy.press/britains-ai-assurance-approach-needs-a-second-act",
+          "id": "6eb1052b510f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6eb1052b510f.txt",
+          "headline": "UK AISI has no legal power to compel model access",
+          "claim": "A Tech Policy Press commentary says the UK AI Security Institute relies on lab goodwill for pre-deployment access, and cites Politico reporting that the White House asked labs to withhold new models from AISI until US reviews finished; access was restored after 17 days.",
+          "quote": "AISI has no legal power to compel companies to share models, relying on the goodwill of frontier labs",
+          "published": "2026-11-17",
+          "context": "sing day.\n\nOver the past three years, AISI has been highly effective. It has identified dozens of vulnerabilities through pre-deployment evaluations of frontier models, seen its in-house evaluation tools adopted by AI safety non-profits across the globe, and has effectively funneled top technical talent into government (despite offering lower salaries than the private sector). Partly in recognition of this success, AISI-like organizations have been set up in 10 other countries, including France and Japan, often with UK assistance.\n\nBut AISI’s current operating model, which revolves around maintaining access to the world’s most advanced models before they are deployed, has been under threat. AISI has no legal power to compel companies to share models, relying on the goodwill of frontier labs, a status quo that would require legislation to change.\n\nThis goodwill is no longer certain. Even as Anthropic’s CEO Dario Amodei called on governments to “pace the frontier” in September, Politico reported the White House had asked the frontier labs to withhold new models from AISI until US agencies had completed their own reviews. Although access was restored after 17 days, it is clear that the institute can no longer take privileged access for granted.\n\nThis is a cause for concern as AISI seeks to retain its relevance and impact in ensuring the safe development of AI, especially given growing competition from other public bodies and US nonprofits. But the institute has much to offer beyo"
+        }
+      ]
+    },
+    {
+      "n": 33,
+      "line": 73,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "In the US, a Faegre Drinker briefing says new governors and ballot measures are likely to bring more state and local regulation and longer data centre timelines, with Texas a key state to watch [Faegre Drinker](https://www.faegredrinker.com/zh/insights/publications/2026/11/how-the-midterm-results-could-reshape-ai-and-data-center-regulations-and-more-developments).",
+      "evidence": [
+        {
+          "chip": "Faegre Drinker",
+          "url": "https://www.faegredrinker.com/zh/insights/publications/2026/11/how-the-midterm-results-could-reshape-ai-and-data-center-regulations-and-more-developments",
+          "id": "c40f8b7e73b7",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c40f8b7e73b7.txt",
+          "headline": "US midterm results may drive state data center and AI rules",
+          "claim": "A law-firm briefing dated November 16, 2026 says new governors and ballot measures are likely to bring more state and local regulation, lengthening data center timelines; it flags Texas as a state to watch.",
+          "quote": "Newly elected governors and local ballot measures are likely to drive increased state and local regulation",
+          "published": "2026-11-16",
+          "context": " of 100,000 voters, 56% said AI and data centers were a \"crucial or major factor\" in their vote, and two-thirds of those voters backed Democrats. The incoming majority is promising hearings and \"reasonable guardrails\"; and committee chairs are expected to use their new subpoena and oversight powers on AI safety, model testing, and Big Tech's ties to the White House. Sweeping federal legislation still faces a likely presidential veto, so most analysts expect change to come first through oversight. Broad federal preemption of state AI laws also now looks unlikely, leaving businesses to manage a growing state-by-state patchwork.\n\nRising State and Local Scrutiny Threatens Data Center Timelines\n\nNewly elected governors and local ballot measures are likely to drive increased state and local regulation, which could create longer timelines and greater uncertainty for data center development. Texas is a key area to watch, as the state was projected to supply 25% to 30% of US data center capacity and Governor-elect Gina Hinojosa has called for an immediate moratorium on new data center construction pending additional community protections. Similarly, governors-elect in Ohio, Georgia, Michigan, and New Mexico campaigned on pausing data center development, including a conditional pause backed by Ohio Governor-elect Amy Acton and a temporary pause backed by Georgia Governor-elect Keisha Lance Bottoms. Progressive proposals targeting data center power consumption could add another layer of scrut"
+        }
+      ]
+    },
+    {
+      "n": 34,
+      "line": 75,
+      "section": "Policy and safety",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On the lab side, OpenAI's Astra and Sol both meet its Critical cybersecurity threshold, which triggers oversight through an internal monitoring system called Control Room [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 35,
+      "line": 79,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Inkling 2 Mini on your laptop** - install llama.cpp, then run `llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M` for a local OpenAI-compatible server with a web UI [Unsloth GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF).",
+      "evidence": [
+        {
+          "chip": "Unsloth GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "id": "67c4c2c31439",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/67c4c2c31439.txt",
+          "headline": "Unsloth publishes GGUF quantisations of Inkling 2 Mini",
+          "claim": "Unsloth's GGUF repo for Inkling 2 Mini (Apache-2.0) shows how to run the UD-Q4_K_M quant with llama.cpp, Ollama and Docker Model Runner.",
+          "quote": "llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M",
+          "published": "2026-11-20",
+          "context": "ce Endpoints\n\nStorage Buckets\n\nLog In\n\nSign Up\n\nunsloth\n/\n\nInkling-2-Mini-GGUF\n\nLike 897\n\nFollow\nUnsloth 40.9k\n\nImage-Text-to-Text\n\nGGUF\n\nconversational\n\nMixture of Experts\n\nunsloth\n\nimatrix\n\nLicense: apache-2.0\n\nModel card Files Files and versions\nxet\nCommunity\n16\n\nDeploy\n\nCopy to bucket\n\nUse this model\n\nInstructions to use unsloth/Inkling-2-Mini-GGUF with libraries, inference providers, notebooks, and local apps. Follow these links to get started.\n\nNotebooks\n\nGoogle Colab\n\nKaggle\n\nLocal Apps Settings\n\nllama.cpp\nHow to use unsloth/Inkling-2-Mini-GGUF with llama.cpp:\n\nInstall (macOS, Linux)\n\ncurl -LsSf https://llama.app/install.sh | sh\n# Start a local OpenAI-compatible server with a web UI:\nllama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\nllama cli -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n\nInstall from WinGet (Windows)\n\nwinget install llama.cpp\n# Start a local OpenAI-compatible server with a web UI:\nllama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\nllama cli -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n\nBuild from source code\n\ngit clone https://github.com/ggml-org/llama.cpp.git\ncd llama.cpp\ncmake -B build\ncmake --build build -j --target llama-app\n# Start a local OpenAI-compatible server with a web UI:\n./build/bin/llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M\n# Run inference directly in the terminal:\n./build/bin/llama cli -hf unsloth"
+        }
+      ]
+    },
+    {
+      "n": 36,
+      "line": 80,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Sandbox your coding agent** - run one of three sandbox servers (v86, Apple Containers or Quicksand), each with the same localhost API, and point Pi, Claude Code or Codex at it, with an optional allow-list proxy for outbound hosts [Simon Willison](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/).",
+      "evidence": [
+        {
+          "chip": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+          "id": "c60558e98558",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/c60558e98558.txt",
+          "headline": "External sandbox pattern lets Claude Code, Codex and Pi run code in isolation",
+          "claim": "Simon Willison and Prime Radiant released three sandbox server implementations (v86, Apple Containers, Quicksand) with one localhost API, plus an optional HTTP/HTTPS allow-list proxy and credential replacement.",
+          "quote": "Each of these implementations offers the same localhost API. You can then configure Pi, Claude Code, or Codex to send API calls to that sandbox",
+          "published": "2026-11-17",
+          "context": "d other projects.\n\nMy post on the Prime Radiant blog introduces the external sandbox pattern, where code executed by the agent runs inside a dedicated sandbox while the agent itself lives outside of that sandbox.\n\nTo demonstrate this pattern we've released three sandbox server implementations:\n\nexternal-sandbox-v86 runs a Node.js server which then uses v86 to run Alpine Linux inside WebAssembly.\n\nexternal-sandbox-container is a Python web server which runs the sandbox in Alpine Linux inside an Apple Containers instance.\n\nexternal-sandbox-quicksand is another Python web server, this time using Microsoft's Quicksand sandboxing library, which bundles QEMU and Alpine Linux in a Python package!\n\nEach of these implementations offers the same localhost API. You can then configure Pi, Claude Code, or Codex to send API calls to that sandbox any time they want to execute code.\n\nThe sandboxes also include an optional HTTP/HTTPS allow-list proxy, so you can control exactly which hosts your agent's code is allowed to communicate with - plus a credential replacement mechanism to make authenticated API calls without sharing a secret with the agent. Here's the UI you can use to reconfigure that proxy while the sandbox is still running:\n\nI continue to be fascinated by the challenge of safely running untrusted code. This external sandbox pattern provides a neat way to experiment with different approaches.\n\nPosted 17th November 2026 at 10:52 pm\n\nRecent articles\n\nRunning the full server-side Datasette Python app in the browser with servi"
+        }
+      ]
+    },
+    {
+      "n": 37,
+      "line": 81,
+      "section": "Try this week",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Price-test GPT-6.2 Sol** - call `gpt-6.2-sol` at $2 input and $10 output per million tokens, and keep prompts under 272,000 input tokens to avoid the long-context surcharge [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 38,
+      "line": 85,
+      "section": "White space",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Long agent runs still break: one early tester said Astra often stopped early on end-to-end software builds, and Theo Browne said it spent seven days on a TypeScript compiler rewrite in Rust that ended up 56% slower [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).",
+      "evidence": [
+        {
+          "chip": "SiliconReport",
+          "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+          "id": "46b42a1df925",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/46b42a1df925.txt",
+          "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+          "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+          "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+          "published": "2026-11-18",
+          "context": "wer output tokens, helping users accomplish more work before reaching usage limits.\n\nAstra serves as OpenAI's flagship for complex assignments like financial spreadsheets, legal research, and codebase modifications, while Sol functions as an affordable model for routine coding and multistep writing. The update arrives after OpenAI launched the GPT-6 generation with Astra in September 2026 and upgraded Sol to GPT-6.1 in October 2026.\n\nSilicon Report reported on Nov. 2, 2026, that OpenAI rolled ChatGPT Work capabilities into regular Chat while combining usage allowances across ChatGPT and Codex into a shared token pool.\n\nPricing and access tiers\n\nThrough the application programming interface, standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra. Sol remains at $2 per million input tokens and $10 per million output tokens, keeping its GPT-6.1 pricing.\n\nBoth models feature a 1.05 million-token context window and generate up to 128,000 output tokens. For requests with more than 272,000 input tokens, OpenAI doubles input and cache rates and applies a 1.5-times multiplier to output tokens, lifting long-context Astra calls to $16 per million input tokens and $60 per million output tokens.\n\nOpenAI made both models available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol. Subscribers on Plus, Pro, Enterprise, and Edu plans can access them in ChatGPT Work and Codex, though Decrypt reported that some Plus accounts saw r"
+        }
+      ]
+    },
+    {
+      "n": 39,
+      "line": 87,
+      "section": "White space",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Small local models still bluff: the Inkling 2 Mini card says it has its largest gaps on factual recall and is more likely than larger models to state incorrect information with confidence [Inkling model card](https://huggingface.co/thinkingmachines/Inkling-2-Mini).",
+      "evidence": [
+        {
+          "chip": "Inkling model card",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "id": "99ccc673a30f",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/99ccc673a30f.txt",
+          "headline": "Thinking Machines releases Inkling 2 Mini, Apache-2.0 looped MoE for local use",
+          "claim": "The Inkling 2 Mini card lists 26.4B parameters (3.4B active, 5.4B effective with three loop passes), a 1M-token context, a roughly 20GB checkpoint and an Apache-2.0 licence. It names Apple silicon with 32GB or more memory and DGX Spark as supported local hardware.",
+          "quote": "The model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.",
+          "published": "2026-11-19",
+          "context": "search, fine-tuning and integration into third-party products by downstream developers.\n\nLanguages: English, general multilingual support\n\nModel provider: Thinking Machines Lab, Inc.\n\nDate of release: November 20, 2026\n\nLicense: Apache 2.0\n\nModel Acceptable Use Policy\n\n2. Getting Started\n\nThe weights are available for download through Hugging Face here.\n\nDevelopers can also access the model using the Tinker fine-tuning platform, which provides API access.\n\nFor accessing our model via Tinker, you can get started by referring to the Tinker Cookbook here, and installing the tml-renderers package here.\n\nTinker playground also provides inference-only access to the model here.\n\nRequired hardware\n\nThe model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.\n\nGiven its small size, it is possible to run this checkpoint on local AI compute for inference. We support:\n\n1x NVIDIA DGX Spark\n\nApple silicon devices with 32GB or more memory (MacBooks, Mac minis and Studios)\n\nOther GPUs and platforms are possible, with 32GB or more of VRAM recommended\n\nRequired software\n\nInkling 2 Mini supports inference using the following frameworks, along with their dependency libraries:\n\nHugging Face\n\nSGLang\n\nvLLM\n\nTokenSpeed\n\nNVIDIA Dynamo\n\nUnsloth, including quantized GGUF versions\n\nllama.cpp, for quantized GGUF versions\n\nLlama App\n\nOn Apple Silicon\n\nOllama and Exo Labs\n\nInkling 2 Mini can also be post-trained with:\n\nMiles\n\nSkyRL\n\n3. Model Properties\n\nModel type\n\nM"
+        }
+      ]
+    }
+  ],
+  "unlinked": [
+    {
+      "line": 3,
+      "section": "If you only read three things",
+      "sentence": "The company behind Claude now files public numbers, which makes AI spending and hiring easier to track from a hostel room."
+    },
+    {
+      "line": 4,
+      "section": "If you only read three things",
+      "sentence": "Cheaper tokens stretch a student project budget further, if the model behaves."
+    },
+    {
+      "line": 5,
+      "section": "If you only read three things",
+      "sentence": "It is one of the few releases this week you can actually run yourself."
+    },
+    {
+      "line": 11,
+      "section": "Frontier labs",
+      "sentence": "The fine print matters for anyone building agents."
+    },
+    {
+      "line": 13,
+      "section": "Frontier labs",
+      "sentence": "The benchmarks are mixed."
+    },
+    {
+      "line": 13,
+      "section": "Frontier labs",
+      "sentence": "OpenAI says Astra is its first externally released model to reach the High threshold for AI self-improvement, and both models meet its Critical cybersecurity threshold."
+    },
+    {
+      "line": 15,
+      "section": "Frontier labs",
+      "sentence": "Early testers were blunt."
+    },
+    {
+      "line": 15,
+      "section": "Frontier labs",
+      "sentence": "Browne still credited Astra with catching code-review issues other models missed, but said he preferred Claude Opus 5.5 for his development work."
+    },
+    {
+      "line": 17,
+      "section": "Frontier labs",
+      "sentence": "Rivals have matched the prices."
+    },
+    {
+      "line": 23,
+      "section": "Open and local models",
+      "sentence": "Inkling 2 Mini is the release to try this week."
+    },
+    {
+      "line": 23,
+      "section": "Open and local models",
+      "sentence": "The card lists support for one NVIDIA DGX Spark, Apple silicon with 32GB or more memory, and other GPUs with 32GB or more of VRAM recommended."
+    },
+    {
+      "line": 23,
+      "section": "Open and local models",
+      "sentence": "It also warns that the model is more likely than larger models to state incorrect information with confidence."
+    },
+    {
+      "line": 25,
+      "section": "Open and local models",
+      "sentence": "The repo gives one-line runs for llama.cpp, Ollama and Docker Model Runner, and also lists LM Studio among its local apps."
+    },
+    {
+      "line": 27,
+      "section": "Open and local models",
+      "sentence": "The licence is the Tencent Hy License, not a standard open licence, so read it before you ship anything on it."
+    },
+    {
+      "line": 29,
+      "section": "Open and local models",
+      "sentence": "That is a workstation model, not a laptop one."
+    },
+    {
+      "line": 41,
+      "section": "Hardware and prices",
+      "sentence": "The firm expects global NAND output, measured in capacity, to grow by 25 to 30 percent in 2027."
+    },
+    {
+      "line": 43,
+      "section": "Hardware and prices",
+      "sentence": "The turn is already visible in the spot market."
+    },
+    {
+      "line": 43,
+      "section": "Hardware and prices",
+      "sentence": "TrendForce also expects industry capital expenditure to rise 26.7% to USD 29.9 billion in 2027, and brands to cut storage capacity in devices to keep costs down."
+    },
+    {
+      "line": 45,
+      "section": "Hardware and prices",
+      "sentence": "It also introduced Rubin HPC, a GPU in the Vera Rubin platform aimed at simulation and data processing."
+    },
+    {
+      "line": 51,
+      "section": "People and money",
+      "sentence": "Amazon owns nearly 15% and Google almost 14%, and a group including AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC Partners agreed to buy $26 billion of non-voting shares in a private placement."
+    },
+    {
+      "line": 53,
+      "section": "People and money",
+      "sentence": "The paper notes Anthropic has $6.2 billion in debt and signed deals requiring it to spend $900 billion on computing power and infrastructure in the coming years, including $70 billion in the next 12 months."
+    },
+    {
+      "line": 55,
+      "section": "People and money",
+      "sentence": "It guided to $130.0 billion, plus or minus 3%, for the fourth quarter, assuming no Data Center compute revenue from China."
+    },
+    {
+      "line": 57,
+      "section": "People and money",
+      "sentence": "Partner Sten Tamkivi said Fund III should make 25 to 35 investments with six partners."
+    },
+    {
+      "line": 63,
+      "section": "Research worth knowing",
+      "sentence": "Training in 8-bit precision raised pretraining throughput from 5,500 to 10,900 tokens per second per GPU, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release."
+    },
+    {
+      "line": 65,
+      "section": "Research worth knowing",
+      "sentence": "In a blind test with 85 internal users, it scored 2.79/4 for satisfaction against 2.81/4 for Claude Haiku 5.5."
+    },
+    {
+      "line": 67,
+      "section": "Research worth knowing",
+      "sentence": "Its own card says safety testing for agentic capability, strategic deception and sabotage found it materially below frontier capabilities."
+    },
+    {
+      "line": 71,
+      "section": "Policy and safety",
+      "sentence": "Access was restored after 17 days, and the piece argues AISI's open-source Inspect evaluation framework could become an industry standard."
+    },
+    {
+      "line": 73,
+      "section": "Policy and safety",
+      "sentence": "The same briefing says Anthropic privately pitched members of Congress a draft frontier AI safety bill that would have independent evaluators register with the Department of Commerce."
+    }
+  ],
+  "how_to_answer": "Write factcheck-<edition>.json as {\"verdicts\": [{\"n\": N, \"verdict\": \"pass|fix|reject\", \"reason\": \"...\", \"replacement\": \"full corrected sentence incl. its chips (fix only)\"}]}. pass = every name, number, date and causal claim in the sentence is supported by the saved page(s); fix = supportable with a correction; reject = not supported by the cited page."
+}

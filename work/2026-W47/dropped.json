@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1960f2aa7b4f",
+    "beat": "hardware-prices",
+    "headline": "Microsoft raises Indian cloud prices 15.7% from January 2027",
+    "url": "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993",
+    "reason": "published 2026-11-15 is before the window start 2026-11-16"
+  },
+  {
+    "id": "f12af75ab217",
+    "beat": "opportunities",
+    "headline": "Science Academies SRFP 2027 applications close 30 November",
+    "url": "https://webjapps.ias.ac.in/fellowship2027/application_instructions.jsp",
+    "reason": "already covered in an earlier week"
+  },
+  {
+    "id": "5c719ad390a3",
+    "beat": "opportunities",
+    "headline": "ETH Zurich summer research fellowship open until 16 December",
+    "url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
+    "reason": "already covered in an earlier week"
+  },
+  {
+    "id": "46deec0425a1",
+    "beat": "opportunities",
+    "headline": "Purdue SURF 2027 international deadline is 15 December",
+    "url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF",
+    "reason": "already covered in an earlier week"
+  },
+  {
+    "id": "eb9e563b63f8",
+    "beat": "opportunities",
+    "headline": "Scale AI opens Summer 2027 ML research intern role (US)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+    "reason": "already covered in an earlier week"
+  },
+  {
+    "id": "9b0bea9a8f22",
+    "beat": "research-policy-trythis",
+    "headline": "Claude Code lets /loop and scheduled tasks run 30 days",
+    "url": "https://code.claude.com/docs/en/changelog",
+    "reason": "already covered in an earlier week"
+  }
+]

@@ -1,0 +1,32 @@
+{
+ "issues": [
+  {
+   "line": 4,
+   "sentence": "If you are building an Indic voice or support agent, this is now the cheapest serious Indian option to test.",
+   "problem": "Superlative unsupported: the Sarvam post compares price only against Gemini, GPT-6 Luna, Gemma and other non-Indian Flash-Lite models, never against other Indian options.",
+   "action": "rewrite",
+   "replacement": "If you are building an Indic voice or support agent, it is worth testing at that price."
+  },
+  {
+   "line": 6,
+   "sentence": "Data pipelines for physical AI are a real business in India now, and a hiring one.",
+   "problem": "TechCrunch gives 51 full-time employees but says nothing about hiring.",
+   "action": "rewrite",
+   "replacement": "Data pipelines for physical AI are a real business in India now."
+  },
+  {
+   "line": 44,
+   "sentence": "The bottleneck CtrlS names is power, not chips.",
+   "problem": "AIM reports power forecasting and approvals as the challenge but never contrasts power with chips; 'not chips' is added.",
+   "action": "rewrite",
+   "replacement": "The bottleneck CtrlS names is power."
+  },
+  {
+   "line": 52,
+   "sentence": "The biggest India AI cheque of the week went to data, not models.",
+   "problem": "Wrong superlative: the same draft (StartupTalky, line 56) has Dreamteam raising $53 million, more than Humyn Labs' $47 million.",
+   "action": "rewrite",
+   "replacement": "One of the week's biggest India AI cheques went to robot training data."
+  }
+ ]
+}

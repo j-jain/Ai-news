@@ -1,0 +1,1031 @@
+{
+  "week": "2026-W47",
+  "edition": "india",
+  "draft": "work/2026-W47/draft-india.md",
+  "claims": [
+    {
+      "n": 1,
+      "line": 3,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Sarvam's 105B gets better, much cheaper** Sarvam released the open-weight Sarvam-105B-1711 on 22 Nov, with its eight-benchmark conversational agent average rising from 42.6 to 73.9 and blended price falling from $0.44 to $0.15 per million tokens [Sarvam](https://www.sarvam.ai/blogs/sarvam-105b-1711).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+          "id": "76ba398d1d47",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/76ba398d1d47.txt",
+          "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+          "claim": "Sarvam released Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on B200 infrastructure; its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release, and blended price fell by two-thirds from $0.44.",
+          "quote": "its average across eight conversational agent benchmarks rose from 42.6 to 73.9",
+          "published": "2026-11-22",
+          "context": "ore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nIntroducing Sarvam-105B-1711\n\nNov 22, 202618 min read\nShare\n\nNov 22, 2026·18 min read\nShare\n\nToday, we're releasing Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B, trained on our upgraded B200 infrastructure. It is a Flash-Lite model built for high-volume work such as customer support, voice agents and agentic tasks. Compared with our February release, it follows instructions more reliably across long conversations, calls tools more accurately and handles Indian languages far better, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9. Our inference optimisations have also cut its blended price by two-thirds, from $0.44 to $0.15 per million tokens. The weights are on Hugging Face in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU.\n\nIt matches Gemini 3.5 Flash-Lite and Gemma 4 31B at a fraction of their price. Across the eight conversational agent benchmarks, Sarvam-105B-1711 averages 73.9 at a blended $0.15 per million tokens. Gemini 3.5 Flash-Lite averages 74.0 at $0.85, more than five times the price, and Gemma 4 31B averages 73.0 at $0.54, more than three times the price.\n\nThe largest gains since February are on conversational agentic skills. Instruction following rose from 32.5 to 82.5 on IFBench"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "line": 4,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Indian GPUs now serve open models** Sarvam launched Token Factory on 16 Nov, an inference stack that serves its own and leading open-weight models from GPU clusters located in India through one OpenAI-compatible API [Sarvam](https://www.sarvam.ai/blogs/sarvam-token-factory).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-token-factory",
+          "id": "0008cd326877",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/0008cd326877.txt",
+          "headline": "Sarvam launches Token Factory inference platform in India",
+          "claim": "Sarvam launched Token Factory on 16 Nov 2026, an inference stack serving its own and leading open-weight models from GPU clusters located in India.",
+          "quote": "Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India.",
+          "published": "2026-11-16",
+          "context": "Introducing Sarvam Token Factory | Sarvam AI\n\nAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nAccess leading open models, served on Sarvam's own inference stack.Explore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nIntroducing\nSarvam Token Factory\n\nNov 16, 202611 min read\nShare\n\nNov 16, 2026·11 min read\nShare\n\nToday, we are launching Sarvam Token Factory for everyone. Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India. On most of the models we serve, we match or beat the leading inference providers globally on both speed and cost.\n\nAlong with Sarvam 105B, we serve GLM 5.3, GLM 5.3 Flash, DeepSeek V4.1 Flash 1017, DeepSeek V4 Pro, Kimi K3.1 Pro and Gemma 4 31B through one OpenAI-compatible API. See the full model catalogue.\n\nSarvam Token Factory at a glance\n\nCost: We offer globally competitive pricing on every model we serve. DeepSeek V4.1 Flash launches with introductory pricing of ₹14 per million input tokens and ₹55 per million output tokens.\n\nPerformance: Sarvam 105B brings together all our inference optimisations to deliver best-in-class performance for conversation at the lowest cost, returning its f"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "line": 5,
+      "section": "If you only read three things",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**Accel leads a $26M equity round for robot data** Bengaluru's Humyn Labs raised $47 million in Series A, $26 million in equity led by Accel plus $21 million in venture debt led by Lighthouse Canton [TechCrunch](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "id": "55dde3921be9",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/55dde3921be9.txt",
+          "headline": "Humyn Labs raises $47M Series A led by Accel",
+          "claim": "India's Humyn Labs raised $47 million in Series A financing: $26 million equity led by Accel plus $21 million venture debt led by Lighthouse Canton.",
+          "quote": "The funding comprises $26 million in equity led by Accel",
+          "published": "2026-11-18",
+          "context": "nment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Humyn Labs\n\nAI\n\nIndia’s Humyn Labs raises $47M to feed US robotics companies the data they need\n\nJagmeet Singh\n\n3:30 AM PST · November 18, 2026\n\nAs demand grows for real-world data to train robots, India’s Humyn Labs has raised $47 million in Series A financing to help U.S. AI and robotics companies build models that can operate in physical environments.\n\nThe funding comprises $26 million in equity led by Accel, with participation from Prosus Ventures, BeeGlobal, Bajaj Finance’s Finserv Intelligence and Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton, and Jump Trading. It also includes $21 million in venture debt led by Lighthouse Canton, with participation from Trifecta Capital.\n\nCompanies around the world are trying to build robots capable of performing everyday human tasks, but getting enough quality data to train them remains difficult. Startups, including Mecka AI, XDOF, and MicroAGI, are already tackling the problem by collecting real-world data for robotics training. Bengaluru-based Humyn Labs aims to compete with them.\n\nHumyn Labs has developed its own two-camer"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "line": 9,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On 22 Nov it put out Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on its upgraded B200 infrastructure and pitched as a Flash-Lite model for customer support, voice agents and agentic tasks [Sarvam](https://www.sarvam.ai/blogs/sarvam-105b-1711).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+          "id": "76ba398d1d47",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/76ba398d1d47.txt",
+          "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+          "claim": "Sarvam released Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on B200 infrastructure; its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release, and blended price fell by two-thirds from $0.44.",
+          "quote": "its average across eight conversational agent benchmarks rose from 42.6 to 73.9",
+          "published": "2026-11-22",
+          "context": "ore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nIntroducing Sarvam-105B-1711\n\nNov 22, 202618 min read\nShare\n\nNov 22, 2026·18 min read\nShare\n\nToday, we're releasing Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B, trained on our upgraded B200 infrastructure. It is a Flash-Lite model built for high-volume work such as customer support, voice agents and agentic tasks. Compared with our February release, it follows instructions more reliably across long conversations, calls tools more accurately and handles Indian languages far better, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9. Our inference optimisations have also cut its blended price by two-thirds, from $0.44 to $0.15 per million tokens. The weights are on Hugging Face in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU.\n\nIt matches Gemini 3.5 Flash-Lite and Gemma 4 31B at a fraction of their price. Across the eight conversational agent benchmarks, Sarvam-105B-1711 averages 73.9 at a blended $0.15 per million tokens. Gemini 3.5 Flash-Lite averages 74.0 at $0.85, more than five times the price, and Gemma 4 31B averages 73.0 at $0.54, more than three times the price.\n\nThe largest gains since February are on conversational agentic skills. Instruction following rose from 32.5 to 82.5 on IFBench"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "line": 11,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The weights are on Hugging Face in BF16 and in a 65 GB NVFP4 version that, per the post, runs on a single workstation GPU [Sarvam blog](https://www.sarvam.ai/blogs/sarvam-105b-1711).",
+      "evidence": [
+        {
+          "chip": "Sarvam blog",
+          "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+          "id": "76ba398d1d47",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/76ba398d1d47.txt",
+          "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+          "claim": "Sarvam released Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on B200 infrastructure; its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release, and blended price fell by two-thirds from $0.44.",
+          "quote": "its average across eight conversational agent benchmarks rose from 42.6 to 73.9",
+          "published": "2026-11-22",
+          "context": "ore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nIntroducing Sarvam-105B-1711\n\nNov 22, 202618 min read\nShare\n\nNov 22, 2026·18 min read\nShare\n\nToday, we're releasing Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B, trained on our upgraded B200 infrastructure. It is a Flash-Lite model built for high-volume work such as customer support, voice agents and agentic tasks. Compared with our February release, it follows instructions more reliably across long conversations, calls tools more accurately and handles Indian languages far better, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9. Our inference optimisations have also cut its blended price by two-thirds, from $0.44 to $0.15 per million tokens. The weights are on Hugging Face in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU.\n\nIt matches Gemini 3.5 Flash-Lite and Gemma 4 31B at a fraction of their price. Across the eight conversational agent benchmarks, Sarvam-105B-1711 averages 73.9 at a blended $0.15 per million tokens. Gemini 3.5 Flash-Lite averages 74.0 at $0.85, more than five times the price, and Gemma 4 31B averages 73.0 at $0.54, more than three times the price.\n\nThe largest gains since February are on conversational agentic skills. Instruction following rose from 32.5 to 82.5 on IFBench"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "line": 13,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Instruction following on IFBench rose from 32.5 to 82.5, tool use on Tau2 from 46.2 to 85.5, and the Indic suite from 30.1 to 79.1 [Sarvam](https://www.sarvam.ai/blogs/sarvam-105b-1711).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+          "id": "76ba398d1d47",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/76ba398d1d47.txt",
+          "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+          "claim": "Sarvam released Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on B200 infrastructure; its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release, and blended price fell by two-thirds from $0.44.",
+          "quote": "its average across eight conversational agent benchmarks rose from 42.6 to 73.9",
+          "published": "2026-11-22",
+          "context": "ore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nIntroducing Sarvam-105B-1711\n\nNov 22, 202618 min read\nShare\n\nNov 22, 2026·18 min read\nShare\n\nToday, we're releasing Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B, trained on our upgraded B200 infrastructure. It is a Flash-Lite model built for high-volume work such as customer support, voice agents and agentic tasks. Compared with our February release, it follows instructions more reliably across long conversations, calls tools more accurately and handles Indian languages far better, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9. Our inference optimisations have also cut its blended price by two-thirds, from $0.44 to $0.15 per million tokens. The weights are on Hugging Face in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU.\n\nIt matches Gemini 3.5 Flash-Lite and Gemma 4 31B at a fraction of their price. Across the eight conversational agent benchmarks, Sarvam-105B-1711 averages 73.9 at a blended $0.15 per million tokens. Gemini 3.5 Flash-Lite averages 74.0 at $0.85, more than five times the price, and Gemma 4 31B averages 73.0 at $0.54, more than three times the price.\n\nThe largest gains since February are on conversational agentic skills. Instruction following rose from 32.5 to 82.5 on IFBench"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "line": 15,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam says it averages 73.9 at a blended $0.15 per million tokens, against 74.0 for Gemini 3.5 Flash-Lite at $0.85 and 73.0 for Gemma 4 31B at $0.54 [Sarvam blog](https://www.sarvam.ai/blogs/sarvam-105b-1711).",
+      "evidence": [
+        {
+          "chip": "Sarvam blog",
+          "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+          "id": "76ba398d1d47",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/76ba398d1d47.txt",
+          "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+          "claim": "Sarvam released Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on B200 infrastructure; its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release, and blended price fell by two-thirds from $0.44.",
+          "quote": "its average across eight conversational agent benchmarks rose from 42.6 to 73.9",
+          "published": "2026-11-22",
+          "context": "ore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nIntroducing Sarvam-105B-1711\n\nNov 22, 202618 min read\nShare\n\nNov 22, 2026·18 min read\nShare\n\nToday, we're releasing Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B, trained on our upgraded B200 infrastructure. It is a Flash-Lite model built for high-volume work such as customer support, voice agents and agentic tasks. Compared with our February release, it follows instructions more reliably across long conversations, calls tools more accurately and handles Indian languages far better, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9. Our inference optimisations have also cut its blended price by two-thirds, from $0.44 to $0.15 per million tokens. The weights are on Hugging Face in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU.\n\nIt matches Gemini 3.5 Flash-Lite and Gemma 4 31B at a fraction of their price. Across the eight conversational agent benchmarks, Sarvam-105B-1711 averages 73.9 at a blended $0.15 per million tokens. Gemini 3.5 Flash-Lite averages 74.0 at $0.85, more than five times the price, and Gemma 4 31B averages 73.0 at $0.54, more than three times the price.\n\nThe largest gains since February are on conversational agentic skills. Instruction following rose from 32.5 to 82.5 on IFBench"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "line": 17,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Six days earlier Sarvam launched Token Factory, which serves Sarvam 105B alongside GLM 5.3, GLM 5.3 Flash, DeepSeek V4.1 Flash 1017, DeepSeek V4 Pro, Kimi K3.1 Pro and Gemma 4 31B [Sarvam](https://www.sarvam.ai/blogs/sarvam-token-factory).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-token-factory",
+          "id": "0008cd326877",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/0008cd326877.txt",
+          "headline": "Sarvam launches Token Factory inference platform in India",
+          "claim": "Sarvam launched Token Factory on 16 Nov 2026, an inference stack serving its own and leading open-weight models from GPU clusters located in India.",
+          "quote": "Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India.",
+          "published": "2026-11-16",
+          "context": "Introducing Sarvam Token Factory | Sarvam AI\n\nAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nAccess leading open models, served on Sarvam's own inference stack.Explore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nIntroducing\nSarvam Token Factory\n\nNov 16, 202611 min read\nShare\n\nNov 16, 2026·11 min read\nShare\n\nToday, we are launching Sarvam Token Factory for everyone. Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India. On most of the models we serve, we match or beat the leading inference providers globally on both speed and cost.\n\nAlong with Sarvam 105B, we serve GLM 5.3, GLM 5.3 Flash, DeepSeek V4.1 Flash 1017, DeepSeek V4 Pro, Kimi K3.1 Pro and Gemma 4 31B through one OpenAI-compatible API. See the full model catalogue.\n\nSarvam Token Factory at a glance\n\nCost: We offer globally competitive pricing on every model we serve. DeepSeek V4.1 Flash launches with introductory pricing of ₹14 per million input tokens and ₹55 per million output tokens.\n\nPerformance: Sarvam 105B brings together all our inference optimisations to deliver best-in-class performance for conversation at the lowest cost, returning its f"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "line": 19,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "DeepSeek V4.1 Flash launches at an introductory ₹14 per million input tokens and ₹55 per million output tokens on the Standard endpoint [Token Factory](https://www.sarvam.ai/blogs/sarvam-token-factory).",
+      "evidence": [
+        {
+          "chip": "Token Factory",
+          "url": "https://www.sarvam.ai/blogs/sarvam-token-factory",
+          "id": "0008cd326877",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/0008cd326877.txt",
+          "headline": "Sarvam launches Token Factory inference platform in India",
+          "claim": "Sarvam launched Token Factory on 16 Nov 2026, an inference stack serving its own and leading open-weight models from GPU clusters located in India.",
+          "quote": "Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India.",
+          "published": "2026-11-16",
+          "context": "Introducing Sarvam Token Factory | Sarvam AI\n\nAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nAccess leading open models, served on Sarvam's own inference stack.Explore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nIntroducing\nSarvam Token Factory\n\nNov 16, 202611 min read\nShare\n\nNov 16, 2026·11 min read\nShare\n\nToday, we are launching Sarvam Token Factory for everyone. Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India. On most of the models we serve, we match or beat the leading inference providers globally on both speed and cost.\n\nAlong with Sarvam 105B, we serve GLM 5.3, GLM 5.3 Flash, DeepSeek V4.1 Flash 1017, DeepSeek V4 Pro, Kimi K3.1 Pro and Gemma 4 31B through one OpenAI-compatible API. See the full model catalogue.\n\nSarvam Token Factory at a glance\n\nCost: We offer globally competitive pricing on every model we serve. DeepSeek V4.1 Flash launches with introductory pricing of ₹14 per million input tokens and ₹55 per million output tokens.\n\nPerformance: Sarvam 105B brings together all our inference optimisations to deliver best-in-class performance for conversation at the lowest cost, returning its f"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "line": 21,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam also says it runs India's largest B200 cluster and serves 450B+ tokens a day on DeepSeek V4.1 Flash, with 95.7% of prompt tokens served from cache [Sarvam](https://www.sarvam.ai/blogs/sarvam-token-factory).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-token-factory",
+          "id": "0008cd326877",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/0008cd326877.txt",
+          "headline": "Sarvam launches Token Factory inference platform in India",
+          "claim": "Sarvam launched Token Factory on 16 Nov 2026, an inference stack serving its own and leading open-weight models from GPU clusters located in India.",
+          "quote": "Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India.",
+          "published": "2026-11-16",
+          "context": "Introducing Sarvam Token Factory | Sarvam AI\n\nAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nAccess leading open models, served on Sarvam's own inference stack.Explore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nIntroducing\nSarvam Token Factory\n\nNov 16, 202611 min read\nShare\n\nNov 16, 2026·11 min read\nShare\n\nToday, we are launching Sarvam Token Factory for everyone. Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India. On most of the models we serve, we match or beat the leading inference providers globally on both speed and cost.\n\nAlong with Sarvam 105B, we serve GLM 5.3, GLM 5.3 Flash, DeepSeek V4.1 Flash 1017, DeepSeek V4 Pro, Kimi K3.1 Pro and Gemma 4 31B through one OpenAI-compatible API. See the full model catalogue.\n\nSarvam Token Factory at a glance\n\nCost: We offer globally competitive pricing on every model we serve. DeepSeek V4.1 Flash launches with introductory pricing of ₹14 per million input tokens and ₹55 per million output tokens.\n\nPerformance: Sarvam 105B brings together all our inference optimisations to deliver best-in-class performance for conversation at the lowest cost, returning its f"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "line": 23,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Soket AI, maker of the IndiaAI-backed EKA-1, raised $4 Mn (around ₹37 Cr) from Bajaj Finserv's Finserv Intelligence and Pennant Technologies [Inc42](https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+          "id": "3bb219d57336",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3bb219d57336.txt",
+          "headline": "Soket AI raises $4 Mn from Bajaj Finserv and Pennant",
+          "claim": "Soket AI, maker of the IndiaAI-backed EKA-1 model, raised $4 Mn (around ₹37 Cr) from Bajaj Finserv's Finserv Intelligence and Pennant Technologies.",
+          "quote": "Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv's applied research and innovation initiative Finserv Intelligence, and Pennant Technologies",
+          "published": "2026-11-18",
+          "context": "k program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nSoket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nSoket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon\n\n18 Nov'26\n| By Palak Sharma\n\nSUMMARY\n\nSoket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv's applied research and innovation initiative Finserv Intelligence, and Pennant Technologies\n\nBacked by the government's IndiaAI Mission, Soket AI recently launched EKA-1, a 26-Bn-parameter foundation model under Project EKA, its flagship sovereign AI initiative\n\nFounded in 2019 by Abhishek Upperwal, Soket AI is building a sovereign open-source AI stack that serves a gamut of Indian languages\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nAI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning.\n\nBajaj Finance invested approximately $2 Mn i"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "line": 25,
+      "section": "Sarvam and the Indian labs",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Inc42 describes EKA-1 as a 26-Bn-parameter foundation model and says Soket is building models focused on mathematics, coding and reasoning [Inc42](https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+          "id": "3bb219d57336",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/3bb219d57336.txt",
+          "headline": "Soket AI raises $4 Mn from Bajaj Finserv and Pennant",
+          "claim": "Soket AI, maker of the IndiaAI-backed EKA-1 model, raised $4 Mn (around ₹37 Cr) from Bajaj Finserv's Finserv Intelligence and Pennant Technologies.",
+          "quote": "Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv's applied research and innovation initiative Finserv Intelligence, and Pennant Technologies",
+          "published": "2026-11-18",
+          "context": "k program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nSoket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nSoket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon\n\n18 Nov'26\n| By Palak Sharma\n\nSUMMARY\n\nSoket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv's applied research and innovation initiative Finserv Intelligence, and Pennant Technologies\n\nBacked by the government's IndiaAI Mission, Soket AI recently launched EKA-1, a 26-Bn-parameter foundation model under Project EKA, its flagship sovereign AI initiative\n\nFounded in 2019 by Abhishek Upperwal, Soket AI is building a sovereign open-source AI stack that serves a gamut of Indian languages\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nAI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning.\n\nBajaj Finance invested approximately $2 Mn i"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "line": 31,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "After criticism over hosting Chinese models on Token Factory, Sarvam said the platform runs on privately procured GPUs and that its IndiaAI Mission subsidised access ended in March 2026 [Business Standard](https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html).",
+      "evidence": [
+        {
+          "chip": "Business Standard",
+          "url": "https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html",
+          "id": "95abb25cb956",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/95abb25cb956.txt",
+          "headline": "Sarvam says Token Factory uses no subsidised GPUs amid Chinese-model row",
+          "claim": "After criticism over hosting Chinese models on Token Factory, Sarvam said the platform runs on privately procured GPUs and that its IndiaAI Mission subsidised access ended in March 2026.",
+          "quote": "The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026.",
+          "published": "2026-11-20",
+          "context": "es. It is therefore broader than data localisation or the nationality of a model developer.\n\n \nSarvam’s role in India’s AI ecosystem has intensified the debate. It was selected under the IndiaAI Mission, which seeks to strengthen domestic AI capabilities, including indigenous foundation models, and received subsidised computing resources to train its own models. This has raised questions about whether government support for developing homegrown AI was also benefiting a commercial platform offering access to Chinese AI models.\n \nSarvam said its Token Factory does not use government-subsidised GPUs. Co-founder Pratyush Kumar told Moneycontrol that the platform runs on privately procured GPUs. The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026. It maintains that developing its own models remains its core mission, while offering other models generates revenue.\n\n \nAccording to the report, Sarvam argues that model development is expensive and inference can generate revenue from computing infrastructure. It says Indian businesses should be able to use global models through a domestic provider, with local infrastructure and rupee pricing. Global cloud providers such as Amazon Web Services also offer businesses access to AI models developed by other companies through platforms such as Amazon Bedrock.\n \nData sovereignty is another concern. Sarvam says Token Factory runs AI models on its GPU infrastructure in India and does not send custo"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "line": 33,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Business Standard frames the criticism as whether a company backed to build homegrown models should also build a commercial business around models developed in other countries, particularly China [Business Standard](https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html).",
+      "evidence": [
+        {
+          "chip": "Business Standard",
+          "url": "https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html",
+          "id": "95abb25cb956",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/95abb25cb956.txt",
+          "headline": "Sarvam says Token Factory uses no subsidised GPUs amid Chinese-model row",
+          "claim": "After criticism over hosting Chinese models on Token Factory, Sarvam said the platform runs on privately procured GPUs and that its IndiaAI Mission subsidised access ended in March 2026.",
+          "quote": "The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026.",
+          "published": "2026-11-20",
+          "context": "es. It is therefore broader than data localisation or the nationality of a model developer.\n\n \nSarvam’s role in India’s AI ecosystem has intensified the debate. It was selected under the IndiaAI Mission, which seeks to strengthen domestic AI capabilities, including indigenous foundation models, and received subsidised computing resources to train its own models. This has raised questions about whether government support for developing homegrown AI was also benefiting a commercial platform offering access to Chinese AI models.\n \nSarvam said its Token Factory does not use government-subsidised GPUs. Co-founder Pratyush Kumar told Moneycontrol that the platform runs on privately procured GPUs. The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026. It maintains that developing its own models remains its core mission, while offering other models generates revenue.\n\n \nAccording to the report, Sarvam argues that model development is expensive and inference can generate revenue from computing infrastructure. It says Indian businesses should be able to use global models through a domestic provider, with local infrastructure and rupee pricing. Global cloud providers such as Amazon Web Services also offer businesses access to AI models developed by other companies through platforms such as Amazon Bedrock.\n \nData sovereignty is another concern. Sarvam says Token Factory runs AI models on its GPU infrastructure in India and does not send custo"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "line": 35,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The same explainer notes that Sarvam is not alone: E2E Networks launched its Blaze inference platform on November 2, 2026, offering DeepSeek, Qwen, GLM and Gemma through a single API [Business Standard](https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html).",
+      "evidence": [
+        {
+          "chip": "Business Standard",
+          "url": "https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html",
+          "id": "95abb25cb956",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/95abb25cb956.txt",
+          "headline": "Sarvam says Token Factory uses no subsidised GPUs amid Chinese-model row",
+          "claim": "After criticism over hosting Chinese models on Token Factory, Sarvam said the platform runs on privately procured GPUs and that its IndiaAI Mission subsidised access ended in March 2026.",
+          "quote": "The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026.",
+          "published": "2026-11-20",
+          "context": "es. It is therefore broader than data localisation or the nationality of a model developer.\n\n \nSarvam’s role in India’s AI ecosystem has intensified the debate. It was selected under the IndiaAI Mission, which seeks to strengthen domestic AI capabilities, including indigenous foundation models, and received subsidised computing resources to train its own models. This has raised questions about whether government support for developing homegrown AI was also benefiting a commercial platform offering access to Chinese AI models.\n \nSarvam said its Token Factory does not use government-subsidised GPUs. Co-founder Pratyush Kumar told Moneycontrol that the platform runs on privately procured GPUs. The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026. It maintains that developing its own models remains its core mission, while offering other models generates revenue.\n\n \nAccording to the report, Sarvam argues that model development is expensive and inference can generate revenue from computing infrastructure. It says Indian businesses should be able to use global models through a domestic provider, with local infrastructure and rupee pricing. Global cloud providers such as Amazon Web Services also offer businesses access to AI models developed by other companies through platforms such as Amazon Bedrock.\n \nData sovereignty is another concern. Sarvam says Token Factory runs AI models on its GPU infrastructure in India and does not send custo"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "line": 37,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam says Token Factory does not send customer prompts to the overseas developers of those models and offers zero data retention on request [Business Standard](https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html).",
+      "evidence": [
+        {
+          "chip": "Business Standard",
+          "url": "https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html",
+          "id": "95abb25cb956",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/95abb25cb956.txt",
+          "headline": "Sarvam says Token Factory uses no subsidised GPUs amid Chinese-model row",
+          "claim": "After criticism over hosting Chinese models on Token Factory, Sarvam said the platform runs on privately procured GPUs and that its IndiaAI Mission subsidised access ended in March 2026.",
+          "quote": "The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026.",
+          "published": "2026-11-20",
+          "context": "es. It is therefore broader than data localisation or the nationality of a model developer.\n\n \nSarvam’s role in India’s AI ecosystem has intensified the debate. It was selected under the IndiaAI Mission, which seeks to strengthen domestic AI capabilities, including indigenous foundation models, and received subsidised computing resources to train its own models. This has raised questions about whether government support for developing homegrown AI was also benefiting a commercial platform offering access to Chinese AI models.\n \nSarvam said its Token Factory does not use government-subsidised GPUs. Co-founder Pratyush Kumar told Moneycontrol that the platform runs on privately procured GPUs. The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026. It maintains that developing its own models remains its core mission, while offering other models generates revenue.\n\n \nAccording to the report, Sarvam argues that model development is expensive and inference can generate revenue from computing infrastructure. It says Indian businesses should be able to use global models through a domestic provider, with local infrastructure and rupee pricing. Global cloud providers such as Amazon Web Services also offer businesses access to AI models developed by other companies through platforms such as Amazon Bedrock.\n \nData sovereignty is another concern. Sarvam says Token Factory runs AI models on its GPU infrastructure in India and does not send custo"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "line": 39,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "On physical capacity, CtrlS is targeting 4.4 GW by 2030 and recently announced a ₹10,000 crore, 150 MW AI factory in Bodh Gaya, Bihar, plus a ₹400 crore, 12 MW Patna data centre [AIM](https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+          "id": "6041acbe9a03",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6041acbe9a03.txt",
+          "headline": "CtrlS targets 4.4 GW data centre capacity by 2030",
+          "claim": "CtrlS is targeting 4.4 GW of capacity by 2030 and recently announced a ₹10,000 crore, 150 MW AI factory in Bodh Gaya, Bihar, plus a ₹400 crore, 12 MW Patna data centre.",
+          "quote": "CtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities",
+          "published": "2026-11-16",
+          "context": "es.\n\nThe company is investing ₹10,000 crore in Bihar for an AI factory and a ₹400 crore data centre in Patna.\n\nCtrlS plans to build over 20 edge data centres to enhance digital infrastructure in smaller cities with better fibre connectivity.\n\nInvestor interest in CtrlS is driven by its focus on hyperscale campuses and modular designs for high-capacity power.\n\nThe growing demand for AI and cloud services is prompting data centre operators to expand and rethink their locations.\n\nTakeaways drafted with AI from the article text.\n\nIndia’s growing demand for AI computing, cloud services, and digital infrastructure is pushing data centre operators to expand capacity and rethink where they build. \n\nCtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities\n\nIt recently announced a ₹10,000 crore investment in Bihar to set up a 150 MW AI factory in Bodh Gaya, while expanding its presence in the state with a ₹400 crore data centre in Patna. CtrlS’s Patna data centre currently has 12 MW of IT capacity, with scope to scale up as demand increases.\n\nIn an exclusive interview with AIM, Rahul Dhar, President of Global Data Centre Operations, Enterprise Colo Delivery, Programme Management and Energy R&D at CtrlS Datacentres, says the strategy is to bring infrastructure closer to customers, particularly content-based businesses that need to serve users in smaller cities. \n\nDhar says the new facility would support demand for digital infrastructure in Bih"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "line": 41,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "AIM reports that CtrlS plans more than 20 edge data centres across tier-2 and tier-3 cities and currently operates 19 data centres across 10 cities [AIM](https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+          "id": "6041acbe9a03",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6041acbe9a03.txt",
+          "headline": "CtrlS targets 4.4 GW data centre capacity by 2030",
+          "claim": "CtrlS is targeting 4.4 GW of capacity by 2030 and recently announced a ₹10,000 crore, 150 MW AI factory in Bodh Gaya, Bihar, plus a ₹400 crore, 12 MW Patna data centre.",
+          "quote": "CtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities",
+          "published": "2026-11-16",
+          "context": "es.\n\nThe company is investing ₹10,000 crore in Bihar for an AI factory and a ₹400 crore data centre in Patna.\n\nCtrlS plans to build over 20 edge data centres to enhance digital infrastructure in smaller cities with better fibre connectivity.\n\nInvestor interest in CtrlS is driven by its focus on hyperscale campuses and modular designs for high-capacity power.\n\nThe growing demand for AI and cloud services is prompting data centre operators to expand and rethink their locations.\n\nTakeaways drafted with AI from the article text.\n\nIndia’s growing demand for AI computing, cloud services, and digital infrastructure is pushing data centre operators to expand capacity and rethink where they build. \n\nCtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities\n\nIt recently announced a ₹10,000 crore investment in Bihar to set up a 150 MW AI factory in Bodh Gaya, while expanding its presence in the state with a ₹400 crore data centre in Patna. CtrlS’s Patna data centre currently has 12 MW of IT capacity, with scope to scale up as demand increases.\n\nIn an exclusive interview with AIM, Rahul Dhar, President of Global Data Centre Operations, Enterprise Colo Delivery, Programme Management and Energy R&D at CtrlS Datacentres, says the strategy is to bring infrastructure closer to customers, particularly content-based businesses that need to serve users in smaller cities. \n\nDhar says the new facility would support demand for digital infrastructure in Bih"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "line": 43,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Its operations president Rahul Dhar wants power demand forecasts cut from 7–8 year horizons to three to four years, and faster right-of-way approvals for fibre and transmission lines [AIM](https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+          "id": "6041acbe9a03",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6041acbe9a03.txt",
+          "headline": "CtrlS targets 4.4 GW data centre capacity by 2030",
+          "claim": "CtrlS is targeting 4.4 GW of capacity by 2030 and recently announced a ₹10,000 crore, 150 MW AI factory in Bodh Gaya, Bihar, plus a ₹400 crore, 12 MW Patna data centre.",
+          "quote": "CtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities",
+          "published": "2026-11-16",
+          "context": "es.\n\nThe company is investing ₹10,000 crore in Bihar for an AI factory and a ₹400 crore data centre in Patna.\n\nCtrlS plans to build over 20 edge data centres to enhance digital infrastructure in smaller cities with better fibre connectivity.\n\nInvestor interest in CtrlS is driven by its focus on hyperscale campuses and modular designs for high-capacity power.\n\nThe growing demand for AI and cloud services is prompting data centre operators to expand and rethink their locations.\n\nTakeaways drafted with AI from the article text.\n\nIndia’s growing demand for AI computing, cloud services, and digital infrastructure is pushing data centre operators to expand capacity and rethink where they build. \n\nCtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities\n\nIt recently announced a ₹10,000 crore investment in Bihar to set up a 150 MW AI factory in Bodh Gaya, while expanding its presence in the state with a ₹400 crore data centre in Patna. CtrlS’s Patna data centre currently has 12 MW of IT capacity, with scope to scale up as demand increases.\n\nIn an exclusive interview with AIM, Rahul Dhar, President of Global Data Centre Operations, Enterprise Colo Delivery, Programme Management and Energy R&D at CtrlS Datacentres, says the strategy is to bring infrastructure closer to customers, particularly content-based businesses that need to serve users in smaller cities. \n\nDhar says the new facility would support demand for digital infrastructure in Bih"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "line": 45,
+      "section": "Government, compute and policy",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "AIM also notes the central government introduced a 21-year tax holiday this year for foreign companies providing global cloud services using India-based data centres, and that CtrlS is giving MeitY inputs on the proposed data centre policy [AIM](https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+          "id": "6041acbe9a03",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6041acbe9a03.txt",
+          "headline": "CtrlS targets 4.4 GW data centre capacity by 2030",
+          "claim": "CtrlS is targeting 4.4 GW of capacity by 2030 and recently announced a ₹10,000 crore, 150 MW AI factory in Bodh Gaya, Bihar, plus a ₹400 crore, 12 MW Patna data centre.",
+          "quote": "CtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities",
+          "published": "2026-11-16",
+          "context": "es.\n\nThe company is investing ₹10,000 crore in Bihar for an AI factory and a ₹400 crore data centre in Patna.\n\nCtrlS plans to build over 20 edge data centres to enhance digital infrastructure in smaller cities with better fibre connectivity.\n\nInvestor interest in CtrlS is driven by its focus on hyperscale campuses and modular designs for high-capacity power.\n\nThe growing demand for AI and cloud services is prompting data centre operators to expand and rethink their locations.\n\nTakeaways drafted with AI from the article text.\n\nIndia’s growing demand for AI computing, cloud services, and digital infrastructure is pushing data centre operators to expand capacity and rethink where they build. \n\nCtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities\n\nIt recently announced a ₹10,000 crore investment in Bihar to set up a 150 MW AI factory in Bodh Gaya, while expanding its presence in the state with a ₹400 crore data centre in Patna. CtrlS’s Patna data centre currently has 12 MW of IT capacity, with scope to scale up as demand increases.\n\nIn an exclusive interview with AIM, Rahul Dhar, President of Global Data Centre Operations, Enterprise Colo Delivery, Programme Management and Energy R&D at CtrlS Datacentres, says the strategy is to bring infrastructure closer to customers, particularly content-based businesses that need to serve users in smaller cities. \n\nDhar says the new facility would support demand for digital infrastructure in Bih"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "line": 51,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Humyn Labs raised $47 million in Series A financing, with $26 million in equity led by Accel and $21 million in venture debt led by Lighthouse Canton [TechCrunch](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "id": "55dde3921be9",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/55dde3921be9.txt",
+          "headline": "Humyn Labs raises $47M Series A led by Accel",
+          "claim": "India's Humyn Labs raised $47 million in Series A financing: $26 million equity led by Accel plus $21 million venture debt led by Lighthouse Canton.",
+          "quote": "The funding comprises $26 million in equity led by Accel",
+          "published": "2026-11-18",
+          "context": "nment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Humyn Labs\n\nAI\n\nIndia’s Humyn Labs raises $47M to feed US robotics companies the data they need\n\nJagmeet Singh\n\n3:30 AM PST · November 18, 2026\n\nAs demand grows for real-world data to train robots, India’s Humyn Labs has raised $47 million in Series A financing to help U.S. AI and robotics companies build models that can operate in physical environments.\n\nThe funding comprises $26 million in equity led by Accel, with participation from Prosus Ventures, BeeGlobal, Bajaj Finance’s Finserv Intelligence and Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton, and Jump Trading. It also includes $21 million in venture debt led by Lighthouse Canton, with participation from Trifecta Capital.\n\nCompanies around the world are trying to build robots capable of performing everyday human tasks, but getting enough quality data to train them remains difficult. Startups, including Mecka AI, XDOF, and MicroAGI, are already tackling the problem by collecting real-world data for robotics training. Bengaluru-based Humyn Labs aims to compete with them.\n\nHumyn Labs has developed its own two-camer"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "line": 53,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "It records people doing everyday tasks on its own two-camera hardware, labels the footage, and told TechCrunch it generated $10 million in revenue between April and October, with about 90% of revenue from the US [TechCrunch](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "id": "55dde3921be9",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/55dde3921be9.txt",
+          "headline": "Humyn Labs raises $47M Series A led by Accel",
+          "claim": "India's Humyn Labs raised $47 million in Series A financing: $26 million equity led by Accel plus $21 million venture debt led by Lighthouse Canton.",
+          "quote": "The funding comprises $26 million in equity led by Accel",
+          "published": "2026-11-18",
+          "context": "nment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Humyn Labs\n\nAI\n\nIndia’s Humyn Labs raises $47M to feed US robotics companies the data they need\n\nJagmeet Singh\n\n3:30 AM PST · November 18, 2026\n\nAs demand grows for real-world data to train robots, India’s Humyn Labs has raised $47 million in Series A financing to help U.S. AI and robotics companies build models that can operate in physical environments.\n\nThe funding comprises $26 million in equity led by Accel, with participation from Prosus Ventures, BeeGlobal, Bajaj Finance’s Finserv Intelligence and Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton, and Jump Trading. It also includes $21 million in venture debt led by Lighthouse Canton, with participation from Trifecta Capital.\n\nCompanies around the world are trying to build robots capable of performing everyday human tasks, but getting enough quality data to train them remains difficult. Startups, including Mecka AI, XDOF, and MicroAGI, are already tackling the problem by collecting real-world data for robotics training. Bengaluru-based Humyn Labs aims to compete with them.\n\nHumyn Labs has developed its own two-camer"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "line": 55,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Dreamteam, an AI-first CRM founded in 2025 by former Freshworks leaders, raised $53 million from Together Fund, Accel and Premji Invest [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/).",
+      "evidence": [
+        {
+          "chip": "StartupTalky",
+          "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/",
+          "id": "67088a0b4a71",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/67088a0b4a71.txt",
+          "headline": "Dreamteam raises $53M from Together Fund, Accel, Premji Invest",
+          "claim": "Dreamteam, an AI-first CRM founded in 2025 by former Freshworks leaders, raised $53 million from Together Fund, Accel and Premji Invest.",
+          "quote": "Dreamteam raised $53 million from Together Fund, Accel and Premji Invest.",
+          "published": "2026-11-17",
+          "context": ". Together Fund, Accel, Equirus InnovateX Fund and Crane Venture Partners were among the day's investors. Urban Company also opened its INR 2,500 crore QIP, while Rediff filed updated papers for its IPO.\n\nDaily Indian Startup Funding Roundup - 17 November 2026\n\nStartup Sector Funding Round Lead Investors\n\nDreamteam AI SaaS $53 Mn Undisclosed Together Fund, Accel, Premji Invest\n\nCountAI Industrial AI ₹10 Cr Seed Equirus InnovateX Fund\n\nfinny.club Wealthtech ₹5.3 Cr Angel Ramanathan RV, Anil Goel, Uday Sodhi\n\nJohnAIC AI Infrastructure $1.9 Mn Pre-Seed Crane Venture Partners\n\nLemonpeel AI Video $1 Mn Pre-Seed Shastra VC\n\nDreamteam Raises $53 Million From Together Fund, Accel and Premji Invest\n\nDreamteam raised $53 million from Together Fund, Accel and Premji Invest. The company plans to extend its platform to more stages of the customer journey, from finding leads to upselling.\n\nFounded in 2025 by former Freshworks leaders Anand Venkatraman, Ramesh Parthasarathy and Senthil Kanthaswamy, Dreamteam builds an AI-first CRM. Its AI agents research accounts, draft follow-up emails and flag risks in the sales pipeline. Customers include InVideo and Plex.\n\nCountAI Raises INR 10 Crore in Seed Round Led by Equirus InnovateX Fund\n\nCountAI raised INR 10 crore in a seed round led by Equirus InnovateX Fund. The company will use the money to build its products, reach more customers and bring its AI to more factory uses.\n\nFounded in 2022 by Harshavardhan Thirupathi an"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "line": 57,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Its agents research accounts, draft follow-up emails and flag risks in the sales pipeline, and customers include InVideo and Plex [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/).",
+      "evidence": [
+        {
+          "chip": "StartupTalky",
+          "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/",
+          "id": "67088a0b4a71",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/67088a0b4a71.txt",
+          "headline": "Dreamteam raises $53M from Together Fund, Accel, Premji Invest",
+          "claim": "Dreamteam, an AI-first CRM founded in 2025 by former Freshworks leaders, raised $53 million from Together Fund, Accel and Premji Invest.",
+          "quote": "Dreamteam raised $53 million from Together Fund, Accel and Premji Invest.",
+          "published": "2026-11-17",
+          "context": ". Together Fund, Accel, Equirus InnovateX Fund and Crane Venture Partners were among the day's investors. Urban Company also opened its INR 2,500 crore QIP, while Rediff filed updated papers for its IPO.\n\nDaily Indian Startup Funding Roundup - 17 November 2026\n\nStartup Sector Funding Round Lead Investors\n\nDreamteam AI SaaS $53 Mn Undisclosed Together Fund, Accel, Premji Invest\n\nCountAI Industrial AI ₹10 Cr Seed Equirus InnovateX Fund\n\nfinny.club Wealthtech ₹5.3 Cr Angel Ramanathan RV, Anil Goel, Uday Sodhi\n\nJohnAIC AI Infrastructure $1.9 Mn Pre-Seed Crane Venture Partners\n\nLemonpeel AI Video $1 Mn Pre-Seed Shastra VC\n\nDreamteam Raises $53 Million From Together Fund, Accel and Premji Invest\n\nDreamteam raised $53 million from Together Fund, Accel and Premji Invest. The company plans to extend its platform to more stages of the customer journey, from finding leads to upselling.\n\nFounded in 2025 by former Freshworks leaders Anand Venkatraman, Ramesh Parthasarathy and Senthil Kanthaswamy, Dreamteam builds an AI-first CRM. Its AI agents research accounts, draft follow-up emails and flag risks in the sales pipeline. Customers include InVideo and Plex.\n\nCountAI Raises INR 10 Crore in Seed Round Led by Equirus InnovateX Fund\n\nCountAI raised INR 10 crore in a seed round led by Equirus InnovateX Fund. The company will use the money to build its products, reach more customers and bring its AI to more factory uses.\n\nFounded in 2022 by Harshavardhan Thirupathi an"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "line": 59,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "August AI, founded by IIT-BHU alumnus Anuruddh Mishra, raised $12 million from Accel and Peak XV Partners and launched an AI agent that phones doctors, pharmacies and insurers for US patients [Indian Startup News](https://indianstartupnews.com/funding/iit-bhu-alumnus-anuruddh-mishras-august-ai-raises-12-million-to-take-on-us-healthcare-paperwork-12828862).",
+      "evidence": [
+        {
+          "chip": "Indian Startup News",
+          "url": "https://indianstartupnews.com/funding/iit-bhu-alumnus-anuruddh-mishras-august-ai-raises-12-million-to-take-on-us-healthcare-paperwork-12828862",
+          "id": "bad57a24605e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bad57a24605e.txt",
+          "headline": "August AI raises $12M from Accel and Peak XV",
+          "claim": "August AI raised $12 million from Accel and Peak XV Partners and launched an AI agent that phones doctors, pharmacies and insurers for US patients.",
+          "quote": "August AI has raised $12 million from Accel and Peak XV Partners",
+          "published": "2026-11-21",
+          "context": "k\n\nSign in with Email\n\nBy clicking the button, I accept the Terms of Use of the service and its Privacy Policy, as well as consent to the processing of personal data.\n\nDon’t have an account? Signup\n\nBookmarks\n\nMy Profile\n\nLog Out\n\nNews\n\nISN Exclusive\n\nFunding Fusion\n\nStartup Stories\n\nISN IN Depth\n\nNext Wave\n\nGovt Policy\n\nReports\n\nTID by ISN\n\nNews\n\nFunding Fusion\n\nStartup Stories\n\nISN In Depth\n\nNextWave\n\nWeb Stories\n\nReports\n\nNewsletter\n\nYou have successfully subscribed the newsletter.\n\nFunding Fusion\n\nNews\n\nIIT-BHU alumnus Anuruddh Mishra's August AI raises $12 million to take on US healthcare paperwork\n\nSumit Vishwakarma\n\n21 Nov 2026\n\n13:34\nIST\n\nFollow Us\n\nNew Update\n\nAI healthtech startup August AI has raised $12 million from Accel and Peak XV Partners, and has launched an AI agent that makes phone calls to doctors, pharmacies and insurers on behalf of patients in the US.\n\nAdvertisment\n\nIn a post on X, August AI founder and CEO Anuruddh Mishra shared details of the funding alongside the rollout of new capabilities. He said the funds would be used to deploy AI to address the challenges patients face while navigating the US healthcare system.\n\nWe raised $12M from @Accel and @PeakXV to put AI through the bullshit American healthcare puts you through.\n\nNavigating healthcare is hard and all of us have a list of healthcare tasks we’ve been putting off. From visiting a doctor to filing an insurance claim, the tasks pile up… pic.twitter.com/agNKS"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "line": 61,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "The calling feature is a free beta in the US behind a waitlist, and the company says its companion app is used by more than 9.5 million people in 160 countries [Indian Startup News](https://indianstartupnews.com/funding/iit-bhu-alumnus-anuruddh-mishras-august-ai-raises-12-million-to-take-on-us-healthcare-paperwork-12828862).",
+      "evidence": [
+        {
+          "chip": "Indian Startup News",
+          "url": "https://indianstartupnews.com/funding/iit-bhu-alumnus-anuruddh-mishras-august-ai-raises-12-million-to-take-on-us-healthcare-paperwork-12828862",
+          "id": "bad57a24605e",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/bad57a24605e.txt",
+          "headline": "August AI raises $12M from Accel and Peak XV",
+          "claim": "August AI raised $12 million from Accel and Peak XV Partners and launched an AI agent that phones doctors, pharmacies and insurers for US patients.",
+          "quote": "August AI has raised $12 million from Accel and Peak XV Partners",
+          "published": "2026-11-21",
+          "context": "k\n\nSign in with Email\n\nBy clicking the button, I accept the Terms of Use of the service and its Privacy Policy, as well as consent to the processing of personal data.\n\nDon’t have an account? Signup\n\nBookmarks\n\nMy Profile\n\nLog Out\n\nNews\n\nISN Exclusive\n\nFunding Fusion\n\nStartup Stories\n\nISN IN Depth\n\nNext Wave\n\nGovt Policy\n\nReports\n\nTID by ISN\n\nNews\n\nFunding Fusion\n\nStartup Stories\n\nISN In Depth\n\nNextWave\n\nWeb Stories\n\nReports\n\nNewsletter\n\nYou have successfully subscribed the newsletter.\n\nFunding Fusion\n\nNews\n\nIIT-BHU alumnus Anuruddh Mishra's August AI raises $12 million to take on US healthcare paperwork\n\nSumit Vishwakarma\n\n21 Nov 2026\n\n13:34\nIST\n\nFollow Us\n\nNew Update\n\nAI healthtech startup August AI has raised $12 million from Accel and Peak XV Partners, and has launched an AI agent that makes phone calls to doctors, pharmacies and insurers on behalf of patients in the US.\n\nAdvertisment\n\nIn a post on X, August AI founder and CEO Anuruddh Mishra shared details of the funding alongside the rollout of new capabilities. He said the funds would be used to deploy AI to address the challenges patients face while navigating the US healthcare system.\n\nWe raised $12M from @Accel and @PeakXV to put AI through the bullshit American healthcare puts you through.\n\nNavigating healthcare is hard and all of us have a list of healthcare tasks we’ve been putting off. From visiting a doctor to filing an insurance claim, the tasks pile up… pic.twitter.com/agNKS"
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "line": 63,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Disseqt AI, which builds AI agents for AI governance and testing, raised $8 Mn (about ₹75 Cr) led by Gresham House Ventures, with cricketer Rahul Dravid in as an angel [Inc42](https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/",
+          "id": "2773c380ad92",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2773c380ad92.txt",
+          "headline": "Disseqt AI raises $8M led by Gresham House Ventures",
+          "claim": "Disseqt AI, which builds AI agents for AI governance and testing, raised $8 Mn (about ₹75 Cr) led by Gresham House Ventures; cricketer Rahul Dravid participated as an angel.",
+          "quote": "Disseqt AI raised $8 Mn in a funding round led by Gresham House Ventures",
+          "published": "2026-11-19",
+          "context": " 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nAI Startup Disseqt AI Raises $8 Mn To Scale International Operations\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nAI Startup Disseqt AI Raises $8 Mn To Scale International Operations\n\n19 Nov'26\n| By Gaurav Bagur\n\nSUMMARY\n\nDisseqt AI raised $8 Mn in a funding round led by Gresham House Ventures, with Sure Valley Ventures, Delta Partners, Enterprise Ireland, and Rahul Dravid also participating\n\nThe company plans to use the fresh capital to expand its global enterprise customer base and scale operations across the UK and international markets\n\nWhile headquartered in Ireland, Disseqt’s engineering and AI teams are based in Bengaluru, and it has a significant presence in India\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nDisseqt AI, which builds AI agents for AI governance and testing, has raised $8 Mn (about ₹75 Cr) in a funding round led by Gresham House Ventures. Sure Valley Ventures, Delta Partners, and Enterprise Ireland also participated in the rou"
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "line": 65,
+      "section": "Startups and money",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "It is headquartered in Ireland but its engineering and AI teams are in Bengaluru, and Inc42 says AI startup funding more than tripled YoY to $438 Mn in the September quarter [Inc42](https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/",
+          "id": "2773c380ad92",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2773c380ad92.txt",
+          "headline": "Disseqt AI raises $8M led by Gresham House Ventures",
+          "claim": "Disseqt AI, which builds AI agents for AI governance and testing, raised $8 Mn (about ₹75 Cr) led by Gresham House Ventures; cricketer Rahul Dravid participated as an angel.",
+          "quote": "Disseqt AI raised $8 Mn in a funding round led by Gresham House Ventures",
+          "published": "2026-11-19",
+          "context": " 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nAI Startup Disseqt AI Raises $8 Mn To Scale International Operations\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nAI Startup Disseqt AI Raises $8 Mn To Scale International Operations\n\n19 Nov'26\n| By Gaurav Bagur\n\nSUMMARY\n\nDisseqt AI raised $8 Mn in a funding round led by Gresham House Ventures, with Sure Valley Ventures, Delta Partners, Enterprise Ireland, and Rahul Dravid also participating\n\nThe company plans to use the fresh capital to expand its global enterprise customer base and scale operations across the UK and international markets\n\nWhile headquartered in Ireland, Disseqt’s engineering and AI teams are based in Bengaluru, and it has a significant presence in India\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nDisseqt AI, which builds AI agents for AI governance and testing, has raised $8 Mn (about ₹75 Cr) in a funding round led by Gresham House Ventures. Sure Valley Ventures, Delta Partners, and Enterprise Ireland also participated in the rou"
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "line": 71,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "CountAI, which raised ₹10 Cr in a seed round, builds camera systems that check product quality on factory floors, and its Knit-I product spots fabric defects on knitting machines at textile firms such as KPR and Indorama [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/).",
+      "evidence": [
+        {
+          "chip": "StartupTalky",
+          "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/",
+          "id": "67088a0b4a71",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/67088a0b4a71.txt",
+          "headline": "Dreamteam raises $53M from Together Fund, Accel, Premji Invest",
+          "claim": "Dreamteam, an AI-first CRM founded in 2025 by former Freshworks leaders, raised $53 million from Together Fund, Accel and Premji Invest.",
+          "quote": "Dreamteam raised $53 million from Together Fund, Accel and Premji Invest.",
+          "published": "2026-11-17",
+          "context": ". Together Fund, Accel, Equirus InnovateX Fund and Crane Venture Partners were among the day's investors. Urban Company also opened its INR 2,500 crore QIP, while Rediff filed updated papers for its IPO.\n\nDaily Indian Startup Funding Roundup - 17 November 2026\n\nStartup Sector Funding Round Lead Investors\n\nDreamteam AI SaaS $53 Mn Undisclosed Together Fund, Accel, Premji Invest\n\nCountAI Industrial AI ₹10 Cr Seed Equirus InnovateX Fund\n\nfinny.club Wealthtech ₹5.3 Cr Angel Ramanathan RV, Anil Goel, Uday Sodhi\n\nJohnAIC AI Infrastructure $1.9 Mn Pre-Seed Crane Venture Partners\n\nLemonpeel AI Video $1 Mn Pre-Seed Shastra VC\n\nDreamteam Raises $53 Million From Together Fund, Accel and Premji Invest\n\nDreamteam raised $53 million from Together Fund, Accel and Premji Invest. The company plans to extend its platform to more stages of the customer journey, from finding leads to upselling.\n\nFounded in 2025 by former Freshworks leaders Anand Venkatraman, Ramesh Parthasarathy and Senthil Kanthaswamy, Dreamteam builds an AI-first CRM. Its AI agents research accounts, draft follow-up emails and flag risks in the sales pipeline. Customers include InVideo and Plex.\n\nCountAI Raises INR 10 Crore in Seed Round Led by Equirus InnovateX Fund\n\nCountAI raised INR 10 crore in a seed round led by Equirus InnovateX Fund. The company will use the money to build its products, reach more customers and bring its AI to more factory uses.\n\nFounded in 2022 by Harshavardhan Thirupathi an"
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "line": 73,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "JohnAIC, which raised $1.9 million, sells AI servers that run in customers' own offices to banks, healthcare firms and public sector units [StartupTalky](https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/).",
+      "evidence": [
+        {
+          "chip": "StartupTalky",
+          "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/",
+          "id": "67088a0b4a71",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/67088a0b4a71.txt",
+          "headline": "Dreamteam raises $53M from Together Fund, Accel, Premji Invest",
+          "claim": "Dreamteam, an AI-first CRM founded in 2025 by former Freshworks leaders, raised $53 million from Together Fund, Accel and Premji Invest.",
+          "quote": "Dreamteam raised $53 million from Together Fund, Accel and Premji Invest.",
+          "published": "2026-11-17",
+          "context": ". Together Fund, Accel, Equirus InnovateX Fund and Crane Venture Partners were among the day's investors. Urban Company also opened its INR 2,500 crore QIP, while Rediff filed updated papers for its IPO.\n\nDaily Indian Startup Funding Roundup - 17 November 2026\n\nStartup Sector Funding Round Lead Investors\n\nDreamteam AI SaaS $53 Mn Undisclosed Together Fund, Accel, Premji Invest\n\nCountAI Industrial AI ₹10 Cr Seed Equirus InnovateX Fund\n\nfinny.club Wealthtech ₹5.3 Cr Angel Ramanathan RV, Anil Goel, Uday Sodhi\n\nJohnAIC AI Infrastructure $1.9 Mn Pre-Seed Crane Venture Partners\n\nLemonpeel AI Video $1 Mn Pre-Seed Shastra VC\n\nDreamteam Raises $53 Million From Together Fund, Accel and Premji Invest\n\nDreamteam raised $53 million from Together Fund, Accel and Premji Invest. The company plans to extend its platform to more stages of the customer journey, from finding leads to upselling.\n\nFounded in 2025 by former Freshworks leaders Anand Venkatraman, Ramesh Parthasarathy and Senthil Kanthaswamy, Dreamteam builds an AI-first CRM. Its AI agents research accounts, draft follow-up emails and flag risks in the sales pipeline. Customers include InVideo and Plex.\n\nCountAI Raises INR 10 Crore in Seed Round Led by Equirus InnovateX Fund\n\nCountAI raised INR 10 crore in a seed round led by Equirus InnovateX Fund. The company will use the money to build its products, reach more customers and bring its AI to more factory uses.\n\nFounded in 2022 by Harshavardhan Thirupathi an"
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "line": 75,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Sarvam says its voice fine-tune of the new 105B powers Samvaad, its enterprise voice-agent platform across 12 Indian languages, and that most Samvaad bench examples come from loan collection and loan sales [Sarvam](https://www.sarvam.ai/blogs/sarvam-105b-1711).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+          "id": "76ba398d1d47",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/76ba398d1d47.txt",
+          "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+          "claim": "Sarvam released Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on B200 infrastructure; its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release, and blended price fell by two-thirds from $0.44.",
+          "quote": "its average across eight conversational agent benchmarks rose from 42.6 to 73.9",
+          "published": "2026-11-22",
+          "context": "ore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nIntroducing Sarvam-105B-1711\n\nNov 22, 202618 min read\nShare\n\nNov 22, 2026·18 min read\nShare\n\nToday, we're releasing Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B, trained on our upgraded B200 infrastructure. It is a Flash-Lite model built for high-volume work such as customer support, voice agents and agentic tasks. Compared with our February release, it follows instructions more reliably across long conversations, calls tools more accurately and handles Indian languages far better, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9. Our inference optimisations have also cut its blended price by two-thirds, from $0.44 to $0.15 per million tokens. The weights are on Hugging Face in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU.\n\nIt matches Gemini 3.5 Flash-Lite and Gemma 4 31B at a fraction of their price. Across the eight conversational agent benchmarks, Sarvam-105B-1711 averages 73.9 at a blended $0.15 per million tokens. Gemini 3.5 Flash-Lite averages 74.0 at $0.85, more than five times the price, and Gemma 4 31B averages 73.0 at $0.54, more than three times the price.\n\nThe largest gains since February are on conversational agentic skills. Instruction following rose from 32.5 to 82.5 on IFBench"
+        }
+      ]
+    },
+    {
+      "n": 32,
+      "line": 75,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "CtrlS says it serves nearly 40 Indian public and private sector banks, with hyperscalers its largest source of demand [AIM](https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom).",
+      "evidence": [
+        {
+          "chip": "AIM",
+          "url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+          "id": "6041acbe9a03",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/6041acbe9a03.txt",
+          "headline": "CtrlS targets 4.4 GW data centre capacity by 2030",
+          "claim": "CtrlS is targeting 4.4 GW of capacity by 2030 and recently announced a ₹10,000 crore, 150 MW AI factory in Bodh Gaya, Bihar, plus a ₹400 crore, 12 MW Patna data centre.",
+          "quote": "CtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities",
+          "published": "2026-11-16",
+          "context": "es.\n\nThe company is investing ₹10,000 crore in Bihar for an AI factory and a ₹400 crore data centre in Patna.\n\nCtrlS plans to build over 20 edge data centres to enhance digital infrastructure in smaller cities with better fibre connectivity.\n\nInvestor interest in CtrlS is driven by its focus on hyperscale campuses and modular designs for high-capacity power.\n\nThe growing demand for AI and cloud services is prompting data centre operators to expand and rethink their locations.\n\nTakeaways drafted with AI from the article text.\n\nIndia’s growing demand for AI computing, cloud services, and digital infrastructure is pushing data centre operators to expand capacity and rethink where they build. \n\nCtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities\n\nIt recently announced a ₹10,000 crore investment in Bihar to set up a 150 MW AI factory in Bodh Gaya, while expanding its presence in the state with a ₹400 crore data centre in Patna. CtrlS’s Patna data centre currently has 12 MW of IT capacity, with scope to scale up as demand increases.\n\nIn an exclusive interview with AIM, Rahul Dhar, President of Global Data Centre Operations, Enterprise Colo Delivery, Programme Management and Energy R&D at CtrlS Datacentres, says the strategy is to bring infrastructure closer to customers, particularly content-based businesses that need to serve users in smaller cities. \n\nDhar says the new facility would support demand for digital infrastructure in Bih"
+        }
+      ]
+    },
+    {
+      "n": 33,
+      "line": 77,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Humyn Labs collects its robot training data across over 20 countries, with India among its main hubs, and has 51 full-time employees, most in Bengaluru [TechCrunch](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "id": "55dde3921be9",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/55dde3921be9.txt",
+          "headline": "Humyn Labs raises $47M Series A led by Accel",
+          "claim": "India's Humyn Labs raised $47 million in Series A financing: $26 million equity led by Accel plus $21 million venture debt led by Lighthouse Canton.",
+          "quote": "The funding comprises $26 million in equity led by Accel",
+          "published": "2026-11-18",
+          "context": "nment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Humyn Labs\n\nAI\n\nIndia’s Humyn Labs raises $47M to feed US robotics companies the data they need\n\nJagmeet Singh\n\n3:30 AM PST · November 18, 2026\n\nAs demand grows for real-world data to train robots, India’s Humyn Labs has raised $47 million in Series A financing to help U.S. AI and robotics companies build models that can operate in physical environments.\n\nThe funding comprises $26 million in equity led by Accel, with participation from Prosus Ventures, BeeGlobal, Bajaj Finance’s Finserv Intelligence and Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton, and Jump Trading. It also includes $21 million in venture debt led by Lighthouse Canton, with participation from Trifecta Capital.\n\nCompanies around the world are trying to build robots capable of performing everyday human tasks, but getting enough quality data to train them remains difficult. Startups, including Mecka AI, XDOF, and MicroAGI, are already tackling the problem by collecting real-world data for robotics training. Bengaluru-based Humyn Labs aims to compete with them.\n\nHumyn Labs has developed its own two-camer"
+        }
+      ]
+    },
+    {
+      "n": 34,
+      "line": 77,
+      "section": "AI in the wild in India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "Disseqt has partnered with Infosys, Cognizant, HCLTech, Mphasis and Tata Technologies as global system integrators to deploy its platform for their enterprise clients [Inc42](https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/).",
+      "evidence": [
+        {
+          "chip": "Inc42",
+          "url": "https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/",
+          "id": "2773c380ad92",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/2773c380ad92.txt",
+          "headline": "Disseqt AI raises $8M led by Gresham House Ventures",
+          "claim": "Disseqt AI, which builds AI agents for AI governance and testing, raised $8 Mn (about ₹75 Cr) led by Gresham House Ventures; cricketer Rahul Dravid participated as an angel.",
+          "quote": "Disseqt AI raised $8 Mn in a funding round led by Gresham House Ventures",
+          "published": "2026-11-19",
+          "context": " 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, marketplaces and finance.\n\nview\n\nBRANDLABS\n\nABOUT\n\nFOLLOW INC42\n\nAI Startup Disseqt AI Raises $8 Mn To Scale International Operations\n\nSHARE\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on LinkedIn\n\nShare on Email\n\nCopy Link\n\nShare story\n\n[mashshare networks=\"facebook,twitter,linkedin\" services=\"3\"]\n\nNews\n\nAI Startup Disseqt AI Raises $8 Mn To Scale International Operations\n\n19 Nov'26\n| By Gaurav Bagur\n\nSUMMARY\n\nDisseqt AI raised $8 Mn in a funding round led by Gresham House Ventures, with Sure Valley Ventures, Delta Partners, Enterprise Ireland, and Rahul Dravid also participating\n\nThe company plans to use the fresh capital to expand its global enterprise customer base and scale operations across the UK and international markets\n\nWhile headquartered in Ireland, Disseqt’s engineering and AI teams are based in Bengaluru, and it has a significant presence in India\n\nFOLLOW US\n\nFOLLOW US\n\nAdded to Saved Stories in Login\n\nVIEW SAVED STORIES\n\nDisseqt AI, which builds AI agents for AI governance and testing, has raised $8 Mn (about ₹75 Cr) in a funding round led by Gresham House Ventures. Sure Valley Ventures, Delta Partners, and Enterprise Ireland also participated in the rou"
+        }
+      ]
+    },
+    {
+      "n": 35,
+      "line": 83,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**CERN Summer Student Programme 2027** - for Bachelor's or Master's students in Physics, Engineering, Computer Science or Mathematics with at least 6 semesters completed by the start of summer, deadline not stated on the page, so check the listing soon [CERN](https://careers.cern/programmes/summer-studentship/).",
+      "evidence": [
+        {
+          "chip": "CERN",
+          "url": "https://careers.cern/programmes/summer-studentship/",
+          "id": "ec0fdd5023f0",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/ec0fdd5023f0.txt",
+          "headline": "CERN lists Summer Student Programme 2027 positions",
+          "claim": "CERN's careers page lists Summer Student Programme 2027 and openlab 2027 two-month onsite contracts; applicants must have completed at least 6 semesters of full-time study by the start of summer.",
+          "quote": "you are pursuing a Bachelor’s or Master’s degree (not a PhD) in Physics, Engineering, Computer Science or Mathematics",
+          "published": null,
+          "context": "ysics lecture programme, and the possibility to attend a series of IT lectures.\n\nA 94 CHF per calendar day net subsistence allowance\n\nCoverage by CERN’s comprehensive Health Insurance scheme (contribution already deducted from allowance).\n\nDepending on your individual circumstances: travel expenses to and/or from Geneva.\n\nA contract of association of 8 to 13 weeks to work on a scientific or technical project.\n\nAssistance to find accommodation on the CERN site or nearby.\n\nWhere Science Meets Summer: Dive into Discovery at CERN\n\nHere is a sneak peek of the eligibility criteria and recruitment process\n\nEligibility Criteria\n\nEducational background and student status\n\nBy the start of the summer, you are pursuing a Bachelor’s or Master’s degree (not a PhD) in Physics, Engineering, Computer Science or Mathematics and have completed at least 6 semesters of full-time university studies in one of these fields.\n\nYou remain enrolled as a full-time student for the duration of the summer studentship.\n\nPrevious CERN experience\n\nYou have not worked at CERN for more than 3 months under any other status, and you have not previously participated in the Summer Student Programme at CERN.\n\nLanguage skills\n\nYou have a good knowledge of English.\n\nRecruitment process for this programme\n\nSubmit application\n\nApply with your CV (in English or French) and complete the online application before the deadline.\n\nAdd an academic reference letter, enrolment certificate and your official transcripts.\n\nApplication review and int"
+        }
+      ]
+    },
+    {
+      "n": 36,
+      "line": 84,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**What CERN pays** - the page lists a 94 CHF per calendar day net subsistence allowance, health insurance and a contract of 8 to 13 weeks, and asks for a CV, academic reference letter, enrolment certificate and transcripts [CERN careers](https://careers.cern/programmes/summer-studentship/).",
+      "evidence": [
+        {
+          "chip": "CERN careers",
+          "url": "https://careers.cern/programmes/summer-studentship/",
+          "id": "ec0fdd5023f0",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/ec0fdd5023f0.txt",
+          "headline": "CERN lists Summer Student Programme 2027 positions",
+          "claim": "CERN's careers page lists Summer Student Programme 2027 and openlab 2027 two-month onsite contracts; applicants must have completed at least 6 semesters of full-time study by the start of summer.",
+          "quote": "you are pursuing a Bachelor’s or Master’s degree (not a PhD) in Physics, Engineering, Computer Science or Mathematics",
+          "published": null,
+          "context": "ysics lecture programme, and the possibility to attend a series of IT lectures.\n\nA 94 CHF per calendar day net subsistence allowance\n\nCoverage by CERN’s comprehensive Health Insurance scheme (contribution already deducted from allowance).\n\nDepending on your individual circumstances: travel expenses to and/or from Geneva.\n\nA contract of association of 8 to 13 weeks to work on a scientific or technical project.\n\nAssistance to find accommodation on the CERN site or nearby.\n\nWhere Science Meets Summer: Dive into Discovery at CERN\n\nHere is a sneak peek of the eligibility criteria and recruitment process\n\nEligibility Criteria\n\nEducational background and student status\n\nBy the start of the summer, you are pursuing a Bachelor’s or Master’s degree (not a PhD) in Physics, Engineering, Computer Science or Mathematics and have completed at least 6 semesters of full-time university studies in one of these fields.\n\nYou remain enrolled as a full-time student for the duration of the summer studentship.\n\nPrevious CERN experience\n\nYou have not worked at CERN for more than 3 months under any other status, and you have not previously participated in the Summer Student Programme at CERN.\n\nLanguage skills\n\nYou have a good knowledge of English.\n\nRecruitment process for this programme\n\nSubmit application\n\nApply with your CV (in English or French) and complete the online application before the deadline.\n\nAdd an academic reference letter, enrolment certificate and your official transcripts.\n\nApplication review and int"
+        }
+      ]
+    },
+    {
+      "n": 37,
+      "line": 85,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**ChatGPT for Academic Researchers, India** - for research faculty and postdocs with an arXiv, bioRxiv or ChemRxiv paper from the past three years, applications open Monday, November 30, first-come, first-served [Digital Terminal](https://digitalterminal.in/ai/openai-offers-free-chatgpt-plus-access-to-indian-researchers-under-global-initiative).",
+      "evidence": [
+        {
+          "chip": "Digital Terminal",
+          "url": "https://digitalterminal.in/ai/openai-offers-free-chatgpt-plus-access-to-indian-researchers-under-global-initiative",
+          "id": "597e87224043",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/597e87224043.txt",
+          "headline": "OpenAI brings free ChatGPT Plus for researchers to India",
+          "claim": "OpenAI's researcher programme extends to India; applications open Monday, November 30, with 50,000 new grants globally, each giving three ChatGPT Plus seats free for 12 months.",
+          "quote": "New grants provide three ChatGPT Plus seats in a research workspace, free for 12 months, covering the recipient and up to two collaborators.",
+          "published": "2026-11-18",
+          "context": "l announced when the pilot launched in July.\n\nNDM News Network\n\nPublished on: \n18 Nov 2026, 5:46 am\n\n2 min read\n\nCopied\n\nOpenAI has announced the availability of its ChatGPT for Academic Researchers initiative in India, to help researchers use advanced AI tools in their scientific work. The programme supports eligible research faculty and postdoctoral researchers at selected institutions as they explore ideas, analyse evidence, and pursue complex questions across science, mathematics, and engineering.\n\nThe India expansion is part of a broader global round offering 50,000 new grants to eligible researchers on a first-come, first-served basis, with applications opening on Monday, November 30. New grants provide three ChatGPT Plus seats in a research workspace, free for 12 months, covering the recipient and up to two collaborators. OpenAI’s goal is to provide free access to ChatGPT to up to 200,000 researchers worldwide, double the goal announced when the pilot launched in July. \n\n“India’s universities and research institutions are home to people asking important questions across science and engineering. Since the launch of the pilot a few months ago, Indian institutions have demonstrated one of the highest levels of interest to access ChatGPT for Academic Researchers,” said Raghav Gupta, Head of Education, India and Asia Pacific, OpenAI. “Our work in education has focused on combining access with skills, institutional partnerships, and research. This initiative builds on that commitment to equip the people creating n"
+        }
+      ]
+    },
+    {
+      "n": 38,
+      "line": 86,
+      "section": "Opportunities: open now",
+      "kind": "li",
+      "opinion": false,
+      "sentence": "**What the grant gives** - three ChatGPT Plus seats in a research workspace, free for 12 months, covering the recipient and up to two collaborators, from 50,000 new grants globally [Digital Terminal](https://digitalterminal.in/ai/openai-offers-free-chatgpt-plus-access-to-indian-researchers-under-global-initiative).",
+      "evidence": [
+        {
+          "chip": "Digital Terminal",
+          "url": "https://digitalterminal.in/ai/openai-offers-free-chatgpt-plus-access-to-indian-researchers-under-global-initiative",
+          "id": "597e87224043",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/597e87224043.txt",
+          "headline": "OpenAI brings free ChatGPT Plus for researchers to India",
+          "claim": "OpenAI's researcher programme extends to India; applications open Monday, November 30, with 50,000 new grants globally, each giving three ChatGPT Plus seats free for 12 months.",
+          "quote": "New grants provide three ChatGPT Plus seats in a research workspace, free for 12 months, covering the recipient and up to two collaborators.",
+          "published": "2026-11-18",
+          "context": "l announced when the pilot launched in July.\n\nNDM News Network\n\nPublished on: \n18 Nov 2026, 5:46 am\n\n2 min read\n\nCopied\n\nOpenAI has announced the availability of its ChatGPT for Academic Researchers initiative in India, to help researchers use advanced AI tools in their scientific work. The programme supports eligible research faculty and postdoctoral researchers at selected institutions as they explore ideas, analyse evidence, and pursue complex questions across science, mathematics, and engineering.\n\nThe India expansion is part of a broader global round offering 50,000 new grants to eligible researchers on a first-come, first-served basis, with applications opening on Monday, November 30. New grants provide three ChatGPT Plus seats in a research workspace, free for 12 months, covering the recipient and up to two collaborators. OpenAI’s goal is to provide free access to ChatGPT to up to 200,000 researchers worldwide, double the goal announced when the pilot launched in July. \n\n“India’s universities and research institutions are home to people asking important questions across science and engineering. Since the launch of the pilot a few months ago, Indian institutions have demonstrated one of the highest levels of interest to access ChatGPT for Academic Researchers,” said Raghav Gupta, Head of Education, India and Asia Pacific, OpenAI. “Our work in education has focused on combining access with skills, institutional partnerships, and research. This initiative builds on that commitment to equip the people creating n"
+        }
+      ]
+    },
+    {
+      "n": 39,
+      "line": 92,
+      "section": "Ideas for India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "**A Samvaad-style eval harness for your own agent.** Sarvam's Samvaad bench has 338 next-turn evaluations in English and 12 Indian languages, often code-mixed, mostly from loan collection and loan sales [Sarvam](https://www.sarvam.ai/blogs/sarvam-105b-1711).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+          "id": "76ba398d1d47",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/76ba398d1d47.txt",
+          "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+          "claim": "Sarvam released Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on B200 infrastructure; its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release, and blended price fell by two-thirds from $0.44.",
+          "quote": "its average across eight conversational agent benchmarks rose from 42.6 to 73.9",
+          "published": "2026-11-22",
+          "context": "ore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nBlog\n\n/\n\nAnnouncement\n\nIntroducing Sarvam-105B-1711\n\nNov 22, 202618 min read\nShare\n\nNov 22, 2026·18 min read\nShare\n\nToday, we're releasing Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B, trained on our upgraded B200 infrastructure. It is a Flash-Lite model built for high-volume work such as customer support, voice agents and agentic tasks. Compared with our February release, it follows instructions more reliably across long conversations, calls tools more accurately and handles Indian languages far better, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9. Our inference optimisations have also cut its blended price by two-thirds, from $0.44 to $0.15 per million tokens. The weights are on Hugging Face in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU.\n\nIt matches Gemini 3.5 Flash-Lite and Gemma 4 31B at a fraction of their price. Across the eight conversational agent benchmarks, Sarvam-105B-1711 averages 73.9 at a blended $0.15 per million tokens. Gemini 3.5 Flash-Lite averages 74.0 at $0.85, more than five times the price, and Gemma 4 31B averages 73.0 at $0.54, more than three times the price.\n\nThe largest gains since February are on conversational agentic skills. Instruction following rose from 32.5 to 82.5 on IFBench"
+        }
+      ]
+    },
+    {
+      "n": 40,
+      "line": 96,
+      "section": "Ideas for India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "**A rupee cost router across India-hosted endpoints.** Token Factory prices in rupees per million tokens with separate Interactive and Standard endpoints for DeepSeek V4.1 Flash [Sarvam](https://www.sarvam.ai/blogs/sarvam-token-factory), and E2E Networks' Blaze serves overlapping open models through a single API [Business Standard](https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html).",
+      "evidence": [
+        {
+          "chip": "Sarvam",
+          "url": "https://www.sarvam.ai/blogs/sarvam-token-factory",
+          "id": "0008cd326877",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/0008cd326877.txt",
+          "headline": "Sarvam launches Token Factory inference platform in India",
+          "claim": "Sarvam launched Token Factory on 16 Nov 2026, an inference stack serving its own and leading open-weight models from GPU clusters located in India.",
+          "quote": "Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India.",
+          "published": "2026-11-16",
+          "context": "Introducing Sarvam Token Factory | Sarvam AI\n\nAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nAccess leading open models, served on Sarvam's own inference stack.Explore Token FactoryAccess leading open models, served on Sarvam's own inference stack.Explore Token Factory\n\nProductsDevelopersResourcesCompany\n\nLog InContact Us\n\nLog In\n\nIntroducing\nSarvam Token Factory\n\nNov 16, 202611 min read\nShare\n\nNov 16, 2026·11 min read\nShare\n\nToday, we are launching Sarvam Token Factory for everyone. Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India. On most of the models we serve, we match or beat the leading inference providers globally on both speed and cost.\n\nAlong with Sarvam 105B, we serve GLM 5.3, GLM 5.3 Flash, DeepSeek V4.1 Flash 1017, DeepSeek V4 Pro, Kimi K3.1 Pro and Gemma 4 31B through one OpenAI-compatible API. See the full model catalogue.\n\nSarvam Token Factory at a glance\n\nCost: We offer globally competitive pricing on every model we serve. DeepSeek V4.1 Flash launches with introductory pricing of ₹14 per million input tokens and ₹55 per million output tokens.\n\nPerformance: Sarvam 105B brings together all our inference optimisations to deliver best-in-class performance for conversation at the lowest cost, returning its f"
+        },
+        {
+          "chip": "Business Standard",
+          "url": "https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html",
+          "id": "95abb25cb956",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/95abb25cb956.txt",
+          "headline": "Sarvam says Token Factory uses no subsidised GPUs amid Chinese-model row",
+          "claim": "After criticism over hosting Chinese models on Token Factory, Sarvam said the platform runs on privately procured GPUs and that its IndiaAI Mission subsidised access ended in March 2026.",
+          "quote": "The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026.",
+          "published": "2026-11-20",
+          "context": "es. It is therefore broader than data localisation or the nationality of a model developer.\n\n \nSarvam’s role in India’s AI ecosystem has intensified the debate. It was selected under the IndiaAI Mission, which seeks to strengthen domestic AI capabilities, including indigenous foundation models, and received subsidised computing resources to train its own models. This has raised questions about whether government support for developing homegrown AI was also benefiting a commercial platform offering access to Chinese AI models.\n \nSarvam said its Token Factory does not use government-subsidised GPUs. Co-founder Pratyush Kumar told Moneycontrol that the platform runs on privately procured GPUs. The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026. It maintains that developing its own models remains its core mission, while offering other models generates revenue.\n\n \nAccording to the report, Sarvam argues that model development is expensive and inference can generate revenue from computing infrastructure. It says Indian businesses should be able to use global models through a domestic provider, with local infrastructure and rupee pricing. Global cloud providers such as Amazon Web Services also offer businesses access to AI models developed by other companies through platforms such as Amazon Bedrock.\n \nData sovereignty is another concern. Sarvam says Token Factory runs AI models on its GPU infrastructure in India and does not send custo"
+        }
+      ]
+    },
+    {
+      "n": 41,
+      "line": 100,
+      "section": "Ideas for India",
+      "kind": "para",
+      "opinion": false,
+      "sentence": "**Consent tooling for physical-AI data.** TechCrunch notes that recording people inside their homes for robot training data has raised questions about privacy and consent [TechCrunch](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/).",
+      "evidence": [
+        {
+          "chip": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "id": "55dde3921be9",
+          "in_verified": true,
+          "tier": "A",
+          "page_file": "pages/55dde3921be9.txt",
+          "headline": "Humyn Labs raises $47M Series A led by Accel",
+          "claim": "India's Humyn Labs raised $47 million in Series A financing: $26 million equity led by Accel plus $21 million venture debt led by Lighthouse Canton.",
+          "quote": "The funding comprises $26 million in equity led by Accel",
+          "published": "2026-11-18",
+          "context": "nment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\nMore from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage Credits:Humyn Labs\n\nAI\n\nIndia’s Humyn Labs raises $47M to feed US robotics companies the data they need\n\nJagmeet Singh\n\n3:30 AM PST · November 18, 2026\n\nAs demand grows for real-world data to train robots, India’s Humyn Labs has raised $47 million in Series A financing to help U.S. AI and robotics companies build models that can operate in physical environments.\n\nThe funding comprises $26 million in equity led by Accel, with participation from Prosus Ventures, BeeGlobal, Bajaj Finance’s Finserv Intelligence and Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton, and Jump Trading. It also includes $21 million in venture debt led by Lighthouse Canton, with participation from Trifecta Capital.\n\nCompanies around the world are trying to build robots capable of performing everyday human tasks, but getting enough quality data to train them remains difficult. Startups, including Mecka AI, XDOF, and MicroAGI, are already tackling the problem by collecting real-world data for robotics training. Bengaluru-based Humyn Labs aims to compete with them.\n\nHumyn Labs has developed its own two-camer"
+        }
+      ]
+    }
+  ],
+  "unlinked": [
+    {
+      "line": 3,
+      "section": "If you only read three things",
+      "sentence": "If you are building an Indic voice or support agent, it is worth testing at that price."
+    },
+    {
+      "line": 4,
+      "section": "If you only read three things",
+      "sentence": "That gives you a rupee-priced, India-hosted endpoint for side projects that touch user data."
+    },
+    {
+      "line": 5,
+      "section": "If you only read three things",
+      "sentence": "Data pipelines for physical AI are a real business in India now."
+    },
+    {
+      "line": 9,
+      "section": "Sarvam and the Indian labs",
+      "sentence": "Sarvam had the week."
+    },
+    {
+      "line": 13,
+      "section": "Sarvam and the Indian labs",
+      "sentence": "The gains since the February release are on exactly the skills a chat agent needs."
+    },
+    {
+      "line": 15,
+      "section": "Sarvam and the Indian labs",
+      "sentence": "These are Sarvam's own evaluations on its own setup, so treat the leaderboard as a claim to test."
+    },
+    {
+      "line": 31,
+      "section": "Government, compute and policy",
+      "sentence": "The sharpest policy argument of the week was about who Indian public compute is for."
+    },
+    {
+      "line": 43,
+      "section": "Government, compute and policy",
+      "sentence": "The bottleneck CtrlS names is power."
+    },
+    {
+      "line": 51,
+      "section": "Startups and money",
+      "sentence": "One of the week's biggest India AI cheques went to robot training data."
+    },
+    {
+      "line": 71,
+      "section": "AI in the wild in India",
+      "sentence": "Real deployments showed up in the funding pages more than in press releases."
+    },
+    {
+      "line": 92,
+      "section": "Ideas for India",
+      "sentence": "Every NBFC and fintech running a voice bot needs the same thing for its own scripts."
+    },
+    {
+      "line": 96,
+      "section": "Ideas for India",
+      "sentence": "Startups with data-residency needs have to pick between them by hand."
+    },
+    {
+      "line": 100,
+      "section": "Ideas for India",
+      "sentence": "Collectors selling to US labs will need consent records that survive a buyer's audit."
+    }
+  ],
+  "how_to_answer": "Write factcheck-<edition>.json as {\"verdicts\": [{\"n\": N, \"verdict\": \"pass|fix|reject\", \"reason\": \"...\", \"replacement\": \"full corrected sentence incl. its chips (fix only)\"}]}. pass = every name, number, date and causal claim in the sentence is supported by the saved page(s); fix = supportable with a correction; reject = not supported by the cited page."
+}

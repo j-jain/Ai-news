@@ -1,0 +1,28 @@
+[
+  {
+    "beat": "frontier-labs",
+    "edition": "world",
+    "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+    "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+    "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+    "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+    "why_it_matters": "Cheaper flagship API tokens lower the cost of agent and coding projects; Sol at $2/$10 per million tokens suits student budgets.",
+    "published": "2026-11-18",
+    "published_evidence": "meta article:published_time",
+    "source_type": "press",
+    "source_name": "SiliconReport",
+    "significance": 4,
+    "secondary_urls": [
+      "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "https://www.digitaltrends.com/computing/openai-gpt-6-2-astra-sol-launch/"
+    ],
+    "follow_up_of": null,
+    "opportunity": null,
+    "id": "46b42a1df925",
+    "fetch_tier": "A",
+    "page_file": "pages/46b42a1df925.txt",
+    "quote_verified": "script",
+    "verify_note": "",
+    "title": "OpenAI releases GPT-6.2 Astra and Sol, cutting Astra API rates 20%"
+  }
+]

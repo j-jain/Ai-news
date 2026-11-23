@@ -1,0 +1,104 @@
+---
+layout: issue
+title: "World: Anthropic's record IPO, GPT-6.2 price drop and a 20GB Inkling"
+edition: world
+week: "2026-W47"
+date: 2026-11-23
+window: "2026-11-16 to 2026-11-22"
+summary: "Anthropic lists at $83 a share, OpenAI lowers Astra API prices, Inkling 2 Mini ships open weights, and NAND prices start to turn."
+sources_fetched: 0
+items_dropped: 0
+---
+## If you only read three things
+
+- **Anthropic's IPO is the largest ever** Anthropic priced at $83 a share and sold 980 million shares for $81.3 billion, beating SpaceX's $75 billion record, according to [TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/). The company behind Claude now files public numbers, which makes AI spending and hiring easier to track from a hostel room.
+- **OpenAI's flagship API got 20% cheaper** GPT-6.2 Astra now costs $8 per million uncached input tokens and $40 per million output tokens, while GPT-6.2 Sol stays at $2 and $10 [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20). Cheaper tokens stretch a student project budget further, if the model behaves.
+- **A 1M-context open model for laptops** Thinking Machines put Inkling 2 Mini on Hugging Face with 26.4B parameters, 3.4B active, an Apache 2.0 licence and a checkpoint of about 20GB [Inkling model card](https://huggingface.co/thinkingmachines/Inkling-2-Mini). It is one of the few releases this week you can actually run yourself.
+
+## Frontier labs
+
+OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on 17 Nov, bringing both to ChatGPT Work and Codex and lowering Astra's standard API rates by 20% [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20). Astra is the flagship for spreadsheets, legal research and codebase changes, and Sol is the cheaper model for routine coding and multistep writing, and both have a 1.05 million-token context window and up to 128,000 output tokens, per [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20)'s account.
+
+The fine print matters for anyone building agents. Requests above 272,000 input tokens double the input and cache rates and apply a 1.5-times multiplier to output, which lifts long-context Astra calls to $16 input and $60 output per million tokens [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20). On the API, the Ultrafast tier starts at triple standard rates and rises to six times on 1 Mar 2027, per the same [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20) piece, and the API identifiers are gpt-6.2-astra and gpt-6.2-sol.
+
+The benchmarks are mixed. Artificial Analysis scored Astra 62 out of 100 on its Intelligence Index, behind Anthropic's Claude Fable 5.2 at 65, and found flat coding-agent performance for Astra and a drop for Sol, according to [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20). OpenAI says Astra is its first externally released model to reach the High threshold for AI self-improvement, and both models meet its Critical cybersecurity threshold.
+
+Early testers were blunt. "The worst model OpenAI has ever released", developer Theo Browne said of 6.2 Astra, as quoted by [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20). Browne still credited Astra with catching code-review issues other models missed, but said he preferred Claude Opus 5.5 for his development work.
+
+Rivals have matched the prices. Anthropic launched Claude Fable 5.2 and Mythos 5.2 at the same $8 input and $40 output rates, and Google offers Gemini 4 Carbon at introductory rates equal to Sol's $2 and $10 [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).
+
+**My read:** Three labs now charge the same for their top tier, so pick on behaviour in your own repo, not on the rate card. Run Sol on your boring tasks first and only pay for Astra where Sol visibly fails.
+
+## Open and local models
+
+Inkling 2 Mini is the release to try this week. Its card describes a 24-layer decoder where the middle 12 layers run three times with shared weights, giving 5.4B effective active parameters per token, a context window of up to 1M tokens and text-plus-image input [Inkling model card](https://huggingface.co/thinkingmachines/Inkling-2-Mini). The card lists support for one NVIDIA DGX Spark, Apple silicon with 32GB or more memory, and other GPUs with 32GB or more of VRAM recommended. It also warns that the model is more likely than larger models to state incorrect information with confidence.
+
+Unsloth published GGUF quantisations, with files from 7.76 GB for UD-IQ1_S up to 22.87 GB for UD-Q8_K_XL, and the same top token as the Q8 reference 97.9% of the time at UD-Q4_K_M [Unsloth GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF). The repo gives one-line runs for llama.cpp, Ollama and Docker Model Runner, and also lists LM Studio among its local apps.
+
+Tencent published Hy4-flash weights: 220B total parameters including 64B Engram parameters, 12B active per token, text and image input and up to 1M tokens of context [Tencent model card](https://huggingface.co/tencent/Hy4-flash). The licence is the Tencent Hy License, not a standard open licence, so read it before you ship anything on it.
+
+Sarvam released Sarvam-105B-1711, an open-weight checkpoint whose blended price fell from $0.44 to $0.15 per million tokens, with weights in BF16 and a 65 GB NVFP4 version that runs on a single workstation GPU [Sarvam](https://www.sarvam.ai/blogs/sarvam-105b-1711). That is a workstation model, not a laptop one.
+
+| Fits in | Model | What the card says |
+|---|---|---|
+| 16 GB | Inkling 2 Mini UD-IQ3_XXS | 11.66 GB file, 94.7% same top token as Q8 [Unsloth GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) |
+| 24 GB | Inkling 2 Mini UD-Q4_K_M | 16.61 GB file, 97.9% same top token as Q8 [Unsloth GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) |
+| 32 GB | Inkling 2 Mini full checkpoint | about 20GB, NVFP4 and MXFP8, Apple silicon with 32GB or more [Inkling model card](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
+
+**My read:** The tiers are my judgement from the file sizes on the cards; leave a few GB for context, and do not expect the full 1M-token window on a laptop.
+
+## Hardware and prices
+
+TrendForce forecasts NAND flash contract prices falling 0-5 percent quarter on quarter in early 2027, with all product categories in a downturn from the second quarter, as Chinese cloud operators cut enterprise SSD orders [The Register](https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116). The firm expects global NAND output, measured in capacity, to grow by 25 to 30 percent in 2027. Cheaper NAND would not fix the separate DRAM squeeze, which has already raised PC prices in Europe by double-digit percentages, the same [Register](https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116) report adds.
+
+The turn is already visible in the spot market. TrendForce lowered its forecast for 4Q26 NAND contract price increases to 8-13%, and spot prices have recently fallen by more than 20% as distributors clear inventory [Evertiq](https://evertiq.com/news/2026-11-19-nand-flash-prices-set-to-fall-in-2027-as-chinese-cloud-firms-cut-orders). TrendForce also expects industry capital expenditure to rise 26.7% to USD 29.9 billion in 2027, and brands to cut storage capacity in devices to keep costs down.
+
+At the top end, Nvidia says it ramped production and began shipping Vera Rubin NVL72, with racks running at CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius [Nvidia](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/). It also introduced Rubin HPC, a GPU in the Vera Rubin platform aimed at simulation and data processing.
+
+**My read:** If you need an SSD, waiting a quarter looks sensible; if you need more RAM, nothing here says waiting helps.
+
+## People and money
+
+Anthropic priced its IPO at $83 per share, above its $70 to $78 range, valuing it at roughly $1.5 trillion on a fully diluted basis [TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/). Amazon owns nearly 15% and Google almost 14%, and a group including AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC Partners agreed to buy $26 billion of non-voting shares in a private placement. Each of the seven co-founders sold nearly 3.4 million shares, about $282 million each, per the S-1 cited by [TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/).
+
+The stock opened on Nasdaq at $111.50 on 19 Nov and closed at $97.17, more than 17 percent above the IPO price [Boston Globe](https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/). The paper notes Anthropic has $6.2 billion in debt and signed deals requiring it to spend $900 billion on computing power and infrastructure in the coming years, including $70 billion in the next 12 months. "The pricing shows strong demand among investors", analyst Dan Ives told the [Globe](https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/).
+
+Nvidia reported third-quarter revenue of $115.8 billion, up 103% from a year ago, with Data Center revenue of $107.6 billion [Nvidia](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/). It guided to $130.0 billion, plus or minus 3%, for the fourth quarter, assuming no Data Center compute revenue from China. "Our momentum is real", said Colette Kress, interim CEO and CFO, in the [Nvidia](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/) release.
+
+In Europe, London-based Plural raised €1bn ($1.1bn), about two-thirds for its third early-stage fund and the rest for an opportunities fund, to back start-ups in energy, AI infrastructure, defence and health [TNW](https://thenextweb.com/news/plural-1bn-fund-european-frontier-startups). Partner Sten Tamkivi said Fund III should make 25 to 35 investments with six partners.
+
+**My read:** A public Anthropic with $70 billion of compute bills due in a year will be hiring for anything that makes inference cheaper. That is a useful compass for which skills to build before internship season.
+
+## Research worth knowing
+
+Sarvam's 105B update is a clean result on consistency: the model solves 69.5% of Tau2 customer-service tasks in all four of four tries, against 63.9% for Gemini 3.5 Flash-Lite and 62.1% for Gemma 4 31B [Sarvam](https://www.sarvam.ai/blogs/sarvam-105b-1711). Training in 8-bit precision raised pretraining throughput from 5,500 to 10,900 tokens per second per GPU, and its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release.
+
+Tencent reports that Hy4-flash's mix of hybrid attention, LatentMoE and n-gram embeddings cuts its KV cache to 1/24 of Hy3 and 1/6 of Hy4, and that reinforcement learning cut average end-to-end output tokens by 50% [Tencent model card](https://huggingface.co/tencent/Hy4-flash). In a blind test with 85 internal users, it scored 2.79/4 for satisfaction against 2.81/4 for Claude Haiku 5.5.
+
+Inkling 2 Mini shows the looped-layer trick in an open model: each extra pass through the shared middle layers adds about 1.0B effective active parameters without adding weights [Inkling model card](https://huggingface.co/thinkingmachines/Inkling-2-Mini). Its own card says safety testing for agentic capability, strategic deception and sabotage found it materially below frontier capabilities.
+
+## Policy and safety
+
+The UK AI Security Institute has no legal power to compel labs to share models, and a commentary in [Tech Policy Press](https://techpolicy.press/britains-ai-assurance-approach-needs-a-second-act) cites Politico reporting that the White House asked labs to withhold new models from AISI until US reviews finished. Access was restored after 17 days, and the piece argues AISI's open-source Inspect evaluation framework could become an industry standard.
+
+In the US, a Faegre Drinker briefing says new governors and ballot measures are likely to bring more state and local regulation and longer data centre timelines, with Texas a key state to watch [Faegre Drinker](https://www.faegredrinker.com/zh/insights/publications/2026/11/how-the-midterm-results-could-reshape-ai-and-data-center-regulations-and-more-developments). The same briefing says Anthropic privately pitched members of Congress a draft frontier AI safety bill that would have independent evaluators register with the Department of Commerce.
+
+On the lab side, OpenAI's Astra and Sol both meet its Critical cybersecurity threshold, which triggers oversight through an internal monitoring system called Control Room [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).
+
+## Try this week
+
+- **Inkling 2 Mini on your laptop** - install llama.cpp, then run `llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M` for a local OpenAI-compatible server with a web UI [Unsloth GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF).
+- **Sandbox your coding agent** - run one of three sandbox servers (v86, Apple Containers or Quicksand), each with the same localhost API, and point Pi, Claude Code or Codex at it, with an optional allow-list proxy for outbound hosts [Simon Willison](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/).
+- **Price-test GPT-6.2 Sol** - call `gpt-6.2-sol` at $2 input and $10 output per million tokens, and keep prompts under 272,000 input tokens to avoid the long-context surcharge [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).
+
+## White space
+
+Long agent runs still break: one early tester said Astra often stopped early on end-to-end software builds, and Theo Browne said it spent seven days on a TypeScript compiler rewrite in Rust that ended up 56% slower [SiliconReport](https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20).
+
+Small local models still bluff: the Inkling 2 Mini card says it has its largest gaps on factual recall and is more likely than larger models to state incorrect information with confidence [Inkling model card](https://huggingface.co/thinkingmachines/Inkling-2-Mini).
+
+**My read:** Nobody has a good harness that notices an agent going in circles for days and stops it, which is a project you could build on top of the sandbox pattern this semester. A cheap "is this fact grounded?" checker for local models is the other gap, and it fits on the same laptop.
+
+## Sources and verification
+
+This issue cites 113 pages fetched between 2026-11-16 and 2026-11-23; every link above opens the page its sentence came from. Dropped for lack of proof: 6 items - outside the window: Microsoft raising Indian cloud prices 15.7% (published 15 Nov, before the window). Already covered in an earlier week: Science Academies SRFP 2027, ETH Zurich summer research fellowship, Purdue SURF 2027, Scale AI Summer 2027 ML research intern role, and the Claude Code 30-day /loop changelog entry. Links that answered 403 or timed out when re-checked: none. Full logs: [verified.json](https://github.com/j-jain/Ai-news/blob/main/work/2026-W47/verified.json), [fact-check](https://github.com/j-jain/Ai-news/blob/main/work/2026-W47/factcheck-world.json), [dropped](https://github.com/j-jain/Ai-news/blob/main/work/2026-W47/dropped.json).

@@ -1,0 +1,844 @@
+{
+  "week": "2026-W47",
+  "window_start": "2026-11-16",
+  "window_end": "2026-11-22",
+  "generated_at": "2026-11-23T08:08:52+05:30",
+  "counts": {
+    "candidates": 30,
+    "verified": 24,
+    "dropped": 6,
+    "pages_fetched": 113,
+    "india": 11,
+    "world": 14,
+    "tier_b": 0,
+    "followups": 0
+  },
+  "items": [
+    {
+      "beat": "frontier-labs",
+      "edition": "world",
+      "headline": "OpenAI releases GPT-6.2 Astra and Sol, cuts Astra API prices 20%",
+      "url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+      "quote": "standard rates for Astra fell to $8 per million uncached input tokens and $40 per million output tokens, down 20% from GPT-6 Astra",
+      "claim": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Nov. 17, 2026; Astra's standard API rates fell to $8 per million uncached input tokens and $40 per million output tokens, 20% below GPT-6 Astra.",
+      "why_it_matters": "Cheaper flagship API tokens lower the cost of agent and coding projects; Sol at $2/$10 per million tokens suits student budgets.",
+      "published": "2026-11-18",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "SiliconReport",
+      "significance": 4,
+      "secondary_urls": [
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "https://www.digitaltrends.com/computing/openai-gpt-6-2-astra-sol-launch/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "46b42a1df925",
+      "fetch_tier": "A",
+      "page_file": "pages/46b42a1df925.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "OpenAI releases GPT-6.2 Astra and Sol, cutting Astra API rates 20%",
+      "is_followup": false,
+      "canonical_url": "https://www.siliconreport.com/openai-releases-gpt-6-2-astra-and-sol-cutting-astra-api-rates-20",
+      "story_key": "1642b95f5468",
+      "editions": [
+        "world"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "hardware-prices",
+      "edition": "world",
+      "headline": "TrendForce expects NAND contract prices to fall from 1Q27",
+      "url": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
+      "quote": "TrendForce forecasts overall NAND flash contract prices falling by 0-5 percent quarter on quarter in early 2027",
+      "claim": "TrendForce forecasts NAND flash contract prices to fall 0-5 percent QoQ in early 2027, with all product categories in a downturn from the second quarter, as Chinese cloud operators cut enterprise SSD orders.",
+      "why_it_matters": "SSD prices may ease in 2027, but TrendForce says cheaper flash won't fix the DRAM squeeze, so laptop RAM upgrades stay costly.",
+      "published": "2026-11-19",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "The Register",
+      "significance": 4,
+      "secondary_urls": [
+        "https://evertiq.com/news/2026-11-19-nand-flash-prices-set-to-fall-in-2027-as-chinese-cloud-firms-cut-orders"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "efb2e84d9f4a",
+      "quote_verified": "script",
+      "verify_note": "",
+      "fetch_tier": "A",
+      "page_file": "pages/efb2e84d9f4a.txt",
+      "title": "NAND prices tipped to fall as Chinese cloud giants cut SSD orders",
+      "is_followup": false,
+      "canonical_url": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
+      "story_key": "28a5974ea045",
+      "editions": [
+        "world"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "hardware-prices",
+      "edition": "world",
+      "headline": "NAND spot prices fell about 20% in two weeks",
+      "url": "https://evertiq.com/news/2026-11-19-nand-flash-prices-set-to-fall-in-2027-as-chinese-cloud-firms-cut-orders",
+      "quote": "TrendForce has lowered its forecast for contract price increases in the fourth quarter of 2026 to 8–13%",
+      "claim": "TrendForce cut its 4Q26 NAND contract price increase forecast to 8-13%, and spot prices have recently fallen by more than 20% as distributors clear inventory.",
+      "why_it_matters": "Spot SSD and flash costs are already softening, so waiting on an SSD purchase may pay off.",
+      "published": "2026-11-19",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "press",
+      "source_name": "Evertiq",
+      "significance": 3,
+      "secondary_urls": [
+        "https://techspot.com/news/114630-nand-flash-prices-fell-20-last-two-weeks.html"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "fc5aa03309b6",
+      "fetch_tier": "A",
+      "page_file": "pages/fc5aa03309b6.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "NAND flash prices set to fall in 2027 as Chinese cloud firms cut or...",
+      "is_followup": false,
+      "canonical_url": "https://evertiq.com/news/2026-11-19-nand-flash-prices-set-to-fall-in-2027-as-chinese-cloud-firms-cut-orders",
+      "story_key": "290eacdd2ddc",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "both",
+      "headline": "Sarvam releases open-weight Sarvam-105B-1711 checkpoint",
+      "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+      "quote": "its average across eight conversational agent benchmarks rose from 42.6 to 73.9",
+      "claim": "Sarvam released Sarvam-105B-1711, a new open-weight checkpoint of Sarvam 105B trained on B200 infrastructure; its average across eight conversational agent benchmarks rose from 42.6 to 73.9 versus the February release, and blended price fell by two-thirds from $0.44.",
+      "why_it_matters": "A stronger Indic-capable open-weight model you can self-host or call cheaply for voice and support agents.",
+      "published": "2026-11-22",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "primary",
+      "source_name": "Sarvam AI",
+      "significance": 4,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "76ba398d1d47",
+      "fetch_tier": "A",
+      "page_file": "pages/76ba398d1d47.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Sarvam-105B-1711: a new Sarvam 105B checkpoint | Sarvam AI",
+      "is_followup": false,
+      "canonical_url": "https://www.sarvam.ai/blogs/sarvam-105b-1711",
+      "story_key": "a34cba7e3443",
+      "editions": [
+        "india",
+        "world"
+      ],
+      "score": 5.0,
+      "used_in": [
+        "india",
+        "world"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "india",
+      "headline": "Sarvam launches Token Factory inference platform in India",
+      "url": "https://www.sarvam.ai/blogs/sarvam-token-factory",
+      "quote": "Token Factory is our inference stack to serve our own models and leading open-weight models from GPU clusters located in India.",
+      "claim": "Sarvam launched Token Factory on 16 Nov 2026, an inference stack serving its own and leading open-weight models from GPU clusters located in India.",
+      "why_it_matters": "An India-hosted API for open models gives builders lower latency and data-residency options.",
+      "published": "2026-11-16",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "primary",
+      "source_name": "Sarvam AI",
+      "significance": 4,
+      "secondary_urls": [
+        "https://analyticsindiamag.com/ai-features/sarvams-token-factory-sparks-indias-sovereign-ai-debate-again",
+        "https://yourstory.com/2026/11/sarvams-move-to-host-chinese-ai-models-triggers-debate"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "0008cd326877",
+      "fetch_tier": "A",
+      "page_file": "pages/0008cd326877.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Introducing Sarvam Token Factory | Sarvam AI",
+      "is_followup": false,
+      "canonical_url": "https://www.sarvam.ai/blogs/sarvam-token-factory",
+      "story_key": "06dace1971e2",
+      "editions": [
+        "india"
+      ],
+      "score": 5.0,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "india",
+      "headline": "Sarvam says Token Factory uses no subsidised GPUs amid Chinese-model row",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html",
+      "quote": "The company said its subsidised access under the IndiaAI Mission, used to train its own models, ended in March 2026.",
+      "claim": "After criticism over hosting Chinese models on Token Factory, Sarvam said the platform runs on privately procured GPUs and that its IndiaAI Mission subsidised access ended in March 2026.",
+      "why_it_matters": "Shows the sovereignty debate over who gets public compute and what startups may sell on top of open models.",
+      "published": "2026-11-20",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Business Standard",
+      "significance": 3,
+      "secondary_urls": [
+        "https://analyticsindiamag.com/ai-features/sarvams-token-factory-sparks-indias-sovereign-ai-debate-again"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "95abb25cb956",
+      "fetch_tier": "A",
+      "page_file": "pages/95abb25cb956.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Explained: Sarvam AI's Token Factory and debate over AI sovereignty goals | Artificial Intelligence News - Business Standard",
+      "is_followup": false,
+      "canonical_url": "https://www.business-standard.com/technology/artificial-intelligence/explained-sarvam-ai-s-token-factory-and-debate-over-ai-sovereignty-goals-126112000685_1.html",
+      "story_key": "b20e38c785a3",
+      "editions": [
+        "india"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "india",
+      "headline": "Soket AI raises $4 Mn from Bajaj Finserv and Pennant",
+      "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+      "quote": "Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv's applied research and innovation initiative Finserv Intelligence, and Pennant Technologies",
+      "claim": "Soket AI, maker of the IndiaAI-backed EKA-1 model, raised $4 Mn (around ₹37 Cr) from Bajaj Finserv's Finserv Intelligence and Pennant Technologies.",
+      "why_it_matters": "Funding for an Indian sovereign-model lab signals where model-building jobs and enterprise demand may grow.",
+      "published": "2026-11-18",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Inc42",
+      "significance": 3,
+      "secondary_urls": [
+        "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant"
+      ],
+      "follow_up_of": "3535e8e56dea",
+      "opportunity": null,
+      "id": "3bb219d57336",
+      "fetch_tier": "A",
+      "page_file": "pages/3bb219d57336.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
+      "is_followup": false,
+      "canonical_url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon",
+      "story_key": "5f2476ee8fb8",
+      "editions": [
+        "india"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-labs-policy",
+      "edition": "india",
+      "headline": "CtrlS targets 4.4 GW data centre capacity by 2030",
+      "url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+      "quote": "CtrlS Datacentres is targeting 4.4 GW of capacity by 2030, with investments spanning established technology hubs and smaller cities",
+      "claim": "CtrlS is targeting 4.4 GW of capacity by 2030 and recently announced a ₹10,000 crore, 150 MW AI factory in Bodh Gaya, Bihar, plus a ₹400 crore, 12 MW Patna data centre.",
+      "why_it_matters": "More domestic GPU and cloud capacity in tier-2 cities could lower compute costs for Indian builders.",
+      "published": "2026-11-16",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "AIM",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "6041acbe9a03",
+      "fetch_tier": "A",
+      "page_file": "pages/6041acbe9a03.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Inside CtrlS’s 4.4 GW Bet on India’s Data Centre Boom",
+      "is_followup": false,
+      "canonical_url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+      "story_key": "56a62abd842d",
+      "editions": [
+        "india"
+      ],
+      "score": 2.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "Humyn Labs raises $47M Series A led by Accel",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "quote": "The funding comprises $26 million in equity led by Accel",
+      "claim": "India's Humyn Labs raised $47 million in Series A financing: $26 million equity led by Accel plus $21 million venture debt led by Lighthouse Canton.",
+      "why_it_matters": "Indian teams are being funded to supply robotics training data to US labs, a niche a student builder could target.",
+      "published": "2026-11-18",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TechCrunch",
+      "significance": 4,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "55dde3921be9",
+      "fetch_tier": "A",
+      "page_file": "pages/55dde3921be9.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need | TechCrunch",
+      "is_followup": false,
+      "canonical_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
+      "story_key": "3906078b783a",
+      "editions": [
+        "india"
+      ],
+      "score": 4.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "August AI raises $12M from Accel and Peak XV",
+      "url": "https://indianstartupnews.com/funding/iit-bhu-alumnus-anuruddh-mishras-august-ai-raises-12-million-to-take-on-us-healthcare-paperwork-12828862",
+      "quote": "August AI has raised $12 million from Accel and Peak XV Partners",
+      "claim": "August AI raised $12 million from Accel and Peak XV Partners and launched an AI agent that phones doctors, pharmacies and insurers for US patients.",
+      "why_it_matters": "An IIT-BHU founder funded by top Indian VCs for a voice-agent product, a buildable pattern.",
+      "published": "2026-11-21",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "press",
+      "source_name": "Indian Startup News",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "bad57a24605e",
+      "fetch_tier": "A",
+      "page_file": "pages/bad57a24605e.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "IIT-BHU alumnus Anuruddh Mishra's August AI raises $12 million to take on US healthcare paperwork",
+      "is_followup": false,
+      "canonical_url": "https://indianstartupnews.com/funding/iit-bhu-alumnus-anuruddh-mishras-august-ai-raises-12-million-to-take-on-us-healthcare-paperwork-12828862",
+      "story_key": "e15b48616195",
+      "editions": [
+        "india"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "OpenAI brings free ChatGPT Plus for researchers to India",
+      "url": "https://digitalterminal.in/ai/openai-offers-free-chatgpt-plus-access-to-indian-researchers-under-global-initiative",
+      "quote": "New grants provide three ChatGPT Plus seats in a research workspace, free for 12 months, covering the recipient and up to two collaborators.",
+      "claim": "OpenAI's researcher programme extends to India; applications open Monday, November 30, with 50,000 new grants globally, each giving three ChatGPT Plus seats free for 12 months.",
+      "why_it_matters": "Only faculty and postdocs with a recent arXiv/bioRxiv/ChemRxiv paper qualify, so students should ask their guide.",
+      "published": "2026-11-18",
+      "published_evidence": "json-ld datePublished",
+      "source_type": "press",
+      "source_name": "Digital Terminal",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "597e87224043",
+      "fetch_tier": "A",
+      "page_file": "pages/597e87224043.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "OpenAI Offers Free ChatGPT Plus Access to Indian Researchers Under Global Initiative",
+      "is_followup": false,
+      "canonical_url": "https://digitalterminal.in/ai/openai-offers-free-chatgpt-plus-access-to-indian-researchers-under-global-initiative",
+      "story_key": "6f1b2a5fc7bc",
+      "editions": [
+        "india"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "Dreamteam raises $53M from Together Fund, Accel, Premji Invest",
+      "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/",
+      "quote": "Dreamteam raised $53 million from Together Fund, Accel and Premji Invest.",
+      "claim": "Dreamteam, an AI-first CRM founded in 2025 by former Freshworks leaders, raised $53 million from Together Fund, Accel and Premji Invest.",
+      "why_it_matters": "Shows investors backing agent-based enterprise software built by Indian founders within a year of founding.",
+      "published": "2026-11-17",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "StartupTalky",
+      "significance": 3,
+      "secondary_urls": [
+        "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "67088a0b4a71",
+      "fetch_tier": "A",
+      "page_file": "pages/67088a0b4a71.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Daily Indian Funding Roundup & Key News - 17 November 2026: Dreamteam Raises $53 Million, Urban Company Opens ₹2,500 Crore QIP",
+      "is_followup": false,
+      "canonical_url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026",
+      "story_key": "58cba667d4d9",
+      "editions": [
+        "india"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "india-money-adoption",
+      "edition": "india",
+      "headline": "Disseqt AI raises $8M led by Gresham House Ventures",
+      "url": "https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/",
+      "quote": "Disseqt AI raised $8 Mn in a funding round led by Gresham House Ventures",
+      "claim": "Disseqt AI, which builds AI agents for AI governance and testing, raised $8 Mn (about ₹75 Cr) led by Gresham House Ventures; cricketer Rahul Dravid participated as an angel.",
+      "why_it_matters": "AI governance and testing is drawing money; a niche with demand for engineers.",
+      "published": "2026-11-19",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Inc42",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "2773c380ad92",
+      "fetch_tier": "A",
+      "page_file": "pages/2773c380ad92.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Disseqt AI Raises $8 Mn To Scale International Operations",
+      "is_followup": false,
+      "canonical_url": "https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations",
+      "story_key": "6f215e986b2d",
+      "editions": [
+        "india"
+      ],
+      "score": 2.5,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "open-local",
+      "edition": "world",
+      "headline": "Thinking Machines releases Inkling 2 Mini, Apache-2.0 looped MoE for local use",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "quote": "The model is distributed as a single checkpoint of about 20GB, in mixed NVFP4 and MXFP8 precisions.",
+      "claim": "The Inkling 2 Mini card lists 26.4B parameters (3.4B active, 5.4B effective with three loop passes), a 1M-token context, a roughly 20GB checkpoint and an Apache-2.0 licence. It names Apple silicon with 32GB or more memory and DGX Spark as supported local hardware.",
+      "why_it_matters": "A multimodal open model with a 1M context and a stated 32GB-Mac target is something a student with a decent laptop can try.",
+      "published": "2026-11-19",
+      "published_evidence": "time datetime",
+      "source_type": "primary",
+      "source_name": "Hugging Face",
+      "significance": 4,
+      "secondary_urls": [
+        "https://ollama.com/library/inkling-2-mini"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "99ccc673a30f",
+      "fetch_tier": "A",
+      "page_file": "pages/99ccc673a30f.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "thinkingmachines/Inkling-2-Mini · Hugging Face",
+      "is_followup": false,
+      "canonical_url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "story_key": "c7cb4c740dbf",
+      "editions": [
+        "world"
+      ],
+      "score": 5.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "open-local",
+      "edition": "world",
+      "headline": "Unsloth publishes GGUF quantisations of Inkling 2 Mini",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "quote": "llama serve -hf unsloth/Inkling-2-Mini-GGUF:UD-Q4_K_M",
+      "claim": "Unsloth's GGUF repo for Inkling 2 Mini (Apache-2.0) shows how to run the UD-Q4_K_M quant with llama.cpp, Ollama and Docker Model Runner.",
+      "why_it_matters": "One command pulls a quantised build into llama.cpp or Ollama, so you can test the model without converting weights yourself.",
+      "published": "2026-11-20",
+      "published_evidence": "time datetime",
+      "source_type": "primary",
+      "source_name": "Unsloth (Hugging Face)",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "67c4c2c31439",
+      "fetch_tier": "A",
+      "page_file": "pages/67c4c2c31439.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "unsloth/Inkling-2-Mini-GGUF · Hugging Face",
+      "is_followup": false,
+      "canonical_url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "story_key": "7db0e26f2859",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "open-local",
+      "edition": "world",
+      "headline": "Tencent publishes Hy4-flash weights: 220B total, 12B active, 1M context",
+      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "quote": "featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token.",
+      "claim": "Tencent's Hy4-flash card describes a 220B-parameter model with 12B active per token, text and image input and up to 1M tokens of context. The licence shown is tencent-hy-license, not a standard open licence.",
+      "why_it_matters": "Weights are open to download but the custom licence needs reading before any project use; it is too large for laptops.",
+      "published": "2026-11-20",
+      "published_evidence": "time datetime",
+      "source_type": "primary",
+      "source_name": "Hugging Face",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "b4f1a99333cf",
+      "fetch_tier": "A",
+      "page_file": "pages/b4f1a99333cf.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "tencent/Hy4-flash · Hugging Face",
+      "is_followup": false,
+      "canonical_url": "https://huggingface.co/tencent/Hy4-flash",
+      "story_key": "294bfa059463",
+      "editions": [
+        "world"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "opportunities",
+      "edition": "india",
+      "headline": "CERN lists Summer Student Programme 2027 positions",
+      "url": "https://careers.cern/programmes/summer-studentship/",
+      "quote": "you are pursuing a Bachelor’s or Master’s degree (not a PhD) in Physics, Engineering, Computer Science or Mathematics",
+      "claim": "CERN's careers page lists Summer Student Programme 2027 and openlab 2027 two-month onsite contracts; applicants must have completed at least 6 semesters of full-time study by the start of summer.",
+      "why_it_matters": "A third-year CS student will have six semesters done by summer 2027, so this fits; the page shows no dated deadline, so check it soon.",
+      "published": null,
+      "published_evidence": null,
+      "source_type": "primary",
+      "source_name": "CERN",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": {
+        "title": "CERN Summer Student Programme 2027",
+        "org": "CERN",
+        "type": "programme",
+        "audience": "Bachelor/Master students in Physics, Engineering, CS or Maths with at least 6 semesters completed",
+        "deadline": "rolling",
+        "apply_url": "https://careers.cern/programmes/summer-studentship/",
+        "eligibility_quote": "have completed at least 6 semesters of full-time university studies in one of these fields.",
+        "note": "Deadline date not stated on the fetched page; listed as rolling until a dated deadline is confirmed.",
+        "eligibility_verified": true
+      },
+      "id": "ec0fdd5023f0",
+      "fetch_tier": "A",
+      "page_file": "pages/ec0fdd5023f0.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Summer Studentship – careers.cern",
+      "is_followup": false,
+      "canonical_url": "https://careers.cern/programmes/summer-studentship",
+      "story_key": "7f7ead58b5aa",
+      "editions": [
+        "india"
+      ],
+      "score": 4.0,
+      "used_in": [
+        "india"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Anthropic prices IPO at $83 a share, raising $81.3 billion",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "quote": "generating $81.3 billion in proceeds and surpassing SpaceX’s $75 billion record to become the largest IPO in history by proceeds raised",
+      "claim": "TechCrunch reports Anthropic priced its IPO at $83 per share, above the $70-$78 range, selling 980 million shares for $81.3 billion in proceeds, valued at roughly $1.5 trillion fully diluted.",
+      "why_it_matters": "The company behind Claude is now public, so its filings and earnings become a trackable signal for AI spending and hiring.",
+      "published": "2026-11-18",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TechCrunch",
+      "significance": 5,
+      "secondary_urls": [
+        "https://thenextweb.com/news/anthropic-ipo-prices-83-share-1-5-trillion-record-raise"
+      ],
+      "follow_up_of": "54111fd1d9b2",
+      "opportunity": null,
+      "id": "b7121aa76176",
+      "fetch_tier": "A",
+      "page_file": "pages/b7121aa76176.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Anthropic prices IPO at $83 a share, above projected range | TechCrunch",
+      "is_followup": false,
+      "canonical_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+      "story_key": "b052041c65a9",
+      "editions": [
+        "world"
+      ],
+      "score": 5.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Nvidia Q3 revenue hits $115.8 billion, up 103%, under interim CEO",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+      "quote": "Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.",
+      "claim": "Nvidia reported Q3 fiscal 2027 revenue of $115.8 billion, up 103% year on year, with Data Center revenue of $107.6 billion, on 17 Nov 2026; Colette Kress is interim CEO.",
+      "why_it_matters": "Demand for GPUs is still accelerating, so skills in CUDA and inference tuning stay valuable.",
+      "published": "2026-11-17",
+      "published_evidence": "text: Nov. 17, 2026 (GLOBE NEWSWIRE)",
+      "source_type": "primary",
+      "source_name": "Nvidia",
+      "significance": 4,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "9ed07376289e",
+      "fetch_tier": "A",
+      "page_file": "pages/9ed07376289e.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 NVIDIA",
+      "is_followup": false,
+      "canonical_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027",
+      "story_key": "0410ae7601e3",
+      "editions": [
+        "world"
+      ],
+      "score": 5.0,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Anthropic opens at $111.50 on Nasdaq, closes first day at $97.17",
+      "url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/",
+      "quote": "Anthropic shares began trading at $111.50, spiking more than 30 percent above the initial public offering price, before closing at $97.17",
+      "claim": "Anthropic began trading Thursday 19 Nov 2026 at $111.50 and closed at $97.17, more than 17 percent above the $83 IPO price.",
+      "why_it_matters": "Shows public-market appetite for AI labs despite bubble worries, which shapes how funded and hiring the AI sector stays.",
+      "published": "2026-11-19",
+      "published_evidence": "meta datepublished",
+      "source_type": "press",
+      "source_name": "Boston Globe",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": "54111fd1d9b2",
+      "opportunity": null,
+      "id": "e602d8dddb6e",
+      "fetch_tier": "A",
+      "page_file": "pages/e602d8dddb6e.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Anthropic begins trading in biggest IPO on recordemailPrint this ArticleView CommentsPrint this ArticleView Comments",
+      "is_followup": false,
+      "canonical_url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo",
+      "story_key": "6511c43ecb5b",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "people-money",
+      "edition": "world",
+      "headline": "Plural raises €1bn third fund for European defence, energy and AI start-ups",
+      "url": "https://thenextweb.com/news/plural-1bn-fund-european-frontier-startups",
+      "quote": "Plural, the London-based venture firm run by former founders, has raised €1bn ($1.1bn).",
+      "claim": "Plural raised €1bn ($1.1bn), two-thirds for a third early-stage fund and the rest for an opportunities fund; it will back start-ups in energy, AI infrastructure, defence and health.",
+      "why_it_matters": "A large new fund signals where European early-stage money is heading, useful if you plan to join or found a deep-tech start-up.",
+      "published": "2026-11-16",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "TNW",
+      "significance": 2,
+      "secondary_urls": [
+        "https://techcrunch.com/?p=3188830"
+      ],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "e89c9f0a9a8b",
+      "fetch_tier": "A",
+      "page_file": "pages/e89c9f0a9a8b.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Plural raises €1bn for European start-ups in defence, energy and AI",
+      "is_followup": false,
+      "canonical_url": "https://thenextweb.com/news/plural-1bn-fund-european-frontier-startups",
+      "story_key": "680fe8ead28b",
+      "editions": [
+        "world"
+      ],
+      "score": 2.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "research-policy-trythis",
+      "edition": "world",
+      "headline": "External sandbox pattern lets Claude Code, Codex and Pi run code in isolation",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "quote": "Each of these implementations offers the same localhost API. You can then configure Pi, Claude Code, or Codex to send API calls to that sandbox",
+      "claim": "Simon Willison and Prime Radiant released three sandbox server implementations (v86, Apple Containers, Quicksand) with one localhost API, plus an optional HTTP/HTTPS allow-list proxy and credential replacement.",
+      "why_it_matters": "You can run a coding agent against local models without risking your laptop, and learn the sandbox pattern with working code.",
+      "published": "2026-11-17",
+      "published_evidence": "text: Posted 17th November 2026 at 10:52 pm",
+      "source_type": "secondary",
+      "source_name": "Simon Willison",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "c60558e98558",
+      "fetch_tier": "A",
+      "page_file": "pages/c60558e98558.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "External sandboxes for coding agents",
+      "is_followup": false,
+      "canonical_url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents",
+      "story_key": "3243b32f1455",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "research-policy-trythis",
+      "edition": "world",
+      "headline": "UK AISI has no legal power to compel model access",
+      "url": "https://techpolicy.press/britains-ai-assurance-approach-needs-a-second-act",
+      "quote": "AISI has no legal power to compel companies to share models, relying on the goodwill of frontier labs",
+      "claim": "A Tech Policy Press commentary says the UK AI Security Institute relies on lab goodwill for pre-deployment access, and cites Politico reporting that the White House asked labs to withhold new models from AISI until US reviews finished; access was restored after 17 days.",
+      "why_it_matters": "Shows how fragile government model testing is, and that open tools like AISI's Inspect evaluation framework are where students can contribute.",
+      "published": "2026-11-17",
+      "published_evidence": "meta article:published_time",
+      "source_type": "press",
+      "source_name": "Tech Policy Press",
+      "significance": 3,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "6eb1052b510f",
+      "fetch_tier": "A",
+      "page_file": "pages/6eb1052b510f.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "Britain’s AI Assurance Approach Needs a Second Act | TechPolicy.Press",
+      "is_followup": false,
+      "canonical_url": "https://techpolicy.press/britains-ai-assurance-approach-needs-a-second-act",
+      "story_key": "0fc4298417ad",
+      "editions": [
+        "world"
+      ],
+      "score": 3.5,
+      "used_in": [
+        "world"
+      ]
+    },
+    {
+      "beat": "research-policy-trythis",
+      "edition": "world",
+      "headline": "US midterm results may drive state data center and AI rules",
+      "url": "https://www.faegredrinker.com/zh/insights/publications/2026/11/how-the-midterm-results-could-reshape-ai-and-data-center-regulations-and-more-developments",
+      "quote": "Newly elected governors and local ballot measures are likely to drive increased state and local regulation",
+      "claim": "A law-firm briefing dated November 16, 2026 says new governors and ballot measures are likely to bring more state and local regulation, lengthening data center timelines; it flags Texas as a state to watch.",
+      "why_it_matters": "US state rules shape where AI infrastructure gets built and which compliance rules products face.",
+      "published": "2026-11-16",
+      "published_evidence": "text: November 16, 2026",
+      "source_type": "secondary",
+      "source_name": "Faegre Drinker",
+      "significance": 2,
+      "secondary_urls": [],
+      "follow_up_of": null,
+      "opportunity": null,
+      "id": "c40f8b7e73b7",
+      "fetch_tier": "A",
+      "page_file": "pages/c40f8b7e73b7.txt",
+      "quote_verified": "script",
+      "verify_note": "",
+      "title": "How the Midterm Results Could Reshape AI and Data Center Regulations, and More Developments | Publications | Insights | Faegre Drinker Biddle & Reath LLP",
+      "is_followup": false,
+      "canonical_url": "https://www.faegredrinker.com/zh/insights/publications/2026/11/how-the-midterm-results-could-reshape-ai-and-data-center-regulations-and-more-developments",
+      "story_key": "33d3add7715b",
+      "editions": [
+        "world"
+      ],
+      "score": 2.5,
+      "used_in": [
+        "world"
+      ]
+    }
+  ]
+}
